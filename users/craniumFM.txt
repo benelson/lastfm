@@ -1,0 +1,51 @@
+AC/DC ||| 12611
+Ramones ||| 8532
+Metallica ||| 5892
+Queen ||| 4532
+Led Zeppelin ||| 3127
+Scorpions ||| 2402
+Nazareth ||| 1621
+Black Sabbath ||| 1557
+ДАЙ ДАРОГУ! ||| 1471
+The Rolling Stones ||| 1443
+Nirvana ||| 1440
+Boards of Canada ||| 1358
+The Who ||| 1337
+The Prodigy ||| 1223
+NOFX ||| 1214
+Bad Religion ||| 1205
+Motörhead ||| 1175
+ZZ Top ||| 1164
+Kick The Wife! ||| 1106
+Guns N' Roses ||| 1075
+Mötley Crüe ||| 1055
+Judas Priest ||| 1037
+David Bowie ||| 1025
+Rammstein ||| 1019
+Iron Maiden ||| 977
+Red Hot Chili Peppers ||| 960
+Гражданская оборона ||| 924
+Krokus ||| 855
+U.S. Bombs ||| 821
+The Doors ||| 780
+Rush ||| 752
+Radiohead ||| 746
+Pennywise ||| 666
+a-ha ||| 665
+Iggy Pop ||| 658
+The Moody Blues ||| 626
+Wolfmother ||| 621
+Deep Purple ||| 591
+Jean Michel Jarre ||| 573
+Sex Pistols ||| 568
+Bullet ||| 556
+Airbourne ||| 555
+Creedence Clearwater Revival ||| 551
+The Offspring ||| 549
+Moby ||| 543
+Uriah Heep ||| 520
+Foo Fighters ||| 516
+The Exploited ||| 493
+Aerosmith ||| 488
+Electric Light Orchestra ||| 480
+## playcount: 76655

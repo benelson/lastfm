@@ -1,0 +1,51 @@
+David Bowie ||| 3417
+The Beatles ||| 2268
+The Rolling Stones ||| 1657
+The Doors ||| 1489
+The Velvet Underground ||| 648
+John Lennon ||| 617
+Marianne Faithfull ||| 598
+Bob Dylan ||| 473
+The Jimi Hendrix Experience ||| 392
+Iggy Pop ||| 390
+Tom Waits ||| 355
+Nina Hagen ||| 347
+Buddy Holly ||| 336
+Grace Jones ||| 317
+Led Zeppelin ||| 312
+Pink Floyd ||| 310
+Paul McCartney ||| 300
+Janis Joplin ||| 270
+George Harrison ||| 240
+Nirvana ||| 240
+Elvis Presley ||| 238
+Talking Heads ||| 225
+Hole ||| 219
+Billie Holiday ||| 210
+Amy Winehouse ||| 208
+Queen ||| 207
+Sam Cooke ||| 201
+Ella Fitzgerald ||| 200
+M.I.A. ||| 194
+Siouxsie and the Banshees ||| 178
+The Beach Boys ||| 169
+Édith Piaf ||| 168
+Frank Zappa ||| 161
+Chuck Berry ||| 160
+Cream ||| 151
+Eddie Vedder ||| 150
+Ludwig van Beethoven ||| 144
+Screamin' Jay Hawkins ||| 140
+Simon & Garfunkel ||| 133
+The Kinks ||| 130
+The Stooges ||| 128
+Lou Reed ||| 127
+Patti Smith ||| 121
+Syd Barrett ||| 119
+Pearl Jam ||| 117
+Nina Simone ||| 112
+The Who ||| 112
+John Lennon & Yoko Ono ||| 109
+Donovan ||| 105
+ABBA ||| 101
+## playcount: 19713

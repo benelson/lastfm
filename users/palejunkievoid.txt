@@ -1,0 +1,51 @@
+Cat Power ||| 3105
+Bob Dylan ||| 2725
+Wilco ||| 2563
+The Velvet Underground ||| 1332
+Pavement ||| 826
+The Jesus and Mary Chain ||| 756
+Neil Young ||| 703
+Aimee Mann ||| 702
+The Rolling Stones ||| 579
+The Beatles ||| 571
+David Bowie ||| 503
+The Black Keys ||| 499
+Belle and Sebastian ||| 497
+Fiona Apple ||| 395
+Sharon Van Etten ||| 380
+Arcade Fire ||| 376
+Sonic Youth ||| 339
+Nina Simone ||| 333
+Daniel Johnston ||| 321
+Death Cab for Cutie ||| 319
+Leonard Cohen ||| 307
+Black Rebel Motorcycle Club ||| 302
+Rilo Kiley ||| 298
+The Smiths ||| 258
+Radiohead ||| 257
+Alabama Shakes ||| 252
+She & Him ||| 243
+The Beach Boys ||| 242
+Yeah Yeah Yeahs ||| 237
+Beulah ||| 236
+Otis Redding ||| 226
+Elliott Smith ||| 218
+Bright Eyes ||| 217
+Eddie Vedder ||| 215
+Teenage Fanclub ||| 206
+Chris Garneau ||| 201
+Beck ||| 186
+The Kinks ||| 186
+Miles Davis ||| 184
+Dinosaur Jr. ||| 183
+Nirvana ||| 175
+Él mató a un policía motorizado ||| 169
+Ryan Adams ||| 164
+Feist ||| 155
+Billie Holiday ||| 152
+The American Analog Set ||| 148
+Oasis ||| 136
+Charlie Parker ||| 129
+Franny Glass ||| 127
+Houndmouth ||| 126
+## playcount: 23959

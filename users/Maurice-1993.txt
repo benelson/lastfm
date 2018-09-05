@@ -1,0 +1,51 @@
+AC/DC ||| 366
+Creedence Clearwater Revival ||| 203
+Oasis ||| 179
+The Beatles ||| 173
+Red Hot Chili Peppers ||| 167
+Train ||| 114
+Foo Fighters ||| 104
+Eagles ||| 102
+K'naan ||| 96
+Dire Straits ||| 92
+The Killers ||| 92
+Gorillaz ||| 78
+Men at Work ||| 73
+The Police ||| 59
+Phil Collins ||| 38
+John Mayer ||| 35
+Eminem ||| 34
+Guns N' Roses ||| 33
+Deep Purple ||| 28
+Cuby & The Blizzards ||| 25
+MGMT ||| 25
+Jason Derülo ||| 24
+Santana ||| 18
+Toto ||| 18
+Blur ||| 17
+U2 ||| 17
+Enrique Iglesias ||| 15
+Owl City ||| 15
+Adam Levine ||| 14
+Queen ||| 14
+Ringo Starr ||| 14
+Michael Jackson ||| 13
+Bruce Springsteen ||| 12
+Coldplay ||| 10
+Golden Earring ||| 9
+Pendulum ||| 7
+Elvis Presley ||| 6
+Scouting for Girls ||| 6
+Van Halen ||| 6
+Chubb Rock ||| 5
+Kirk Hammett ||| 5
+Led Zeppelin ||| 5
+The White Stripes ||| 5
+Colin Hay ||| 4
+Aerosmith ||| 3
+Keane ||| 3
+Muse ||| 3
+Bob Marley ||| 2
+Damian Marley ||| 2
+Go Back to the Zoo ||| 2
+## playcount: 2390

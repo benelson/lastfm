@@ -1,0 +1,51 @@
+Blur ||| 4363
+The Smiths ||| 1800
+Oasis ||| 1316
+PJ Harvey ||| 1081
+Kendrick Lamar ||| 1037
+Pavement ||| 949
+Drake ||| 868
+The Stone Roses ||| 850
+The National ||| 814
+David Bowie ||| 748
+A$AP Rocky ||| 728
+Elliott Smith ||| 709
+The Strokes ||| 658
+The Coral ||| 653
+Radiohead ||| 569
+The Good, the Bad & the Queen ||| 485
+The Last Shadow Puppets ||| 483
+Leonard Cohen ||| 447
+Pulp ||| 424
+Wu-Tang Clan ||| 409
+Alex Turner ||| 380
+The La's ||| 376
+Matt Elliott ||| 338
+The Velvet Underground ||| 334
+Graham Coxon ||| 332
+Noah and the Whale ||| 331
+Chris Brown ||| 321
+Jacuzzi Boys ||| 318
+Arctic Monkeys ||| 315
+Oxmo Puccino ||| 300
+Gorillaz ||| 296
+Spiritualized ||| 292
+N*E*R*D ||| 281
+Booba ||| 273
+Tame Impala ||| 271
+The Kinks ||| 268
+Mos Def ||| 262
+Kanye West ||| 245
+Little Joy ||| 236
+Sufjan Stevens ||| 236
+Cheikh El Hasnaoui ||| 230
+Tech N9ne ||| 223
+The Libertines ||| 220
+The Streets ||| 212
+Art Brut ||| 210
+Ghostpoet ||| 206
+Belle and Sebastian ||| 202
+Kid Cudi ||| 199
+Massive Attack ||| 197
+Bob Dylan ||| 192
+## playcount: 27487

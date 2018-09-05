@@ -1,0 +1,51 @@
+Iron Maiden ||| 1913
+Metallica ||| 1592
+Guns N' Roses ||| 1216
+AC/DC ||| 906
+Led Zeppelin ||| 867
+Black Sabbath ||| 848
+Alice in Chains ||| 820
+Scorpions ||| 645
+Motörhead ||| 557
+Bon Jovi ||| 531
+Hunter ||| 528
+Misfits ||| 501
+TSA ||| 482
+The Doors ||| 426
+Rage Against the Machine ||| 420
+Rammstein ||| 406
+Queen ||| 397
+Ozzy Osbourne ||| 389
+Jimi Hendrix ||| 345
+Kiss ||| 330
+Pink Floyd ||| 319
+Judas Priest ||| 300
+System of a Down ||| 298
+Sabaton ||| 291
+Turbo ||| 288
+Nirvana ||| 271
+Rush ||| 263
+W.A.S.P. ||| 262
+Jay-Z ||| 253
+The Rolling Stones ||| 246
+Lao Che ||| 216
+Helloween ||| 212
+Depeche Mode ||| 208
+Accept ||| 186
+Pantera ||| 173
+Anthrax ||| 166
+Def Leppard ||| 156
+Europe ||| 155
+Deep Purple ||| 153
+Megadeth ||| 144
+Tenacious D ||| 136
+Joe Satriani ||| 134
+Bisz ||| 124
+Dezerter ||| 124
+Rise Against ||| 120
+Cypress Hill ||| 113
+Foo Fighters ||| 112
+Daft Punk ||| 109
+Bong-Ra ||| 108
+The Prodigy ||| 107
+## playcount: 19866

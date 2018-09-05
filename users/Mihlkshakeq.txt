@@ -1,0 +1,51 @@
+Guns N' Roses ||| 13344
+Engenheiros Do Hawaii ||| 11980
+Pink Floyd ||| 9767
+Led Zeppelin ||| 9160
+Skid Row ||| 5891
+Mötley Crüe ||| 5823
+The Beatles ||| 5032
+Nirvana ||| 4975
+Megadeth ||| 4857
+Green Day ||| 3743
+Lenine ||| 3487
+Black Sabbath ||| 3459
+Aerosmith ||| 3239
+Deep Purple ||| 2992
+Ramones ||| 2734
+The Kinks ||| 2543
+AC/DC ||| 2471
+Poison ||| 2258
+Cinderella ||| 2134
+The Doors ||| 2019
+Kiss ||| 2017
+Sebastian Bach ||| 1602
+Rainbow ||| 1403
+Rush ||| 1311
+Sex Pistols ||| 1251
+Metallica ||| 1142
+My Chemical Romance ||| 1102
+Izzy Stradlin ||| 940
+Europe ||| 895
+Whitesnake ||| 783
+Jethro Tull ||| 762
+Def Leppard ||| 721
+Uriah Heep ||| 699
+Iron Maiden ||| 689
+Dio ||| 676
+Page & Plant ||| 650
+Crashdïet ||| 595
+King Crimson ||| 572
+Ozzy Osbourne ||| 566
+Wolfmother ||| 470
+Supertramp ||| 457
+Thin Lizzy ||| 455
+Sixx:A.M. ||| 430
+Velvet Revolver ||| 429
+Panic! at the Disco ||| 417
+Tokio Hotel ||| 404
+David Bowie ||| 401
+blink-182 ||| 379
+UFO ||| 350
+Foo Fighters ||| 333
+## playcount: 124809

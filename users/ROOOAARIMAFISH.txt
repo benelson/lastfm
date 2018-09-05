@@ -1,0 +1,51 @@
+Death ||| 255
+Nile ||| 181
+Slayer ||| 146
+Dissection ||| 109
+Emperor ||| 109
+Exodus ||| 94
+Iron Maiden ||| 92
+Dead Kennedys ||| 86
+Marduk ||| 86
+Sonata Arctica ||| 86
+Black Sabbath ||| 84
+Pantera ||| 75
+Darkthrone ||| 74
+Metallica ||| 73
+Led Zeppelin ||| 72
+In Flames ||| 67
+Kreator ||| 60
+Anaal Nathrakh ||| 58
+Sepultura ||| 57
+Symphony X ||| 57
+Nuclear Assault ||| 51
+Be'lakor ||| 50
+Bathory ||| 42
+Judas Priest ||| 39
+Pearl Jam ||| 36
+Amon Amarth ||| 32
+Public Enemy ||| 28
+W.A.S.P. ||| 27
+Electric Wizard ||| 26
+At the Gates ||| 25
+Burzum ||| 25
+Evile ||| 25
+Opeth ||| 25
+Satyricon ||| 25
+Alice in Chains ||| 24
+Cryptopsy ||| 24
+Krisiun ||| 24
+Municipal Waste ||| 22
+Vektor ||| 22
+Soundgarden ||| 21
+Triptykon ||| 21
+Dream Theater ||| 20
+Nirvana ||| 20
+Sodom ||| 20
+Claustrofobia ||| 19
+Cypress Hill ||| 19
+N.W.A ||| 19
+Death Angel ||| 18
+Immortal ||| 18
+Thy Light ||| 18
+## playcount: 2706

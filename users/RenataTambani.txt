@@ -1,0 +1,51 @@
+The Beatles ||| 2432
+Oasis ||| 1736
+Pearl Jam ||| 1224
+Los Hermanos ||| 943
+Paul McCartney ||| 770
+The Rolling Stones ||| 725
+Aerosmith ||| 689
+Beady Eye ||| 534
+Coldplay ||| 300
+Skank ||| 278
+AC/DC ||| 225
+Iron & Wine ||| 219
+Eddie Vedder ||| 186
+The Tallest Man on Earth ||| 155
+Pink Floyd ||| 150
+Foo Fighters ||| 140
+Marcelo Camelo ||| 133
+SOJA ||| 127
+Guns N' Roses ||| 122
+Chico Buarque ||| 116
+Red Hot Chili Peppers ||| 112
+Rooney ||| 102
+Paul McCartney & Wings ||| 100
+The Who ||| 94
+Marisa Monte ||| 88
+Móveis Coloniais de Acaju ||| 81
+Bon Jovi ||| 73
+Mallu Magalhães ||| 73
+Raimundos ||| 66
+The Byrds ||| 65
+Led Zeppelin ||| 64
+George Harrison ||| 63
+The Jimi Hendrix Experience ||| 55
+Bob Dylan ||| 54
+Os Mutantes ||| 53
+Fiddler's Green ||| 50
+Devendra Banhart ||| 48
+Mumford & Sons ||| 47
+Ben Harper ||| 46
+Legião Urbana ||| 41
+O Teatro Mágico ||| 41
+Little Joy ||| 38
+Kiss ||| 37
+Lynyrd Skynyrd ||| 35
+Adoniran Barbosa ||| 33
+Nando Reis ||| 32
+The Killers ||| 31
+Raul Seixas ||| 30
+Seu Jorge ||| 30
+Vivendo do Ócio ||| 30
+## playcount: 12916

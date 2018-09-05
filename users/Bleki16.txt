@@ -1,0 +1,51 @@
+AFI ||| 2513
+30 Seconds to Mars ||| 2049
+Beyoncé ||| 1773
+Incubus ||| 1442
+Linkin Park ||| 1029
+The Kooks ||| 1005
+Coldplay ||| 1002
+Franz Ferdinand ||| 736
+Red Hot Chili Peppers ||| 588
+The Neighbourhood ||| 583
+David Guetta ||| 574
+Arctic Monkeys ||| 565
+John Legend ||| 515
+Bob Sinclar ||| 502
+Pearl Jam ||| 501
+Mika ||| 456
+Kings of Leon ||| 435
+The Black Keys ||| 421
+Stone Temple Pilots ||| 406
+Marilyn Manson ||| 396
+The Weeknd ||| 354
+SBTRKT ||| 331
+Guns N' Roses ||| 324
+The xx ||| 299
+Muse ||| 290
+Bisz ||| 256
+Rudimental ||| 255
+Banks ||| 250
+happysad ||| 242
+Snoop Lion ||| 238
+Miike Snow ||| 225
+Nelly Furtado ||| 214
+Adele ||| 205
+Avicii ||| 194
+Dżem ||| 194
+Papa Roach ||| 194
+Gnarls Barkley ||| 193
+Three Days Grace ||| 193
+Simple Plan ||| 191
+Hyde ||| 187
+Metallica ||| 187
+A$AP Rocky ||| 183
+Black Eyed Peas ||| 181
+The Veronicas ||| 180
+Jay-Z ||| 170
+Placebo ||| 167
+Kaiser Chiefs ||| 166
+Mela Koteluk ||| 164
+Snow Patrol ||| 161
+Gorillaz ||| 158
+## playcount: 24037

@@ -1,0 +1,51 @@
+Foo Fighters ||| 5818
+Biffy Clyro ||| 1567
+Steven Wilson ||| 1386
+Porcupine Tree ||| 1369
+Opeth ||| 1183
+Alter Bridge ||| 1135
+Die Ärzte ||| 1108
+Linkin Park ||| 1051
+Tool ||| 861
+A Perfect Circle ||| 825
+Farin Urlaub ||| 759
+Alice in Chains ||| 709
+Farin Urlaub Racing Team ||| 703
+Stone Sour ||| 679
+Riverside ||| 616
+The Offspring ||| 529
+Nightwish ||| 476
+Nirvana ||| 470
+Breaking Benjamin ||| 450
+Killswitch Engage ||| 440
+Tremonti ||| 346
+Fair to Midland ||| 324
+Seether ||| 319
+Blackfield ||| 299
+Stone Temple Pilots ||| 281
+Puscifer ||| 269
+Jethro Tull ||| 266
+A Day to Remember ||| 265
+Spock's Beard ||| 263
+Queens of the Stone Age ||| 245
+Beatsteaks ||| 244
+Hans Zimmer ||| 239
+The Pineapple Thief ||| 228
+Karnivool ||| 217
+Metallica ||| 216
+Stone Omega ||| 216
+Evanescence ||| 215
+Green Day ||| 213
+Coldplay ||| 183
+Katatonia ||| 182
+Ayreon ||| 171
+Dream Theater ||| 170
+Alison Krauss & Union Station ||| 165
+Seeed ||| 161
+Audioslave ||| 151
+Die Toten Hosen ||| 149
+Soundgarden ||| 142
+Guano Apes ||| 140
+R.E.M. ||| 138
+Taylor Hawkins & The Coattail Riders ||| 136
+## playcount: 28687

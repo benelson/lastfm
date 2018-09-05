@@ -1,0 +1,28 @@
+Black Rebel Motorcycle Club ||| 37
+The Rolling Stones ||| 24
+U2 ||| 24
+Móveis Coloniais de Acaju ||| 23
+Bruno Mars ||| 21
+Nirvana ||| 18
+Phoenix ||| 9
+Grand Funk Railroad ||| 7
+Engenheiros Do Hawaii ||| 5
+AC/DC ||| 4
+System of a Down ||| 4
+The Doors ||| 4
+Black Sabbath ||| 3
+Pearl Jam ||| 3
+Iron Maiden ||| 2
+Megadeth ||| 2
+The Jimi Hendrix Experience ||| 2
+Forbidden ||| 1
+Goo Goo Dolls ||| 1
+Incubus ||| 1
+Jimi Hendrix ||| 1
+Kreator ||| 1
+Metallica ||| 1
+Nuclear Assault ||| 1
+Sodom ||| 1
+Testament ||| 1
+The Killers ||| 1
+## playcount: 202

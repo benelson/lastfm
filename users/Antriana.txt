@@ -1,0 +1,51 @@
+Lzn02 ||| 12
+Eloy ||| 11
+Archive ||| 7
+Anathema ||| 6
+3 Doors Down ||| 5
+Audioslave ||| 5
+Creed ||| 5
+Moonspell ||| 5
+Paradise Lost ||| 5
+Tiamat ||| 5
+Clan of Xymox ||| 4
+Foo Fighters ||| 4
+Fuel ||| 4
+Nickelback ||| 4
+Papa Roach ||| 4
+Puddle of Mudd ||| 4
+Rotting Christ ||| 4
+Seether ||| 4
+The Gathering ||| 4
+Theatre of Tragedy ||| 4
+Three Days Grace ||| 4
+Tristania ||| 4
+Blackmore's Night ||| 3
+Caspian ||| 3
+Cradle of Filth ||| 3
+Crossfade ||| 3
+Daemonia Nymphe ||| 3
+Default ||| 3
+Draconian ||| 3
+Fields of the Nephilim ||| 3
+Godsmack ||| 3
+Karen Matheson ||| 3
+L'Âme Immortelle ||| 3
+Lacrimosa ||| 3
+Lacuna Coil ||| 3
+Mono ||| 3
+Moya Brennan ||| 3
+Máire Brennan ||| 3
+Nirvana ||| 3
+Pearl Jam ||| 3
+Saliva ||| 3
+Sentenced ||| 3
+Smile Empty Soul ||| 3
+Staind ||| 3
+Vas ||| 3
+Yndi Halda ||| 3
+Adele ||| 2
+Alice in Chains ||| 2
+Amon Amarth ||| 2
+Amy Winehouse ||| 2
+## playcount: 194

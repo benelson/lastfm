@@ -1,0 +1,51 @@
+Heartscore ||| 1538
+The Shadows ||| 897
+The Beach Boys ||| 653
+Glenn Gould ||| 580
+Ludwig van Beethoven ||| 422
+The Who ||| 374
+Frédéric Chopin ||| 294
+Queen ||| 262
+Johann Sebastian Bach ||| 260
+Whitney Houston ||| 213
+Michael Jackson ||| 198
+The Beatles ||| 160
+Steely Dan ||| 141
+Strawinsky, Igor ||| 134
+ABBA ||| 128
+Franz Schubert ||| 123
+Mendes, Sergio ||| 122
+Guns N' Roses ||| 112
+Dionne Warwick ||| 99
+Howlin' Wolf ||| 92
+The Velvet Underground ||| 87
+Wolfgang Amadeus Mozart ||| 81
+Anton Bruckner ||| 80
+Johannes Brahms ||| 80
+Spastic Ink ||| 78
+Yes ||| 76
+Dead Kennedys ||| 74
+Led Zeppelin ||| 70
+Elvis Presley ||| 67
+Aziza Mustafa Zadeh ||| 61
+Behold... the Arctopus ||| 60
+Judy Garland ||| 59
+Dick Dale ||| 57
+Emerson, Lake & Palmer ||| 55
+King Crimson ||| 51
+AC/DC ||| 50
+Georges Bizet ||| 49
+Take 6 ||| 49
+Olivier Messiaen ||| 46
+Claude Debussy ||| 43
+Radio.String.Quartet ||| 43
+hr-Bigband feat. Billy Cobham, directed by Colin Towns ||| 38
+David Oistrakh, Mstislav Rostropovich; George Szell: Cleveland Orchestra ||| 37
+Carl Orff ||| 36
+Grace Jones ||| 36
+Joy Division ||| 36
+Earth, Wind & Fire ||| 35
+Gerhard Oppitz, Dmitry Sitkovetzky, David Geringas ||| 35
+David Oistrakh, Mstislav Rostropovich, Sviatoslav Richter; Herbert Von Karajan: Berlin Philharmonic Orchestra ||| 34
+Joni Mitchell ||| 34
+## playcount: 8439

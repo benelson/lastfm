@@ -1,0 +1,51 @@
+The Fall ||| 4326
+Blur ||| 1209
+David Bowie ||| 1004
+Brian Eno ||| 961
+The Beach Boys ||| 892
+Pavement ||| 842
+The Beatles ||| 677
+The Kinks ||| 624
+Ariel Pink ||| 615
+The Velvet Underground ||| 586
+Yo La Tengo ||| 545
+Kanye West ||| 527
+Sufjan Stevens ||| 525
+Parquet Courts ||| 524
+Wilco ||| 522
+Talk Talk ||| 464
+Mac DeMarco ||| 449
+Serge Gainsbourg ||| 445
+Harry Nilsson ||| 434
+Talking Heads ||| 428
+Kraftwerk ||| 405
+Bob Dylan ||| 383
+Radiohead ||| 359
+Miles Davis ||| 351
+Wire ||| 344
+LCD Soundsystem ||| 332
+dEUS ||| 330
+Kendrick Lamar ||| 329
+Tame Impala ||| 319
+Pet Shop Boys ||| 299
+Lou Reed ||| 291
+The Smiths ||| 291
+Beck ||| 289
+Atlas Sound ||| 261
+Happy Mondays ||| 244
+John Cale ||| 243
+Beastie Boys ||| 235
+Can ||| 234
+Neu! ||| 227
+Elliott Smith ||| 221
+R.E.M. ||| 221
+Ariel Pink's Haunted Graffiti ||| 217
+Arcade Fire ||| 208
+Captain Beefheart & His Magic Band ||| 207
+Paul Simon ||| 198
+Damon Albarn ||| 197
+New Order ||| 196
+Panda Bear ||| 196
+Gorillaz ||| 195
+Simon & Garfunkel ||| 192
+## playcount: 24613

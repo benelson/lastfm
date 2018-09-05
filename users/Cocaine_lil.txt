@@ -1,0 +1,51 @@
+The Beatles ||| 8133
+Pulp ||| 5891
+The Smiths ||| 3102
+Morrissey ||| 2472
+The Magnetic Fields ||| 1918
+The Jam ||| 1704
+The Cure ||| 1106
+Green Day ||| 1050
+Jake Bugg ||| 989
+Oasis ||| 940
+Placebo ||| 910
+Joy Division ||| 906
+The Rolling Stones ||| 857
+blink-182 ||| 844
+My Chemical Romance ||| 669
+Pink Floyd ||| 651
+Daniel Johnston ||| 642
+Coldplay ||| 550
+The Who ||| 550
+George Harrison ||| 546
+Muse ||| 525
+The Killers ||| 521
+Chet Baker ||| 514
+Elvis Presley ||| 481
+Bob Dylan ||| 473
+Manic Street Preachers ||| 470
+The Strokes ||| 464
+Queen ||| 457
+Nirvana ||| 426
+Kevin Johansen ||| 410
+Serge Gainsbourg ||| 398
+Travis ||| 384
+Blur ||| 379
+Led Zeppelin ||| 342
+Good Charlotte ||| 340
+Eric Clapton ||| 337
+Volbeat ||| 335
+Foo Fighters ||| 321
+Simple Plan ||| 310
+Weezer ||| 300
+Low ||| 298
+Radiohead ||| 296
+The Smashing Pumpkins ||| 294
+Simon & Garfunkel ||| 281
+Sean Lennon ||| 265
+New Order ||| 257
+Three Days Grace ||| 247
+R.E.M. ||| 241
+The Doors ||| 232
+David Bowie ||| 221
+## playcount: 45249

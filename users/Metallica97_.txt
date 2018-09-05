@@ -1,0 +1,51 @@
+Metallica ||| 2276
+Iron Maiden ||| 1058
+Megadeth ||| 973
+Alice in Chains ||| 847
+Nirvana ||| 706
+Exodus ||| 462
+Lana Del Rey ||| 378
+Sting ||| 261
+Guns N' Roses ||| 252
+Slayer ||| 250
+Led Zeppelin ||| 206
+Lorde ||| 200
+Bruce Springsteen ||| 190
+Pink Floyd ||| 165
+Black Sabbath ||| 164
+Enya ||| 164
+The Police ||| 164
+Bon Jovi ||| 163
+Judas Priest ||| 140
+Howard Shore ||| 137
+Ozzy Osbourne ||| 132
+Dire Straits ||| 125
+John Williams ||| 123
+Madonna ||| 114
+AC/DC ||| 111
+Nickelback ||| 111
+Queen ||| 110
+Three Days Grace ||| 108
+Muse ||| 104
+Red Hot Chili Peppers ||| 100
+Dio ||| 77
+The Clash ||| 75
+Hurts ||| 69
+Maroon 5 ||| 68
+Cher ||| 67
+Pearl Jam ||| 66
+Natasha Bedingfield ||| 65
+Bonnie Tyler ||| 63
+System of a Down ||| 61
+Bryan Adams ||| 57
+Caro Emerald ||| 57
+Genesis ||| 56
+Eminem ||| 55
+The Connells ||| 52
+Mr. Big ||| 51
+Lenny Kravitz ||| 50
+Lykke Li ||| 50
+Dope ||| 49
+Ramin Djawadi ||| 48
+Sepultura ||| 48
+## playcount: 11478

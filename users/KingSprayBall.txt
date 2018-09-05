@@ -1,0 +1,51 @@
+Christy Moore ||| 827
+AC/DC ||| 520
+Luke Kelly ||| 463
+Creedence Clearwater Revival ||| 459
+Rory Gallagher ||| 451
+Thin Lizzy ||| 438
+Neil Young ||| 357
+The Beatles ||| 349
+Lynyrd Skynyrd ||| 347
+The Black Keys ||| 340
+Guns N' Roses ||| 264
+Bob Dylan ||| 252
+ZZ Top ||| 240
+Deep Purple ||| 231
+Bruce Springsteen ||| 217
+The Rolling Stones ||| 205
+Pink Floyd ||| 203
+Black Sabbath ||| 187
+Led Zeppelin ||| 185
+The Tallest Man on Earth ||| 181
+Van Morrison ||| 179
+Airbourne ||| 178
+The Jimi Hendrix Experience ||| 177
+Foo Fighters ||| 174
+The Pogues ||| 173
+Ramones ||| 165
+Aerosmith ||| 164
+Bob Marley ||| 155
+Dire Straits ||| 153
+The Doors ||| 144
+Audioslave ||| 141
+The Zutons ||| 140
+The Dubliners ||| 139
+Rainbow ||| 137
+The Animals ||| 136
+Kings of Leon ||| 132
+David Bowie ||| 124
+The White Stripes ||| 120
+Scorpions ||| 110
+Eric Clapton ||| 100
+Red Hot Chili Peppers ||| 97
+Fleetwood Mac ||| 95
+The Saw Doctors ||| 90
+Fleet Foxes ||| 89
+Kanye West ||| 88
+The Band ||| 86
+Buffalo Springfield ||| 84
+David Guetta ||| 82
+Biffy Clyro ||| 77
+Jimi Hendrix ||| 76
+## playcount: 10521

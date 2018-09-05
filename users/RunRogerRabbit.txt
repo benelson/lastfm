@@ -1,0 +1,51 @@
+Britney Spears ||| 567
+M.I.A. ||| 512
+Christina Aguilera ||| 389
+Sarah McLachlan ||| 348
+Lady Gaga ||| 220
+Rihanna ||| 202
+Michelle Branch ||| 175
+Robyn ||| 155
+Alanis Morissette ||| 143
+Miley Cyrus ||| 114
+Kathy Griffin ||| 93
+Margaret Cho ||| 72
+Kelly Clarkson ||| 52
+Dr. Horrible Cast ||| 47
+Ke$ha ||| 47
+Taylor Swift ||| 46
+Selena Gomez & the Scene ||| 41
+Fiona Apple ||| 40
+Simon Curtis ||| 39
+Katy Perry ||| 35
+Tori Amos ||| 29
+P!nk ||| 26
+Florence + the Machine ||| 23
+Beyoncé ||| 22
+Shakira ||| 20
+Anna Nalick ||| 18
+Corinne Bailey Rae ||| 18
+Spice Girls ||| 16
+Lindsay Lohan ||| 15
+Madonna ||| 15
+Aaliyah ||| 13
+Fergie ||| 13
+Butterfly Boucher ||| 11
+Destiny's Child ||| 11
+Nicki Minaj ||| 10
+Buffy the Vampire Slayer ||| 9
+Pink ||| 8
+TLC ||| 8
+*NSYNC ||| 7
+Amy Winehouse ||| 7
+Lily Allen ||| 7
+Hilary Duff ||| 6
+Björk ||| 5
+Erykah Badu ||| 5
+Evanescence ||| 4
+Michael Bublé ||| 4
+Nicole Richie ||| 4
+Gwen Stefani ||| 3
+Nick Lachey ||| 3
+Willow Smith ||| 3
+## playcount: 3680

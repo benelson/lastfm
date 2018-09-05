@@ -1,0 +1,51 @@
+The Beatles ||| 1273
+Deep Purple ||| 1233
+Pink Floyd ||| 928
+Coldplay ||| 898
+Queen ||| 741
+Radiohead ||| 734
+U2 ||| 690
+Dire Straits ||| 669
+Michael Jackson ||| 647
+Bob Dylan ||| 627
+ABBA ||| 620
+Red Hot Chili Peppers ||| 608
+Scorpions ||| 556
+Guns N' Roses ||| 551
+The Rolling Stones ||| 546
+David Bowie ||| 505
+Led Zeppelin ||| 484
+Adele ||| 464
+Aerosmith ||| 429
+Eagles ||| 406
+Nirvana ||| 376
+Muse ||| 371
+John Lennon ||| 340
+Rihanna ||| 339
+Depeche Mode ||| 337
+Santana ||| 337
+Electric Light Orchestra ||| 336
+Madonna ||| 331
+Bruce Springsteen ||| 330
+Arctic Monkeys ||| 318
+Stevie Wonder ||| 301
+Elton John ||| 294
+J.J. Cale ||| 285
+The Police ||| 282
+Blondie ||| 280
+Glee Cast ||| 277
+Black Eyed Peas ||| 265
+Rod Stewart ||| 259
+George Michael ||| 258
+Blur ||| 255
+R.E.M. ||| 253
+Duran Duran ||| 247
+Joe Cocker ||| 246
+Mariah Carey ||| 242
+Bon Jovi ||| 240
+David Guetta ||| 236
+The Alan Parsons Project ||| 235
+The Cure ||| 235
+Genesis ||| 229
+Robbie Williams ||| 227
+## playcount: 22170

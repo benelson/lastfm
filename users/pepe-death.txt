@@ -1,0 +1,51 @@
+The Beatles ||| 3722
+Pearl Jam ||| 3305
+Red Hot Chili Peppers ||| 1667
+Metallica ||| 1498
+Black Lips ||| 1243
+Iron Maiden ||| 1140
+Molotov ||| 989
+Black Sabbath ||| 936
+The Rolling Stones ||| 856
+AC/DC ||| 830
+Queens of the Stone Age ||| 824
+Rage Against the Machine ||| 791
+Nirvana ||| 738
+Pink Floyd ||| 734
+The Clash ||| 721
+The Doors ||| 695
+Pantera ||| 674
+Mötley Crüe ||| 647
+Audioslave ||| 639
+Slayer ||| 638
+Led Zeppelin ||| 633
+Kings of Leon ||| 586
+Bob Marley ||| 579
+Tool ||| 565
+Guns N' Roses ||| 558
+Motörhead ||| 556
+Megadeth ||| 551
+Transplants ||| 544
+Radiohead ||| 534
+Dead Kennedys ||| 515
+Opeth ||| 491
+Kiss ||| 468
+Liquits ||| 441
+Beastie Boys ||| 438
+D.R.I. ||| 430
+The Whitest Boy Alive ||| 421
+The Stooges ||| 418
+Kreator ||| 410
+The Velvet Underground ||| 389
+Dream Theater ||| 387
+David Bowie ||| 386
+Foals ||| 380
+Kinky ||| 380
+Screaming Headless Torsos ||| 380
+Porcupine Tree ||| 368
+Testament ||| 360
+Incubus ||| 352
+MGMT ||| 348
+Stone Temple Pilots ||| 347
+Tame Impala ||| 344
+## playcount: 36846

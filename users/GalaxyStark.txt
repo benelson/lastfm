@@ -1,0 +1,51 @@
+Selena Gomez ||| 5651
+Britney Spears ||| 5292
+Taylor Swift ||| 4862
+Jennifer Lopez ||| 3578
+Avril Lavigne ||| 3531
+Madonna ||| 3106
+Jake Bugg ||| 2682
+Rihanna ||| 2508
+Lady Gaga ||| 2436
+Glee Cast ||| 2247
+Justin Bieber ||| 2195
+Marina & the Diamonds ||| 2189
+Charli XCX ||| 2078
+Little Mix ||| 1611
+Miley Cyrus ||| 1575
+Green Day ||| 1569
+Carly Rae Jepsen ||| 1490
+Frank Ocean ||| 1412
+Paramore ||| 1377
+Beyoncé ||| 1366
+Red Velvet ||| 1224
+Ariana Grande ||| 1149
+Azealia Banks ||| 1126
+Lorde ||| 1036
+Justin Timberlake ||| 1033
+The Pretty Reckless ||| 1000
+Iggy Azalea ||| 958
+Ke$ha ||| 951
+Fleetwood Mac ||| 866
+Mariah Carey ||| 863
+Ciara ||| 794
+The Girl and The DreamCatcher ||| 763
+Gwen Stefani ||| 761
+George Michael ||| 741
+Tame Impala ||| 729
+Crystal Castles ||| 713
+Hole ||| 692
+M.I.A. ||| 669
+The Smiths ||| 622
+Selena Gomez & the Scene ||| 589
+Lea Michele ||| 572
+Troye Sivan ||| 560
+Macklemore & Ryan Lewis ||| 556
+Shakira ||| 544
+Tove Lo ||| 532
+Grimes ||| 530
+The Clash ||| 530
+The Weeknd ||| 530
+Panic! at the Disco ||| 525
+Demi Lovato ||| 522
+## playcount: 75435

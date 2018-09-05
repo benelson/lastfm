@@ -1,0 +1,51 @@
+Metallica ||| 2544
+The Beatles ||| 735
+Slipknot ||| 716
+Megadeth ||| 656
+Rammstein ||| 612
+The White Stripes ||| 538
+Pantera ||| 492
+Queen ||| 459
+nobody.one ||| 397
+Marilyn Manson ||| 354
+Kiss ||| 338
+Paramore ||| 297
+Black Sabbath ||| 285
+Motörhead ||| 236
+Jack White ||| 235
+Nirvana ||| 209
+Dead Sara ||| 195
+Гражданская оборона ||| 180
+Slayer ||| 170
+Louna ||| 162
+Pink Floyd ||| 154
+Misfits ||| 149
+Ace Frehley ||| 144
+Suicidal Tendencies ||| 134
+White Zombie ||| 134
+Buckethead ||| 125
+The Who ||| 121
+Ляпис Трубецкой ||| 118
+Led Zeppelin ||| 117
+Lita Ford ||| 112
+St. Vincent ||| 111
+Exodus ||| 110
+Mötley Crüe ||| 110
+MD.45 ||| 105
+Black Label Society ||| 104
+Sepultura ||| 101
+Ozzy Osbourne ||| 100
+George Harrison ||| 92
+Iron Maiden ||| 89
+Anthrax ||| 87
+Soulfly ||| 87
+Limp Bizkit ||| 86
+AC/DC ||| 84
+Newsted ||| 80
+Deep Purple ||| 76
+Nico Vega ||| 76
+Franz Ferdinand ||| 73
+Diamond Head ||| 67
+Down ||| 67
+Grateful Dead ||| 65
+## playcount: 12888

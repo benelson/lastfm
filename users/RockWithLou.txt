@@ -1,0 +1,51 @@
+Michael Jackson ||| 5624
+Christina Aguilera ||| 1273
+Britney Spears ||| 1180
+Prince ||| 594
+Fergie ||| 591
+Avril Lavigne ||| 391
+The Jacksons ||| 345
+Janet Jackson ||| 200
+Rihanna ||| 199
+Mariah Carey ||| 173
+Black Eyed Peas ||| 146
+Gwen Stefani ||| 134
+Beyoncé ||| 119
+Kelly Clarkson ||| 119
+Busted ||| 110
+Spice Girls ||| 102
+Ne-Yo ||| 100
+Nelly Furtado ||| 97
+Kylie Minogue ||| 86
+Madonna ||| 81
+Girls Aloud ||| 78
+Paramore ||| 77
+Natasha Bedingfield ||| 70
+Lionel Richie & The Commodores ||| 68
+Elvis Presley ||| 65
+Bon Jovi ||| 59
+Justin Timberlake ||| 51
+Queen ||| 51
+Stevie Wonder ||| 50
+The Jackson 5 ||| 46
+Jesse McCartney ||| 44
+Whitney Houston ||| 41
+Mika ||| 40
+Wham! ||| 40
+Destiny's Child ||| 34
+Lily Allen ||| 32
+Good Charlotte ||| 31
+Leona Lewis ||| 31
+Evanescence ||| 30
+Marvin Gaye ||| 27
+Elton John ||| 26
+Nelly ||| 25
+Phil Collins ||| 25
+The Pussycat Dolls ||| 24
+No Doubt ||| 23
+Genesis ||| 21
+Usher ||| 21
+Carpenters ||| 19
+Band Aid ||| 18
+Green Day ||| 18
+## playcount: 12849

@@ -1,0 +1,51 @@
+AFI ||| 4016
+Hardcore Superstar ||| 2911
+Limp Bizkit ||| 1260
+The Doors ||| 1126
+Led Zeppelin ||| 1069
+L.A. Guns ||| 1010
+Black Label Society ||| 939
+John 5 ||| 920
+Crobot ||| 913
+Metallica ||| 872
+Pink Floyd ||| 852
+Asking Alexandria ||| 850
+Rammstein ||| 810
+Mötley Crüe ||| 792
+Wolfmother ||| 706
+Guns N' Roses ||| 695
+The Offspring ||| 691
+Alice in Chains ||| 673
+Кино ||| 665
+Marilyn Manson ||| 634
+Deftones ||| 607
+Red Hot Chili Peppers ||| 599
+The Beatles ||| 573
+Slayer ||| 561
+Madonna ||| 550
+Ramones ||| 527
+Ozzy Osbourne ||| 518
+Bring Me the Horizon ||| 466
+Crashdïet ||| 466
+A Skylit Drive ||| 453
+Black Sabbath ||| 452
+30 Seconds to Mars ||| 438
+The Atomic Bitchwax ||| 423
+Nirvana ||| 397
+blink-182 ||| 390
+Bullet for My Valentine ||| 381
+Slipknot ||| 359
+The Jimi Hendrix Experience ||| 350
+Sex Pistols ||| 343
+The Rolling Stones ||| 340
+Godsmack ||| 334
+Velvet Revolver ||| 327
+Rob Zombie ||| 318
+Queen ||| 309
+Dolores O'Riordan ||| 305
+Norah Jones ||| 303
+Stone Sour ||| 294
+Deep Purple ||| 258
+The White Stripes ||| 254
+35007 ||| 251
+## playcount: 34550

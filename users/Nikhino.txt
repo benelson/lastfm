@@ -1,0 +1,51 @@
+Breaking Benjamin ||| 1212
+Chevelle ||| 978
+Biffy Clyro ||| 795
+Elvis Presley ||| 671
+Alter Bridge ||| 662
+The Beatles ||| 654
+Maroon 5 ||| 570
+In Flames ||| 541
+Coldplay ||| 489
+Slipknot ||| 472
+David Bowie ||| 454
+Linkin Park ||| 444
+Shinedown ||| 435
+Foo Fighters ||| 430
+Avenged Sevenfold ||| 423
+My Morning Jacket ||| 390
+Papa Roach ||| 380
+AC/DC ||| 363
+Red Hot Chili Peppers ||| 359
+Nirvana ||| 340
+Kings of Leon ||| 331
+Seether ||| 317
+Snow Patrol ||| 308
+Muse ||| 305
+Eminem ||| 302
+Three Days Grace ||| 301
+Bryan Adams ||| 278
+3 Doors Down ||| 271
+Nickelback ||| 260
+Bush ||| 250
+Explosions in the Sky ||| 243
+Porcupine Tree ||| 234
+Tenacious D ||| 234
+Oasis ||| 222
+Stone Temple Pilots ||| 219
+Green Day ||| 212
+Radiohead ||| 212
+Stone Sour ||| 207
+Karnivool ||| 203
+Eluveitie ||| 201
+Iron Maiden ||| 199
+Lamb of God ||| 199
+No-Man ||| 198
+Metallica ||| 196
+The Killers ||| 195
+Rise Against ||| 186
+Nine Inch Nails ||| 180
+Slash ||| 179
+John Mayer ||| 178
+Pearl Jam ||| 172
+## playcount: 18054

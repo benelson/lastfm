@@ -1,0 +1,51 @@
+The Beatles ||| 37
+Gustavo Cerati ||| 20
+Stereolab ||| 19
+Emir Kusturica & The No Smoking Orchestra ||| 18
+Sui Generis ||| 17
+Andrés Calamaro ||| 16
+Roxette ||| 12
+Gustav Mahler ||| 9
+Ludwig van Beethoven ||| 8
+Pyotr Ilyich Tchaikovsky ||| 8
+Antonio Vivaldi ||| 7
+Radiohead ||| 6
+Edvard Grieg ||| 5
+Eric Clapton ||| 5
+Georg Friedrich Händel ||| 5
+Wolfgang Amadeus Mozart ||| 5
+Björk ||| 4
+Bob Dylan ||| 4
+Bryan Adams ||| 4
+David Bowie ||| 4
+El Canto del Loco ||| 4
+Franz Schubert ||| 4
+Frédéric Chopin ||| 4
+Jimi Hendrix ||| 4
+Johannes Brahms ||| 4
+Nigel Kennedy ||| 4
+Pink Floyd ||| 4
+Antonín Dvořák ||| 3
+Apocalyptica ||| 3
+Beck ||| 3
+Café Tacvba ||| 3
+Devendra Banhart ||| 3
+DJ Food ||| 3
+Felix Mendelssohn ||| 3
+Franz Liszt ||| 3
+Giacomo Puccini ||| 3
+Joanna Newsom ||| 3
+Johann Sebastian Bach ||| 3
+M.I.A. ||| 3
+Richard Wagner ||| 3
+Sergei Rachmaninoff ||| 3
+Tryo ||| 3
+A Perfect Circle ||| 2
+Bersuit Vergarabat ||| 2
+Bessie Smith ||| 2
+Big Bill Broonzy ||| 2
+Big Mama Thornton ||| 2
+Billy Joel ||| 2
+Blind Lemon Jefferson ||| 2
+Bob Marley ||| 2
+## playcount: 302

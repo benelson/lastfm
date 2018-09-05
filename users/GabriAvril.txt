@@ -1,0 +1,51 @@
+Lorde ||| 30304
+Taylor Swift ||| 22576
+Avril Lavigne ||| 15184
+Lana Del Rey ||| 9180
+Fall Out Boy ||| 7317
+One Direction ||| 6077
+Imagine Dragons ||| 5380
+Pitty ||| 5241
+Foster the People ||| 4501
+Sia ||| 3681
+Florence + the Machine ||| 3585
+Ellie Goulding ||| 3311
+Linkin Park ||| 2837
+Miley Cyrus ||| 2582
+Lady Gaga ||| 2341
+Nicki Minaj ||| 2210
+Sabrina Carpenter ||| 2170
+Demi Lovato ||| 2104
+Selena Gomez ||| 1971
+Ariana Grande ||| 1958
+Fifth Harmony ||| 1776
+Rihanna ||| 1740
+Iggy Azalea ||| 1662
+Lily Allen ||| 1589
+BROODS ||| 1527
+Shawn Mendes ||| 1329
+[unknown] ||| 1259
+Adele ||| 1241
+Major Lazer ||| 1227
+Zella Day ||| 1179
+Halsey ||| 1168
+Sam Smith ||| 1157
+Clarice Falcão ||| 1140
+Of Monsters and Men ||| 1079
+Zara Larsson ||| 1070
+Elin Bergman ||| 1040
+Paramore ||| 988
+Katy Perry ||| 960
+Coldplay ||| 936
+Alessia Cara ||| 896
+Nick Jonas ||| 883
+Zayn ||| 853
+The Chainsmokers ||| 835
+David Guetta ||| 823
+Beyoncé ||| 790
+Madonna ||| 759
+Camila Cabello ||| 728
+Jessie J ||| 726
+Calvin Harris ||| 686
+Zedd ||| 626
+## playcount: 167182

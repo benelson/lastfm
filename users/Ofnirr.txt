@@ -1,0 +1,51 @@
+Pink Floyd ||| 2371
+Elvis Presley ||| 1874
+Yavuz Çetin ||| 1867
+The Beatles ||| 1765
+Bob Dylan ||| 1187
+Jefferson Airplane ||| 1149
+The Doors ||| 1145
+Graham Nash ||| 1056
+Janis Joplin ||| 1010
+Eric Clapton ||| 635
+The Alan Parsons Project ||| 557
+Motörhead ||| 359
+John Mayall ||| 273
+Led Zeppelin ||| 270
+Mark Knopfler ||| 245
+Serdar Öztop ||| 220
+Cem Karaca ||| 219
+Sonny Terry & Brownie McGhee ||| 213
+Celtic Frost ||| 191
+Jimi Hendrix ||| 187
+Stevie Ray Vaughan ||| 178
+Beirut ||| 176
+Foghat ||| 158
+John Mayall & The Bluesbreakers ||| 148
+Eagles ||| 146
+Ahmet Kaya ||| 144
+Tracy Chapman ||| 129
+Devendra Banhart ||| 120
+Malt ||| 117
+Manowar ||| 107
+Yaşar Kurt ||| 101
+Cream ||| 96
+Gevende ||| 96
+The Blues Brothers ||| 87
+Kazım Koyuncu ||| 84
+Bonnie Raitt ||| 79
+Dire Straits ||| 76
+Michael Jackson ||| 74
+King Crimson ||| 68
+Ray Charles ||| 67
+Norah Jones ||| 64
+Hindi Zahra ||| 60
+Milow ||| 60
+Athena ||| 58
+Patti Smith ||| 57
+Bandista ||| 50
+Joe Bonamassa ||| 50
+Yasemin Mori ||| 49
+Iron Maiden ||| 47
+Arto Tunçboyacıyan ||| 46
+## playcount: 19585

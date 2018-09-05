@@ -1,0 +1,51 @@
+Blake Shelton ||| 1381
+Billy Idol ||| 176
+Soundgarden ||| 155
+Alice in Chains ||| 149
+Pet Shop Boys ||| 148
+Erasure ||| 137
+Guns N' Roses ||| 130
+Elvis Presley ||| 128
+U2 ||| 127
+New Order ||| 126
+Mötley Crüe ||| 119
+The Cure ||| 117
+Aerosmith ||| 105
+L.A. Guns ||| 102
+Missing Persons ||| 100
+Foo Fighters ||| 99
+The Cult ||| 99
+Pearl Jam ||| 90
+Rob Zombie ||| 90
+David Nail ||| 88
+Metallica ||| 87
+Queensrÿche ||| 87
+Stone Temple Pilots ||| 81
+The Outfield ||| 80
+Depeche Mode ||| 77
+Easton Corbin ||| 77
+Rick Springfield ||| 64
+Bad Company ||| 63
+Siouxsie and the Banshees ||| 62
+Rush ||| 60
+Tremonti ||| 59
+Sting ||| 57
+Def Leppard ||| 56
+Bryan Adams ||| 55
+The B-52's ||| 54
+Electric Light Orchestra ||| 52
+Kiss ||| 51
+Nine Inch Nails ||| 49
+A Flock of Seagulls ||| 48
+The Pretenders ||| 48
+The Psychedelic Furs ||| 48
+Foreigner ||| 45
+Iron Maiden ||| 45
+Naked Eyes ||| 44
+Quiet Riot ||| 43
+Elton John ||| 40
+Yes ||| 40
+The Police ||| 39
+Dale Bozzio ||| 38
+Eagles ||| 38
+## playcount: 5353

@@ -1,0 +1,51 @@
+Deep Purple ||| 1062
+Dire Straits ||| 1024
+Pink Floyd ||| 927
+AC/DC ||| 924
+Led Zeppelin ||| 904
+Queen ||| 891
+The Rolling Stones ||| 818
+Eric Clapton ||| 734
+Iron Maiden ||| 654
+The Doors ||| 604
+Mark Knopfler ||| 574
+Rainbow ||| 567
+Guns N' Roses ||| 561
+Creedence Clearwater Revival ||| 522
+Muse ||| 507
+Electric Light Orchestra ||| 487
+Scorpions ||| 468
+Lynyrd Skynyrd ||| 443
+Johnny Cash ||| 421
+Pearl Jam ||| 402
+Cream ||| 383
+Wishbone Ash ||| 374
+Bob Dylan ||| 369
+Fleetwood Mac ||| 357
+The Clash ||| 315
+Jethro Tull ||| 313
+Andrei Krylov ||| 309
+The Jeff Healey Band ||| 307
+Whitesnake ||| 292
+Santana ||| 288
+Jimi Hendrix ||| 279
+Gary Moore ||| 276
+Camel ||| 272
+Black Sabbath ||| 271
+Motörhead ||| 267
+Uriah Heep ||| 267
+Rory Gallagher ||| 266
+Judas Priest ||| 262
+John Williams ||| 254
+The Allman Brothers Band ||| 252
+The Beatles ||| 248
+B.B. King ||| 246
+Janis Joplin ||| 231
+Blue Öyster Cult ||| 228
+ZZ Top ||| 227
+The Kinks ||| 223
+Red Hot Chili Peppers ||| 220
+Alice Cooper ||| 209
+Flogging Molly ||| 200
+Die Toten Hosen ||| 198
+## playcount: 21697

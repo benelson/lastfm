@@ -1,0 +1,51 @@
+The Beatles ||| 2689
+The Beach Boys ||| 400
+The Doors ||| 381
+Pink Floyd ||| 333
+David Bowie ||| 329
+Los Planetas ||| 318
+Justice ||| 310
+Gorillaz ||| 300
+Joy Division ||| 286
+Janis Joplin ||| 281
+Michael Jackson ||| 277
+Led Zeppelin ||| 274
+The xx ||| 259
+Lady Gaga ||| 255
+Frédéric Chopin ||| 244
+The Police ||| 234
+Madness ||| 225
+Arctic Monkeys ||| 221
+The Smiths ||| 220
+M.I.A. ||| 197
+The Maccabees ||| 196
+Daft Punk ||| 190
+The Blows ||| 184
+Frank Sinatra ||| 176
+Vetusta Morla ||| 174
+Otis Redding ||| 169
+Lily Allen ||| 168
+Kiko Veneno ||| 161
+Albert Pla ||| 157
+Florence + the Machine ||| 153
+Amparanoia ||| 147
+Nirvana ||| 142
+Extremoduro ||| 141
+Prodigy ||| 137
+Calvin Harris ||| 128
+Onda Vaga ||| 124
+Yann Tiersen ||| 123
+Santigold ||| 122
+Sonic Youth ||| 120
+The Chemical Brothers ||| 118
+Gipsy Kings ||| 116
+The Flaming Lips ||| 112
+The Prodigy ||| 112
+La Cabra Mecánica ||| 109
+Billie Holiday ||| 107
+Paul McCartney ||| 107
+Erik Satie ||| 106
+New Order ||| 104
+Arcade Fire ||| 103
+Sex Pistols ||| 102
+## playcount: 12141

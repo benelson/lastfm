@@ -1,0 +1,51 @@
+POOLSTAR ||| 323
+Foo Fighters ||| 70
+Billy Talent ||| 65
+Queens of the Stone Age ||| 61
+Jimmy Eat World ||| 60
+Placebo ||| 58
+Incubus ||| 57
+Beatsteaks ||| 54
+System of a Down ||| 17
+The Vines ||| 16
+Green Day ||| 15
+The Futureheads ||| 15
+The Kooks ||| 15
+Franz Ferdinand ||| 14
+Nirvana ||| 14
+The Hives ||| 14
+We Are Scientists ||| 14
+3 Doors Down ||| 13
+Coldplay ||| 13
+Death Cab for Cutie ||| 13
+Die Ärzte ||| 13
+Jack Johnson ||| 13
+Red Hot Chili Peppers ||| 13
+Staind ||| 13
+Bloc Party ||| 12
+John Frusciante ||| 12
+Limp Bizkit ||| 12
+Muse ||| 12
+Rage Against the Machine ||| 12
+The White Stripes ||| 12
+Coheed and Cambria ||| 11
+Evanescence ||| 11
+Mando Diao ||| 11
+Metallica ||| 11
+Pixies ||| 11
+The Raconteurs ||| 11
+Turbonegro ||| 11
+Alanis Morissette ||| 10
+Anti-Flag ||| 10
+Bad Religion ||| 10
+blink-182 ||| 10
+Chevelle ||| 10
+Dashboard Confessional ||| 10
+Jet ||| 10
+Kaiser Chiefs ||| 10
+Korn ||| 10
+Refused ||| 10
+The Killers ||| 10
+[unknown] ||| 10
+Audioslave ||| 9
+## playcount: 1251

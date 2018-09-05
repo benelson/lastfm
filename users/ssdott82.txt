@@ -1,0 +1,51 @@
+Doris ||| 1145
+Marilyn Manson ||| 814
+Citizen Cope ||| 788
+Foo Fighters ||| 706
+Pearl Jam ||| 658
+Ben Harper ||| 582
+Finch ||| 483
+Lifehouse ||| 459
+Linkin Park ||| 451
+Placebo ||| 424
+Adrian Johnston ||| 419
+Damien Rice ||| 380
+Staind ||| 364
+Jimmy Eat World ||| 358
+30 Seconds to Mars ||| 353
+Dario Marianelli ||| 349
+Eddie Vedder ||| 327
+Jack Johnson ||| 321
+Kings of Leon ||| 318
+Muse ||| 309
+William Fitzsimmons ||| 300
+Die Toten Hosen ||| 294
+Stephen Sondheim ||| 290
+Creed ||| 275
+Maxïmo Park ||| 269
+John Mayer ||| 260
+Alter Bridge ||| 258
+Bush ||| 248
+Counting Crows ||| 244
+Stereophonics ||| 242
+Blue Merle ||| 234
+Amy Winehouse ||| 230
+The Fray ||| 223
+Xavier Rudd ||| 213
+Angels & Airwaves ||| 204
+Aqualung ||| 190
+Xavier Naidoo ||| 185
+Scott Stapp ||| 182
+Celldweller ||| 168
+Death Cab for Cutie ||| 167
+The Hours ||| 158
+Bloc Party ||| 154
+Scott Matthews ||| 150
+Robert Pattinson ||| 148
+Jackson Waters ||| 145
+Nirvana ||| 144
+Beatsteaks ||| 141
+Coldplay ||| 137
+Red Hot Chili Peppers ||| 137
+Metallica ||| 136
+## playcount: 16134

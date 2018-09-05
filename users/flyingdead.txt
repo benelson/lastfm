@@ -1,0 +1,51 @@
+The Beatles ||| 28251
+The Doors ||| 14345
+Seether ||| 12886
+The Killers ||| 7980
+Oasis ||| 6407
+Slipknot ||| 6400
+Breaking Benjamin ||| 6272
+Pink Floyd ||| 4142
+Bring Me the Horizon ||| 3372
+Stone Sour ||| 3104
+Shinedown ||| 2988
+Nirvana ||| 2874
+The Libertines ||| 2593
+Arctic Monkeys ||| 2528
+Muse ||| 2458
+dredg ||| 2444
+Rise Against ||| 2172
+Radiohead ||| 2143
+Queens of the Stone Age ||| 1963
+Ill Niño ||| 1794
+All That Remains ||| 1790
+Two Door Cinema Club ||| 1716
+System of a Down ||| 1711
+Deftones ||| 1710
+Korn ||| 1680
+The Dillinger Escape Plan ||| 1599
+Michael Jackson ||| 1544
+Franz Ferdinand ||| 1533
+Babyshambles ||| 1506
+Rammstein ||| 1459
+All Shall Perish ||| 1431
+The Black Keys ||| 1416
+Limp Bizkit ||| 1290
+Foo Fighters ||| 1264
+Marilyn Manson ||| 1251
+Suicide Silence ||| 1240
+Disturbed ||| 1235
+Trapt ||| 1213
+Jimi Hendrix ||| 1043
+3 Doors Down ||| 1010
+Led Zeppelin ||| 1004
+The Hives ||| 994
+Peter Doherty ||| 987
+Machine Head ||| 977
+Kasabian ||| 956
+Pearl Jam ||| 935
+Alter Bridge ||| 886
+Kendrick Lamar ||| 876
+Three Days Grace ||| 875
+Stereophonics ||| 850
+## playcount: 155097

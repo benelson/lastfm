@@ -1,0 +1,51 @@
+Coldplay ||| 2543
+Muse ||| 2387
+Billy Talent ||| 2037
+Guns N' Roses ||| 1869
+Keane ||| 1724
+TPR ||| 1636
+The Beatles ||| 1596
+Jamiroquai ||| 1438
+Simple Plan ||| 1429
+Rage Against the Machine ||| 1314
+Wolfmother ||| 1311
+Wolfgang Gartner ||| 1306
+Radiohead ||| 1289
+Madeon ||| 1245
+Stereophonics ||| 1233
+System of a Down ||| 1164
+Hadouken! ||| 1133
+Trivium ||| 1081
+Red Hot Chili Peppers ||| 1061
+Nero ||| 1032
+Pendulum ||| 1021
+Queen ||| 1011
+deadmau5 ||| 992
+Oasis ||| 934
+The Prodigy ||| 901
+The Kooks ||| 900
+Velvet Revolver ||| 897
+Sum 41 ||| 863
+Nirvana ||| 862
+Mew ||| 861
+Maroon 5 ||| 816
+Daft Punk ||| 784
+Alice in Chains ||| 771
+U2 ||| 761
+Avicii ||| 713
+Feed Me ||| 696
+Example ||| 666
+Friendly Fires ||| 656
+Kaskade ||| 647
+Apulanta ||| 637
+AC/DC ||| 636
+Skrillex ||| 631
+The Verve ||| 615
+Robbie Williams ||| 609
+Hardcore Superstar ||| 608
+OneRepublic ||| 578
+Lemâitre ||| 575
+Skid Row ||| 570
+Aerosmith ||| 565
+The Wombats ||| 561
+## playcount: 52165

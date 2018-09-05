@@ -1,0 +1,51 @@
+David Bowie ||| 2699
+Queen ||| 2431
+Genesis ||| 2201
+The Beatles ||| 2082
+Electric Light Orchestra ||| 1730
+Fleetwood Mac ||| 1673
+Murray Gold ||| 1489
+Pink Floyd ||| 1177
+Tangerine Dream ||| 1134
+John Carpenter ||| 935
+John Barry ||| 927
+Johnny Cash ||| 828
+The Alan Parsons Project ||| 828
+Duran Duran ||| 826
+Chris Rea ||| 807
+Eric Clapton ||| 783
+The Who ||| 717
+Talking Heads ||| 703
+David Arnold ||| 610
+a-ha ||| 588
+Paul McCartney ||| 536
+John Williams ||| 530
+Steve Hackett ||| 520
+Led Zeppelin ||| 492
+Pet Shop Boys ||| 473
+Kate Bush ||| 453
+Peter Gabriel ||| 451
+Prince ||| 444
+Bill Conti ||| 441
+Supertramp ||| 441
+Robert Plant ||| 437
+Marillion ||| 419
+Phil Collins ||| 410
+Faith No More ||| 403
+Muse ||| 400
+Bananarama ||| 361
+Dire Straits ||| 351
+David Devant & His Spirit Wife ||| 343
+John Lennon ||| 340
+Jeff Wayne ||| 320
+Geoff Love ||| 310
+Def Leppard ||| 306
+Elton John ||| 287
+Jerry Goldsmith ||| 276
+The Police ||| 276
+Simple Minds ||| 261
+The Rolling Stones ||| 257
+Manic Street Preachers ||| 247
+Lush ||| 229
+The Cross ||| 226
+## playcount: 36408

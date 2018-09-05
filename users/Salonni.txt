@@ -1,0 +1,51 @@
+Shakira ||| 27157
+Céline Dion ||| 4863
+Elvis Presley ||| 3060
+Kylie Minogue ||| 2812
+Madonna ||| 2575
+Tina Turner ||| 2270
+Lady Gaga ||| 2040
+Alanis Morissette ||| 2000
+Enrique Iglesias ||| 1953
+Anastacia ||| 1682
+Sade ||| 1583
+Michael Bolton ||| 1468
+Macy Gray ||| 1417
+Whitney Houston ||| 1280
+Rihanna ||| 1215
+Leona Lewis ||| 1093
+Troye Sivan ||| 1033
+Mariah Carey ||| 979
+Sarah McLachlan ||| 975
+Paloma Faith ||| 938
+Fanny Lú ||| 931
+Britney Spears ||| 922
+Cher ||| 905
+Beyoncé ||| 903
+Taylor Swift ||| 896
+Christina Aguilera ||| 893
+Jessie Ware ||| 876
+Katy Perry ||| 874
+Alicia Keys ||| 801
+Carly Rae Jepsen ||| 782
+Simon Webbe ||| 770
+Ellie Goulding ||| 763
+Adele ||| 740
+Nicole Scherzinger ||| 680
+Clare Maguire ||| 678
+Mika ||| 647
+Jennifer Lopez ||| 646
+Sia ||| 606
+Laura Pausini ||| 600
+Toni Braxton ||| 572
+Annie Lennox ||| 515
+Sam Smith ||| 505
+Michael Jackson ||| 504
+Gloria Trevi ||| 494
+Conchita Wurst ||| 491
+Bonnie Tyler ||| 490
+James Blunt ||| 477
+Rebecca Ferguson ||| 466
+Janet Jackson ||| 461
+P!nk ||| 459
+## playcount: 82740

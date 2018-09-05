@@ -1,0 +1,51 @@
+Foo Fighters ||| 1936
+Pearl Jam ||| 1083
+Beatsteaks ||| 579
+Rise Against ||| 324
+Millencolin ||| 309
+Kings of Leon ||| 306
+Interpol ||| 275
+The Killers ||| 275
+The Hives ||| 259
+Billy Talent ||| 239
+Moby ||| 239
+Sportfreunde Stiller ||| 239
+R.E.M. ||| 191
+Red Hot Chili Peppers ||| 163
+Soundgarden ||| 161
+Arcade Fire ||| 159
+Coldplay ||| 157
+The Strokes ||| 149
+Queens of the Stone Age ||| 146
+Seeed ||| 146
+Bloc Party ||| 145
+Snow Patrol ||| 140
+Volbeat ||| 137
+Radiohead ||| 136
+Rammstein ||| 134
+Beastie Boys ||| 125
+Deichkind ||| 119
+Kettcar ||| 110
+System of a Down ||| 104
+Creed ||| 103
+Jack Johnson ||| 99
+Razorlight ||| 90
+Wolfmother ||| 89
+OK Go ||| 86
+Jimmy Eat World ||| 84
+The Offspring ||| 84
+Scars on Broadway ||| 82
+Audioslave ||| 79
+The Streets ||| 77
+Towers Of London ||| 74
+Muse ||| 71
+MGMT ||| 70
+Mad Caddies ||| 68
+Die Fantastischen Vier ||| 67
+Ohrbooten ||| 65
+The Chemical Brothers ||| 65
+Bad Religion ||| 63
+NOFX ||| 60
+Green Day ||| 59
+Donots ||| 57
+## playcount: 10077

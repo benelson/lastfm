@@ -1,0 +1,51 @@
+The Beatles ||| 16131
+Eric Clapton ||| 8233
+Pink Floyd ||| 5074
+Los Tres ||| 4020
+The Beach Boys ||| 3952
+Paul McCartney ||| 3756
+George Harrison ||| 2821
+The Doors ||| 2604
+Electric Light Orchestra ||| 2556
+Cream ||| 2449
+Radiohead ||| 2360
+Bob Dylan ||| 1997
+The Rolling Stones ||| 1861
+Fito Páez ||| 1665
+John Lennon ||| 1641
+Charly García ||| 1586
+J.J. Cale ||| 1354
+João Gilberto ||| 1222
+Gonzalo Aloras ||| 1125
+Los Jaivas ||| 1093
+Traveling Wilburys ||| 1058
+Luis Alberto Spinetta ||| 969
+David Bowie ||| 941
+Portishead ||| 886
+David Gilmour ||| 862
+The Black Keys ||| 846
+Elvis Presley ||| 838
+Jorge Drexler ||| 834
+Ángel Parra Trío ||| 833
+Antônio Carlos Jobim ||| 772
+Frank Sinatra ||| 761
+Amy Winehouse ||| 730
+Bob Marley & The Wailers ||| 659
+Led Zeppelin ||| 659
+Inti-Illimani ||| 636
+The Strokes ||| 618
+Wings ||| 617
+Joe Vasconcellos ||| 599
+Ella Fitzgerald ||| 556
+Derek and the Dominos ||| 555
+Norah Jones ||| 553
+Stevie Wonder ||| 549
+Queen ||| 541
+M. Ward ||| 534
+Jeff Lynne ||| 524
+Jimi Hendrix ||| 508
+The Fireman ||| 469
+Santana ||| 459
+Roy Orbison ||| 458
+Ringo Starr ||| 439
+## playcount: 87763

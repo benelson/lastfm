@@ -1,0 +1,51 @@
+U2 ||| 2385
+The Rolling Stones ||| 1574
+The Beatles ||| 1474
+Oasis ||| 1155
+Guns N' Roses ||| 974
+Pearl Jam ||| 971
+Coldplay ||| 896
+Nirvana ||| 804
+The Cure ||| 799
+Pink Floyd ||| 785
+Bruce Springsteen ||| 688
+The Killers ||| 660
+Bob Dylan ||| 622
+Depeche Mode ||| 612
+David Bowie ||| 589
+Radiohead ||| 567
+Morrissey ||| 566
+Red Hot Chili Peppers ||| 545
+Johnny Cash ||| 518
+Soda Stereo ||| 513
+Jay-Z ||| 501
+Foo Fighters ||| 465
+Madonna ||| 465
+The Smiths ||| 464
+Beck ||| 451
+Arctic Monkeys ||| 441
+Eminem ||| 433
+Led Zeppelin ||| 432
+David Gilmour ||| 429
+Björk ||| 400
+Kaiser Chiefs ||| 397
+The Cranberries ||| 396
+Bloc Party ||| 384
+Paul McCartney ||| 382
+Beastie Boys ||| 373
+Duran Duran ||| 371
+Café Tacvba ||| 369
+Gorillaz ||| 364
+Franz Ferdinand ||| 362
+Aerosmith ||| 354
+Metallica ||| 354
+Muse ||| 353
+The Chemical Brothers ||| 352
+INXS ||| 346
+Moby ||| 331
+The Police ||| 328
+R.E.M. ||| 320
+Blur ||| 314
+The Who ||| 312
+Faithless ||| 301
+## playcount: 29241

@@ -1,0 +1,51 @@
+Avril Lavigne ||| 240
+Lana Del Rey ||| 213
+The Strokes ||| 192
+Iron Maiden ||| 126
+Marina & the Diamonds ||| 112
+The Kooks ||| 109
+Nirvana ||| 95
+Metallica ||| 91
+Alice Cooper ||| 80
+Foo Fighters ||| 65
+Airbourne ||| 64
+Ozzy Osbourne ||| 64
+Arcade Fire ||| 61
+Bob Dylan ||| 59
+The Verve ||| 57
+Legião Urbana ||| 53
+Kaiser Chiefs ||| 50
+The Smiths ||| 50
+Pink Floyd ||| 47
+Foxboro Hot Tubs ||| 43
+Scorpions ||| 41
+Kasabian ||| 36
+Metric ||| 33
+Steppenwolf ||| 31
+Judas Priest ||| 29
+Marilyn Manson ||| 29
+The Smashing Pumpkins ||| 26
+The Pretty Reckless ||| 24
+Ramones ||| 23
+The Beatles ||| 22
+Pantera ||| 21
+Red Hot Chili Peppers ||| 21
+Thin Lizzy ||| 20
+Rihanna ||| 19
+Green Day ||| 18
+AC/DC ||| 17
+Led Zeppelin ||| 17
+The Pierces ||| 17
+MGMT ||| 16
+Muse ||| 16
+Oasis ||| 16
+Iron & Wine ||| 11
+Avril Lavigne and Johnny Rzeznick ||| 10
+Lily Allen ||| 9
+Black Sabbath ||| 8
+Franz Ferdinand ||| 7
+Mötley Crüe ||| 7
+White Lies ||| 7
+Capital Inicial ||| 6
+Don McLean ||| 6
+## playcount: 2434

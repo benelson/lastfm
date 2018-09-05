@@ -1,0 +1,51 @@
+Rush ||| 457
+The Beatles ||| 409
+Wolfmother ||| 349
+AC/DC ||| 330
+Dire Straits ||| 253
+Porcupine Tree ||| 250
+A.R. Rahman ||| 232
+Pearl Jam ||| 221
+The Dandy Warhols ||| 218
+Blackstratblues ||| 194
+Creedence Clearwater Revival ||| 194
+Pink Floyd ||| 182
+The Black Keys ||| 182
+L. Subramaniam ||| 181
+Ten Years After ||| 181
+Eels ||| 170
+Steely Dan ||| 170
+The Allman Brothers Band ||| 145
+Led Zeppelin ||| 144
+Joe Satriani ||| 140
+Tool ||| 122
+The Clash ||| 116
+The Doors ||| 114
+Morcheeba ||| 112
+Rage Against the Machine ||| 112
+Avial ||| 109
+The Black Crowes ||| 104
+The Pineapple Thief ||| 104
+The Rolling Stones ||| 104
+Airbourne ||| 103
+Eric Johnson ||| 102
+Dave Matthews Band ||| 98
+Oasis ||| 97
+B.B. King ||| 94
+Velvet Revolver ||| 89
+Foo Fighters ||| 87
+Foghat ||| 86
+Danko Jones ||| 82
+Blue Öyster Cult ||| 80
+Ludwig van Beethoven ||| 77
+Guns N' Roses ||| 76
+Jane's Addiction ||| 76
+The Brian Jonestown Massacre ||| 74
+Mark Knopfler ||| 73
+Dev D ||| 72
+The Yardbirds ||| 70
+Alvin Lee ||| 69
+Bob Dylan ||| 69
+Joe Bonamassa ||| 67
+Ramones ||| 66
+## playcount: 7306

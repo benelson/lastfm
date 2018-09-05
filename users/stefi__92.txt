@@ -1,0 +1,51 @@
+U2 ||| 3686
+Led Zeppelin ||| 949
+Bon Jovi ||| 725
+Depeche Mode ||| 673
+Metallica ||| 537
+Aerosmith ||| 407
+Maroon 5 ||| 280
+Guns N' Roses ||| 275
+Pink Floyd ||| 243
+Zero Assoluto ||| 240
+Florence + the Machine ||| 237
+Placebo ||| 235
+Pearl Jam ||| 232
+AC/DC ||| 230
+Marilyn Manson ||| 217
+INXS ||| 195
+The Rolling Stones ||| 190
+Skid Row ||| 182
+Red Hot Chili Peppers ||| 178
+Queen ||| 170
+Robbie Williams ||| 159
+The Smashing Pumpkins ||| 154
+Lamb ||| 152
+Velvet Revolver ||| 151
+Frank Sinatra ||| 150
+R.E.M. ||| 145
+Foo Fighters ||| 135
+Whitesnake ||| 134
+Janis Joplin ||| 132
+Lenny Kravitz ||| 132
+Ratt ||| 132
+Stone Temple Pilots ||| 131
+Kings of Leon ||| 128
+Слави Трифонов ||| 127
+Iron Maiden ||| 125
+Nickelback ||| 120
+Green Day ||| 119
+D2 ||| 113
+Korn ||| 106
+Tiziano Ferro ||| 98
+Adele ||| 96
+The Offspring ||| 90
+Faith No More ||| 88
+Simon & Garfunkel ||| 86
+Nirvana ||| 85
+All Saints ||| 84
+Citizen Cope ||| 84
+The Beatles ||| 84
+Norah Jones ||| 83
+Остава ||| 80
+## playcount: 13584

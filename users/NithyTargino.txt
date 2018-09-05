@@ -1,0 +1,51 @@
+Britney Spears ||| 849
+Michael Jackson ||| 631
+Beyoncé ||| 391
+Madonna ||| 365
+Justin Bieber ||| 318
+Rihanna ||| 199
+Fifth Harmony ||| 193
+Lana Del Rey ||| 186
+Lady Gaga ||| 178
+Arctic Monkeys ||| 153
+Armin van Buuren ||| 144
+Queen ||| 120
+Pink Floyd ||| 115
+M83 ||| 110
+Skrillex ||| 109
+Muse ||| 105
+Three Days Grace ||| 100
+Justin Timberlake ||| 96
+Amy Winehouse ||| 92
+David Guetta ||| 92
+Disclosure ||| 83
+The Strokes ||| 82
+Demi Lovato ||| 81
+Calvin Harris ||| 78
+Jay-Z ||| 75
+Banda Calypso ||| 72
+Claudia Leitte ||| 72
+John Mayer ||| 72
+Tame Impala ||| 68
+Anitta ||| 66
+Ariana Grande ||| 64
+The Beatles ||| 64
+Henrique & Juliano ||| 63
+Selena Gomez ||| 63
+Wiz Khalifa ||| 63
+Florence + the Machine ||| 61
+The Killers ||| 61
+Katy Perry ||| 58
+Iggy Azalea ||| 57
+Ivete Sangalo ||| 54
+The Pretty Reckless ||| 54
+Daft Punk ||| 51
+Jorge & Mateus ||| 51
+Victor & Leo ||| 51
+Azealia Banks ||| 50
+The Kooks ||| 50
+will.i.am ||| 50
+Armandinho ||| 49
+Björk ||| 47
+Kendrick Lamar ||| 45
+## playcount: 6401

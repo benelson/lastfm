@@ -1,0 +1,51 @@
+The Doors ||| 6786
+Queen ||| 5830
+Nirvana ||| 5003
+Raul Seixas ||| 4853
+Janis Joplin ||| 4241
+The Beatles ||| 3357
+Elvis Presley ||| 2637
+Metallica ||| 2478
+Led Zeppelin ||| 2370
+AC/DC ||| 2176
+Motörhead ||| 2042
+Ozzy Osbourne ||| 1741
+Engenheiros Do Hawaii ||| 1572
+Michael Jackson ||| 1492
+Cazuza ||| 1470
+Nick Drake ||| 1402
+Cássia Eller ||| 1377
+Dio ||| 1330
+Ramones ||| 1286
+Pearl Jam ||| 1071
+Bob Dylan ||| 1049
+Sex Pistols ||| 1049
+Matanza ||| 1024
+The Distillers ||| 975
+Pantera ||| 966
+Never Shout Never ||| 959
+Marilyn Manson ||| 948
+Aerosmith ||| 896
+Pink Floyd ||| 885
+John Lennon ||| 864
+Alter Bridge ||| 848
+Bikini Kill ||| 777
+ZZ Top ||| 688
+David Bowie ||| 673
+Guns N' Roses ||| 670
+The Pretty Reckless ||| 669
+The Rolling Stones ||| 625
+Dead Kennedys ||| 548
+Black Label Society ||| 535
+Alice in Chains ||| 524
+Judas Priest ||| 472
+Amy Winehouse ||| 453
+City and Colour ||| 446
+U2 ||| 416
+Barão Vermelho ||| 404
+HorrorPops ||| 380
+Bon Jovi ||| 370
+Joan Jett and the Blackhearts ||| 351
+The Jimi Hendrix Experience ||| 347
+Jimi Hendrix ||| 344
+## playcount: 74669

@@ -1,0 +1,51 @@
+Pet Shop Boys ||| 13638
+Garbage ||| 5322
+Depeche Mode ||| 3627
+Blur ||| 3257
+Saint Etienne ||| 2765
+XTC ||| 2643
+New Order ||| 2346
+The Divine Comedy ||| 2217
+R.E.M. ||| 2075
+Radiohead ||| 2040
+Orchestral Manoeuvres in the Dark ||| 1945
+Duran Duran ||| 1942
+Manic Street Preachers ||| 1902
+Pulp ||| 1813
+Suede ||| 1788
+Nick Cave & The Bad Seeds ||| 1783
+Paul McCartney ||| 1733
+David Bowie ||| 1687
+The Beatles ||| 1619
+U2 ||| 1433
+Electronic ||| 1390
+The Cure ||| 1363
+Marc Almond ||| 1333
+Erasure ||| 1315
+Yello ||| 1308
+Stereolab ||| 1292
+Simply Red ||| 1284
+Tindersticks ||| 1273
+Dead Can Dance ||| 1241
+Pixies ||| 1227
+Étienne Daho ||| 1215
+Goldfrapp ||| 1119
+James ||| 1099
+Lush ||| 1088
+Tricky ||| 1063
+The Smiths ||| 1061
+Beck ||| 1034
+Nirvana ||| 1022
+Arctic Monkeys ||| 1004
+Kylie Minogue ||| 999
+Marillion ||| 972
+Cocteau Twins ||| 956
+Prefab Sprout ||| 951
+Sonic Youth ||| 949
+Roxy Music ||| 908
+Mansun ||| 851
+The Beach Boys ||| 817
+Bananarama ||| 793
+Morrissey ||| 766
+Coldplay ||| 762
+## playcount: 90030

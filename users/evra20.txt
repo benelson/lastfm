@@ -1,0 +1,15 @@
+Red Hot Chili Peppers ||| 135
+Pearl Jam ||| 41
+Linkin Park ||| 30
+R.E.M. ||| 30
+Foo Fighters ||| 26
+Incubus ||| 19
+The White Stripes ||| 17
+U2 ||| 17
+The Offspring ||| 16
+The Smashing Pumpkins ||| 14
+Rage Against the Machine ||| 10
+Guns N' Roses ||| 8
+The Killers ||| 3
+Spiritfall ||| 1
+## playcount: 367

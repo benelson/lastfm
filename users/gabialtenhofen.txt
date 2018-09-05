@@ -1,0 +1,51 @@
+Foo Fighters ||| 8821
+Red Hot Chili Peppers ||| 3822
+System of a Down ||| 2525
+The Beatles ||| 1918
+Taylor Hawkins & The Coattail Riders ||| 1615
+Nirvana ||| 1433
+Papa Roach ||| 1312
+Metallica ||| 1280
+Bon Jovi ||| 1263
+Muse ||| 1234
+Scorpions ||| 1201
+Avenged Sevenfold ||| 1192
+Guns N' Roses ||| 1155
+Aerosmith ||| 1106
+Rise Against ||| 1085
+Coheed and Cambria ||| 1024
+Jackson United ||| 883
+The Subways ||| 844
+Bee Gees ||| 822
+Ozzy Osbourne ||| 800
+Legião Urbana ||| 734
+Mr. Big ||| 701
+Iron Maiden ||| 694
+Engenheiros Do Hawaii ||| 679
+Queens of the Stone Age ||| 668
+John Mayer ||| 625
+Pearl Jam ||| 625
+The Letter Black ||| 613
+AC/DC ||| 600
+Jack Johnson ||| 598
+Alter Bridge ||| 585
+Led Zeppelin ||| 574
+The Offspring ||| 573
+Richie Kotzen ||| 543
+Pink Floyd ||| 447
+Lynyrd Skynyrd ||| 428
+Incubus ||| 413
+Alice in Chains ||| 395
+The Who ||| 381
+Audioslave ||| 380
+Black Stone Cherry ||| 369
+Tenacious D ||| 363
+Raimundos ||| 318
+Shinedown ||| 280
+Slipknot ||| 257
+The Clash ||| 255
+Puddle of Mudd ||| 254
+3 Doors Down ||| 252
+Silverchair ||| 247
+Queen ||| 239
+## playcount: 49425

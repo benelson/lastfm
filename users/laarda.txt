@@ -1,0 +1,49 @@
+Sean Lennon ||| 170
+The Beatles ||| 136
+spanish_one ||| 25
+The Kinks ||| 16
+The Tremeloes ||| 14
+Billy's Band ||| 8
+Cat Stevens ||| 8
+The Turtles ||| 7
+Electric Light Orchestra ||| 6
+The Who ||| 6
+Dusty Springfield ||| 5
+Nautilus Pompilius ||| 5
+The Box Tops ||| 5
+Chris Andrews ||| 4
+Cream ||| 4
+Duffy ||| 4
+Herb Alpert and the Tijuana Brass ||| 4
+John Fred & His Playboy Band ||| 4
+Otis Redding ||| 4
+Skeeter Davis ||| 4
+Smokey Robinson and The Miracles ||| 4
+The Easybeats ||| 4
+The Hollies ||| 4
+The McCoys ||| 4
+The Moody Blues, Peter Knight & The London Festival Orchestra ||| 4
+The Supremes ||| 4
+Tommy James & The Shondells ||| 4
+David Bowie ||| 3
+Jr. Walker & The All Stars ||| 3
+La Oreja de Van Gogh ||| 3
+Lorraine Ellison ||| 3
+Martha Reeves & The Vandellas ||| 3
+Paul Jones ||| 3
+Procol Harum ||| 3
+Rose Royce ||| 3
+The Beach Boys ||| 3
+The Bystanders ||| 3
+Бумбокс ||| 3
+Jeff Beck ||| 2
+Livin' Blues ||| 2
+Miriam Stockley ||| 2
+The Isley Brothers ||| 2
+The Jimi Hendrix Experience ||| 2
+Жуки ||| 2
+Scorpions ||| 1
+The Troggs ||| 1
+Крематорий ||| 1
+Смысловые галлюцинации ||| 1
+## playcount: 516

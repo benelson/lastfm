@@ -1,0 +1,51 @@
+Pearl Jam ||| 5035
+Alice in Chains ||| 3025
+Red Hot Chili Peppers ||| 2758
+Garbage ||| 1907
+Jeff Buckley ||| 1833
+PJ Harvey ||| 1748
+Soundgarden ||| 1604
+Led Zeppelin ||| 1570
+Nirvana ||| 1385
+The White Stripes ||| 1304
+John Frusciante ||| 1256
+The Beatles ||| 1087
+The Smashing Pumpkins ||| 1003
+Nine Inch Nails ||| 989
+Jerry Cantrell ||| 970
+Nick Drake ||| 922
+Hole ||| 903
+U2 ||| 851
+Eddie Vedder ||| 836
+The Academy Is... ||| 784
+The Tragically Hip ||| 781
+Blind Melon ||| 730
+The Rolling Stones ||| 673
+Coldplay ||| 605
+Billy Talent ||| 561
+Florence + the Machine ||| 543
+Veruca Salt ||| 532
+Tegan and Sara ||| 487
+Lady Gaga ||| 474
+Queens of the Stone Age ||| 473
+Metallica ||| 456
+The Who ||| 412
+Fiona Apple ||| 400
+L7 ||| 399
+Jack White ||| 358
+The Cranberries ||| 343
+Mother Love Bone ||| 322
+INXS ||| 313
+Radiohead ||| 302
+Stone Temple Pilots ||| 301
+Lana Del Rey ||| 283
+The Doors ||| 280
+AC/DC ||| 276
+Foo Fighters ||| 267
+Temple of the Dog ||| 261
+Beck ||| 253
+Mudhoney ||| 227
+Sonic Youth ||| 222
+Sleigh Bells ||| 204
+Bikini Kill ||| 201
+## playcount: 43709

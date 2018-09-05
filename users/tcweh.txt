@@ -1,0 +1,51 @@
+Queen ||| 8645
+Janet Jackson ||| 8028
+Green Day ||| 6382
+Stevie Wonder ||| 4703
+Amy Winehouse ||| 2938
+Adele ||| 2872
+Oasis ||| 2776
+Mariah Carey ||| 2345
+Alicia Keys ||| 2004
+The Beatles ||| 1795
+Rihanna ||| 1732
+Katy Perry ||| 1694
+Fleetwood Mac ||| 1641
+Jake Bugg ||| 1638
+Beyoncé ||| 1579
+Tina Turner ||| 1494
+Lana Del Rey ||| 1485
+Noel Gallagher's High Flying Birds ||| 1442
+Joni Mitchell ||| 1297
+Madonna ||| 1244
+Britney Spears ||| 1209
+Elton John ||| 1200
+Lady Gaga ||| 1022
+Shannon Noll ||| 897
+P!nk ||| 876
+Whitney Houston ||| 803
+Creed ||| 789
+Pink Floyd ||| 771
+Prince ||| 749
+Nelly Furtado ||| 736
+Ed Sheeran ||| 725
+Marvin Gaye ||| 703
+Alice in Chains ||| 623
+INXS ||| 617
+Shakira ||| 616
+A Day to Remember ||| 613
+Kelly Clarkson ||| 592
+David Bowie ||| 575
+Taylor Swift ||| 558
+Savage Garden ||| 549
+Aretha Franklin ||| 510
+Journey ||| 502
+Shania Twain ||| 469
+Elvis Presley ||| 467
+Miley Cyrus ||| 456
+Jessica Mauboy ||| 434
+Céline Dion ||| 422
+Bruce Springsteen ||| 419
+Xavier Rudd ||| 418
+Gorillaz ||| 416
+## playcount: 77470

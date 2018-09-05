@@ -1,0 +1,51 @@
+The Beatles ||| 7066
+Forgotten Boys ||| 958
+The Doors ||| 915
+The Rolling Stones ||| 858
+Chuck Berry ||| 792
+Cachorro Grande ||| 709
+The Strokes ||| 691
+Bob Dylan ||| 643
+John Lennon ||| 636
+Jerry Lee Lewis ||| 561
+The Kinks ||| 536
+Jimi Hendrix ||| 535
+Albert Hammond, Jr. ||| 524
+Chico Buarque ||| 471
+Kings of Leon ||| 403
+OS BONNIES ||| 393
+Elvis Presley ||| 304
+Johnny Kidd & The Pirates ||| 287
+The Beach Boys ||| 275
+The Velvet Underground ||| 266
+Creedence Clearwater Revival ||| 231
+Stray Cats ||| 231
+Buddy Holly ||| 229
+Johnny Cash ||| 211
+Eddie Cochran ||| 208
+Larry Williams ||| 201
+Frank Zappa ||| 200
+Los Hermanos ||| 196
+Tomorrow ||| 183
+Beck ||| 170
+The Who ||| 168
+Novos Baianos ||| 167
+Shwayze ||| 160
+Carl Perkins ||| 152
+Simon & Garfunkel ||| 142
+The Lovin' Spoonful ||| 136
+Faichecleres ||| 132
+Gene Vincent ||| 126
+The Guess Who ||| 125
+The Vines ||| 119
+Artista desconhecido ||| 112
+Raul Seixas ||| 112
+Jefferson Airplane ||| 103
+Little Richard ||| 103
+B.B. King ||| 97
+Grateful Dead ||| 94
+Júpiter Maçã ||| 94
+The Everly Brothers ||| 94
+Leadbelly ||| 90
+Sonic Youth ||| 89
+## playcount: 22298

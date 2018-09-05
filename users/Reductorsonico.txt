@@ -1,0 +1,51 @@
+Louis Armstrong ||| 3975
+The Beatles ||| 3839
+Sam Phillips ||| 3022
+Bob Dylan ||| 2848
+Yo La Tengo ||| 2751
+The Beautiful South ||| 2693
+Stan Ridgway ||| 2453
+Captain Beefheart & His Magic Band ||| 2331
+Anita O'Day ||| 1750
+The Kinks ||| 1629
+The Smiths ||| 1524
+John Hiatt ||| 1394
+Alex Chilton ||| 1383
+Blossom Dearie ||| 1338
+Holly Cole ||| 1315
+Paul McCartney ||| 1223
+Cracker ||| 1145
+XTC ||| 1136
+Duke Ellington ||| 1003
+Joe Jackson ||| 999
+Stereolab ||| 922
+David Bowie ||| 796
+Paul Weller ||| 752
+Martin Newell ||| 718
+Magazine ||| 714
+Squeeze ||| 691
+Kate Bush ||| 672
+Kurt Elling ||| 670
+Bix Beiderbecke ||| 665
+Life Without Buildings ||| 657
+Roy Eldridge ||| 650
+Glenn Gould ||| 632
+Teenage Fanclub ||| 622
+Dexys Midnight Runners ||| 613
+Lester Young ||| 603
+Louis Prima ||| 597
+Richard Thompson ||| 593
+Ella Fitzgerald ||| 592
+Louis Armstrong & Oscar Peterson ||| 577
+The Jam ||| 571
+Dexys ||| 565
+Les Paul & Mary Ford ||| 551
+Lee Konitz ||| 505
+Bill Frisell ||| 457
+Slow Club ||| 453
+The High Llamas ||| 424
+John Cale ||| 419
+Thelonious Monk ||| 418
+Ahmad Jamal ||| 407
+Django Reinhardt ||| 406
+## playcount: 57663

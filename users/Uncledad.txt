@@ -1,0 +1,51 @@
+Rammstein ||| 499
+Muse ||| 484
+Soilwork ||| 355
+Rage Against the Machine ||| 304
+A Perfect Circle ||| 273
+Foo Fighters ||| 246
+Primal Scream ||| 242
+In Flames ||| 218
+Johnny Cash ||| 196
+System of a Down ||| 194
+Disturbed ||| 180
+Manic Street Preachers ||| 164
+Gogol Bordello ||| 163
+Fear Factory ||| 155
+Coldplay ||| 124
+The Smiths ||| 117
+Sevendust ||| 113
+Gorillaz ||| 109
+Incubus ||| 99
+Killswitch Engage ||| 95
+Static-X ||| 95
+Children of Bodom ||| 85
+Placebo ||| 82
+Reuben ||| 78
+Breaking Benjamin ||| 75
+Pendulum ||| 74
+Strapping Young Lad ||| 69
+Tool ||| 69
+Kings of Leon ||| 52
+Sepultura ||| 52
+Mudvayne ||| 49
+Starcraft ||| 48
+DragonForce ||| 47
+Godsmack ||| 42
+Sikth ||| 40
+Metallica ||| 39
+Creedence Clearwater Revival ||| 34
+[unknown] ||| 33
+Hinder ||| 31
+Spineshank ||| 31
+The Clash ||| 31
+Interpol ||| 29
+Nine Inch Nails ||| 29
+R.E.M. ||| 29
+Him ||| 28
+The Flaming Lips ||| 28
+Keane ||| 27
+The Smashing Pumpkins ||| 27
+Queens of the Stone Age ||| 26
+Tenacious D ||| 26
+## playcount: 5735

@@ -1,0 +1,51 @@
+Sentenced ||| 11666
+Pantera ||| 10666
+Hayko Cepkin ||| 9666
+System of a Down ||| 8666
+Iron Maiden ||| 7666
+Ozzy Osbourne ||| 6666
+Black Sabbath ||| 5666
+Deep Purple ||| 4666
+Apocalyptica ||| 3666
+Led Zeppelin ||| 3666
+Motörhead ||| 3666
+Pink Floyd ||| 3666
+AC/DC ||| 2666
+Alice Cooper ||| 2666
+Megadeth ||| 2666
+Papa Roach ||| 2666
+Linkin Park ||| 2655
+Manowar ||| 2558
+Dope ||| 2381
+30 Seconds to Mars ||| 2364
+Axel Rudi Pell ||| 2228
+Anvil ||| 2069
+Guns N' Roses ||| 2067
+Metallica ||| 1918
+Nirvana ||| 1910
+Avenged Sevenfold ||| 1884
+Dark Tranquillity ||| 1860
+Lamb of God ||| 1849
+Disturbed ||| 1666
+Green Day ||| 1666
+Limp Bizkit ||| 1666
+3 Inches of Blood ||| 1616
+In Flames ||| 1306
+Pearl Jam ||| 1295
+Dream Theater ||| 1266
+The Doors ||| 1217
+Red Hot Chili Peppers ||| 995
+Slipknot ||| 968
+Him ||| 910
+Whitesnake ||| 692
+Gorillaz ||| 666
+Yellowcard ||| 666
+Jimi Hendrix ||| 654
+Black Stone Cherry ||| 527
+Nightwish ||| 483
+The Cranberries ||| 480
+The Offspring ||| 467
+Travis ||| 410
+Burn the Priest ||| 376
+Tenacious D ||| 370
+## playcount: 136761

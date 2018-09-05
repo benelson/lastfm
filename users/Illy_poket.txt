@@ -1,0 +1,51 @@
+Misfits ||| 2307
+Deep Purple ||| 1406
+Alice Cooper ||| 787
+Afterhours ||| 602
+Papa Roach ||| 571
+Rancid ||| 521
+Hardcore Superstar ||| 519
+Bleeding Through ||| 496
+Skiantos ||| 411
+AC/DC ||| 401
+Ska-P ||| 396
+AFI ||| 385
+Ramones ||| 343
+The Chemical Brothers ||| 333
+Thin Lizzy ||| 320
+Daughtry ||| 318
+Skid Row ||| 299
+Vallanzaska ||| 296
+Caliban ||| 287
+Lynyrd Skynyrd ||| 268
+Apocalyptica ||| 241
+La Famiglia Rossi ||| 214
+Mötley Crüe ||| 195
+In Flames ||| 174
+The Prodigy ||| 170
+The Killers ||| 167
+The Blues Brothers ||| 159
+Motörhead ||| 157
+Calabrese ||| 156
+Aerosmith ||| 155
+The Doors ||| 152
+Enigma ||| 148
+Creedence Clearwater Revival ||| 146
+Punkreas ||| 140
+The Donnas ||| 139
+Avenged Sevenfold ||| 127
+Jimi Hendrix ||| 127
+Kiss ||| 127
+The Beatles ||| 120
+Within Temptation ||| 120
+Pendulum ||| 116
+Dire Straits ||| 110
+Dream Theater ||| 107
+Kid Rock ||| 107
+Io?drama ||| 106
+Children of Bodom ||| 105
+Babylon Bombs ||| 96
+Peter Punk ||| 96
+Pink Floyd ||| 95
+Metallica ||| 91
+## playcount: 15429

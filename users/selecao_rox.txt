@@ -1,0 +1,51 @@
+The Beatles ||| 38058
+Simon & Garfunkel ||| 11566
+Paul McCartney ||| 8724
+Elvis Presley ||| 4499
+Bob Dylan ||| 4315
+A.R. Rahman ||| 3797
+Lucky Ali ||| 3580
+Geeta Dutt ||| 3272
+Jefferson Airplane ||| 2922
+The Who ||| 2834
+Eric Clapton ||| 2777
+Pink Floyd ||| 2593
+The Beach Boys ||| 2313
+Mohammed Rafi ||| 2279
+Buddy Holly ||| 2253
+[unknown] ||| 2189
+The Rolling Stones ||| 2161
+Carpenters ||| 2111
+John Lennon ||| 1992
+George Harrison ||| 1973
+Led Zeppelin ||| 1887
+ABBA ||| 1739
+Avril Lavigne ||| 1727
+John Denver ||| 1595
+Madonna ||| 1331
+Don McLean ||| 1311
+Amit Trivedi ||| 1253
+The Doors ||| 1193
+Mohit Chauhan ||| 1186
+Paul Simon ||| 1080
+Janis Joplin ||| 1078
+Lata Mangeshkar ||| 1075
+Queen ||| 1022
+Hemant Kumar ||| 965
+Neil Young ||| 962
+Nirvana ||| 962
+Katy Perry ||| 959
+AC/DC ||| 903
+The Byrds ||| 862
+Lobo ||| 750
+Alka Yagnik, Arijit Singh ||| 739
+Creedence Clearwater Revival ||| 718
+Bob Marley ||| 640
+K.K. ||| 628
+Jaidev ||| 626
+Arijit Singh ||| 613
+Ludwig van Beethoven ||| 600
+Paul McCartney & Wings ||| 598
+Shankar Mahadevan ||| 593
+Aerosmith ||| 589
+## playcount: 136392

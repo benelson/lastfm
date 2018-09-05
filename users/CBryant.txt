@@ -1,0 +1,51 @@
+Frank Sinatra ||| 9297
+Elton John ||| 7249
+Julio Iglesias ||| 4858
+Michael Jackson ||| 4248
+Elvis Presley ||| 3925
+Garth Brooks ||| 3871
+Boston ||| 3853
+Laura Pausini ||| 3748
+Phil Collins ||| 3701
+U2 ||| 3274
+Barry White ||| 3079
+David Bowie ||| 2953
+The Beatles ||| 2879
+Sissel ||| 2714
+Electric Light Orchestra ||| 2664
+Stevie Wonder ||| 2636
+Enrique Iglesias ||| 2599
+Jay-Z ||| 2562
+Leonard Cohen ||| 2529
+Van Halen ||| 2001
+David Guetta ||| 1980
+Rod Stewart ||| 1966
+Queen ||| 1948
+Earth, Wind & Fire ||| 1890
+Rihanna ||| 1866
+Nina Simone ||| 1834
+Barbra Streisand ||| 1771
+Led Zeppelin ||| 1753
+Paul Simon ||| 1743
+Pearl Jam ||| 1738
+Nana Mouskouri ||| 1723
+Eminem ||| 1614
+Justin Bieber ||| 1603
+Billy Joel ||| 1602
+Coldplay ||| 1568
+Bruce Springsteen ||| 1555
+Neil Diamond ||| 1522
+Enya ||| 1517
+Kanye West ||| 1503
+Bee Gees ||| 1497
+Santana ||| 1453
+Whitney Houston ||| 1408
+Robbie Williams ||| 1394
+Maria Mena ||| 1354
+Christina Aguilera ||| 1279
+Supertramp ||| 1259
+Radiohead ||| 1197
+Marco Antonio Solís ||| 1194
+Tina Turner ||| 1184
+Mary J. Blige ||| 1174
+## playcount: 121729

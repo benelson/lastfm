@@ -1,0 +1,51 @@
+Schiller ||| 28
+Jean Michel Jarre ||| 24
+Lana Del Rey ||| 24
+Enigma ||| 18
+Jules Massenet ||| 14
+Ludwig van Beethoven ||| 13
+Amethystium ||| 11
+Delerium ||| 10
+Johannes Brahms ||| 10
+Kitaro ||| 10
+Edvard Grieg ||| 9
+Vangelis ||| 9
+Wolfgang Amadeus Mozart ||| 9
+Achillea ||| 8
+Amy Macdonald ||| 8
+Franz Liszt ||| 8
+Franz Schubert ||| 8
+Johann Sebastian Bach ||| 8
+Pyotr Ilyich Tchaikovsky ||| 8
+Sarah Brightman ||| 8
+Antonio Salieri ||| 7
+Avril Lavigne ||| 7
+Blüchel & von Deylen ||| 7
+Conjure One ||| 7
+Ed Sheeran ||| 7
+Franz Joseph Haydn ||| 7
+Gabriel Fauré ||| 7
+Linkin Park ||| 7
+Mike Oldfield ||| 7
+Schiller mit Heppner ||| 7
+Sergei Prokofiev ||| 7
+Andrea Bocelli ||| 6
+Antonín Dvořák ||| 6
+Carl Maria von Weber ||| 6
+Coldplay ||| 6
+Maurice Ravel ||| 6
+Robert Schumann ||| 6
+Ben Howard ||| 5
+Beyoncé ||| 5
+Evanescence ||| 5
+Felix Mendelssohn ||| 5
+Gregorian ||| 5
+Jean Sibelius ||| 5
+Jens Gad ||| 5
+Jethro Tull ||| 5
+Katherine Jenkins ||| 5
+Mythos ||| 5
+Nickelback ||| 5
+Pietro Mascagni ||| 5
+Richard Wagner ||| 5
+## playcount: 423

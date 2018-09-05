@@ -1,0 +1,51 @@
+Daft Punk ||| 587
+Arcade Fire ||| 494
+Patrick Wolf ||| 459
+Giuseppe Verdi ||| 368
+Crystal Castles ||| 350
+Bloc Party ||| 343
+Hans Zimmer ||| 244
+Gaetano Donizetti ||| 222
+Florence + the Machine ||| 214
+Yann Tiersen ||| 213
+The xx ||| 202
+Sufjan Stevens ||| 196
+Owen Pallett ||| 193
+The Knife ||| 191
+The Chemical Brothers ||| 185
+blink-182 ||| 182
+Barbara Morgenstern ||| 166
+Dario Marianelli ||| 164
+Danny Elfman ||| 158
+Lady Gaga ||| 153
+The Killers ||| 151
+Mumford & Sons ||| 146
+Lamb ||| 144
+Têtes Raides ||| 140
+The Rolling Stones ||| 137
+John Zorn ||| 134
+Madeleine Peyroux ||| 133
+Andrew Bird ||| 128
+Of Monsters and Men ||| 128
+Editors ||| 127
+Thomas Newman ||| 126
+Jacques Offenbach ||| 121
+Beirut ||| 119
+Beach House ||| 113
+Philip Glass ||| 113
+Tom Waits ||| 113
+Texas ||| 110
+Bon Iver ||| 103
+La Roux ||| 102
+Jane Birkin ||| 101
+Kylie Minogue ||| 101
+The Cranberries ||| 100
+Belle and Sebastian ||| 97
+I'm from Barcelona ||| 97
+Alexandre Desplat ||| 96
+Max Gazzè ||| 96
+Cake ||| 94
+The Decemberists ||| 94
+Kate Nash ||| 92
+The Whitest Boy Alive ||| 91
+## playcount: 8731

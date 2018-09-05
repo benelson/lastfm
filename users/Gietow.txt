@@ -1,0 +1,51 @@
+John Mayer ||| 1986
+Foo Fighters ||| 1491
+Coldplay ||| 634
+John Mayer Trio ||| 411
+Jimi Hendrix ||| 280
+Arctic Monkeys ||| 122
+Kings of Leon ||| 103
+Eric Clapton ||| 100
+Gorillaz ||| 83
+Bloc Party ||| 67
+Frank Sinatra ||| 65
+Rage Against the Machine ||| 59
+Pete Philly & Perquisite ||| 57
+The Beatles ||| 51
+The Good, the Bad & the Queen ||| 47
+Cosmic Gate ||| 42
+Overseer ||| 38
+Paramore ||| 37
+The Kooks ||| 36
+Jamie T ||| 35
+Milow ||| 35
+Blur ||| 33
+Netsky ||| 33
+Pendulum ||| 33
+Muse ||| 32
+Red Hot Chili Peppers ||| 32
+Them Crooked Vultures ||| 32
+Tenacious D ||| 28
+U2 ||| 22
+Tiësto ||| 19
+AC/DC ||| 18
+Linkin Park ||| 18
+Junkie XL ||| 17
+The White Stripes ||| 17
+Kubus & BangBang ||| 15
+Jet ||| 13
+C-Mon & Kypski ||| 12
+Queens of the Stone Age ||| 12
+Xzibit ||| 10
+BT ||| 9
+Hans Teeuwen & The Painkillers ||| 9
+Jay-Z ||| 9
+Eminem ||| 8
+Steve Krenz ||| 8
+Eagles ||| 6
+Alien Ant Farm ||| 5
+Anouk ||| 5
+Fluke ||| 5
+Pearl Jam ||| 5
+Audioslave ||| 4
+## playcount: 6248

@@ -1,0 +1,51 @@
+Madonna ||| 8697
+Lady Gaga ||| 6048
+Katy Perry ||| 5962
+P!nk ||| 5273
+Lana Del Rey ||| 4981
+Avril Lavigne ||| 4201
+Kelly Clarkson ||| 4142
+Taylor Swift ||| 3916
+Britney Spears ||| 3471
+Ke$ha ||| 3242
+Fall Out Boy ||| 3009
+Christina Aguilera ||| 2896
+Rihanna ||| 2646
+Mariah Carey ||| 2643
+Shakira ||| 2200
+Gwen Stefani ||| 2032
+Paramore ||| 1874
+Kylie Minogue ||| 1830
+Panic! at the Disco ||| 1830
+Aerosmith ||| 1489
+Cher ||| 1356
+Florence + the Machine ||| 1327
+Ashlee Simpson ||| 1287
+The Killers ||| 1287
+Adele ||| 1122
+Maroon 5 ||| 1115
+The All-American Rejects ||| 1106
+Boys Like Girls ||| 1049
+Sia ||| 1016
+Lily Allen ||| 997
+Halsey ||| 994
+Ariana Grande ||| 964
+Lorde ||| 947
+Ellie Goulding ||| 920
+Amy Winehouse ||| 912
+Beyoncé ||| 908
+Jennifer Lopez ||| 899
+Miley Cyrus ||| 850
+Carly Rae Jepsen ||| 822
+Marina & the Diamonds ||| 810
+Marilyn Manson ||| 802
+Demi Lovato ||| 792
+Dashboard Confessional ||| 780
+AFI ||| 770
+Coldplay ||| 743
+The Veronicas ||| 728
+Little Mix ||| 683
+Alanis Morissette ||| 680
+Evanescence ||| 648
+Green Day ||| 646
+## playcount: 100342

@@ -1,0 +1,51 @@
+The Beatles ||| 11813
+David Bowie ||| 11595
+The Who ||| 7195
+Led Zeppelin ||| 5698
+The Smiths ||| 5689
+The Velvet Underground ||| 4621
+Belle and Sebastian ||| 4450
+Talking Heads ||| 3147
+Genesis ||| 2304
+Arctic Monkeys ||| 2222
+Milton Nascimento ||| 2092
+Pink Floyd ||| 1916
+The Jimi Hendrix Experience ||| 1784
+Oasis ||| 1723
+Bauhaus ||| 1718
+Supergrass ||| 1693
+Caetano Veloso ||| 1614
+Pixies ||| 1590
+The Last Shadow Puppets ||| 1454
+Os Mutantes ||| 1451
+Novos Baianos ||| 1450
+The Beach Boys ||| 1430
+Gentle Giant ||| 1348
+The Doors ||| 1346
+Daft Punk ||| 1210
+Yann Tiersen ||| 1166
+Todd Rundgren ||| 1151
+T. Rex ||| 1115
+Jethro Tull ||| 1071
+Bob Dylan ||| 1063
+MGMT ||| 998
+The Kooks ||| 997
+The Fratellis ||| 935
+Iggy Pop ||| 901
+The Rolling Stones ||| 882
+Nirvana ||| 846
+Nick Drake ||| 821
+Joni Mitchell ||| 815
+The Clash ||| 808
+of Montreal ||| 800
+Jefferson Airplane ||| 772
+Djavan ||| 768
+St. Vincent ||| 707
+The Mothers of Invention ||| 673
+The Strokes ||| 672
+Aerosmith ||| 662
+Sonic Youth ||| 655
+Free ||| 652
+ABBA ||| 650
+Vampire Weekend ||| 573
+## playcount: 103706

@@ -1,0 +1,51 @@
+Rush ||| 3665
+Driller ||| 2970
+Dream Theater ||| 2385
+Kiss ||| 1251
+Van Halen ||| 1218
+Mr. Big ||| 951
+Accept ||| 802
+Queensrÿche ||| 623
+Megadeth ||| 585
+Iron Maiden ||| 478
+The Winery Dogs ||| 459
+AC/DC ||| 432
+Steel Panther ||| 418
+Judas Priest ||| 417
+Anthrax ||| 363
+Winger ||| 339
+James LaBrie ||| 326
+Faith No More ||| 316
+Extreme ||| 312
+Black Sabbath ||| 305
+Animals as Leaders ||| 270
+Red Hot Chili Peppers ||| 266
+Porcupine Tree ||| 263
+Skid Row ||| 241
+Savatage ||| 221
+Living Colour ||| 209
+Annihilator ||| 198
+Dio ||| 196
+Steve Vai ||| 162
+Pantera ||| 145
+Whitesnake ||| 145
+The Police ||| 138
+Racer X ||| 131
+Foo Fighters ||| 110
+The Cult ||| 104
+Symphony X ||| 96
+Metallica ||| 88
+Led Zeppelin ||| 87
+Mötley Crüe ||| 82
+Deep Purple ||| 81
+Coheed and Cambria ||| 75
+Giant ||| 75
+The Scream ||| 72
+Tool ||| 66
+Mastodon ||| 65
+Ozzy Osbourne ||| 65
+Richie Kotzen ||| 64
+Paul Gilbert ||| 59
+Adrenaline Mob ||| 56
+Armored Saint ||| 51
+## playcount: 22496

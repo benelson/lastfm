@@ -1,0 +1,51 @@
+Led Zeppelin ||| 9089
+Queen ||| 3888
+Tom Waits ||| 3420
+Elvis Presley ||| 3206
+The Beatles ||| 2377
+Bob Dylan ||| 1844
+Manic Street Preachers ||| 1504
+Ella Fitzgerald ||| 1318
+Leonard Cohen ||| 1187
+Nirvana ||| 1162
+Pink Floyd ||| 963
+Édith Piaf ||| 922
+Владимир Высоцкий ||| 826
+The Doors ||| 785
+Amy Winehouse ||| 735
+Moby Grape ||| 702
+The Velvet Underground ||| 644
+The Rolling Stones ||| 634
+The Clash ||| 577
+Ramones ||| 516
+Placebo ||| 508
+Jefferson Airplane ||| 499
+The Cure ||| 491
+Leadbelly ||| 439
+Louis Armstrong ||| 405
+Little Richard ||| 351
+The Platters ||| 348
+Chuck Berry ||| 325
+Billy's Band ||| 324
+Joan Baez ||| 312
+Etta James ||| 309
+Janis Joplin ||| 295
+Roy Orbison ||| 291
+Nick Cave & The Bad Seeds ||| 288
+The Smiths ||| 269
+Cream ||| 265
+Howlin' Wolf ||| 258
+Otis Redding ||| 257
+Сплин ||| 254
+Ray Charles ||| 234
+Louis Prima ||| 233
+David Bowie ||| 221
+The Yardbirds ||| 214
+Lynyrd Skynyrd ||| 206
+Shocking Blue ||| 200
+The Kinks ||| 197
+Otis Rush ||| 193
+Guns N' Roses ||| 173
+Zемфира ||| 164
+Cherry Poppin' Daddies ||| 156
+## playcount: 44978

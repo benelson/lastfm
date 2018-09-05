@@ -1,0 +1,51 @@
+Metallica ||| 56726
+Black Sabbath ||| 30082
+In Extremo ||| 28108
+Рубль ||| 25027
+Korpiklaani ||| 24000
+Iron Maiden ||| 23506
+Mercyful Fate ||| 23112
+Ennio Morricone ||| 22001
+King Diamond ||| 20000
+The Offspring ||| 18700
+Ляпис Трубецкой ||| 18479
+Ленинград ||| 18425
+Alestorm ||| 15001
+AC/DC ||| 15000
+Neuro Dubel ||| 13267
+Ozzy Osbourne ||| 13138
+Dio ||| 11409
+Red Hot Chili Peppers ||| 11315
+Megadeth ||| 11069
+Kreator ||| 10900
+Trivium ||| 10471
+Sepultura ||| 10240
+Running Wild ||| 8787
+Machine Head ||| 8600
+Children of Bodom ||| 8570
+Chimaira ||| 8069
+Dezperadoz ||| 7956
+Slipknot ||| 7920
+Iggy Pop ||| 7100
+Beatallica ||| 6990
+Motörhead ||| 6581
+Slayer ||| 5817
+Infected Mushroom ||| 5575
+The Prodigy ||| 5541
+Franz Ferdinand ||| 5516
+Airbourne ||| 5362
+Бригадный Подряд ||| 5082
+Avenged Sevenfold ||| 5054
+Pain ||| 4505
+In Flames ||| 4501
+Сергей Шнуров ||| 4501
+Вася Обломов ||| 4500
+Boney neM ||| 4366
+Blind Guardian ||| 4137
+Kontrust ||| 4102
+Pantera ||| 4084
+System of a Down ||| 3965
+Steppenwolf ||| 3959
+Bloodhound Gang ||| 3860
+Stone Sour ||| 3768
+## playcount: 588744

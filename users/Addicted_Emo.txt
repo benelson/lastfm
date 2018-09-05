@@ -1,0 +1,51 @@
+Iris ||| 3903
+AFI ||| 2926
+Mesh ||| 1961
+Depeche Mode ||| 1843
+Alice in Videoland ||| 1316
+Hawthorne Heights ||| 1258
+Tokio Hotel ||| 1229
+Kent ||| 1195
+Placebo ||| 1152
+Apoptygma Berzerk ||| 1114
+Universal Poplab ||| 1114
+Adam Lambert ||| 1095
+Good Charlotte ||| 937
+My Chemical Romance ||| 854
+Celldweller ||| 781
+30 Seconds to Mars ||| 777
+mind.in.a.box ||| 754
+The Bravery ||| 747
+増田俊郎 ||| 736
+And One ||| 690
+Assemblage 23 ||| 658
+Killerpilze ||| 654
+Green Day ||| 650
+IAMX ||| 634
+Jesse McCartney ||| 634
+Eminem ||| 605
+Robbie Williams ||| 566
+Zeromancer ||| 553
+Kings of Leon ||| 527
+Timo Räisänen ||| 524
+Calvin Harris ||| 511
+The All-American Rejects ||| 506
+Laleh ||| 475
+Papa Roach ||| 468
+Bring Me the Horizon ||| 461
+The Birthday Massacre ||| 455
+White Lies ||| 443
+Lady Gaga ||| 413
+Suede ||| 412
+S.P.O.C.K ||| 409
+Michael Bublé ||| 399
+Simon Curtis ||| 373
+Britney Spears ||| 372
+Elenette ||| 371
+Otep ||| 359
+Lafee ||| 346
+Söderut ||| 343
+Saft ||| 337
+Parken ||| 320
+Limp Bizkit ||| 312
+## playcount: 40472

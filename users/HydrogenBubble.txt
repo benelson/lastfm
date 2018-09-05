@@ -1,0 +1,51 @@
+Elliott Smith ||| 1774
+Nine Inch Nails ||| 1376
+Kings of Leon ||| 1280
+Foo Fighters ||| 1272
+Thrice ||| 1204
+Arctic Monkeys ||| 924
+Muse ||| 824
+The Strokes ||| 781
+Radiohead ||| 733
+The Dresden Dolls ||| 712
+Queens of the Stone Age ||| 693
+The Cure ||| 653
+Tori Amos ||| 583
+The Killers ||| 582
+Alexisonfire ||| 579
+30 Seconds to Mars ||| 571
+Amanda Palmer ||| 546
+Bright Eyes ||| 537
+Biffy Clyro ||| 527
+Arcade Fire ||| 525
+Saul Williams ||| 491
+Placebo ||| 488
+Ladytron ||| 487
+Bon Iver ||| 478
+Jimmy Eat World ||| 476
+Pixies ||| 455
+Eels ||| 448
+Sigur Rós ||| 426
+Crystal Castles ||| 424
+Mando Diao ||| 423
+Weezer ||| 402
+Jeff Buckley ||| 384
+PJ Harvey ||| 376
+Cat Power ||| 362
+múm ||| 361
+Damien Rice ||| 360
+Oceansize ||| 352
+Queen ||| 312
+Rise Against ||| 304
+The Dillinger Escape Plan ||| 296
+Florence + the Machine ||| 288
+Plaid ||| 268
+Death Cab for Cutie ||| 257
+The Kills ||| 249
+Simon & Garfunkel ||| 245
+David Bowie ||| 225
+Pulp ||| 211
+Zaz ||| 209
+A Perfect Circle ||| 207
+The National ||| 197
+## playcount: 27137

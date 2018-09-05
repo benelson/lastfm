@@ -1,0 +1,51 @@
+U2 ||| 14693
+Red Hot Chili Peppers ||| 13940
+Muse ||| 9162
+Coldplay ||| 7934
+John Frusciante ||| 4567
+Florence + the Machine ||| 3820
+Mika ||| 2512
+System of a Down ||| 2427
+Lady Gaga ||| 2226
+Foster the People ||| 1778
+Imagine Dragons ||| 1670
+Royal Blood ||| 1415
+Arctic Monkeys ||| 1407
+Phoenix ||| 1302
+The Ting Tings ||| 1261
+Audioslave ||| 1214
+The Strokes ||| 1169
+Metallica ||| 1129
+Linkin Park ||| 1106
+Justin Timberlake ||| 1065
+Kaiser Chiefs ||| 1022
+Bastille ||| 1015
+P!nk ||| 992
+Lianne La Havas ||| 910
+Elbow ||| 845
+Justice ||| 835
+David Guetta ||| 793
+The Jimi Hendrix Experience ||| 719
+Mumford & Sons ||| 699
+Panic! at the Disco ||| 627
+Pitty ||| 495
+Queens of the Stone Age ||| 395
+R.E.M. ||| 384
+Daft Punk ||| 380
+Romano ||| 378
+Maroon 5 ||| 337
+Hide ||| 303
+Evanescence ||| 292
+Nightwish ||| 281
+Steve Vai ||| 276
+blink-182 ||| 271
+Nickelback ||| 267
+Bono ||| 244
+Bat for Lashes ||| 233
+Deftones ||| 229
+Robbie Williams ||| 228
+Franz Ferdinand ||| 171
+Jimi Hendrix ||| 165
+Jamiroquai ||| 156
+Hollywood Vampires ||| 138
+## playcount: 89877

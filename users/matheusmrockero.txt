@@ -1,0 +1,51 @@
+Megadeth ||| 1623
+Anthrax ||| 516
+Sepultura ||| 329
+Metallica ||| 312
+Death ||| 281
+Raimundos ||| 279
+Exodus ||| 277
+Slayer ||| 271
+Pantera ||| 218
+Overkill ||| 152
+Motörhead ||| 140
+Nuclear Assault ||| 121
+Sublime ||| 121
+Ratos De Porão ||| 119
+Testament ||| 119
+Kreator ||| 114
+Destruction ||| 112
+Iron Maiden ||| 92
+Eidolon ||| 86
+Gama Bomb ||| 86
+Deep Purple ||| 61
+Annihilator ||| 59
+S.O.D. ||| 55
+AC/DC ||| 53
+Ultraje A Rigor ||| 51
+Nirvana ||| 50
+Master ||| 48
+Municipal Waste ||| 48
+Cavalera Conspiracy ||| 45
+Tankard ||| 42
+Sodom ||| 40
+Kiss ||| 39
+Judas Priest ||| 36
+Led Zeppelin ||| 35
+Venom ||| 31
+Damageplan ||| 29
+Down ||| 28
+Vio-Lence ||| 24
+Diamond Head ||| 23
+The Exploited ||| 23
+Control Denied ||| 21
+[unknown] ||| 21
+Alice in Chains ||| 18
+Matanza ||| 17
+Voodoocult ||| 17
+Cannibal Corpse ||| 15
+Korzus ||| 15
+Lynyrd Skynyrd ||| 15
+Children of Bodom ||| 14
+Lou Reed & Metallica ||| 14
+## playcount: 6355

@@ -1,0 +1,51 @@
+The Beatles ||| 2817
+Pink Floyd ||| 2625
+John Mayer ||| 2294
+Coldplay ||| 1889
+Queen ||| 1560
+Bryan Adams ||| 1436
+Eric Clapton ||| 1349
+Led Zeppelin ||| 1281
+AC/DC ||| 1075
+Creedence Clearwater Revival ||| 1052
+The Rolling Stones ||| 991
+Dire Straits ||| 969
+Van Halen ||| 923
+Aerosmith ||| 917
+Leonard Cohen ||| 780
+Def Leppard ||| 771
+Jethro Tull ||| 768
+Johnny Cash ||| 745
+Santana ||| 699
+Red Hot Chili Peppers ||| 686
+Bob Dylan ||| 672
+Simon & Garfunkel ||| 665
+Elton John ||| 621
+Bruce Springsteen ||| 589
+Michael Jackson ||| 583
+The Majestic Orchestra ||| 574
+Muse ||| 565
+Madonna ||| 546
+John Lennon ||| 539
+Bob Marley ||| 536
+Bon Jovi ||| 508
+Lobo ||| 467
+Robbie Williams ||| 465
+Jason Mraz ||| 464
+U2 ||| 456
+Jimi Hendrix ||| 451
+The Who ||| 441
+Norah Jones ||| 434
+Guns N' Roses ||| 421
+Gorillaz ||| 416
+Michael Bublè ||| 391
+The Black Keys ||| 387
+Collective Soul ||| 385
+Moby ||| 380
+Kenny G ||| 372
+Enya ||| 369
+Pet Shop Boys ||| 364
+Joe Satriani ||| 350
+ZZ Top ||| 346
+Third Eye Blind ||| 334
+## playcount: 39718

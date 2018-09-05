@@ -1,0 +1,51 @@
+Sum 41 ||| 2249
+Yellowcard ||| 1768
+The Kooks ||| 1506
+Avril Lavigne ||| 1109
+The Hives ||| 1048
+Marina & the Diamonds ||| 1024
+Glasvegas ||| 983
+Gob ||| 948
+Green Day ||| 817
+My Chemical Romance ||| 781
+Eagles of Death Metal ||| 753
+Katy Perry ||| 689
+Paramore ||| 684
+Arctic Monkeys ||| 635
+The White Stripes ||| 566
+Yiruma ||| 483
+The Sounds ||| 473
+Kings of Leon ||| 467
+blink-182 ||| 444
+Ramin Djawadi ||| 430
+Pereza ||| 353
+Foster the People ||| 348
+Kasabian ||| 341
+Fall Out Boy ||| 337
+Papa Topo ||| 332
+Taylor Swift ||| 328
+Fragile Things ||| 324
+Neon Trees ||| 317
+Dikers ||| 276
+Hit the Lights ||| 274
+MGMT ||| 252
+The Flatliners ||| 244
+Busted ||| 242
+Crystal Fighters ||| 224
+Lori Meyers ||| 222
+Rage Against the Machine ||| 218
+René ||| 207
+Four Year Strong ||| 205
+NACH ||| 201
+Imagine Dragons ||| 198
+The Fray ||| 180
+Hey Monday ||| 178
+Florence + the Machine ||| 170
+Two Door Cinema Club ||| 168
+Mika ||| 166
+The Offspring ||| 155
+The Black Keys ||| 153
+Feeder ||| 151
+Capital Cities ||| 145
+Vampire Weekend ||| 142
+## playcount: 24908

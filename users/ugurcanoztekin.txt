@@ -1,0 +1,51 @@
+Bob Dylan ||| 493
+Igor Stravinsky ||| 470
+Nick Drake ||| 468
+Frédéric Chopin ||| 432
+Esbjörn Svensson Trio ||| 395
+Billie Holiday ||| 379
+Jeff Buckley ||| 372
+The Beatles ||| 360
+Pink Floyd ||| 356
+Glenn Gould ||| 346
+Giacinto Scelsi ||| 333
+Deep Purple ||| 305
+John Mayer ||| 264
+The Doors ||| 249
+Miles Davis ||| 230
+Don Airey ||| 226
+Jamie Cullum ||| 222
+Alex Beaupain ||| 221
+Burial ||| 209
+Wolfgang Amadeus Mozart ||| 199
+Emerson, Lake & Palmer ||| 191
+Norah Jones ||| 191
+Jamiroquai ||| 186
+Mr. Big ||| 186
+Beyoncé ||| 183
+Radiohead ||| 182
+The Alan Parsons Project ||| 182
+Weather Report ||| 181
+Michael Jackson ||| 179
+Ludwig van Beethoven ||| 166
+Yavuz Çetin ||| 166
+Coldplay ||| 155
+Mika ||| 150
+Led Zeppelin ||| 140
+The xx ||| 134
+Claude Debussy ||| 133
+Niacin ||| 133
+Toto ||| 130
+Van Halen ||| 129
+Rush ||| 127
+Steve Vai ||| 127
+Queen ||| 126
+The White Stripes ||| 125
+Stanley Clarke ||| 119
+Sergei Rachmaninoff ||| 111
+Carole King ||| 108
+Frank Sinatra ||| 108
+Erik Truffaz ||| 105
+The Rolling Stones ||| 104
+Journey ||| 103
+## playcount: 10889

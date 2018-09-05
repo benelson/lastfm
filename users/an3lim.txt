@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 1591
+The Beatles ||| 1198
+The Kooks ||| 1041
+Two Door Cinema Club ||| 908
+Red Hot Chili Peppers ||| 848
+Los Hermanos ||| 781
+Jake Bugg ||| 414
+Franz Ferdinand ||| 375
+The Killers ||| 342
+The Black Keys ||| 261
+The Wombats ||| 250
+Mika ||| 245
+Little Mix ||| 213
+The Maine ||| 194
+Cage the Elephant ||| 192
+The Strokes ||| 179
+Lana Del Rey ||| 176
+Apanhador Só ||| 146
+Phoenix ||| 143
+Foo Fighters ||| 138
+Marina & the Diamonds ||| 136
+The Pretty Reckless ||| 125
+Lorde ||| 120
+Florence + the Machine ||| 110
+Jet ||| 103
+The Fratellis ||| 97
+Coldplay ||| 91
+Eliza Doolittle ||| 90
+Imagine Dragons ||| 83
+Kaiser Chiefs ||| 83
+Clarice Falcão ||| 77
+Ellie Goulding ||| 77
+Neon Trees ||| 76
+Beyoncé ||| 67
+The Neighbourhood ||| 67
+Foster the People ||| 65
+The Smiths ||| 60
+Ed Sheeran ||| 58
+Tegan and Sara ||| 57
+Adele ||| 55
+Regina Spektor ||| 52
+Miles Kane ||| 46
+Kimya Dawson ||| 39
+Wolfmother ||| 32
+OK Go ||| 31
+Capital Cities ||| 30
+Amy Winehouse ||| 26
+Bon Iver ||| 25
+The Cure ||| 23
+Bastille ||| 22
+## playcount: 11658

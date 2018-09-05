@@ -1,0 +1,51 @@
+Alanis Morissette ||| 20522
+Britney Spears ||| 18149
+Beyoncé ||| 15677
+Katy Perry ||| 15468
+Taylor Swift ||| 14546
+Christina Aguilera ||| 11546
+Adele ||| 10041
+Gwen Stefani ||| 9281
+Sia ||| 8974
+Lady Gaga ||| 8488
+Lily Allen ||| 8199
+Ariana Grande ||| 8158
+Rihanna ||| 7942
+Demi Lovato ||| 7197
+P!nk ||| 6887
+Selena Gomez ||| 6222
+Amy Winehouse ||| 6202
+Kelly Clarkson ||| 6171
+Mariah Carey ||| 5845
+Miley Cyrus ||| 5671
+Lorde ||| 5307
+Ed Sheeran ||| 5260
+Madonna ||| 5121
+Alicia Keys ||| 5023
+Shawn Mendes ||| 4962
+Sara Bareilles ||| 4811
+Carly Rae Jepsen ||| 4684
+Kylie Minogue ||| 4586
+Halsey ||| 4420
+Meghan Trainor ||| 4323
+Fifth Harmony ||| 3565
+Dua Lipa ||| 3237
+Skylar Grey ||| 3167
+KT Tunstall ||| 3153
+Jessie J ||| 3150
+Natasha Bedingfield ||| 3147
+Ke$ha ||| 2935
+Tove Lo ||| 2865
+Alessia Cara ||| 2762
+Troye Sivan ||| 2734
+Ellie Goulding ||| 2680
+Camila Cabello ||| 2597
+Little Mix ||| 2502
+Marina & the Diamonds ||| 2445
+Hailee Steinfeld ||| 2441
+Ingrid Michaelson ||| 2422
+Melanie Martinez ||| 2406
+Christina Perri ||| 2389
+Hilary Duff ||| 2374
+Rachel Platten ||| 2357
+## playcount: 305011

@@ -1,0 +1,51 @@
+Mike Peralta ||| 330
+Simon & Garfunkel ||| 81
+Iron & Wine ||| 76
+Jack Johnson ||| 76
+Howie Day ||| 75
+Bob Dylan ||| 71
+Boyce Avenue ||| 66
+Jason Mraz ||| 65
+Ed Sheeran ||| 63
+James Blunt ||| 62
+Mumford & Sons ||| 61
+Passenger ||| 59
+John Mayer ||| 58
+Kendrick Lamar ||| 20
+Taylor Swift ||| 19
+Death Grips ||| 15
+Radiohead ||| 15
+Run the Jewels ||| 15
+FKA twigs ||| 14
+Sufjan Stevens ||| 13
+Drake ||| 11
+Led Zeppelin ||| 11
+Arctic Monkeys ||| 9
+Vince Staples ||| 9
+Florence %2B The Machine ||| 8
+Purity Ring ||| 8
+Azealia Banks ||| 7
+Charli XCX ||| 7
+D'Angelo ||| 7
+Flying Lotus ||| 7
+Neutral Milk Hotel ||| 7
+Nicki Minaj ||| 7
+A$AP Rocky ||| 6
+Carly Rae Jepsen ||| 6
+Earl Sweatshirt ||| 6
+Foo Fighters ||| 6
+Lorde ||| 6
+Miguel ||| 6
+Nirvana ||| 6
+Pink Floyd ||| 6
+Sia ||| 6
+Ariel Pink ||| 5
+Bon Iver ||| 5
+CHVRCHES ||| 5
+Father John Misty ||| 5
+Lana Del Rey ||| 5
+Maroon 5 ||| 5
+Modest Mouse ||| 5
+Tame Impala ||| 5
+Vance Joy ||| 5
+## playcount: 1451

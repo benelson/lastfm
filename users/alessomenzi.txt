@@ -1,0 +1,51 @@
+Oasis ||| 1261
+Metallica ||| 959
+Pink Floyd ||| 759
+Joy Division ||| 656
+Alice in Chains ||| 625
+blink-182 ||| 610
+The Kooks ||| 568
+The Cure ||| 520
+Green Day ||| 514
+The Smiths ||| 489
+Carcass ||| 431
+Led Zeppelin ||| 418
+Nazareth ||| 346
+Megadeth ||| 345
+Pantera ||| 314
+Jake Bugg ||| 308
+John Frusciante ||| 303
+Sticky Fingers ||| 297
+The White Stripes ||| 294
+Red Hot Chili Peppers ||| 283
+Lana Del Rey ||| 281
+Jack White ||| 278
+Mac DeMarco ||| 264
+The Replacements ||| 256
+Rammstein ||| 243
+Kasabian ||| 241
+Tame Impala ||| 231
+The Distillers ||| 218
+Misfits ||| 204
+Silverchair ||| 196
+The Clash ||| 195
+Arctic Monkeys ||| 192
+Mastodon ||| 176
+Black Sabbath ||| 175
+The Maine ||| 174
+Bad Religion ||| 173
+Nirvana ||| 165
+MGMT ||| 164
+U2 ||| 163
+The Fratellis ||| 153
+The Strokes ||| 150
+James Bay ||| 149
+The Rolling Stones ||| 149
+Pearl Jam ||| 147
+The Beatles ||| 145
+The xx ||| 145
+Dire Straits ||| 142
+Iron Maiden ||| 138
+Ozzy Osbourne ||| 137
+Radiohead ||| 128
+## playcount: 15872

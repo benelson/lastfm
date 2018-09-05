@@ -1,0 +1,51 @@
+Bruce Springsteen ||| 3872
+The Beatles ||| 3805
+The Gaslight Anthem ||| 1879
+Nirvana ||| 1514
+Eminem ||| 1485
+Queen ||| 1450
+Arctic Monkeys ||| 1447
+The Killers ||| 1373
+Elton John ||| 1326
+Oasis ||| 1221
+U2 ||| 1113
+Big Star ||| 1070
+Drive-By Truckers ||| 1054
+Mando Diao ||| 1035
+Paul McCartney ||| 1029
+The Strokes ||| 973
+Green Day ||| 798
+Counting Crows ||| 768
+Andrew Lloyd Webber ||| 744
+Led Zeppelin ||| 740
+Guns N' Roses ||| 712
+The Libertines ||| 703
+Silverchair ||| 617
+Ryan Adams ||| 616
+Lynyrd Skynyrd ||| 613
+The Hold Steady ||| 594
+Kid Rock ||| 573
+Kings of Leon ||| 537
+Black Sabbath ||| 533
+The Hives ||| 502
+Alter Bridge ||| 498
+Wilco ||| 469
+Chris Cornell ||| 465
+Foo Fighters ||| 455
+The Redwalls ||| 449
+Alice in Chains ||| 446
+Jet ||| 442
+Lucero ||| 432
+Dio ||| 430
+Shooter Jennings ||| 404
+The Black Keys ||| 398
+Stone Temple Pilots ||| 386
+The Last Shadow Puppets ||| 382
+Everlast ||| 381
+Dropkick Murphys ||| 371
+Alan Menken ||| 366
+Coldplay ||| 366
+The White Stripes ||| 360
+The Who ||| 360
+The Vines ||| 354
+## playcount: 42910

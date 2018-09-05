@@ -1,0 +1,51 @@
+Rush ||| 4236
+Dream Theater ||| 2245
+Angra ||| 1725
+Sun Kil Moon ||| 1601
+Opeth ||| 1518
+The Strokes ||| 1255
+Jack Johnson ||| 1251
+King Crimson ||| 1192
+Eric Clapton ||| 1107
+The Beach Boys ||| 1085
+The White Stripes ||| 1081
+Simon & Garfunkel ||| 1012
+The Beatles ||| 992
+Ghost ||| 988
+Kanye West ||| 934
+blink-182 ||| 932
+Talking Heads ||| 862
+Porcupine Tree ||| 849
+David Bowie ||| 840
+Apanhador Só ||| 807
+Yes ||| 799
+Gogol Bordello ||| 706
+Sepultura ||| 701
+Chico Buarque ||| 650
+Antônio Carlos Jobim ||| 644
+Los Hermanos ||| 615
+Coheed and Cambria ||| 561
+Metallica ||| 539
+Ramones ||| 505
+Explosions in the Sky ||| 484
+Macaco Bong ||| 462
+Blind Guardian ||| 457
+Queen ||| 456
+Steven Wilson ||| 427
+Tenacious D ||| 413
+O Teatro Mágico ||| 406
+Hangar ||| 403
+Elliott Smith ||| 399
+Tycho ||| 398
+Pink Floyd ||| 390
+Megadeth ||| 383
+Viper ||| 362
+Bob Dylan ||| 357
+Genesis ||| 356
+Sabonetes ||| 353
+Engenheiros Do Hawaii ||| 342
+Helios ||| 324
+Andy McKee ||| 320
+Sufjan Stevens ||| 310
+Black Sabbath ||| 309
+## playcount: 40343

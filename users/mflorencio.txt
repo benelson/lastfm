@@ -1,0 +1,51 @@
+Katy Perry ||| 3519
+Anitta ||| 2266
+Britney Spears ||| 1733
+Miley Cyrus ||| 1619
+Selena Gomez ||| 1505
+Beyoncé ||| 1192
+Rihanna ||| 1048
+Camila Cabello ||| 863
+Carly Rae Jepsen ||| 858
+Madonna ||| 814
+Taylor Swift ||| 809
+Troye Sivan ||| 806
+Ariana Grande ||| 800
+Imagine Dragons ||| 791
+Lady Gaga ||| 727
+Justin Bieber ||| 715
+Maroon 5 ||| 663
+Years & Years ||| 648
+Fifth Harmony ||| 639
+Silva ||| 639
+JoJo ||| 619
+Demi Lovato ||| 608
+Nick Jonas ||| 566
+Zayn ||| 560
+IZA ||| 559
+Tiago Iorc ||| 555
+The Weeknd ||| 535
+Ludmilla ||| 516
+Tove Lo ||| 497
+Nicki Minaj ||| 496
+Jão ||| 474
+Little Mix ||| 467
+Coldplay ||| 443
+Pabllo Vittar ||| 435
+Shawn Mendes ||| 426
+James Bay ||| 416
+Ed Sheeran ||| 404
+Luan Santana ||| 403
+OneRepublic ||| 399
+Ellie Goulding ||| 390
+Ke$ha ||| 376
+Bruno Mars ||| 374
+John Mayer ||| 370
+Glee Cast ||| 366
+Hailee Steinfeld ||| 322
+Jennifer Lopez ||| 313
+Christina Aguilera ||| 312
+Meghan Trainor ||| 310
+<Artista Desconhecido> ||| 309
+Lorde ||| 309
+## playcount: 35783

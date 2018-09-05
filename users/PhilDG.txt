@@ -1,0 +1,51 @@
+AC/DC ||| 2801
+Foo Fighters ||| 2779
+Pearl Jam ||| 2777
+Iron Maiden ||| 2292
+The White Stripes ||| 2223
+Red Hot Chili Peppers ||| 2173
+Kings of Leon ||| 1928
+Black Sabbath ||| 1911
+Alice in Chains ||| 1860
+Aerosmith ||| 1799
+The Rolling Stones ||| 1779
+Queens of the Stone Age ||| 1490
+Metallica ||| 1430
+Led Zeppelin ||| 1427
+UFO ||| 1315
+Deep Purple ||| 1206
+Bob Dylan ||| 1188
+R.E.M. ||| 1175
+Judas Priest ||| 1068
+Guns N' Roses ||| 1003
+Alice Cooper ||| 998
+Green Day ||| 984
+Wolfmother ||| 963
+Motörhead ||| 902
+Nirvana ||| 840
+Kiss ||| 829
+Thin Lizzy ||| 805
+Scorpions ||| 787
+Feeder ||| 751
+Suede ||| 749
+Queen ||| 748
+The Beatles ||| 703
+The Jimi Hendrix Experience ||| 674
+Ash ||| 649
+The Cribs ||| 649
+Audioslave ||| 606
+Black Stone Cherry ||| 593
+Them Crooked Vultures ||| 570
+Creedence Clearwater Revival ||| 568
+Razorlight ||| 548
+Elvis Presley ||| 546
+Mötley Crüe ||| 525
+Lynyrd Skynyrd ||| 513
+Stone Temple Pilots ||| 476
+Airbourne ||| 460
+Dio ||| 447
+Buckcherry ||| 435
+Rainbow ||| 422
+Shed Seven ||| 420
+Saxon ||| 405
+## playcount: 55189

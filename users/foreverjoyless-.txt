@@ -1,0 +1,51 @@
+Florence + the Machine ||| 1880
+Pink Floyd ||| 1521
+Nirvana ||| 1340
+Depeche Mode ||| 1092
+Led Zeppelin ||| 906
+The Killers ||| 846
+Dead Can Dance ||| 609
+The Beatles ||| 464
+The Doors ||| 430
+Enya ||| 425
+Coldplay ||| 419
+Loreena McKennitt ||| 405
+Norah Jones ||| 396
+Evanescence ||| 368
+Linkin Park ||| 343
+Adele ||| 315
+The Rolling Stones ||| 299
+Snow Patrol ||| 265
+Arctic Monkeys ||| 261
+Lana Del Rey ||| 250
+Hole ||| 220
+Lykke Li ||| 210
+Oasis ||| 199
+AC/DC ||| 191
+Howard Shore ||| 181
+The Smiths ||| 178
+The Velvet Underground ||| 178
+Myslovitz ||| 176
+Alice in Chains ||| 157
+Bat for Lashes ||| 157
+30 Seconds to Mars ||| 155
+Secret Garden ||| 145
+Two Steps from Hell ||| 145
+Azam Ali ||| 143
+Queen ||| 132
+Kings of Leon ||| 130
+Green Day ||| 129
+Irfan ||| 127
+Hans Zimmer ||| 122
+U2 ||| 116
+Warpaint ||| 108
+Björk ||| 105
+The Who ||| 105
+Mariah Carey ||| 103
+Pearl Jam ||| 103
+Avril Lavigne ||| 102
+Foster the People ||| 99
+The Stone Roses ||| 99
+Banks ||| 98
+Leona Lewis ||| 97
+## playcount: 17044

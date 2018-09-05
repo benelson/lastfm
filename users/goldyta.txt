@@ -1,0 +1,15 @@
+The Doors ||| 180
+Dire Straits ||| 46
+The Rolling Stones ||| 38
+Mark Knopfler ||| 31
+ZZ Top ||| 29
+Aerosmith ||| 27
+The Police ||| 24
+Cream ||| 22
+Foreigner ||| 22
+Fleetwood Mac ||| 21
+Lynyrd Skynyrd ||| 19
+Queen ||| 17
+Jimi Hendrix ||| 11
+Supertramp ||| 2
+## playcount: 489

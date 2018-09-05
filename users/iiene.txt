@@ -1,0 +1,51 @@
+Foo Fighters ||| 627
+Jamiroquai ||| 414
+3 Doors Down ||| 317
+Muse ||| 301
+Mumford & Sons ||| 270
+Emeli Sandé ||| 265
+Rudimental ||| 251
+Arsenal ||| 236
+Coldplay ||| 228
+Two Door Cinema Club ||| 221
+Arctic Monkeys ||| 201
+John Newman ||| 195
+Jessie J ||| 183
+Parov Stelar ||| 171
+Of Monsters and Men ||| 169
+Katy B ||| 168
+Jimmy Eat World ||| 164
+Ed Sheeran ||| 159
+Queens of the Stone Age ||| 157
+Macklemore ||| 156
+Adele ||| 147
+Robyn ||| 147
+Stromae ||| 145
+Editors ||| 143
+Kings of Leon ||| 143
+Justin Timberlake ||| 142
+Jack Johnson ||| 134
+Rihanna ||| 134
+Pharrell Williams ||| 130
+Netsky ||| 128
+The Kooks ||| 123
+Tokyo Police Club ||| 114
+Major Lazer ||| 112
+Papa Roach ||| 111
+Lenny Kravitz ||| 108
+Vampire Weekend ||| 108
+The Killers ||| 106
+Ben Howard ||| 102
+Oasis ||| 100
+Bloc Party ||| 95
+Sum 41 ||| 95
+El Tattoo del Tigre ||| 92
+The Wombats ||| 92
+Foxes ||| 91
+Miles Kane ||| 91
+Hurts ||| 90
+Rodrigo y Gabriela ||| 90
+The Pigeon Detectives ||| 86
+John Legend ||| 84
+Basement Jaxx ||| 83
+## playcount: 8219

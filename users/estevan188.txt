@@ -1,0 +1,51 @@
+Rihanna ||| 49047
+David Bowie ||| 47993
+Christina Aguilera ||| 30643
+Katy Perry ||| 26855
+Muse ||| 20513
+Michael Jackson ||| 20177
+Lana Del Rey ||| 18513
+Sia ||| 18207
+Madonna ||| 14689
+Miley Cyrus ||| 13177
+Rammstein ||| 13058
+Justin Timberlake ||| 12063
+Beyoncé ||| 11930
+Avril Lavigne ||| 9508
+David Guetta ||| 8731
+Bastille ||| 8436
+Florence + the Machine ||| 7540
+Bryan Adams ||| 6987
+Jake Bugg ||| 6312
+Hurts ||| 6206
+P!nk ||| 4518
+Darin ||| 3857
+Eric Saade ||| 3465
+Arcade Fire ||| 3395
+One Direction ||| 3341
+Kylie Minogue ||| 3321
+Britney Spears ||| 3150
+Adam Lambert ||| 2197
+The Saturdays ||| 1612
+OneRepublic ||| 1542
+Natalia Kills ||| 1485
+Nicole Scherzinger ||| 1476
+Nicki Minaj ||| 1314
+Enrique Iglesias ||| 1266
+CHVRCHES ||| 1255
+Shayne Ward ||| 1068
+Foster the People ||| 996
+Lady Gaga ||| 873
+Maroon 5 ||| 741
+Slash ||| 725
+David Archuleta ||| 715
+Billy Idol ||| 672
+The Wanted ||| 574
+Conor Maynard ||| 539
+Selena Gomez ||| 518
+Elvis Presley ||| 508
+Justin Bieber ||| 480
+Taio Cruz ||| 469
+Bruno Mars ||| 440
+Coldplay ||| 439
+## playcount: 397536

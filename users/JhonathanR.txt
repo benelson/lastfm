@@ -1,0 +1,51 @@
+Lady Gaga ||| 183182
+Amy Winehouse ||| 5436
+Marisa Monte ||| 895
+Foo Fighters ||| 430
+Arctic Monkeys ||| 303
+Michael Jackson ||| 275
+Duffy ||| 258
+McFly ||| 242
+Christina Aguilera ||| 236
+Delta Goodrem ||| 235
+Gossip ||| 197
+OneRepublic ||| 190
+Dionne Bromfield ||| 189
+Lana Del Rey ||| 189
+Laura Pausini ||| 181
+Scissor Sisters ||| 160
+John Mayer ||| 155
+Hurts ||| 137
+Nicki Minaj ||| 136
+Beyoncé ||| 129
+Emeli Sandé ||| 125
+Rihanna ||| 123
+Katy Perry ||| 120
+Serge Gainsbourg ||| 120
+Olly Murs ||| 117
+Legião Urbana ||| 105
+Adele ||| 101
+Nelly Furtado ||| 94
+Cássia Eller ||| 93
+P!nk ||| 92
+Céline Dion ||| 90
+Shakira ||| 89
+Nirvana ||| 86
+One Direction ||| 83
+Wanessa ||| 83
+Snow Patrol ||| 78
+Paloma Faith ||| 76
+Ivete Sangalo ||| 74
+fun. ||| 73
+Bruno Mars ||| 70
+Eliza Doolittle ||| 69
+Aerosmith ||| 66
+Green Day ||| 65
+Maroon 5 ||| 65
+Ozzy Osbourne ||| 63
+Linkin Park ||| 60
+Madonna ||| 60
+Andrea Bocelli ||| 59
+Alanis Morissette ||| 58
+Ellie Goulding ||| 57
+## playcount: 195669

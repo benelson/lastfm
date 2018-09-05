@@ -1,0 +1,51 @@
+Lana Del Rey ||| 5937
+The xx ||| 2659
+Paramore ||| 2233
+Crystal Castles ||| 1654
+HAIM ||| 1384
+Metronomy ||| 1322
+Lorde ||| 1250
+Foals ||| 1158
+Lady Gaga ||| 1083
+Placebo ||| 1036
+Florence + the Machine ||| 1023
+Grimes ||| 982
+Taylor Swift ||| 920
+alt-J ||| 891
+Interpol ||| 794
+Hello Seahorse! ||| 774
+Mumford & Sons ||| 762
+Adele ||| 698
+Ariana Grande ||| 698
+Rihanna ||| 680
+Amy Winehouse ||| 668
+Coldplay ||| 668
+CHVRCHES ||| 639
+Daft Punk ||| 633
+Calvin Harris ||| 626
+The Neighbourhood ||| 620
+Ed Sheeran ||| 607
+Carla Morrison ||| 605
+Lykke Li ||| 573
+Keane ||| 559
+The Weeknd ||| 549
+Capital Cities ||| 542
+Kings of Leon ||| 532
+Two Door Cinema Club ||| 526
+Sia ||| 514
+Marina & the Diamonds ||| 495
+Tame Impala ||| 487
+Arcade Fire ||| 443
+Arctic Monkeys ||| 443
+Muse ||| 414
+Sam Smith ||| 406
+Bastille ||| 400
+Radiohead ||| 391
+MGMT ||| 388
+Disclosure ||| 387
+London Grammar ||| 387
+Selena Gomez ||| 383
+Zoé ||| 354
+Savages ||| 348
+The Drums ||| 317
+## playcount: 42842

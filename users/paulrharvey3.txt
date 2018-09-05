@@ -1,0 +1,51 @@
+Queen ||| 1137
+The Rolling Stones ||| 955
+Eva Cassidy ||| 923
+Bruce Springsteen ||| 886
+Trans-Siberian Orchestra ||| 848
+Brandi Carlile ||| 838
+Foo Fighters ||| 709
+Pearl Jam ||| 669
+Van Halen ||| 663
+Aerosmith ||| 644
+Nirvana ||| 637
+Guns N' Roses ||| 635
+U2 ||| 619
+Journey ||| 605
+Duran Duran ||| 598
+Def Leppard ||| 572
+Ingrid Michaelson ||| 540
+KT Tunstall ||| 537
+Sarah McLachlan ||| 533
+Enigma ||| 512
+Norah Jones ||| 509
+David Bowie ||| 499
+A Fine Frenzy ||| 498
+Red Hot Chili Peppers ||| 488
+Billy Idol ||| 481
+Dropkick Murphys ||| 474
+Bon Jovi ||| 471
+Belinda Carlisle ||| 464
+Fleetwood Mac ||| 460
+Rachael Yamagata ||| 460
+The Cars ||| 452
+Beastie Boys ||| 451
+The Police ||| 442
+The Who ||| 441
+Boyce Avenue ||| 437
+Diana Krall ||| 430
+Jem ||| 430
+Sara Bareilles ||| 428
+Girlyman ||| 423
+Michael Jackson ||| 422
+Sheryl Crow ||| 420
+Coldplay ||| 417
+Missy Higgins ||| 408
+Elvis Presley ||| 402
+Frank Sinatra ||| 386
+Regina Spektor ||| 385
+INXS ||| 384
+Anna Nalick ||| 382
+Alanis Morissette ||| 380
+Feist ||| 376
+## playcount: 27160

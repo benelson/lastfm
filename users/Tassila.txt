@@ -1,0 +1,51 @@
+Oasis ||| 124810
+Arctic Monkeys ||| 65422
+Interpol ||| 25448
+Coldplay ||| 20130
+Los Hermanos ||| 19188
+The Last Shadow Puppets ||| 15760
+Two Door Cinema Club ||| 14482
+Blur ||| 13132
+Paramore ||| 13082
+The Kooks ||| 13079
+Kings of Leon ||| 12247
+Panic! at the Disco ||| 10944
+This Providence ||| 10490
+One Direction ||| 9548
+Keane ||| 9248
+MGMT ||| 7448
+The Killers ||| 7043
+Radiohead ||| 6093
+Bastille ||| 5794
+The Used ||| 5643
+Lana Del Rey ||| 5497
+Nação Zumbi ||| 4657
+Foo Fighters ||| 4280
+Foster the People ||| 4003
+Lily Allen ||| 3827
+The Beatles ||| 3792
+The Good, the Bad & the Queen ||| 3697
+Muse ||| 3607
+The Strokes ||| 3602
+Kasabian ||| 3484
+Legião Urbana ||| 3437
+Maxïmo Park ||| 3368
+Hozier ||| 3178
+Tame Impala ||| 3028
+The Black Keys ||| 2795
+Eugene McGuinness ||| 2777
+Maroon 5 ||| 2774
+Bruno Mars ||| 2723
+Kaiser Chiefs ||| 2481
+Natiruts ||| 2313
+Noel Gallagher ||| 2125
+Incubus ||| 1991
+Circa Survive ||| 1926
+Lorde ||| 1887
+Twenty One Pilots ||| 1872
+Miles Kane ||| 1715
+Skank ||| 1683
+Sia ||| 1634
+Florence + the Machine ||| 1630
+Cássia Eller ||| 1583
+## playcount: 496397

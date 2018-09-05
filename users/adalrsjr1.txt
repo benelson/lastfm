@@ -1,0 +1,51 @@
+Iron Maiden ||| 1897
+Raul Seixas ||| 1275
+Metallica ||| 1242
+System of a Down ||| 1050
+Helloween ||| 1015
+Pink Floyd ||| 1001
+Megadeth ||| 965
+Matanza ||| 901
+Black Sabbath ||| 899
+AC/DC ||| 890
+Led Zeppelin ||| 837
+Guns N' Roses ||| 712
+Slipknot ||| 680
+Ozzy Osbourne ||| 559
+The Who ||| 551
+Titãs ||| 506
+Rage Against the Machine ||| 499
+Ramones ||| 486
+The Doors ||| 480
+Nirvana ||| 466
+Judas Priest ||| 441
+Raimundos ||| 435
+Disturbed ||| 421
+In Extremo ||| 406
+Queen ||| 406
+Pantera ||| 390
+The White Stripes ||| 387
+Bruce Dickinson ||| 384
+Zé Ramalho ||| 368
+Serj Tankian ||| 364
+Ultraje A Rigor ||| 346
+Sonata Arctica ||| 344
+Mötley Crüe ||| 342
+Mägo de Oz ||| 336
+The Rolling Stones ||| 333
+Blind Guardian ||| 328
+Jovem Nerd ||| 324
+Aerosmith ||| 314
+Iced Earth ||| 302
+Motörhead ||| 302
+Velhas Virgens ||| 296
+Skyclad ||| 293
+The Cult ||| 284
+Tiamat ||| 284
+Children of Bodom ||| 269
+U2 ||| 257
+Avenged Sevenfold ||| 255
+The Offspring ||| 254
+Muse ||| 246
+Tequila Baby ||| 244
+## playcount: 26866

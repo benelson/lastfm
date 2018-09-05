@@ -1,0 +1,8 @@
+Alice Cooper ||| 1
+Cage the Elephant ||| 1
+Garbage ||| 1
+MGMT ||| 1
+Motörhead ||| 1
+OK Go ||| 1
+Weezer ||| 1
+## playcount: 7

@@ -1,0 +1,51 @@
+A Day to Remember ||| 1239
+Daft Punk ||| 932
+Three Days Grace ||| 886
+Hollywood Undead ||| 855
+The Fray ||| 648
+Stone Sour ||| 626
+Paramore ||| 608
+Maroon 5 ||| 571
+CPM 22 ||| 515
+Foo Fighters ||| 448
+3 Doors Down ||| 432
+Eminem ||| 431
+Breaking Benjamin ||| 427
+Swedish House Mafia ||| 425
+Engenheiros Do Hawaii ||| 417
+AC/DC ||| 414
+David Guetta ||| 414
+Detonautas Roque Clube ||| 383
+The Offspring ||| 341
+Rise Against ||| 312
+Lifehouse ||| 305
+Coldplay ||| 301
+Foster the People ||| 257
+Fall Out Boy ||| 251
+Strike ||| 229
+Green Day ||| 228
+Justin Timberlake ||| 220
+Nickelback ||| 218
+Calvin Harris ||| 208
+[unknown] ||| 200
+Example ||| 194
+Bon Jovi ||| 192
+Linkin Park ||| 184
+Simple Plan ||| 184
+Avenged Sevenfold ||| 182
+Sebastian Ingrosso & Alesso ||| 179
+Phillip Phillips ||| 170
+Sum 41 ||| 146
+Alesso feat. Matthew Koma ||| 132
+Gotye ||| 132
+Iced Earth ||| 130
+Journey ||| 128
+Ozzy Osbourne ||| 128
+Matanza ||| 124
+Kid Cudi ||| 110
+Lions ||| 106
+John Mayer ||| 101
+OneRepublic ||| 101
+Dead By Sunrise ||| 100
+Oasis ||| 100
+## playcount: 16564

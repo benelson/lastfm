@@ -1,0 +1,51 @@
+The Beatles ||| 7056
+Bob Dylan ||| 2654
+Eagles ||| 1290
+Regina Spektor ||| 1125
+George Harrison ||| 976
+James Taylor ||| 593
+U2 ||| 549
+Eric Clapton ||| 436
+Michael Learns to Rock ||| 397
+Paul McCartney ||| 389
+Simon & Garfunkel ||| 355
+Jakob Dylan ||| 324
+Ronan Keating ||| 295
+John Mayer ||| 277
+England Dan & John Ford Coley ||| 266
+Enrique Iglesias ||| 260
+Mandy Moore ||| 258
+John Lennon ||| 232
+Queen ||| 214
+Jose Mari Chan ||| 208
+The Cure ||| 176
+Bryan Adams ||| 169
+Air Supply ||| 167
+Lady Antebellum ||| 166
+Michael Jackson ||| 154
+Eraserheads ||| 146
+The Lettermen ||| 146
+Pink Floyd ||| 145
+Westlife ||| 136
+Led Zeppelin ||| 134
+The Corrs ||| 125
+Dan Hill ||| 120
+Matchbox Twenty ||| 118
+The Cranberries ||| 118
+Coldplay ||| 116
+The Doors ||| 114
+Rivermaya ||| 110
+Boyzone ||| 109
+Buddy Holly ||| 109
+Deep Purple ||| 107
+John Legend ||| 98
+Rod Stewart ||| 97
+Backstreet Boys ||| 96
+Metallica ||| 96
+Toto ||| 94
+Dido ||| 93
+Radiohead ||| 93
+Paul McCartney & Wings ||| 89
+REO Speedwagon ||| 87
+The Script ||| 84
+## playcount: 21766

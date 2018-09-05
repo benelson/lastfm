@@ -1,0 +1,51 @@
+Helloween ||| 5330
+Iron Maiden ||| 4587
+Stratovarius ||| 4486
+Kiss ||| 4055
+Scorpions ||| 2488
+Aerosmith ||| 2362
+Judas Priest ||| 2227
+The Beatles ||| 2195
+Ozzy Osbourne ||| 2191
+Gamma Ray ||| 2038
+Bon Jovi ||| 1880
+Doro ||| 1717
+The Rolling Stones ||| 1715
+Avantasia ||| 1677
+Queen ||| 1644
+Edguy ||| 1636
+Metallica ||| 1619
+Black Sabbath ||| 1572
+Alice Cooper ||| 1552
+AC/DC ||| 1510
+HammerFall ||| 1458
+Sonata Arctica ||| 1318
+Deep Purple ||| 1192
+Mötley Crüe ||| 1191
+Guns N' Roses ||| 1182
+The Doors ||| 1082
+Rainbow ||| 999
+Dream Evil ||| 972
+Def Leppard ||| 926
+Dio ||| 897
+Manowar ||| 895
+Linkin Park ||| 850
+Saxon ||| 819
+White Skull ||| 801
+Van Halen ||| 768
+Kamelot ||| 760
+Yngwie Malmsteen ||| 759
+Blind Guardian ||| 733
+Nickelback ||| 710
+Nightwish ||| 705
+Iced Earth ||| 702
+Angra ||| 677
+Led Zeppelin ||| 677
+Primal Fear ||| 635
+Axxis ||| 631
+Iron Savior ||| 627
+Rata Blanca ||| 617
+Twisted Sister ||| 612
+Accept ||| 611
+Dokken ||| 600
+## playcount: 73887

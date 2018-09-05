@@ -1,0 +1,51 @@
+Savatage ||| 4522
+Aerosmith ||| 3972
+Megadeth ||| 3570
+Helloween ||| 827
+Anthrax ||| 741
+Virgin Steele ||| 725
+Judas Priest ||| 704
+Accept ||| 659
+Whitesnake ||| 658
+Annihilator ||| 638
+The Doors ||| 569
+Alanis Morissette ||| 551
+Scorpions ||| 452
+Kiss ||| 336
+Death ||| 256
+Stormwitch ||| 241
+Skid Row ||| 232
+Black Sabbath ||| 224
+Iron Maiden ||| 223
+Paradise Lost ||| 181
+The Cure ||| 181
+Sabaton ||| 175
+Municipal Waste ||| 161
+Kreator ||| 155
+D.R.I. ||| 147
+Leonard Cohen ||| 147
+Pink Floyd ||| 143
+Sodom ||| 141
+Metallica ||| 137
+Anvil ||| 134
+Exorcist ||| 132
+Type O Negative ||| 131
+Ave Sangria ||| 115
+Circle II Circle ||| 115
+The Cranberries ||| 111
+Alestorm ||| 110
+Engenheiros Do Hawaii ||| 110
+Magnum ||| 109
+Axewitch ||| 105
+Korpiklaani ||| 91
+Trans-Siberian Orchestra ||| 83
+Candlemass ||| 82
+Running Wild ||| 81
+Slayer ||| 81
+Danzig ||| 70
+Nuclear Assault ||| 67
+Fueled by Fire ||| 64
+The 3rd and the Mortal ||| 63
+Celtic Frost ||| 62
+Katatonia ||| 62
+## playcount: 23646

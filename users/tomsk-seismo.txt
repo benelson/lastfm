@@ -1,0 +1,51 @@
+David Bowie ||| 11177
+Queen ||| 5420
+Arcade Fire ||| 4748
+The Doors ||| 3865
+Pixies ||| 3324
+MGMT ||| 3174
+Pink Floyd ||| 2907
+The Beatles ||| 2671
+Radiohead ||| 2640
+Brian Eno ||| 2587
+Blondie ||| 2433
+Belle and Sebastian ||| 2207
+Muse ||| 2077
+R.E.M. ||| 1661
+Iggy Pop ||| 1636
+The Prodigy ||| 1501
+Neil Young ||| 1496
+Jefferson Airplane ||| 1493
+J Dilla ||| 1446
+The Magnetic Fields ||| 1411
+The Smiths ||| 1398
+Bob Dylan ||| 1345
+The Rolling Stones ||| 1327
+Moby ||| 1302
+Placebo ||| 1191
+Simon & Garfunkel ||| 1163
+The White Stripes ||| 1129
+The Who ||| 1111
+Portugal. The Man ||| 1097
+Washed Out ||| 1086
+XTC ||| 1076
+Roxy Music ||| 1032
+The Stone Roses ||| 1007
+of Montreal ||| 984
+Sonic Youth ||| 973
+The Cure ||| 941
+Interpol ||| 915
+Florence + the Machine ||| 899
+Bob Marley ||| 887
+LCD Soundsystem ||| 877
+Frank Sinatra ||| 865
+Laura Marling ||| 844
+The Clash ||| 844
+The Beach Boys ||| 812
+Joy Division ||| 796
+The Jimi Hendrix Experience ||| 788
+Sex Pistols ||| 775
+Daft Punk ||| 774
+The Kinks ||| 750
+Morcheeba ||| 723
+## playcount: 89585

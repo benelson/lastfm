@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 944
+Bob Dylan ||| 806
+Manic Street Preachers ||| 724
+Radiohead ||| 702
+The Beatles ||| 701
+Sonic Youth ||| 542
+Foo Fighters ||| 530
+Depeche Mode ||| 468
+Pavement ||| 466
+The Cure ||| 462
+R.E.M. ||| 437
+David Bowie ||| 432
+Talking Heads ||| 403
+Oasis ||| 401
+Blur ||| 394
+Dinosaur Jr. ||| 392
+The Strokes ||| 365
+The National ||| 364
+Nick Cave & The Bad Seeds ||| 342
+Muse ||| 341
+Arcade Fire ||| 340
+The Libertines ||| 340
+Phoenix ||| 323
+Pixies ||| 320
+The Smashing Pumpkins ||| 315
+Red Hot Chili Peppers ||| 307
+Wire ||| 307
+Pink Floyd ||| 304
+Portugal. The Man ||| 304
+Modest Mouse ||| 303
+The Vaccines ||| 300
+Coldplay ||| 281
+Editors ||| 280
+Incubus ||| 280
+The Black Keys ||| 278
+Tame Impala ||| 276
+Pearl Jam ||| 275
+My Morning Jacket ||| 267
+Kings of Leon ||| 259
+Suede ||| 259
+The Rolling Stones ||| 257
+Yo La Tengo ||| 257
+The Clash ||| 256
+Vetusta Morla ||| 256
+The Kinks ||| 250
+Beck ||| 243
+System of a Down ||| 243
+Foals ||| 242
+Two Door Cinema Club ||| 238
+Animal Collective ||| 235
+## playcount: 18611

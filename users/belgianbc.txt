@@ -1,0 +1,51 @@
+AC/DC ||| 2892
+Social Distortion ||| 773
+Dead Kennedys ||| 488
+Bad Religion ||| 476
+Iron Maiden ||| 471
+Circle Jerks ||| 411
+Kiss ||| 375
+Frank Sinatra ||| 248
+Pink Floyd ||| 218
+The Beach Boys ||| 171
+Pantera ||| 140
+Johnny Cash ||| 119
+Eagles ||| 113
+John Coltrane ||| 95
+Led Zeppelin ||| 86
+Annihilator ||| 84
+Jethro Tull ||| 79
+John Fogerty ||| 76
+Rod Stewart ||| 60
+Ted Nugent ||| 37
+Billy Idol ||| 34
+Motorocker ||| 33
+ZZ Top ||| 33
+John Frusciante ||| 32
+Lynyrd Skynyrd ||| 32
+Extreme ||| 30
+Blind Melon ||| 27
+Badfinger ||| 26
+Yes ||| 25
+Elvis Presley ||| 22
+The Servant ||| 22
+MxPx ||| 21
+Good Shoes ||| 18
+T. Rex ||| 18
+Zebrahead ||| 18
+An Orange End ||| 17
+New Found Glory ||| 17
+The Offspring ||| 17
+Big D And The Kids Table ||| 16
+Gotan Project ||| 16
+John Murphy ||| 16
+Keane ||| 16
+Less Than Jake ||| 16
+Ramones ||| 16
+Rise Against ||| 16
+The Who ||| 16
+Bowling for Soup ||| 15
+Cachorro Grande ||| 15
+Cream ||| 15
+Hillbilly Rawhide ||| 15
+## playcount: 8042

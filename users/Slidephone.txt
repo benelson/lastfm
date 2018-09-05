@@ -1,0 +1,51 @@
+Pink Floyd ||| 3506
+Radiohead ||| 2374
+The Beatles ||| 1860
+Led Zeppelin ||| 1119
+The Black Keys ||| 968
+Porcupine Tree ||| 928
+Myslovitz ||| 909
+The Rolling Stones ||| 861
+John Lennon ||| 655
+Blonde Redhead ||| 450
+The Cure ||| 407
+The Cranberries ||| 401
+The Doors ||| 398
+U2 ||| 364
+Depeche Mode ||| 348
+Steven Wilson ||| 343
+Archive ||| 334
+Kasabian ||| 324
+Aphex Twin ||| 302
+Dire Straits ||| 271
+David Gilmour ||| 270
+Nine Inch Nails ||| 250
+The White Stripes ||| 249
+Lao Che ||| 234
+AC/DC ||| 213
+Hey ||| 197
+Red Hot Chili Peppers ||| 195
+Akurat ||| 189
+Muse ||| 177
+King Crimson ||| 176
+Dream Theater ||| 165
+Metallica ||| 144
+Queen ||| 144
+Portishead ||| 142
+Neil Young ||| 140
+Bob Dylan ||| 137
+Eric Clapton ||| 135
+The Mars Volta ||| 135
+The xx ||| 135
+The Who ||| 134
+Ścianka ||| 129
+Flume ||| 126
+Storm Corrosion ||| 120
+PJ Harvey ||| 119
+Black Sabbath ||| 118
+Scorpions ||| 109
+Janis Joplin ||| 106
+Metronomy ||| 97
+The Cinematic Orchestra ||| 92
+Jack White ||| 91
+## playcount: 21790

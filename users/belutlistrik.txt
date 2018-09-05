@@ -1,0 +1,51 @@
+Foo Fighters ||| 1311
+Mumford & Sons ||| 1226
+The Cure ||| 1065
+Saosin ||| 1024
+Oasis ||| 999
+Coldplay ||| 978
+Taking Back Sunday ||| 967
+Alesana ||| 856
+Lana Del Rey ||| 820
+The All-American Rejects ||| 645
+Arctic Monkeys ||| 602
+Yellowcard ||| 580
+AC/DC ||| 576
+Death Cab for Cutie ||| 567
+Anberlin ||| 560
+Alex Turner ||| 555
+Bob Marley ||| 531
+Adhitia Sofyan ||| 529
+Radiohead ||| 517
+blink-182 ||| 514
+Mew ||| 509
+Bullet for My Valentine ||| 465
+John Mayer ||| 462
+30 Seconds to Mars ||| 459
+Nirvana ||| 453
+Linkin Park ||| 417
+Sparks The Rescue ||| 414
+The S.I.G.I.T ||| 399
+The Lumineers ||| 384
+Bon Jovi ||| 382
+Boyce Avenue ||| 381
+Sabrina ||| 374
+Boys Like Girls ||| 373
+We the Kings ||| 372
+The Ataris ||| 344
+B.o.B ||| 342
+New Found Glory ||| 342
+Owl City ||| 336
+System of a Down ||| 331
+All Time Low ||| 307
+SOJA ||| 302
+Tegan and Sara ||| 297
+Bombay Bicycle Club ||| 295
+Allred ||| 292
+The Smiths ||| 291
+Imagine Dragons ||| 290
+Bring Me the Horizon ||| 273
+Snow Patrol ||| 269
+Katy Perry ||| 267
+Wiz Khalifa ||| 261
+## playcount: 26105

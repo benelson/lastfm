@@ -1,0 +1,51 @@
+Led Zeppelin ||| 9920
+The Beatles ||| 5350
+Coldplay ||| 4731
+Franz Ferdinand ||| 2490
+Creedence Clearwater Revival ||| 2369
+Pink Floyd ||| 2171
+The Doors ||| 2107
+The Rolling Stones ||| 1972
+The Police ||| 1856
+Engenheiros Do Hawaii ||| 1626
+Alanis Morissette ||| 1501
+AC/DC ||| 1491
+Raimundos ||| 1439
+Nando Reis ||| 1409
+Planet Hemp ||| 1390
+Red Hot Chili Peppers ||| 1327
+Aerosmith ||| 1240
+The Heavy ||| 1216
+Queen ||| 1103
+Audioslave ||| 870
+Racionais Mc's ||| 851
+Titãs ||| 818
+Legião Urbana ||| 806
+Ultraje A Rigor ||| 801
+Rush ||| 799
+Ozzy Osbourne ||| 792
+Janis Joplin ||| 757
+Biquini Cavadão ||| 744
+Florence + the Machine ||| 709
+Alice in Chains ||| 688
+Tim Maia ||| 686
+The Who ||| 680
+David Gilmour ||| 675
+Portishead ||| 664
+Bob Marley & The Wailers ||| 642
+Noir Désir ||| 626
+Soldiers of Jah Army ||| 619
+Jimi Hendrix ||| 603
+Marcelo D2 ||| 585
+U2 ||| 566
+Charlie Brown JR. ||| 563
+Rage Against the Machine ||| 558
+Frank Sinatra ||| 545
+David Bowie ||| 544
+Marvin Gaye ||| 534
+Jackson Five Motoboy ||| 533
+Pentágono ||| 520
+Os Paralamas Do Sucesso ||| 502
+Elvis Presley ||| 481
+Adele ||| 473
+## playcount: 66942

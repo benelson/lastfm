@@ -1,0 +1,51 @@
+Britney Spears ||| 6765
+Foo Fighters ||| 2431
+Lana Del Rey ||| 1374
+Justin Timberlake ||| 1339
+Marina & the Diamonds ||| 1193
+Rihanna ||| 1143
+Iron Maiden ||| 1137
+Michael Jackson ||| 993
+Hole ||| 846
+Hurts ||| 802
+AC/DC ||| 785
+Christina Aguilera ||| 784
+Beyoncé ||| 771
+Tame Impala ||| 771
+Nirvana ||| 707
+Kings of Leon ||| 687
+Selena Gomez ||| 672
+The Strokes ||| 668
+Lady Gaga ||| 655
+Girls Aloud ||| 649
+Major Lazer ||| 634
+Madonna ||| 613
+Iggy Azalea ||| 580
+Metallica ||| 579
+Jessica Simpson ||| 575
+Red Hot Chili Peppers ||| 527
+Miley Cyrus ||| 496
+The Pretty Reckless ||| 490
+Fergie ||| 475
+Cheryl Cole ||| 471
+Cage the Elephant ||| 466
+Jay-Z ||| 464
+Calvin Harris ||| 461
+The Saturdays ||| 461
+Augustana ||| 420
+Charli XCX ||| 416
+Bebel Gilberto ||| 406
+Marilyn Manson ||| 394
+Sky Ferreira ||| 393
+Avenged Sevenfold ||| 378
+Hilary Duff ||| 368
+MØ ||| 366
+Kylie Minogue ||| 341
+Kanye West ||| 337
+Ariana Grande ||| 331
+Queens of the Stone Age ||| 328
+Jack Ü ||| 321
+Daft Punk ||| 318
+Shakira ||| 314
+Disclosure ||| 312
+## playcount: 38207

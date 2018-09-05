@@ -1,0 +1,51 @@
+Frank Sinatra ||| 1708
+Blonde Redhead ||| 970
+Rufus Wainwright ||| 889
+Radiohead ||| 688
+The Beatles ||| 638
+Elliott Smith ||| 611
+Nick Drake ||| 565
+Beck ||| 560
+Johann Sebastian Bach ||| 503
+Astrud Gilberto ||| 493
+Grizzly Bear ||| 492
+Count Basie Orchestra ||| 426
+Yo-Yo Ma ||| 417
+Led Zeppelin ||| 397
+Vince Guaraldi Trio ||| 380
+Queens of the Stone Age ||| 362
+Ray LaMontagne ||| 355
+Kanye West ||| 320
+Nina Simone ||| 313
+Arcade Fire ||| 312
+Gomez ||| 303
+Thomas Newman ||| 296
+Kate Bush ||| 293
+The Who ||| 287
+Charlie Parker ||| 282
+Electric Light Orchestra ||| 269
+David Cross ||| 261
+Gnarls Barkley ||| 259
+Supergrass ||| 253
+Mew ||| 252
+Ludwig van Beethoven ||| 242
+The Dave Brubeck Quartet ||| 222
+Air ||| 219
+The Rat Pack ||| 198
+Nine Black Alps ||| 195
+Dario Marianelli ||| 191
+Elbow ||| 185
+Patton Oswalt ||| 183
+David Bowie ||| 180
+Nine Inch Nails ||| 177
+The Smiths ||| 175
+The Mars Volta ||| 169
+Jeff Buckley ||| 162
+Peanuts ||| 162
+Fleet Foxes ||| 161
+Morrissey ||| 161
+Brian Wilson ||| 160
+The Beach Boys ||| 158
+Black Rebel Motorcycle Club ||| 154
+Wolfgang Rübsam ||| 153
+## playcount: 17761

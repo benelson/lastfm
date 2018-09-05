@@ -1,0 +1,51 @@
+Linkin Park ||| 1263
+Three Days Grace ||| 539
+Avenged Sevenfold ||| 467
+Disturbed ||| 396
+Korn ||| 387
+Hoobastank ||| 373
+Hinder ||| 330
+Nickelback ||| 328
+Sum 41 ||| 300
+Papa Roach ||| 277
+Rise Against ||| 268
+Shinedown ||| 267
+Metallica ||| 248
+Slipknot ||| 218
+NX Zero ||| 194
+blink-182 ||| 182
+Theory of a Deadman ||| 179
+Green Day ||| 174
+McFly ||| 157
+The Offspring ||| 115
+Box Car Racer ||| 113
+Rage Against the Machine ||| 107
+Boys Like Girls ||| 89
+Owl City ||| 88
+Billy Talent ||| 85
+System of a Down ||| 84
+Daughtry ||| 83
+Skillet ||| 79
+Limp Bizkit ||| 71
+Default ||| 66
+Sick Puppies ||| 66
+Paramore ||| 65
+Saving Abel ||| 65
+Muse ||| 64
+Gogol Bordello ||| 62
+O Teatro Mágico ||| 62
+Breaking Benjamin ||| 61
+DragonForce ||| 61
+Tokio Hotel ||| 60
+Pearl Jam ||| 58
+Stone Sour ||| 57
+Evanescence ||| 55
+The Rasmus ||| 54
+Lifehouse ||| 52
+Simple Plan ||| 51
+The Beatles ||| 51
+Taylor Swift ||| 49
+Bruno Mars ||| 47
+Mike Shinoda ||| 47
+Dream Theater ||| 42
+## playcount: 8656

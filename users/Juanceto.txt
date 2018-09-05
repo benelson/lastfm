@@ -1,0 +1,51 @@
+The Beatles ||| 11141
+John Lennon ||| 1940
+Paul McCartney ||| 1653
+Oasis ||| 1486
+The Rolling Stones ||| 983
+Led Zeppelin ||| 915
+Paul McCartney & Wings ||| 797
+Pink Floyd ||| 785
+George Harrison ||| 662
+Radiohead ||| 510
+Pescado Rabioso ||| 443
+Norah Jones ||| 440
+The White Stripes ||| 430
+Queen ||| 416
+Andrés Calamaro ||| 401
+The Strokes ||| 382
+AC/DC ||| 378
+Bob Marley & The Wailers ||| 373
+Tom Waits ||| 349
+Jimi Hendrix ||| 314
+Ramones ||| 312
+Patricio Rey y sus Redonditos de Ricota ||| 285
+Soda Stereo ||| 271
+Cream ||| 253
+Nirvana ||| 252
+The Doors ||| 252
+Bob Dylan ||| 236
+Babasónicos ||| 215
+Charly García ||| 210
+MGMT ||| 205
+Elvis Presley ||| 192
+Sean Lennon ||| 175
+The Cure ||| 163
+Eric Clapton ||| 162
+B.B. King ||| 157
+David Gilmour ||| 156
+Leonard Cohen ||| 154
+T. Rex ||| 146
+Sumo ||| 144
+Johnny Cash ||| 141
+Creedence Clearwater Revival ||| 139
+Fito Páez ||| 135
+The Who ||| 130
+Pearl Jam ||| 124
+Deep Purple ||| 116
+Luciano Pavarotti ||| 115
+Justice ||| 114
+John Mayall & The Bluesbreakers ||| 113
+U2 ||| 112
+The Clash ||| 103
+## playcount: 30080

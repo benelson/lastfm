@@ -1,0 +1,51 @@
+Seether ||| 341
+Foo Fighters ||| 260
+Dream Theater ||| 250
+Pearl Jam ||| 231
+God Is An Astronaut ||| 206
+Beirut ||| 196
+Damien Rice ||| 172
+Atreyu ||| 161
+Pelican ||| 154
+Circa Survive ||| 149
+65daysofstatic ||| 142
+Andy McKee ||| 111
+Cloudkicker ||| 108
+Cocteau Twins ||| 108
+Linkin Park ||| 99
+Coheed and Cambria ||| 83
+Mogwai ||| 83
+Fuel ||| 79
+Frightened Rabbit ||| 77
+Trivium ||| 72
+Explosions in the Sky ||| 66
+Michael Jackson ||| 63
+This Will Destroy You ||| 62
+The Hoosiers ||| 61
+Newton Faulkner ||| 60
+Andy McKee/Don Ross ||| 56
+Del Amitri ||| 56
+Fugees ||| 56
+Jimi Hendrix ||| 55
+Muse ||| 54
+Black Label Society ||| 52
+Down ||| 50
+Oceansize ||| 47
+Simon & Garfunkel ||| 41
+Breaking Benjamin ||| 36
+Tommy Emmanuel ||| 36
+Caspian ||| 35
+Porcupine Tree ||| 34
+Godspeed You! Black Emperor ||| 33
+Colin Hay ||| 31
+Panic! at the Disco ||| 31
+David Lanz ||| 30
+Nirvana ||| 30
+Diverse ||| 29
+A Perfect Circle ||| 28
+Joe Satriani ||| 27
+Prince ||| 27
+30 Seconds to Mars ||| 26
+Bullet for My Valentine ||| 26
+DragonForce ||| 25
+## playcount: 4345

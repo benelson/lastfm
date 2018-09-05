@@ -1,0 +1,51 @@
+NEEDTOBREATHE ||| 1072
+Porcupine Tree ||| 1007
+Steven Wilson ||| 580
+Dream Theater ||| 449
+Grzegorz Turnau ||| 443
+The Swell Season ||| 434
+First Aid Kit ||| 422
+Tune ||| 414
+Alter Bridge ||| 386
+U2 ||| 354
+Blackfield ||| 246
+Coldplay ||| 243
+John Mayer ||| 243
+James LaBrie ||| 235
+Slash ||| 218
+The Pineapple Thief ||| 186
+Adele ||| 148
+Foo Fighters ||| 117
+Gazpacho ||| 97
+Anathema ||| 91
+Led Zeppelin ||| 91
+Edyta Bartosiewicz ||| 90
+Joe Bonamassa ||| 86
+The Beatles ||| 79
+Muse ||| 21
+Filharmonia kaliska/Lumen ||| 20
+Jaromír Nohavica ||| 20
+Breakout ||| 15
+London Symphony Orchestra ||| 14
+Red Hot Chili Peppers ||| 13
+Hugh Laurie ||| 12
+Nickelback ||| 11
+Mothlite ||| 8
+Sting ||| 8
+Leopoldo Federico Y Orquesta ||| 6
+The All-American Rejects ||| 6
+CARLOS GARCIA Y ORQUESTA ||| 5
+Velvet Revolver ||| 5
+Bullet for My Valentine ||| 4
+Pani Galewska ||| 4
+The Verve ||| 4
+004 ||| 3
+Andy Williams ||| 3
+Chris Montez ||| 3
+Damien Rice ||| 3
+Dionne Warwick ||| 3
+Dusty Springfield ||| 3
+Massive Attack ||| 3
+Nat King Cole ||| 3
+Petula Clark ||| 3
+## playcount: 7934

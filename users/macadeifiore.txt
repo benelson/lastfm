@@ -1,0 +1,51 @@
+Coldplay ||| 612
+Oasis ||| 510
+The Strokes ||| 369
+Tan Bionica ||| 363
+The Kooks ||| 354
+The Killers ||| 323
+Green Day ||| 296
+Arctic Monkeys ||| 232
+Florence + the Machine ||| 232
+Paramore ||| 224
+U2 ||| 203
+Maroon 5 ||| 201
+MGMT ||| 190
+Muse ||| 177
+Pearl Jam ||| 141
+Band of Horses ||| 135
+Twin Peaks ||| 120
+Gustavo Cerati ||| 113
+Kate Nash ||| 96
+Soda Stereo ||| 86
+Yeah Yeah Yeahs ||| 86
+Nirvana ||| 80
+Beirut ||| 79
+Crystal Castles ||| 79
+Black Eyed Peas ||| 72
+Noel Gallagher's High Flying Birds ||| 71
+Red Hot Chili Peppers ||| 67
+Madonna ||| 64
+Spendtime Palace ||| 64
+Death Cab for Cutie ||| 53
+Neon Trees ||| 52
+Kings of Leon ||| 51
+The Black Keys ||| 51
+Cat Power ||| 44
+The Bravery ||| 44
+Beady Eye ||| 43
+David Guetta ||| 43
+Snow Patrol ||| 40
+Liam Gallagher ||| 39
+Taio Cruz ||| 39
+Ratatat ||| 38
+Blur ||| 36
+Train ||| 36
+Shakira ||| 35
+AC/DC ||| 34
+The Lumineers ||| 34
+The Rolling Stones ||| 33
+Brandon Flowers ||| 32
+Courtney Love ||| 32
+Tame Impala ||| 32
+## playcount: 6480

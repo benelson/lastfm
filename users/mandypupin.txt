@@ -1,0 +1,51 @@
+Foo Fighters ||| 434
+Nirvana ||| 415
+Never Shout Never ||| 340
+A Day to Remember ||| 339
+City and Colour ||| 165
+Sum 41 ||| 159
+Cazuza ||| 152
+Pouca Vogal ||| 128
+Simple Plan ||| 102
+The Killers ||| 96
+Pearl Jam ||| 93
+Cage the Elephant ||| 85
+Linkin Park ||| 79
+McFly ||| 79
+Cícero ||| 69
+The Strokes ||| 65
+Adriana Calcanhotto ||| 59
+The Maine ||| 59
+Alexisonfire ||| 54
+Tiê ||| 53
+All Time Low ||| 52
+Pitty ||| 52
+Oasis ||| 47
+The Pretty Reckless ||| 46
+A Rocket to the Moon ||| 43
+Los Hermanos ||| 42
+Nickelback ||| 42
+Oswaldo Montenegro ||| 34
+O Teatro Mágico ||| 32
+Kings of Leon ||| 31
+Queens of the Stone Age ||| 31
+Coldplay ||| 29
+Fresno ||| 29
+We Came As Romans ||| 28
+Detonautas Roque Clube ||| 26
+John Mayer ||| 25
+Radiohead ||| 25
+Bullet for My Valentine ||| 23
+Kansas ||| 21
+Paramore ||| 21
+036 Hotel California ||| 20
+Green Day ||| 20
+Legião Urbana ||| 20
+Lifehouse ||| 20
+Red Hot Chili Peppers ||| 19
+Snow Patrol ||| 19
+The Cure ||| 19
+blink-182 ||| 18
+Escape the Fate ||| 18
+Nando Reis ||| 18
+## playcount: 3895

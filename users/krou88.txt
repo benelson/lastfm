@@ -1,0 +1,51 @@
+The Beatles ||| 382
+Sublime ||| 270
+Queens of the Stone Age ||| 143
+Green Day ||| 124
+Red Hot Chili Peppers ||| 117
+Bob Dylan ||| 110
+The Jimi Hendrix Experience ||| 100
+Slightly Stoopid ||| 85
+Pepper ||| 84
+The White Stripes ||| 81
+Bob Marley ||| 78
+Led Zeppelin ||| 76
+Cake ||| 72
+Foo Fighters ||| 70
+Rebelution ||| 47
+State Radio ||| 46
+Matchbox Twenty ||| 45
+Tool ||| 43
+Existential Hero ||| 41
+Pink Floyd ||| 40
+Black Sabbath ||| 38
+Kyuss ||| 31
+311 ||| 30
+John Lennon ||| 30
+O.A.R. ||| 30
+The Who ||| 28
+The Doors ||| 25
+Queen ||| 24
+George Thorogood ||| 23
+Real Live Tigers ||| 21
+Dispatch ||| 18
+Jimmy Buffett ||| 18
+Third Eye Blind ||| 18
+Motion City Soundtrack ||| 17
+Drippin' Yellow Madness ||| 16
+Sugar Ray ||| 15
+Dirty Pretty Things ||| 14
+John Coltrane ||| 14
+Janis Joplin ||| 13
+Nada Surf ||| 11
+The Bravery ||| 11
+Traveling Wilburys ||| 11
+Journey ||| 10
+Rooney ||| 10
+Bad Religion ||| 9
+Bob Seger ||| 9
+Israel Kamakawiwo'ole ||| 9
+Long Beach Dub All Stars ||| 9
+Rage Against the Machine ||| 9
+Daughtry ||| 8
+## playcount: 2583

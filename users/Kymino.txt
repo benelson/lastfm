@@ -1,0 +1,17 @@
+Katy Perry ||| 20
+Little Mix ||| 18
+Britney Spears ||| 14
+Taylor Swift ||| 14
+Avril Lavigne ||| 11
+Ke$ha ||| 11
+P!nk ||| 11
+Rihanna ||| 11
+Nicki Minaj ||| 10
+Carly Rae Jepsen ||| 9
+Lady Gaga ||| 5
+Beyoncé ||| 3
+Cher Lloyd ||| 2
+One Direction ||| 2
+Selena Gomez ||| 2
+Lana Del Rey ||| 1
+## playcount: 144

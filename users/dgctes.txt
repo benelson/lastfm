@@ -1,0 +1,51 @@
+Madonna ||| 2291
+Placebo ||| 588
+David Bowie ||| 449
+The xx ||| 444
+Katy Perry ||| 419
+Radiohead ||| 415
+Robbie Williams ||| 389
+Morrissey ||| 388
+Adele ||| 384
+Depeche Mode ||| 377
+Moby ||| 363
+Justin Timberlake ||| 357
+Garbage ||| 350
+P!nk ||| 339
+The Chemical Brothers ||| 335
+Scissor Sisters ||| 325
+Muse ||| 306
+Florence + the Machine ||| 302
+The Beatles ||| 286
+Coldplay ||| 281
+Goldfrapp ||| 280
+Kings of Leon ||| 257
+Marina & the Diamonds ||| 243
+Björk ||| 238
+Kasabian ||| 238
+CHVRCHES ||| 235
+Lana Del Rey ||| 235
+Gossip ||| 232
+Pet Shop Boys ||| 232
+Babasónicos ||| 213
+Ludovico Einaudi ||| 211
+Sia ||| 208
+Sade ||| 201
+Imagine Dragons ||| 198
+Arctic Monkeys ||| 189
+The Killers ||| 185
+MGMT ||| 184
+Miley Cyrus ||| 184
+Maroon 5 ||| 183
+U2 ||| 182
+R.E.M. ||| 179
+Lily Allen ||| 173
+Nine Inch Nails ||| 172
+Paloma Faith ||| 170
+Lorde ||| 167
+Foo Fighters ||| 166
+Yeah Yeah Yeahs ||| 166
+Kylie Minogue ||| 164
+Stereophonics ||| 158
+Amy Winehouse ||| 156
+## playcount: 15387

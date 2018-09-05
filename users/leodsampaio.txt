@@ -1,0 +1,51 @@
+Foo Fighters ||| 4207
+Forfun ||| 3545
+The Beatles ||| 2291
+Cachorro Grande ||| 1599
+Red Hot Chili Peppers ||| 1336
+The Black Keys ||| 1047
+Arctic Monkeys ||| 1024
+Scambo ||| 891
+The Strokes ||| 739
+Two Door Cinema Club ||| 736
+Skank ||| 726
+Detonautas Roque Clube ||| 705
+Maglore ||| 688
+O Rappa ||| 666
+Raimundos ||| 596
+NX Zero ||| 578
+Oasis ||| 557
+Queens of the Stone Age ||| 524
+Os Paralamas Do Sucesso ||| 497
+Audioslave ||| 455
+Selvagens à Procura de Lei ||| 439
+Charlie Brown JR. ||| 435
+Franz Ferdinand ||| 433
+Kings of Leon ||| 397
+Engenheiros Do Hawaii ||| 320
+Nirvana ||| 319
+Coldplay ||| 310
+Scracho ||| 287
+Linkin Park ||| 270
+Capital Inicial ||| 261
+Adele ||| 249
+Sambô ||| 243
+Pouca Vogal ||| 233
+Caetano Veloso ||| 228
+The Fray ||| 227
+CPM 22 ||| 218
+Pearl Jam ||| 217
+L&L&L ||| 215
+Fresno ||| 210
+Lulu Santos ||| 199
+Bandas Gaúchas ||| 196
+Foster the People ||| 196
+Natiruts ||| 194
+Jota Quest ||| 188
+John Mayer ||| 186
+The White Stripes ||| 180
+Los Hermanos ||| 162
+Clarice Falcão ||| 161
+Kasabian ||| 155
+Barão Vermelho ||| 153
+## playcount: 30888

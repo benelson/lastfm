@@ -1,0 +1,51 @@
+Queen ||| 310
+The Beatles ||| 104
+Deep Purple ||| 72
+Freddie Mercury ||| 64
+Brian May ||| 62
+Roger Taylor ||| 59
+Elton John ||| 56
+The Who ||| 54
+Aerosmith ||| 53
+The Rolling Stones ||| 50
+David Bowie ||| 49
+Kiss ||| 49
+AC/DC ||| 41
+Pink Floyd ||| 40
+Guns N' Roses ||| 39
+Rainbow ||| 38
+Sweet ||| 38
+Scorpions ||| 34
+Dire Straits ||| 32
+Alice Cooper ||| 31
+Black Sabbath ||| 31
+Supertramp ||| 31
+The Police ||| 31
+Electric Light Orchestra ||| 30
+Freddie Mercury & Montserrat Caballé ||| 30
+Foreigner ||| 29
+Genesis ||| 29
+Led Zeppelin ||| 29
+Slade ||| 29
+Jethro Tull ||| 25
+Styx ||| 25
+Queen + Paul Rodgers ||| 22
+U2 ||| 22
+Van Halen ||| 22
+John Lennon ||| 21
+Thin Lizzy ||| 21
+Uriah Heep ||| 21
+Paul McCartney ||| 20
+Billy Joel ||| 17
+Def Leppard ||| 17
+Eagles ||| 17
+Lynyrd Skynyrd ||| 17
+Nazareth ||| 17
+The Darkness ||| 17
+Bon Jovi ||| 16
+Meat Loaf ||| 16
+Judas Priest ||| 15
+Ozzy Osbourne ||| 15
+Queen & David Bowie ||| 15
+The Cross ||| 14
+## playcount: 1936

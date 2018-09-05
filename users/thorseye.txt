@@ -1,0 +1,51 @@
+Coldplay ||| 4213
+Kent ||| 3638
+Foo Fighters ||| 3032
+In Flames ||| 2837
+Lars Winnerbäck ||| 2835
+Muse ||| 2460
+Mew ||| 2251
+Millencolin ||| 2141
+Håkan Hellström ||| 2136
+Mumford & Sons ||| 1875
+Bon Iver ||| 1870
+Sophie Zelmani ||| 1595
+Johnossi ||| 1541
+Damien Rice ||| 1514
+Rise Against ||| 1501
+blink-182 ||| 1389
+Kings of Leon ||| 1362
+System of a Down ||| 1346
+Daft Punk ||| 1256
+Death Cab for Cutie ||| 1222
+30 Seconds to Mars ||| 1211
+Snow Patrol ||| 1189
+Sigur Rós ||| 1181
+The Hives ||| 1120
+Laleh ||| 1090
+Tenacious D ||| 1083
+The Strokes ||| 1038
+Röyksopp ||| 1028
+Jimmy Eat World ||| 997
+Jack Johnson ||| 973
+Arcade Fire ||| 970
+Kashmir ||| 963
+Tiger Lou ||| 916
+Papa Roach ||| 851
+Bo Kaspers Orkester ||| 846
+Shout Out Louds ||| 829
+Audioslave ||| 812
+Metallica ||| 812
+The Knife ||| 789
+Timbuktu ||| 781
+Detektivbyrån ||| 771
+Phoenix ||| 761
+Yann Tiersen ||| 751
+Against Me! ||| 749
+M83 ||| 747
+Slagsmålsklubben ||| 743
+Raised Fist ||| 737
+Queens of the Stone Age ||| 720
+Mando Diao ||| 712
+U2 ||| 684
+## playcount: 68868

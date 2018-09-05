@@ -1,0 +1,51 @@
+Madonna ||| 1852
+MGMT ||| 1267
+Florence + the Machine ||| 1242
+Pearl Jam ||| 1212
+Lana Del Rey ||| 1120
+Kanye West ||| 1025
+Nightwish ||| 1017
+Blur ||| 908
+Placebo ||| 904
+Christina Aguilera ||| 898
+My Chemical Romance ||| 786
+Nelly Furtado ||| 765
+Kate Bush ||| 687
+Blondie ||| 673
+The Smashing Pumpkins ||| 640
+Avril Lavigne ||| 586
+Blackmore's Night ||| 551
+Björk ||| 546
+Tarja ||| 540
+Chico Buarque ||| 476
+PJ Harvey ||| 465
+Muse ||| 456
+Ladytron ||| 415
+Eddie Vedder ||| 400
+Janelle Monáe ||| 384
+Amy Winehouse ||| 380
+Evanescence ||| 353
+Gwen Stefani ||| 325
+Gorillaz ||| 310
+Red Hot Chili Peppers ||| 296
+Lorde ||| 294
+Linkin Park ||| 286
+Lady Gaga ||| 282
+Of Monsters and Men ||| 280
+M.I.A. ||| 279
+Lily Allen ||| 277
+The Kooks ||| 258
+Coldplay ||| 255
+Paramore ||| 249
+Beyoncé ||| 246
+Katy Perry ||| 244
+Sia ||| 241
+Los Hermanos ||| 237
+Marina & the Diamonds ||| 236
+Kylie Minogue ||| 231
+Cássia Eller ||| 229
+30 Seconds to Mars ||| 227
+Rihanna ||| 224
+Stevie Wonder ||| 219
+Regina Spektor ||| 217
+## playcount: 26490

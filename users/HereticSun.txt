@@ -1,0 +1,51 @@
+Foo Fighters ||| 1582
+Pearl Jam ||| 1211
+Metallica ||| 1076
+Alice in Chains ||| 1061
+Red Hot Chili Peppers ||| 1056
+Nirvana ||| 1021
+Soundgarden ||| 801
+Green Day ||| 792
+Faith No More ||| 765
+Therapy? ||| 741
+System of a Down ||| 740
+Audioslave ||| 738
+Guns N' Roses ||| 633
+The Offspring ||| 577
+Rage Against the Machine ||| 563
+Stone Temple Pilots ||| 563
+Aerosmith ||| 519
+Iron Maiden ||| 473
+Nine Inch Nails ||| 466
+Stone Sour ||| 424
+Skindred ||| 414
+Korn ||| 411
+Bush ||| 394
+The Prodigy ||| 382
+Placebo ||| 370
+Muse ||| 367
+Slipknot ||| 360
+Velvet Revolver ||| 360
+Papa Roach ||| 354
+Depeche Mode ||| 328
+Skid Row ||| 322
+Dave Matthews Band ||| 311
+Pantera ||| 279
+Queens of the Stone Age ||| 275
+Soul Asylum ||| 267
+Extreme ||| 264
+The Wildhearts ||| 264
+Terrorvision ||| 254
+Puddle of Mudd ||| 252
+Megadeth ||| 242
+Rancid ||| 237
+R.E.M. ||| 221
+Queensrÿche ||| 219
+The Lounge Kittens ||| 217
+Machine Head ||| 215
+Trivium ||| 214
+Live ||| 208
+Radiohead ||| 199
+The Wonder Stuff ||| 198
+Slayer ||| 194
+## playcount: 24394

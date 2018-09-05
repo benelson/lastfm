@@ -1,0 +1,51 @@
+Madonna ||| 6614
+Dolly Parton ||| 5502
+Tracy Chapman ||| 4831
+Gladys Knight & The Pips ||| 2383
+Millie Jackson ||| 2245
+Otis Redding ||| 1826
+Mary J. Blige ||| 1642
+Joan Armatrading ||| 1599
+Texas ||| 1570
+Prince ||| 1497
+Billie Jo Spears ||| 1314
+Fleetwood Mac ||| 1297
+Whitney Houston ||| 1223
+Antony and the Johnsons ||| 1132
+Stevie Nicks ||| 1131
+Mariah Carey ||| 1114
+Martha Reeves And The Vandellas ||| 1077
+Adele ||| 1036
+Faithless ||| 1027
+Kate Bush ||| 1019
+Cher ||| 968
+Heather Nova ||| 966
+Aretha Franklin ||| 952
+Bettye Swann ||| 940
+Sandy Posey ||| 932
+Bruce Springsteen ||| 926
+Irma Thomas ||| 919
+Bette Midler ||| 918
+Martha Wainwright ||| 912
+Barbra Streisand ||| 905
+Candi Staton ||| 877
+Erasure ||| 851
+Joe Simon ||| 839
+Ann Peebles ||| 836
+Snow Patrol ||| 832
+Lady Gaga ||| 828
+Annie Lennox ||| 819
+Natalie Merchant ||| 815
+Roxette ||| 810
+Moby ||| 801
+Van Morrison ||| 777
+Janis Joplin ||| 765
+Jerry Butler ||| 763
+Maxine Brown ||| 748
+Shirley Bassey ||| 746
+Macy Gray ||| 730
+Glee Cast ||| 718
+Diana Ross and the Supremes ||| 707
+Kings of Leon ||| 704
+Kylie Minogue ||| 700
+## playcount: 66083

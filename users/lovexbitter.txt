@@ -1,0 +1,51 @@
+Green Day ||| 1070
+Arctic Monkeys ||| 305
+Foo Fighters ||| 298
+blink-182 ||| 256
+Yellowcard ||| 209
+Placebo ||| 189
+Franz Ferdinand ||| 164
+The Killers ||| 155
+The Kooks ||| 124
+Coldplay ||| 119
+Black Eyed Peas ||| 103
+Muse ||| 90
+De Saloon ||| 88
+Weezer ||| 88
+We Are Scientists ||| 84
+Los Bunkers ||| 77
+Red Hot Chili Peppers ||| 69
+Yeah Yeah Yeahs ||| 60
+The Beatles ||| 59
+Drogatones ||| 56
+Paramore ||| 54
+Linkin Park ||| 50
+Simple Plan ||| 46
+The Offspring ||| 45
+Journey ||| 43
+Lucybell ||| 37
+Lady Gaga ||| 36
+Primavera de Praga ||| 36
+Fall Out Boy ||| 28
+Avril Lavigne ||| 27
+Sum 41 ||| 27
+Beyoncé ||| 26
+Blur ||| 26
+Pearl Jam ||| 26
+Boys Like Girls ||| 25
+Kings of Leon ||| 24
+Depeche Mode ||| 23
+The Cure ||| 23
+Katy Perry ||| 21
+Los Tres ||| 21
+Papa Roach ||| 20
+Buckethead ||| 19
+Goo Goo Dolls ||| 19
+Metallica ||| 19
+OZMA ||| 19
+P!nk ||| 19
+Radiohead ||| 19
+Rage Against the Machine ||| 19
+Iron Maiden ||| 18
+Teleradio Donoso ||| 18
+## playcount: 4496

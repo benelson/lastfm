@@ -1,0 +1,51 @@
+Garbage ||| 239
+Evanescence ||| 212
+The Dresden Dolls ||| 209
+Nirvana ||| 175
+Nickelback ||| 159
+Linkin Park ||| 146
+Alanis Morissette ||| 128
+Incubus ||| 114
+Dido ||| 107
+Kelly Clarkson ||| 92
+Korn ||| 87
+Coldplay ||| 82
+Red Hot Chili Peppers ||| 79
+3 Doors Down ||| 67
+Frou Frou ||| 59
+Staind ||| 59
+Hilary Duff ||| 57
+Enigma ||| 53
+Rihanna ||| 50
+Green Day ||| 49
+Maroon 5 ||| 47
+S Club 7 ||| 44
+Metallica ||| 42
+The Killers ||| 39
+System of a Down ||| 38
+Goo Goo Dolls ||| 37
+Imogen Heap ||| 37
+Chantal Kreviazuk ||| 36
+R.E.M. ||| 36
+The Calling ||| 35
+James Blunt ||| 34
+The Cranberries ||| 33
+Bryan Adams ||| 32
+Creed ||| 32
+Keane ||| 32
+Shakira ||| 31
+The Fray ||| 30
+Céline Dion ||| 29
+Switchfoot ||| 29
+The White Stripes ||| 29
+Panic! at the Disco ||| 28
+Led Zeppelin ||| 27
+Nightwish ||| 27
+Pink Floyd ||| 27
+Snow Patrol ||| 27
+Three Days Grace ||| 27
+U2 ||| 27
+Aerosmith ||| 26
+Kylie Minogue ||| 26
+Mark Knopfler ||| 26
+## playcount: 3193

@@ -1,0 +1,51 @@
+Muse ||| 1531
+Dire Straits ||| 1324
+Pink Floyd ||| 927
+Red Hot Chili Peppers ||| 885
+The Rolling Stones ||| 847
+Eric Clapton ||| 783
+The Beatles ||| 783
+Dave Matthews Band ||| 782
+Creedence Clearwater Revival ||| 656
+Radiohead ||| 604
+Pearl Jam ||| 585
+Mark Knopfler ||| 507
+Coldplay ||| 483
+The Killers ||| 449
+Scorpions ||| 440
+Led Zeppelin ||| 379
+Zeca Baleiro ||| 378
+Eagles ||| 359
+Bob Dylan ||| 333
+Los Hermanos ||| 325
+Franz Ferdinand ||| 322
+System of a Down ||| 321
+AC/DC ||| 307
+Roberto Carlos ||| 305
+The Doors ||| 292
+Guns N' Roses ||| 287
+Kings of Leon ||| 287
+Bruno & Marrone ||| 285
+Arctic Monkeys ||| 281
+Queen ||| 280
+Marisa Monte ||| 279
+Lynyrd Skynyrd ||| 275
+Zezé Di Camargo & Luciano ||| 270
+David Bowie ||| 265
+The Who ||| 252
+Linkin Park ||| 247
+Caetano Veloso ||| 235
+The Beach Boys ||| 233
+Aerosmith ||| 230
+Seu Jorge ||| 229
+Lady Gaga ||| 228
+Michael Jackson ||| 228
+Jorge Ben ||| 219
+The Strokes ||| 214
+Nando Reis ||| 200
+Supertramp ||| 196
+Maroon 5 ||| 191
+The Clash ||| 187
+Stone Temple Pilots ||| 183
+Mac DeMarco ||| 180
+## playcount: 20868

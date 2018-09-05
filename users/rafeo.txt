@@ -1,0 +1,51 @@
+U2 ||| 1405
+Joaquín Sabina ||| 1174
+Fito Páez ||| 1092
+10,000 Maniacs ||| 819
+R.E.M. ||| 809
+Silvio Rodríguez ||| 764
+No Te Va Gustar ||| 756
+Eric Clapton ||| 600
+Simply Red ||| 596
+Queen ||| 568
+Dire Straits ||| 567
+Dido ||| 445
+Aretha Franklin ||| 406
+Serrat & Sabina ||| 404
+Bob Dylan ||| 395
+Estopa ||| 376
+La Vela Puerca ||| 332
+INXS ||| 330
+Elvis Presley ||| 317
+Rita Lee ||| 300
+Supertramp ||| 295
+Alanis Morissette ||| 271
+Andrés Calamaro ||| 244
+Caetano Veloso ||| 233
+Tracy Chapman ||| 230
+Jaime Roos ||| 221
+Sting ||| 202
+Bob Marley & The Wailers ||| 189
+The Cranberries ||| 178
+Nirvana ||| 176
+B.B. King & Eric Clapton ||| 175
+Electric Light Orchestra ||| 170
+Creedence Clearwater Revival ||| 169
+AC/DC ||| 160
+Joan Manuel Serrat ||| 156
+The Beatles ||| 149
+Las Pastillas Del Abuelo ||| 148
+The Doors ||| 140
+UB40 ||| 138
+Chico Buarque ||| 134
+Ludwig van Beethoven ||| 134
+Wes Montgomery ||| 134
+Al Green ||| 130
+Fleetwood Mac ||| 125
+The Police ||| 124
+Joshua Bell ||| 122
+Antonio Vivaldi ||| 112
+Jorge Drexler ||| 106
+Counting Crows ||| 102
+Rod Stewart ||| 102
+## playcount: 17424

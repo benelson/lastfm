@@ -1,0 +1,51 @@
+The Brian Jonestown Massacre ||| 2031
+Primal Scream ||| 1230
+The Beatles ||| 1157
+Queens of the Stone Age ||| 1067
+Tom Waits ||| 1056
+Soundgarden ||| 968
+Foo Fighters ||| 874
+Bob Marley ||| 873
+The Jesus and Mary Chain ||| 871
+Pink Floyd ||| 864
+Pearl Jam ||| 802
+Jimi Hendrix ||| 786
+Bob Dylan ||| 780
+Albert King ||| 689
+The Rolling Stones ||| 673
+Spacemen 3 ||| 660
+Black Rebel Motorcycle Club ||| 648
+Spiritualized ||| 565
+Incubus ||| 486
+Brian Eno ||| 472
+Sonic Youth ||| 448
+T. Rex ||| 430
+Beastie Boys ||| 427
+Slowdive ||| 415
+Metallica ||| 405
+Dinosaur Jr. ||| 392
+Death Cab for Cutie ||| 376
+Nujabes ||| 364
+Slank ||| 362
+Slayer ||| 352
+Yo La Tengo ||| 345
+Black Sabbath ||| 327
+Blur ||| 325
+Miles Davis ||| 314
+The Warlocks ||| 303
+Nirvana ||| 293
+Ride ||| 288
+B.B. King ||| 286
+The Velvet Underground ||| 276
+Melvins ||| 255
+The War on Drugs ||| 254
+Pavement ||| 252
+The Smiths ||| 249
+Stereolab ||| 245
+Kyuss ||| 234
+The Black Keys ||| 233
+Motörhead ||| 229
+Led Zeppelin ||| 222
+The Stone Roses ||| 221
+Tool ||| 221
+## playcount: 26895

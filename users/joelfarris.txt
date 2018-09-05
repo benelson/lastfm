@@ -1,0 +1,51 @@
+Foo Fighters ||| 505
+Chicane ||| 421
+U2 ||| 403
+Aerosmith ||| 242
+Red Hot Chili Peppers ||| 184
+ATB ||| 182
+Playlist DJs ||| 161
+The Presidents of the United States of America ||| 158
+The Smashing Pumpkins ||| 155
+Nirvana ||| 150
+Audioslave ||| 147
+Ozzy Osbourne ||| 144
+Van Halen ||| 133
+Bush ||| 130
+Local H ||| 123
+Yellowcard ||| 122
+Weezer ||| 113
+3 Doors Down ||| 104
+Jane's Addiction ||| 104
+Nine Inch Nails ||| 99
+Everclear ||| 98
+Enigma ||| 94
+Stone Temple Pilots ||| 91
+Coldplay ||| 89
+Katy Perry ||| 86
+Above & Beyond ||| 84
+AC/DC ||| 84
+Incubus ||| 82
+Armin van Buuren ||| 81
+Lady Gaga ||| 81
+Skillet ||| 81
+BT ||| 80
+Lana Del Rey ||| 79
+Metallica ||| 79
+Kiss ||| 78
+P!nk ||| 78
+Paul van Dyk ||| 78
+Chevelle ||| 76
+Sarah Jezebel Deva ||| 74
+Nickelback ||| 71
+The Verve Pipe ||| 69
+Chris Cornell ||| 67
+Soundgarden ||| 64
+Blind Melon ||| 60
+Fuel ||| 60
+Shinedown ||| 60
+Train ||| 59
+Robert Miles ||| 58
+The Darkness ||| 56
+Gin Blossoms ||| 55
+## playcount: 6032

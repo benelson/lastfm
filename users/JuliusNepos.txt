@@ -1,0 +1,51 @@
+New Order ||| 900
+Pavement ||| 876
+Joy Division ||| 832
+Pixies ||| 614
+Spiritualized ||| 552
+The Jesus and Mary Chain ||| 550
+My Bloody Valentine ||| 524
+Guided by Voices ||| 499
+Stereolab ||| 475
+The Smiths ||| 445
+Neutral Milk Hotel ||| 367
+The Radio Dept. ||| 363
+Orchestral Manoeuvres in the Dark ||| 298
+The Velvet Underground ||| 295
+Asobi Seksu ||| 270
+David Bowie ||| 236
+Talking Heads ||| 235
+Dustin O'Halloran ||| 232
+Ringo Deathstarr ||| 215
+Broadcast ||| 203
+The Strokes ||| 200
+Wire ||| 188
+Can ||| 176
+Starfucker ||| 171
+Lali Puna ||| 170
+Kanye West ||| 163
+Ride ||| 161
+Aphex Twin ||| 156
+Slowdive ||| 156
+Sigur Rós ||| 145
+The Cure ||| 141
+The Raveonettes ||| 141
+John Maus ||| 139
+Times New Viking ||| 139
+Johnny Cash ||| 131
+Depeche Mode ||| 130
+Grimes ||| 129
+LCD Soundsystem ||| 129
+The xx ||| 129
+Interpol ||| 127
+MGMT ||| 126
+Yo La Tengo ||| 126
+Clap Your Hands Say Yeah ||| 125
+Wild Nothing ||| 125
+Burial ||| 123
+Beach House ||| 121
+John Talabot ||| 120
+Erik Satie ||| 116
+Beck ||| 115
+Primal Scream ||| 115
+## playcount: 13214

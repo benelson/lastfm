@@ -1,0 +1,51 @@
+311 ||| 241
+Kanye West ||| 215
+Korn ||| 209
+The Weeknd ||| 208
+Deftones ||| 205
+Beastie Boys ||| 181
+Against Me! ||| 171
+Drake ||| 170
+N*E*R*D ||| 167
+New Found Glory ||| 161
+Twenty One Pilots ||| 155
+blink-182 ||| 150
+Three Days Grace ||| 136
+Emmure ||| 131
+Red Hot Chili Peppers ||| 130
+7Seconds ||| 126
+Future ||| 115
+Issues ||| 115
+Say Anything ||| 109
+Daft Punk ||| 106
+Zao ||| 104
+Dayshell ||| 102
+Whitechapel ||| 97
+This Wild Life ||| 95
+The White Stripes ||| 94
+Nickelback ||| 93
+Devin Townsend Project ||| 92
+Hatebreed ||| 91
+Of Mice & Men ||| 91
+Black Flag ||| 89
+Death Grips ||| 89
+Napalm Death ||| 88
+Faith No More ||| 87
+Frank Ocean ||| 87
+Kendrick Lamar ||| 87
+Bleachers ||| 86
+Tom Petty ||| 86
+A Day to Remember ||| 84
+Killswitch Engage ||| 82
+Dance Gavin Dance ||| 80
+Fall Out Boy ||| 80
+OutKast ||| 80
+H2O ||| 79
+Weezer ||| 79
+Suicide Silence ||| 77
+Chevelle ||| 74
+Dream Theater ||| 74
+Linkin Park ||| 74
+Dave Matthews Band ||| 73
+The Acacia Strain ||| 73
+## playcount: 5768

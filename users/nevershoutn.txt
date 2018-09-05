@@ -1,0 +1,51 @@
+Radiohead ||| 7186
+The Smashing Pumpkins ||| 5256
+Dance of Days ||| 2749
+Arctic Monkeys ||| 2664
+My Bloody Valentine ||| 2465
+The Cure ||| 2444
+Dinosaur Jr. ||| 2207
+Foo Fighters ||| 2190
+Joy Division ||| 2166
+The Smiths ||| 2144
+Black Sabbath ||| 1920
+Pixies ||| 1846
+Charlie Brown JR. ||| 1836
+Pantera ||| 1814
+Queens of the Stone Age ||| 1711
+Muse ||| 1702
+Nirvana ||| 1594
+Megadeth ||| 1583
+Los Hermanos ||| 1577
+Hüsker Dü ||| 1568
+Rancore ||| 1541
+Legião Urbana ||| 1125
+Alice in Chains ||| 1099
+Polara ||| 1082
+Iron Maiden ||| 1081
+Slowdive ||| 1066
+Sonic Youth ||| 1026
+The Strokes ||| 1014
+Vespas Mandarinas ||| 997
+Ramones ||| 974
+Arcade Fire ||| 970
+The Jesus and Mary Chain ||| 944
+Crystal Castles ||| 909
+Kiss ||| 873
+Slayer ||| 867
+The Velvet Underground ||| 861
+Matanza ||| 795
+Sepultura ||| 794
+Metallica ||| 779
+Nine Inch Nails ||| 737
+Racionais Mc's ||| 712
+Ludovic ||| 706
+Alexisonfire ||| 702
+The Stooges ||| 631
+Guns N' Roses ||| 583
+Mac DeMarco ||| 573
+Soundgarden ||| 550
+The Distillers ||| 547
+Weezer ||| 542
+Oasis ||| 505
+## playcount: 74207

@@ -1,0 +1,51 @@
+Mono ||| 333
+Devics ||| 243
+Erik Satie ||| 212
+Depeche Mode ||| 176
+Shahin Najafi ||| 166
+Mohsen Namjoo ||| 158
+The Tiger Lillies ||| 152
+Yann Tiersen ||| 138
+Zaz ||| 136
+Susanne Sundfør ||| 126
+Antony and the Johnsons ||| 118
+Archive ||| 114
+Tord Gustavsen Trio ||| 113
+Ane Brun ||| 111
+Aaron ||| 95
+Asaf Avidan ||| 93
+Beirut ||| 90
+Tom Waits ||| 90
+Oscar Peterson ||| 88
+Yasmin Levy ||| 87
+The Irrepressibles ||| 86
+Arvo Pärt ||| 73
+Lhasa de Sela ||| 71
+Philip Glass ||| 65
+Andrea Bocelli ||| 63
+Johann Sebastian Bach ||| 62
+Elvis Presley ||| 61
+Wolfgang Amadeus Mozart ||| 59
+Screamin' Jay Hawkins ||| 57
+King Raam ||| 56
+Camel ||| 55
+Sergei Rachmaninoff ||| 54
+Murcof ||| 50
+Ali Azimi ||| 49
+Anathema ||| 49
+Opeth ||| 49
+CocoRosie ||| 47
+Radiohead ||| 46
+Rover ||| 45
+Washington ||| 45
+Placebo ||| 44
+Zbigniew Preisner ||| 44
+Charlie Parker & Miles Davis ||| 42
+Chris Rea ||| 42
+Mohammad Reza Shajarian ||| 40
+The Nat King Cole Trio ||| 40
+Jeff Buckley ||| 39
+Billie Holiday ||| 38
+David Bowie ||| 37
+127 ||| 36
+## playcount: 4383

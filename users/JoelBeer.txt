@@ -1,0 +1,51 @@
+Machine Head ||| 1384
+The Smith Street Band ||| 1268
+The Menzingers ||| 1196
+Coheed and Cambria ||| 1133
+Trivium ||| 991
+Rise Against ||| 805
+Ed Sheeran ||| 798
+Amon Amarth ||| 680
+Biffy Clyro ||| 650
+The Lawrence Arms ||| 575
+Pantera ||| 573
+Anterior ||| 558
+Ben Howard ||| 557
+Arch Enemy ||| 516
+A Wilhelm Scream ||| 505
+In Flames ||| 479
+Children of Bodom ||| 464
+Don McLean ||| 460
+Megadeth ||| 427
+Mastodon ||| 417
+DevilDriver ||| 415
+Opeth ||| 397
+Metallica ||| 341
+Killswitch Engage ||| 334
+Dire Straits ||| 331
+The Black Dahlia Murder ||| 330
+Lamb of God ||| 321
+Brian Fallon ||| 315
+Chet Baker ||| 315
+The Cure ||| 303
+Simon & Garfunkel ||| 289
+Decapitated ||| 277
+Slipknot ||| 253
+The Dillinger Escape Plan ||| 250
+As I Lay Dying ||| 249
+Bob Marley & The Wailers ||| 247
+Staind ||| 239
+Slayer ||| 236
+At the Gates ||| 235
+Dark Tranquillity ||| 216
+Shadows Fall ||| 216
+Frank Sinatra ||| 201
+Rage Against the Machine ||| 198
+Behemoth ||| 195
+Stone Sour ||| 189
+Mumford & Sons ||| 187
+Eric Clapton ||| 183
+God Forbid ||| 179
+Zebrahead ||| 178
+Dave Hause ||| 172
+## playcount: 22227

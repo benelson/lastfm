@@ -1,0 +1,51 @@
+Christina Aguilera ||| 7945
+Lady Gaga ||| 2699
+Madonna ||| 2607
+Lana Del Rey ||| 1616
+Beyoncé ||| 1513
+Amy Winehouse ||| 1349
+Sia ||| 1147
+Muse ||| 1123
+David Bowie ||| 1035
+The Killers ||| 1034
+Joss Stone ||| 1006
+Adele ||| 947
+<Artista Desconhecido> ||| 781
+Florence + the Machine ||| 770
+Alicia Keys ||| 744
+Queen ||| 675
+Rihanna ||| 636
+Britney Spears ||| 623
+Pink Floyd ||| 481
+The Weeknd ||| 462
+Gossip ||| 405
+Radiohead ||| 385
+Gwen Stefani ||| 383
+R.E.M. ||| 372
+Azealia Banks ||| 367
+The Black Keys ||| 353
+Kanye West ||| 348
+Kings of Leon ||| 336
+Arcade Fire ||| 329
+Sam Sparro ||| 323
+Katy Perry ||| 317
+SZA ||| 294
+No Doubt ||| 288
+Maroon 5 ||| 284
+Elvis Presley ||| 278
+Led Zeppelin ||| 268
+Nirvana ||| 265
+Bruno Mars ||| 244
+The Doors ||| 225
+Miley Cyrus ||| 222
+Arctic Monkeys ||| 220
+M.I.A. ||| 217
+Cher ||| 207
+MGMT ||| 173
+Bob Marley ||| 167
+The White Stripes ||| 167
+Lily Allen ||| 165
+La Roux ||| 162
+Red Hot Chili Peppers ||| 161
+Kylie Minogue ||| 158
+## playcount: 37276

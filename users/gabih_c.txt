@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 696
+Foo Fighters ||| 482
+McFly ||| 479
+blink-182 ||| 243
+Red Hot Chili Peppers ||| 242
+The Killers ||| 202
+Pearl Jam ||| 186
+The Beatles ||| 177
+Simple Plan ||| 163
+Criolo ||| 139
+Bob Dylan ||| 134
+Linkin Park ||| 133
+Apanhador Só ||| 127
+The Strokes ||| 126
+Pink Floyd ||| 112
+Sublime ||| 104
+Avril Lavigne ||| 103
+Coldplay ||| 98
+The Black Keys ||| 98
+Katy Perry ||| 77
+Charlie Brown JR. ||| 75
+Beirut ||| 73
+The Rolling Stones ||| 73
+Led Zeppelin ||| 72
+Lily Allen ||| 71
+Rihanna ||| 69
+Cícero ||| 66
+Maroon 5 ||| 66
+Green Day ||| 63
+Foster the People ||| 62
+Pitty ||| 62
+Britney Spears ||| 60
+Los Hermanos ||| 60
+Armandinho ||| 58
+Lady Gaga ||| 58
+Beyoncé ||| 57
+The Maine ||| 56
+Paramore ||| 55
+Strike ||| 55
+Taylor Swift ||| 54
+Fall Out Boy ||| 53
+Boys Like Girls ||| 51
+Busted ||| 51
+The Kooks ||| 50
+Oasis ||| 49
+Titãs ||| 48
+Panic! at the Disco ||| 45
+Black Eyed Peas ||| 44
+Jonas Brothers ||| 44
+MØ ||| 43
+## playcount: 5864

@@ -1,0 +1,51 @@
+Tool ||| 10204
+Mogwai ||| 3376
+Isis ||| 2231
+Ulver ||| 2028
+Nickelback ||| 1620
+Machine Head ||| 1572
+Audioslave ||| 1424
+Torche ||| 1360
+Deftones ||| 1176
+Rage Against the Machine ||| 1104
+Jesu ||| 1037
+Linkin Park ||| 1037
+Gojira ||| 1022
+Mew ||| 1005
+Opeth ||| 985
+Sigur Rós ||| 962
+Tycho ||| 871
+Baroness ||| 866
+Wilco ||| 862
+In Flames ||| 855
+Rishloo ||| 816
+Melvins ||| 771
+Radiohead ||| 771
+Mastodon ||| 746
+Trivium ||| 732
+System of a Down ||| 715
+A Perfect Circle ||| 714
+The Haunted ||| 714
+Scorn ||| 705
+Alec Empire ||| 701
+Alice in Chains ||| 695
+Weezer ||| 684
+Pelican ||| 681
+David Bowie ||| 673
+Slipknot ||| 664
+Queens of the Stone Age ||| 656
+Nirvana ||| 648
+Pantera ||| 616
+Coldplay ||| 584
+Godflesh ||| 579
+Disturbed ||| 566
+Lamb of God ||| 565
+Nine Inch Nails ||| 562
+Behemoth ||| 561
+Dream Theater ||| 559
+The Atomic Bitchwax ||| 558
+Ratatat ||| 555
+NPR ||| 546
+Porcupine Tree ||| 540
+Future Islands ||| 539
+## playcount: 55013

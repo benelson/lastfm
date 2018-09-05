@@ -1,0 +1,51 @@
+f(x) ||| 50751
+소녀시대 ||| 23110
+Taylor Swift ||| 22750
+Lady Gaga ||| 21111
+Britney Spears ||| 20957
+Lana Del Rey ||| 17154
+Madonna ||| 9724
+Avril Lavigne ||| 9276
+트와이스 ||| 8579
+Carly Rae Jepsen ||| 6060
+나인뮤지스 ||| 5958
+Wonder Girls ||| 5940
+少女時代 ||| 5885
+T-ARA ||| 5774
+I.O.I ||| 5465
+Charli XCX ||| 5190
+Marina & the Diamonds ||| 5189
+miss A ||| 4963
+Kylie Minogue ||| 4802
+Ariana Grande ||| 4283
+EXID ||| 4218
+Tove Lo ||| 4156
+태연 ||| 4127
+Dua Lipa ||| 3887
+Katy Perry ||| 3857
+Selena Gomez ||| 3414
+Gwen Stefani ||| 3181
+Paramore ||| 2787
+Kara ||| 2694
+Grimes ||| 2624
+Lorde ||| 2580
+레드벨벳 ||| 2484
+Björk ||| 2432
+Azealia Banks ||| 2405
+Lovelyz ||| 2266
+After School ||| 2227
+IU ||| 2122
+A Pink ||| 2115
+AOA ||| 2069
+이달의 소녀 ||| 1940
+FKA twigs ||| 1851
+선미 ||| 1798
+Lykke Li ||| 1734
+Miley Cyrus ||| 1697
+Banks ||| 1683
+SISTAR ||| 1650
+FIESTAR ||| 1638
+Natalia Kills ||| 1593
+Tori Amos ||| 1579
+수지 ||| 1575
+## playcount: 317304

@@ -1,0 +1,51 @@
+Jennifer Lopez ||| 12170
+Britney Spears ||| 11995
+Hilary Duff ||| 8264
+Lana Del Rey ||| 4016
+Nelly Furtado ||| 3179
+Fergie ||| 3030
+Justin Timberlake ||| 2969
+Carly Rae Jepsen ||| 2652
+Coldplay ||| 2558
+Madonna ||| 2388
+Black Eyed Peas ||| 2386
+Taylor Swift ||| 1741
+Gwen Stefani ||| 1699
+Christina Aguilera ||| 1573
+Rihanna ||| 1426
+Nicole Scherzinger ||| 1284
+Charli XCX ||| 1106
+Dua Lipa ||| 1026
+The Pretty Reckless ||| 1022
+Snow Patrol ||| 918
+Ashlee Simpson ||| 900
+Cassie ||| 896
+Aqua ||| 861
+The Pussycat Dolls ||| 831
+Iggy Azalea ||| 816
+*NSYNC ||| 781
+Lady Gaga ||| 772
+Demi Lovato ||| 708
+JoJo ||| 697
+Ariana Grande ||| 684
+Beyoncé ||| 678
+Cardi B ||| 653
+OneRepublic ||| 610
+Kelly Clarkson ||| 608
+Avril Lavigne ||| 606
+The All-American Rejects ||| 599
+Maroon 5 ||| 579
+No Doubt ||| 530
+Lindsay Lohan ||| 498
+Robyn ||| 490
+Spice Girls ||| 458
+Shakira ||| 430
+Camila Cabello ||| 379
+Katy Perry ||| 375
+P!nk ||| 361
+Skye Sweetnam ||| 360
+The Beatles ||| 360
+Vanessa Hudgens ||| 358
+Drake ||| 338
+Julia Michaels ||| 331
+## playcount: 84949

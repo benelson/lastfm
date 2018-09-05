@@ -1,0 +1,51 @@
+Lana Del Rey ||| 35858
+Britney Spears ||| 12349
+Rihanna ||| 7362
+Drake ||| 3571
+Madonna ||| 2904
+Miley Cyrus ||| 2860
+Marina & the Diamonds ||| 2498
+Beyoncé ||| 2257
+Azealia Banks ||| 1867
+Selena Gomez ||| 1144
+J. Cole ||| 1092
+Lorde ||| 903
+Mariah Carey ||| 562
+The Weeknd ||| 542
+Arctic Monkeys ||| 444
+Kanye West ||| 417
+Katy Perry ||| 417
+Belinda ||| 416
+Kylie Minogue ||| 396
+Lady Gaga ||| 394
+A$AP Rocky ||| 384
+Tinashe ||| 372
+Christina Aguilera ||| 346
+Wale ||| 283
+Ariana Grande ||| 280
+Nicki Minaj ||| 256
+jj ||| 227
+The Neighbourhood ||| 197
+Sky Ferreira ||| 170
+Florence + the Machine ||| 151
+The xx ||| 146
+Jennifer Lopez ||| 124
+M.I.A. ||| 104
+Adele ||| 88
+Nirvana ||| 88
+Selena Gomez & the Scene ||| 85
+Ke$ha ||| 69
+Taylor Swift ||| 59
+Crystal Castles ||| 58
+A$AP Ferg ||| 54
+N.W.A ||| 51
+Coldplay ||| 48
+Cheryl Cole ||| 45
+Shakira ||| 45
+SZA ||| 45
+will.i.am ||| 43
+Paris Hilton ||| 40
+FKA twigs ||| 38
+Lindsay Lohan ||| 38
+Hilary Duff ||| 36
+## playcount: 82223

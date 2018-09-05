@@ -1,0 +1,51 @@
+Iron Maiden ||| 533
+Slayer ||| 444
+The Stooges ||| 435
+Megadeth ||| 399
+Judas Priest ||| 378
+Motörhead ||| 336
+Kreator ||| 314
+Deicide ||| 298
+The Beach Boys ||| 296
+Cannibal Corpse ||| 288
+Dismember ||| 283
+Venom ||| 279
+Black Sabbath ||| 272
+Kiss ||| 243
+Ozzy Osbourne ||| 220
+Autopsy ||| 193
+Turbonegro ||| 193
+Metallica ||| 189
+Led Zeppelin ||| 180
+Entombed ||| 178
+Sex Pistols ||| 178
+David Bowie ||| 172
+Roxy Music ||| 168
+Sodom ||| 167
+AC/DC ||| 163
+Exciter ||| 161
+Desaster ||| 158
+Van Halen ||| 158
+The Doors ||| 157
+Amon Amarth ||| 154
+At the Gates ||| 153
+Nifelheim ||| 153
+The Rolling Stones ||| 150
+Anti Cimex ||| 141
+Manowar ||| 136
+Morbid Angel ||| 135
+The Beatles ||| 132
+GBH ||| 126
+Bathory ||| 124
+Possessed ||| 124
+Alice Cooper ||| 123
+New York Dolls ||| 123
+Sadus ||| 123
+MC5 ||| 122
+The Clash ||| 121
+Immolation ||| 116
+Mercyful Fate ||| 110
+Ted Nugent ||| 109
+Dissection ||| 107
+Bombarder ||| 106
+## playcount: 10121

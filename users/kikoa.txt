@@ -1,0 +1,51 @@
+The Who ||| 9
+The Rolling Stones ||| 8
+Al Green ||| 7
+Cat Power ||| 7
+Marvin Gaye ||| 7
+Stevie Wonder ||| 7
+The Moldy Peaches ||| 7
+Blockhead ||| 6
+Creedence Clearwater Revival ||| 6
+DJ Krush ||| 6
+Hooverphonic ||| 6
+Jeffrey Lewis ||| 6
+Mirah ||| 6
+Sam & Dave ||| 6
+The Herbaliser ||| 6
+Wax Tailor ||| 6
+Belle and Sebastian ||| 5
+Bob Dylan ||| 5
+Bonobo ||| 5
+Diana Ross and the Supremes ||| 5
+DJ Cam ||| 5
+Doctor Flake ||| 5
+Eric Clapton ||| 5
+Feist ||| 5
+Herman Düne ||| 5
+John Lennon ||| 5
+Kimya Dawson ||| 5
+Nightmares on Wax ||| 5
+Otis Redding ||| 5
+The Beach Boys ||| 5
+The Isley Brothers ||| 5
+The Temptations ||| 5
+Aretha Franklin ||| 4
+Badly Drawn Boy ||| 4
+Beastie Boys ||| 4
+Cream ||| 4
+Curtis Mayfield ||| 4
+Daniel Johnston ||| 4
+Deep Purple ||| 4
+Hocus Pocus ||| 4
+James Brown ||| 4
+Le Peuple de l'Herbe ||| 4
+Led Zeppelin ||| 4
+Ray Charles ||| 4
+Regina Spektor ||| 4
+Smokey Robinson and The Miracles ||| 4
+Smooth ||| 4
+Terranova ||| 4
+The Beatles ||| 4
+The Doors ||| 4
+## playcount: 258

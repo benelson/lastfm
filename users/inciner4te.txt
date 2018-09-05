@@ -1,0 +1,51 @@
+Interpol ||| 684
+Pearl Jam ||| 554
+John Frusciante ||| 541
+The Smashing Pumpkins ||| 480
+Rancore ||| 339
+Elliott Smith ||| 337
+Deftones ||| 303
+Radiohead ||| 298
+Red Hot Chili Peppers ||| 298
+Eminem ||| 297
+Arctic Monkeys ||| 251
+The White Buffalo ||| 238
+Pixies ||| 236
+Ratatat ||| 234
+Nirvana ||| 230
+Placebo ||| 223
+Queens of the Stone Age ||| 217
+La Dispute ||| 215
+Cage the Elephant ||| 203
+Dustin Kensrue ||| 189
+Silversun Pickups ||| 182
+The Smiths ||| 182
+Kasabian ||| 179
+Incubus ||| 178
+White Lies ||| 171
+Vivendo do Ócio ||| 165
+Violent Soho ||| 157
+Johnny Cash ||| 156
+The Strokes ||| 151
+alt-J ||| 147
+The xx ||| 147
+Demon Hunter ||| 146
+Oasis ||| 143
+Aaron Gillespie ||| 142
+Kings of Leon ||| 140
+Muse ||| 139
+Brand New ||| 134
+Twenty One Pilots ||| 130
+Foo Fighters ||| 127
+Arcade Fire ||| 126
+Linkin Park ||| 123
+Foals ||| 120
+Manchester Orchestra ||| 120
+blink-182 ||| 118
+Sonic Youth ||| 116
+Thrice ||| 113
+Dinosaur Jr. ||| 109
+Eddie Vedder ||| 105
+Gallows ||| 104
+The National ||| 104
+## playcount: 10541

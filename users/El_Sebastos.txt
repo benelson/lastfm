@@ -1,0 +1,51 @@
+Coldplay ||| 16808
+Red Hot Chili Peppers ||| 13461
+Snow Patrol ||| 5131
+Paolo Conte ||| 5059
+David Gray ||| 4831
+Green Day ||| 4009
+The Killers ||| 3680
+Kanye West ||| 3478
+Dire Straits ||| 3338
+Acda en de Munnik ||| 2988
+U2 ||| 2909
+Opgezwolle ||| 2647
+The Fray ||| 2428
+Maroon 5 ||| 2382
+Alicia Keys ||| 2215
+John Mayer ||| 2177
+Franz Ferdinand ||| 1986
+Newton Faulkner ||| 1938
+Herman van Veen ||| 1864
+Bløf ||| 1834
+Oasis ||| 1834
+Tenacious D ||| 1728
+Jack Johnson ||| 1665
+Eric Clapton ||| 1617
+The Fratellis ||| 1592
+Queen ||| 1502
+Amy Winehouse ||| 1482
+Five for Fighting ||| 1430
+Goo Goo Dolls ||| 1430
+Krezip ||| 1430
+Bob Marley & The Wailers ||| 1402
+John Legend ||| 1352
+Muse ||| 1088
+Robin Thicke ||| 1083
+Bob Marley ||| 1038
+Incubus ||| 944
+The White Stripes ||| 915
+No Doubt ||| 908
+Duffy ||| 896
+Guus Meeuwis ||| 849
+The Kooks ||| 820
+Jay-Z ||| 798
+Robbie Williams ||| 774
+Eminem ||| 765
+Boerenploeg ||| 759
+Bruce Springsteen ||| 720
+Rico ||| 686
+Frank Sinatra ||| 667
+Norah Jones ||| 665
+R.E.M. ||| 641
+## playcount: 118643

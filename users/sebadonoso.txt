@@ -1,0 +1,51 @@
+Laura Pausini ||| 1586
+One Direction ||| 1232
+Kylie Minogue ||| 1223
+Eric Saade ||| 1101
+Ed Sheeran ||| 1091
+The Saturdays ||| 1051
+Justin Bieber ||| 1050
+Ellie Goulding ||| 1033
+Natalie Imbruglia ||| 1016
+Chris Brown ||| 1004
+Inna ||| 970
+Sia ||| 967
+Britney Spears ||| 961
+David Guetta ||| 951
+Example ||| 929
+Frankmusik ||| 925
+Jessie J ||| 916
+Jason Derülo ||| 904
+Olly Murs ||| 892
+Ariana Grande ||| 884
+Armin van Buuren ||| 882
+Carly Rae Jepsen ||| 870
+Maroon 5 ||| 862
+Carrie Underwood ||| 851
+Cody Simpson ||| 837
+Lana Del Rey ||| 821
+Kelly Clarkson ||| 819
+Alexandra Stan ||| 818
+Hilary Duff ||| 818
+Rihanna ||| 798
+Little Mix ||| 795
+The Script ||| 794
+OneRepublic ||| 790
+Bastille ||| 788
+Lady Antebellum ||| 782
+Nicki Minaj ||| 780
+Snoop Dogg ||| 754
+Demi Lovato ||| 717
+Scouting for Girls ||| 717
+Charli XCX ||| 710
+Drake ||| 710
+Cheryl Cole ||| 707
+Birdy ||| 703
+Robbie Williams ||| 681
+Dido ||| 680
+Leona Lewis ||| 680
+Beyoncé ||| 678
+Madonna ||| 674
+Taylor Swift ||| 670
+James Blunt ||| 668
+## playcount: 43540

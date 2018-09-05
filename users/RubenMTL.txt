@@ -1,0 +1,51 @@
+Iron Maiden ||| 6085
+Dio ||| 5307
+Motörhead ||| 5110
+Rainbow ||| 4747
+Black Sabbath ||| 4478
+Judas Priest ||| 2927
+Ozzy Osbourne ||| 2287
+Metallica ||| 2180
+Running Wild ||| 2150
+Slayer ||| 2148
+Scorpions ||| 1556
+Helloween ||| 1517
+Saxon ||| 1488
+Overkill ||| 1475
+Blackmore's Night ||| 1335
+Stratovarius ||| 1304
+Sonata Arctica ||| 1142
+Megadeth ||| 1139
+Bruce Dickinson ||| 1117
+King Diamond ||| 1112
+Nokturnal Mortum ||| 1107
+Mercyful Fate ||| 1080
+Testament ||| 1049
+Amon Amarth ||| 1039
+AC/DC ||| 966
+Yngwie Malmsteen ||| 930
+Queen ||| 909
+Bathory ||| 870
+Deep Purple ||| 825
+Pantera ||| 801
+Accept ||| 758
+UFO ||| 754
+Heaven & Hell ||| 713
+Riff ||| 695
+Anthrax ||| 684
+Van Halen ||| 678
+Primal Fear ||| 652
+Hypocrisy ||| 642
+Gary Moore ||| 626
+Kansas ||| 618
+Death ||| 615
+Iron Savior ||| 610
+Amorphis ||| 608
+Elf ||| 586
+Necrophobic ||| 582
+Immortal ||| 525
+Destruction ||| 503
+Gamma Ray ||| 495
+Cannibal Corpse ||| 491
+Venom ||| 467
+## playcount: 72482

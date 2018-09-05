@@ -1,0 +1,51 @@
+The Beatles ||| 13636
+Matanza ||| 1233
+Bon Jovi ||| 1074
+Led Zeppelin ||| 584
+Red Hot Chili Peppers ||| 404
+Mamonas Assassinas ||| 402
+Pink Floyd ||| 376
+Legião Urbana ||| 370
+The Runaways ||| 352
+Queen ||| 345
+Skid Row ||| 324
+Def Leppard ||| 303
+The Pretty Reckless ||| 297
+Scorpions ||| 296
+アンティック-珈琲店- ||| 237
+Guns N' Roses ||| 223
+Metallica ||| 222
+Paul McCartney & Wings ||| 215
+AC/DC ||| 194
+System of a Down ||| 173
+David Bowie ||| 171
+Cradle of Filth ||| 148
+Kiss ||| 148
+Nightwish ||| 145
+Pitty ||| 136
+Whitesnake ||| 135
+Pantera ||| 131
+The Rolling Stones ||| 126
+U2 ||| 102
+Epica ||| 101
+Motörhead ||| 97
+Slipknot ||| 94
+Aerosmith ||| 92
+Janis Joplin ||| 91
+John Lennon ||| 90
+Titãs ||| 85
+Avenged Sevenfold ||| 84
+Bruce Dickinson ||| 79
+Michael Jackson ||| 76
+The Darkness ||| 75
+Sex Pistols ||| 74
+Ozzy Osbourne ||| 73
+Pearl Jam ||| 73
+Quiet Riot ||| 71
+Cinderella ||| 69
+Kid Rock ||| 68
+Joan Jett and the Blackhearts ||| 67
+Paul McCartney ||| 67
+Nirvana ||| 66
+Alice Cooper ||| 65
+## playcount: 24159

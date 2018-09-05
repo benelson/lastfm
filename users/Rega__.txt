@@ -1,0 +1,51 @@
+John Mayer ||| 7071
+Mat Kearney ||| 2687
+Alter Bridge ||| 2020
+Newton Faulkner ||| 1945
+The Beatles ||| 1613
+Pink Floyd ||| 1538
+Mutemath ||| 1490
+Lifehouse ||| 1398
+NOFX ||| 1295
+Pete Yorn ||| 1206
+Gianluca Grignani ||| 1162
+Idlewild ||| 1112
+Coldplay ||| 1050
+Splender ||| 1006
+Subsonica ||| 951
+Damien Rice ||| 859
+Kings of Leon ||| 853
+Pain of Salvation ||| 829
+Led Zeppelin ||| 828
+The Beach Boys ||| 799
+Joe Bonamassa ||| 796
+Oasis ||| 787
+Nada Surf ||| 777
+Howie Day ||| 750
+Daniel Licht ||| 658
+Calexico ||| 626
+Neffa ||| 607
+Eminem ||| 591
+Reverend and the Makers ||| 585
+Elio e le Storie Tese ||| 569
+The Alan Parsons Project ||| 538
+David Bowie ||| 514
+Default ||| 509
+Fuel ||| 494
+Mumford & Sons ||| 479
+The Smiths ||| 475
+3 Doors Down ||| 464
+Limp Bizkit ||| 462
+Jethro Tull ||| 443
+Noel Gallagher's High Flying Birds ||| 433
+Joseph Arthur ||| 425
+The Rolling Stones ||| 415
+Bear McCreary ||| 387
+John Grant ||| 380
+Sugar Ray ||| 380
+Daniele Groff ||| 376
+Billy Idol ||| 370
+Neil Young ||| 359
+The Killers ||| 351
+Embrace ||| 350
+## playcount: 47062

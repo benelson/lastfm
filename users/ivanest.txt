@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 3555
+The Beatles ||| 2413
+Phoenix ||| 2074
+Arcade Fire ||| 1901
+Franz Ferdinand ||| 1805
+Muse ||| 1667
+Gorillaz ||| 1652
+Tame Impala ||| 1568
+The Killers ||| 1438
+The Strokes ||| 1381
+Foals ||| 1350
+Interpol ||| 1259
+Vampire Weekend ||| 1249
+Metallica ||| 1088
+The xx ||| 978
+Coldplay ||| 957
+Cage the Elephant ||| 832
+Cut Copy ||| 830
+The Kooks ||| 821
+The National ||| 797
+Two Door Cinema Club ||| 793
+Radiohead ||| 784
+The Libertines ||| 760
+MGMT ||| 745
+Kasabian ||| 713
+Metronomy ||| 713
+alt-J ||| 700
+Queens of the Stone Age ||| 685
+Foster the People ||| 638
+Glass Animals ||| 637
+Portugal. The Man ||| 633
+Led Zeppelin ||| 575
+Blur ||| 551
+Kaiser Chiefs ||| 531
+The Hives ||| 519
+Disclosure ||| 482
+Jack White ||| 468
+CHVRCHES ||| 462
+LCD Soundsystem ||| 440
+James Blake ||| 427
+Twenty One Pilots ||| 425
+Passion Pit ||| 424
+Hot Chip ||| 418
+Beirut ||| 406
+Kings of Leon ||| 403
+The Last Shadow Puppets ||| 397
+Brandon Flowers ||| 396
+Mac DeMarco ||| 384
+Flume ||| 380
+The Lumineers ||| 376
+## playcount: 45880

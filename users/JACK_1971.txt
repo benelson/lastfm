@@ -1,0 +1,51 @@
+Motörhead ||| 158
+Slash ||| 151
+Aerosmith ||| 130
+Guns N' Roses ||| 120
+Depeche Mode ||| 104
+Kiss ||| 104
+Nirvana ||| 100
+Iron Maiden ||| 97
+Pink Floyd ||| 88
+The Doors ||| 88
+Black Sabbath ||| 87
+Def Leppard ||| 84
+The Rolling Stones ||| 84
+Deep Purple ||| 78
+Ozzy Osbourne ||| 78
+Accept ||| 75
+Pantera ||| 69
+Van Halen ||| 68
+Linkin Park ||| 67
+Judas Priest ||| 66
+Metallica ||| 64
+Scorpions ||| 62
+David Bowie ||| 60
+Nick Cave & The Bad Seeds ||| 60
+Slayer ||| 59
+Jethro Tull ||| 56
+AC/DC ||| 55
+Dio ||| 55
+System of a Down ||| 54
+Twisted Sister ||| 53
+Queen ||| 49
+Madness ||| 47
+Foo Fighters ||| 44
+Tesla ||| 42
+Dream Theater ||| 39
+Bon Jovi ||| 38
+Hole ||| 38
+ZZ Top ||| 38
+Anthrax ||| 37
+Alice Cooper ||| 36
+Megadeth ||| 35
+Whitesnake ||| 34
+Led Zeppelin ||| 33
+The Offspring ||| 32
+Manowar ||| 30
+Mötley Crüe ||| 30
+Toni Braxton ||| 29
+Cinderella ||| 28
+Ramones ||| 27
+Skid Row ||| 27
+## playcount: 3187

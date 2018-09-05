@@ -1,0 +1,51 @@
+Aerosmith ||| 748
+Bon Jovi ||| 259
+Oasis ||| 223
+Jake Bugg ||| 179
+Lenny Kravitz ||| 153
+The Beatles ||| 129
+Raul Seixas ||| 103
+R.E.M. ||| 88
+Nando Reis ||| 69
+Guns N' Roses ||| 54
+Engenheiros Do Hawaii ||| 52
+Led Zeppelin ||| 46
+Ls Jack ||| 43
+ACϟDC ||| 42
+Arctic Monkeys ||| 39
+Black Sabbath ||| 33
+Leoni ||| 32
+Nenhum de Nós ||| 30
+Slash ||| 30
+Legião Urbana ||| 28
+Lulu Santos ||| 27
+Radiohead ||| 25
+Los Hermanos ||| 23
+Boston ||| 18
+30 Seconds to Mars ||| 17
+K-Sis ||| 16
+Soundgarden ||| 16
+Zakk Wylde ||| 16
+Judas Priest ||| 13
+Whitesnake ||| 13
+Red Hot Chili Peppers ||| 10
+The Strokes ||| 10
+Capital Inicial ||| 9
+Deep Purple ||| 9
+Mr. Big ||| 9
+Pearl Jam ||| 9
+Barão Vermelho ||| 8
+Survivor ||| 8
+AC/DC ||| 7
+Avenged Sevenfold ||| 7
+Jeff Buckley ||| 7
+Metallica ||| 7
+Bryan Adams ||| 6
+Megadeth ||| 6
+Roberta Campos e Nando Reis ||| 6
+The Rolling Stones ||| 6
+Foo Fighters ||| 5
+Kings of Leon ||| 5
+Queen ||| 5
+Rita Lee ||| 5
+## playcount: 2708

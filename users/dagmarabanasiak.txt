@@ -1,0 +1,51 @@
+Alice in Chains ||| 2304
+Metallica ||| 1804
+Pink Floyd ||| 1219
+Black Sabbath ||| 978
+Led Zeppelin ||| 861
+Pearl Jam ||| 640
+Mad Season ||| 324
+Budgie ||| 276
+Dżem ||| 239
+Guns N' Roses ||| 238
+Deep Purple ||| 185
+Iron Maiden ||| 180
+The Cure ||| 162
+Nirvana ||| 150
+Pantera ||| 143
+Dio ||| 139
+Kyuss ||| 138
+Megadeth ||| 137
+Chris Rea ||| 133
+King's X ||| 132
+Cree ||| 119
+TSA ||| 119
+Free ||| 116
+King Crimson ||| 104
+Queens of the Stone Age ||| 103
+Temple of the Dog ||| 97
+ZZ Top ||| 90
+Gov't Mule ||| 88
+Mother Love Bone ||| 88
+Marilyn Manson ||| 80
+Mudhoney ||| 80
+Kings of Leon ||| 76
+Tool ||| 76
+Down ||| 74
+Jimi Hendrix ||| 74
+Camel ||| 69
+U2 ||| 68
+Aerosmith ||| 67
+SBB ||| 65
+Trapeze ||| 65
+B.B. King ||| 62
+Foreigner ||| 60
+Zakk Wylde ||| 58
+Paktofonika ||| 57
+Genesis ||| 56
+Joe Cocker ||| 56
+Ozzy Osbourne ||| 56
+Eric Clapton ||| 54
+My Sister's Machine ||| 54
+The Beatles ||| 54
+## playcount: 12667

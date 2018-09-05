@@ -1,0 +1,51 @@
+Mariah Carey ||| 3628
+Ariana Grande ||| 2635
+Fifth Harmony ||| 2513
+Christina Aguilera ||| 834
+Bruno Mars ||| 545
+Anitta ||| 528
+Beyoncé ||| 526
+Camila Cabello ||| 475
+Demi Lovato ||| 463
+Tori Kelly ||| 364
+Whitney Houston ||| 361
+Selena Gomez ||| 354
+One Direction ||| 311
+Fernanda Brum ||| 302
+Henrique & Juliano ||| 302
+Rihanna ||| 293
+Adele ||| 278
+Marília Mendonça ||| 235
+Justin Bieber ||| 225
+Linkin Park ||| 222
+Alicia Keys ||| 206
+Katy Perry ||| 195
+Shakira ||| 194
+Britney Spears ||| 177
+Jennifer Lopez ||| 177
+Gabriela Rocha ||| 174
+Little Mix ||| 173
+Aline Barros ||| 169
+Priscilla Alcântara ||| 169
+Preto no Branco ||| 156
+Zayn ||| 154
+Taylor Swift ||| 152
+Jorge & Mateus ||| 150
+Mc Kevinho ||| 138
+Simone & Simaria ||| 137
+Drake ||| 132
+AC/DC ||| 131
+Bebe Rexha ||| 131
+Jessie J ||| 131
+MC WM ||| 128
+Ciara ||| 122
+Maroon 5 ||| 111
+Matheus & Kauan ||| 111
+Iggy Azalea ||| 110
+Avril Lavigne ||| 105
+Eyshila ||| 104
+Bon Jovi ||| 102
+Gusttavo Lima ||| 92
+Shawn Mendes ||| 89
+Dua Lipa ||| 88
+## playcount: 19602

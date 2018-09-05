@@ -1,0 +1,51 @@
+Kasabian ||| 9659
+Blur ||| 9249
+Gorillaz ||| 6767
+David Bowie ||| 4108
+Radiohead ||| 4000
+Pink Floyd ||| 3328
+The Doors ||| 3123
+Tame Impala ||| 2343
+Oasis ||| 1270
+Middlemist Red ||| 1111
+alt-J ||| 856
+Temples ||| 780
+Michael Jackson ||| 713
+Anna Calvi ||| 703
+Damon Albarn ||| 692
+Pond ||| 615
+Arctic Monkeys ||| 599
+The Verve ||| 556
+The Beatles ||| 541
+Elastica ||| 528
+Kaiser Chiefs ||| 472
+Joy Division ||| 453
+The Velvet Underground ||| 434
+Black Onassis ||| 405
+Jefferson Airplane ||| 399
+The Kinks ||| 388
+Queen ||| 334
+The Good, the Bad & the Queen ||| 326
+Fever Tree ||| 320
+Unknown Mortal Orchestra ||| 295
+Kuklachew & the Space Cats ||| 292
+The Cooper Temple Clause ||| 287
+The Stone Roses ||| 274
+Lou Reed ||| 272
+The Horrors ||| 266
+Scorpions ||| 248
+Queens of the Stone Age ||| 245
+Deep Purple ||| 241
+Fleet Foxes ||| 208
+Black Eyed Peas ||| 171
+Daft Punk ||| 169
+Elephant ||| 169
+The Rolling Stones ||| 162
+Depeche Mode ||| 155
+Paul McCartney ||| 147
+The Last Shadow Puppets ||| 138
+Alif ||| 133
+Van Halen ||| 128
+Gengahr ||| 126
+Noel Gallagher's High Flying Birds ||| 119
+## playcount: 59317

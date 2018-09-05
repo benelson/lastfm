@@ -1,0 +1,51 @@
+Anathema ||| 3131
+Savatage ||| 1789
+Megadeth ||| 1776
+Pink Floyd ||| 1705
+Porcupine Tree ||| 1307
+Metallica ||| 891
+Dream Theater ||| 479
+Riverside ||| 461
+Blackfield ||| 434
+Camel ||| 432
+Scorpions ||| 427
+Judas Priest ||| 397
+Empyrium ||| 395
+Opeth ||| 395
+Led Zeppelin ||| 381
+Iron Maiden ||| 353
+The Beatles ||| 352
+Shinedown ||| 348
+Annihilator ||| 290
+Slayer ||| 280
+AC/DC ||| 275
+Black Sabbath ||| 267
+My Dying Bride ||| 263
+Trans-Siberian Orchestra ||| 249
+Guns N' Roses ||| 236
+The Doors ||| 236
+Dimmu Borgir ||| 230
+Nirvana ||| 229
+System of a Down ||| 228
+Muse ||| 221
+Aerosmith ||| 218
+Pantera ||| 216
+Ozzy Osbourne ||| 204
+Rainbow ||| 185
+Bryan Adams ||| 170
+Katatonia ||| 165
+Dire Straits ||| 161
+Blue October ||| 160
+Queen ||| 158
+Johnny Cash ||| 156
+Marilyn Manson ||| 153
+Dio ||| 144
+Deep Purple ||| 137
+Keane ||| 137
+Pearl Jam ||| 134
+Motörhead ||| 131
+Antimatter ||| 128
+Death ||| 124
+Accept ||| 121
+Manowar ||| 120
+## playcount: 21579

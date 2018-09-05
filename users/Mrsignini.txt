@@ -1,0 +1,51 @@
+AC/DC ||| 8
+Led Zeppelin ||| 7
+Iron Maiden ||| 5
+Def Leppard ||| 4
+Joy Division ||| 4
+Judas Priest ||| 4
+Bad Religion ||| 3
+Black Sabbath ||| 3
+blink-182 ||| 3
+Deep Purple ||| 3
+Green Day ||| 3
+Guns N' Roses ||| 3
+Metallica ||| 3
+Nirvana ||| 3
+Ramones ||| 3
+Roxy Music ||| 3
+The Cure ||| 3
+The Offspring ||| 3
+The Police ||| 3
+U2 ||| 3
+Alice Cooper ||| 2
+Bankrupt ||| 2
+Black Label Society ||| 2
+Cyndi Lauper ||| 2
+Depeche Mode ||| 2
+Dio ||| 2
+Dream Theater ||| 2
+Echo & the Bunnymen ||| 2
+Faith No More ||| 2
+Michael Jackson ||| 2
+Motörhead ||| 2
+Queen ||| 2
+Queens of the Stone Age ||| 2
+Radiohead ||| 2
+Rush ||| 2
+Savatage ||| 2
+Saxon ||| 2
+Sonic Youth ||| 2
+Sublime ||| 2
+The Clash ||| 2
+The Darkness ||| 2
+The Human League ||| 2
+Twisted Sister ||| 2
+Van Halen ||| 2
+W.A.S.P. ||| 2
+Whitesnake ||| 2
+a-ha ||| 1
+Aerosmith ||| 1
+Arctic Monkeys ||| 1
+At the Drive-In ||| 1
+## playcount: 130

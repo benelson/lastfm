@@ -1,0 +1,51 @@
+Red Hot Chili Peppers ||| 2224
+U2 ||| 746
+Jimi Hendrix ||| 509
+Metallica ||| 450
+Santana ||| 445
+Eric Clapton ||| 407
+Led Zeppelin ||| 349
+The Beatles ||| 330
+The Smashing Pumpkins ||| 330
+Pink Floyd ||| 283
+The Police ||| 234
+Jane's Addiction ||| 227
+Guns N' Roses ||| 213
+The Rolling Stones ||| 176
+The Jimi Hendrix Experience ||| 146
+Pearl Jam ||| 136
+The White Stripes ||| 124
+Stevie Ray Vaughan and Double Trouble ||| 120
+Eric Clapton & Steve Winwood ||| 96
+Rage Against the Machine ||| 94
+Black Sabbath ||| 63
+The Who ||| 58
+AC/DC ||| 45
+Bob Dylan ||| 45
+Sex Pistols ||| 43
+Aerosmith ||| 42
+Lenny Kravitz ||| 39
+Simon & Garfunkel ||| 39
+Tyler Bates & Tree Adams ||| 39
+Eagles ||| 36
+Nirvana ||| 35
+Velvet Revolver ||| 32
+The Doors ||| 28
+Fleetwood Mac ||| 27
+Slash ||| 27
+Miles Davis ||| 21
+The Kinks ||| 21
+Sting ||| 18
+Sonic Youth ||| 17
+The Allman Brothers Band ||| 17
+Funkadelic ||| 15
+The Clash ||| 15
+Stevie Ray Vaughan ||| 14
+Dropkick Murphys ||| 12
+Funktor ||| 12
+John Coltrane ||| 12
+Bono, Keith Richards & Ron Wood ||| 10
+Iggy Pop ||| 10
+John Lennon ||| 10
+Coldplay ||| 9
+## playcount: 8450

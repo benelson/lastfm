@@ -1,0 +1,51 @@
+McFly ||| 9367
+Katy Perry ||| 6500
+Taylor Swift ||| 6383
+Britney Spears ||| 6335
+Rihanna ||| 3782
+Justin Timberlake ||| 3604
+The Script ||| 3171
+Demi Lovato ||| 3011
+Avril Lavigne ||| 2790
+Miley Cyrus ||| 2708
+Ed Sheeran ||| 2555
+Anitta ||| 2538
+Linkin Park ||| 2408
+Imagine Dragons ||| 1925
+Ariana Grande ||| 1488
+Backstreet Boys ||| 1450
+Panic! at the Disco ||| 1407
+Fifth Harmony ||| 1324
+The Wanted ||| 1306
+The Chainsmokers ||| 1293
+Three Days Grace ||| 1204
+David Guetta ||| 1142
+Simple Plan ||| 1130
+Shawn Mendes ||| 1052
+Fall Out Boy ||| 1005
+Maroon 5 ||| 989
+Calvin Harris ||| 965
+Lifehouse ||| 953
+Paramore ||| 944
+The Weeknd ||| 940
+Camila Cabello ||| 939
+Zedd ||| 926
+Selena Gomez ||| 921
+Beyoncé ||| 907
+Nick Jonas ||| 877
+J Balvin ||| 842
+Green Day ||| 828
+Nicki Minaj ||| 823
+Melanie Martinez ||| 818
+Alter Bridge ||| 807
+Major Lazer ||| 791
+Eric Saade ||| 774
+Sia ||| 772
+3 Doors Down ||| 756
+Conor Maynard ||| 754
+Ke$ha ||| 753
+The Fray ||| 738
+Lady Gaga ||| 730
+The Beatles ||| 708
+Charlie Puth ||| 696
+## playcount: 91829

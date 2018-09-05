@@ -1,0 +1,51 @@
+Coldplay ||| 281
+AC/DC ||| 235
+The Beatles ||| 106
+Aerosmith ||| 83
+Guns N' Roses ||| 42
+Metallica ||| 40
+Queen ||| 31
+The Beach Boys ||| 31
+Bon Jovi ||| 30
+Alice Cooper ||| 26
+Bryan Adams ||| 26
+Hladno Pivo ||| 22
+Kiss ||| 22
+The Clash ||| 20
+U2 ||| 17
+Alien Ant Farm ||| 16
+James Blunt ||| 13
+James Brown ||| 13
+Led Zeppelin ||| 12
+The Dandy Warhols ||| 12
+Chubby Checker ||| 10
+Fleetwood Mac ||| 10
+The Rolling Stones ||| 10
+Cake ||| 9
+Baha Men ||| 8
+Europe ||| 8
+Good Charlotte ||| 8
+Red Hot Chili Peppers ||| 8
+Rocky ||| 8
+Chas 'n' Dave ||| 7
+The Buggles ||| 7
+Bob Marley ||| 6
+Duran Duran ||| 6
+Green Day ||| 6
+Hot Action Cop ||| 6
+Rise Against ||| 6
+Chumbawamba ||| 5
+George Thorogood ||| 5
+Iggy Pop ||| 5
+Kronos Quartet ||| 5
+Loverboy ||| 5
+Monty Python ||| 5
+Simple Plan ||| 5
+Sister Hazel ||| 5
+Smash Mouth ||| 5
+Black Eyed Peas ||| 4
+Haddaway ||| 4
+Robbie Williams ||| 4
+The Archies ||| 4
+Toše Proeski ||| 4
+## playcount: 1266

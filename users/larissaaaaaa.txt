@@ -1,0 +1,51 @@
+The Beatles ||| 1245
+Kiss ||| 530
+Megadeth ||| 402
+Rush ||| 388
+Whitesnake ||| 324
+Led Zeppelin ||| 313
+Anthrax ||| 273
+Iron Maiden ||| 264
+Opeth ||| 229
+AC/DC ||| 183
+Nazareth ||| 174
+Testament ||| 174
+Blind Guardian ||| 164
+Kansas ||| 163
+Ultraje A Rigor ||| 162
+The Who ||| 161
+Pantera ||| 152
+Black Sabbath ||| 123
+Journey ||| 123
+Bryan Adams ||| 113
+Elf ||| 101
+Queen ||| 101
+Slayer ||| 94
+Motörhead ||| 91
+ABBA ||| 89
+Metallica ||| 87
+Raul Seixas ||| 86
+Korpiklaani ||| 83
+Pink Floyd ||| 79
+Ozzy Osbourne ||| 76
+Metal Church ||| 75
+Exodus ||| 72
+Nevermore ||| 71
+Rainbow ||| 70
+Zé Ramalho ||| 62
+The Cure ||| 57
+Eddie Vedder ||| 55
+Ramones ||| 55
+Dio ||| 52
+Deep Purple ||| 51
+Queensrÿche ||| 51
+Paul McCartney ||| 50
+Neil Young ||| 48
+Bruce Springsteen ||| 47
+Burning in Hell ||| 46
+Death ||| 46
+Annihilator ||| 44
+Judas Priest ||| 43
+Tankard ||| 43
+Van Halen ||| 42
+## playcount: 7627

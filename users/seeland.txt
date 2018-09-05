@@ -1,0 +1,51 @@
+Oasis ||| 9182
+Noel Gallagher ||| 6514
+The Beatles ||| 6166
+The Sinners ||| 5513
+Bruce Springsteen ||| 5279
+Stereophonics ||| 2834
+Queen ||| 2531
+Johnny Cash ||| 1841
+Michael Jackson ||| 1500
+The Killers ||| 1485
+John Lennon ||| 1464
+Bon Jovi ||| 1425
+Bryan Adams ||| 1391
+The Kooks ||| 1373
+U2 ||| 1325
+The Verve ||| 1307
+Paul McCartney ||| 1287
+The Rolling Stones ||| 1238
+Foo Fighters ||| 1236
+Sonny Who ||| 1172
+Wilmer X ||| 1163
+Red Hot Chili Peppers ||| 1129
+Coldplay ||| 1114
+Noel ||| 1080
+Joe Cocker ||| 1064
+Kent ||| 980
+Guns N' Roses ||| 949
+Andrew Strong ||| 924
+The Basement Boys ||| 859
+Jack Johnson ||| 826
+Richard Ashcroft ||| 822
+The Libertines ||| 804
+Elton John ||| 772
+Peter Doherty ||| 763
+Jason Mraz ||| 746
+Aerosmith ||| 715
+Jet ||| 656
+Whitesnake ||| 637
+Frankie Valli & the Four Seasons ||| 635
+Babyshambles ||| 623
+Goo Goo Dolls ||| 608
+Neil Young ||| 589
+London Symphony Orchestra ||| 578
+Mando Diao ||| 561
+Robbie Williams ||| 526
+Beyoncé ||| 523
+Bob Dylan ||| 521
+Ed Sheeran ||| 484
+Freddie Mercury ||| 484
+Death Cab for Cutie ||| 482
+## playcount: 78680

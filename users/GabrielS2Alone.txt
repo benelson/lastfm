@@ -1,0 +1,51 @@
+Nirvana ||| 2493
+Foo Fighters ||| 1957
+Linkin Park ||| 1853
+Red Hot Chili Peppers ||| 1794
+Jorge & Mateus ||| 1721
+30 Seconds to Mars ||| 1690
+Henrique & Juliano ||| 1540
+Guns N' Roses ||| 1379
+Pearl Jam ||| 1311
+The Rolling Stones ||| 1292
+Coldplay ||| 1251
+Charlie Brown JR. ||| 1147
+Metallica ||| 1048
+AC/DC ||| 1042
+Bon Jovi ||| 1017
+Green Day ||| 969
+Matheus & Kauan ||| 961
+Aerosmith ||| 936
+Luan Santana ||| 921
+Maroon 5 ||| 888
+Alice in Chains ||| 880
+Wesley Safadão ||| 843
+Calvin Harris ||| 794
+Engenheiros Do Hawaii ||| 791
+Legião Urbana ||| 778
+The Offspring ||| 751
+Kiss ||| 745
+Marília Mendonça ||| 721
+blink-182 ||| 711
+Sorriso Maroto ||| 653
+David Guetta ||| 652
+Imagine Dragons ||| 651
+Ed Sheeran ||| 627
+Henrique & Diego ||| 623
+Iron Maiden ||| 622
+Pitty ||| 614
+Audioslave ||| 603
+Marcos & Belutti ||| 603
+Fernando & Sorocaba ||| 595
+Capital Inicial ||| 580
+Katy Perry ||| 572
+Queen ||| 565
+Alok ||| 554
+Zé Neto & Cristiano ||| 546
+Lucas Lucco ||| 544
+Skank ||| 542
+Avicii ||| 538
+OneRepublic ||| 509
+Led Zeppelin ||| 506
+U2 ||| 506
+## playcount: 46429

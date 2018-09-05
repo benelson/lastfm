@@ -1,0 +1,51 @@
+Travis ||| 11059
+Vetusta Morla ||| 4084
+Lisandro Aristimuño ||| 3428
+The Beatles ||| 2799
+Belle and Sebastian ||| 2118
+The Kooks ||| 1972
+Radiohead ||| 1487
+Muse ||| 1406
+The Strokes ||| 1273
+Panic! at the Disco ||| 1132
+Arctic Monkeys ||| 1128
+Maroon 5 ||| 865
+El Kuelgue ||| 759
+Interpol ||| 599
+Fall Out Boy ||| 544
+God Help the Girl ||| 428
+Paolo Nutini ||| 427
+Death Cab for Cutie ||| 363
+Glee Cast ||| 342
+Fanfarlo ||| 330
+My Chemical Romance ||| 322
+Foster the People ||| 320
+Coiffeur ||| 315
+Paul McCartney ||| 315
+The Cure ||| 293
+Kate Nash ||| 251
+The Killers ||| 246
+Oasis ||| 244
+Kevin Johansen ||| 238
+MGMT ||| 228
+Guillemots ||| 224
+Queen ||| 219
+Coldplay ||| 207
+Garbage ||| 206
+[unknown] ||| 200
+Foals ||| 198
+Jorge Drexler ||| 195
+Izal ||| 194
+Onda Vaga ||| 186
+Caetano Veloso ||| 178
+Jens Lekman ||| 170
+Maria Rita ||| 165
+Franz Ferdinand ||| 162
+Litto Nebbia ||| 160
+The Offspring ||| 159
+The Smiths ||| 151
+Édith Piaf ||| 151
+Soda Stereo ||| 143
+Blur ||| 142
+Two Door Cinema Club ||| 139
+## playcount: 42864

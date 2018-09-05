@@ -1,0 +1,51 @@
+blink-182 ||| 860
+Oasis ||| 355
+Good Charlotte ||| 265
+Kings of Leon ||| 247
+Maroon 5 ||| 218
+A Day to Remember ||| 205
+Keane ||| 175
++44 ||| 161
+Twenty One Pilots ||| 149
+Coldplay ||| 140
+The Strokes ||| 139
+Linkin Park ||| 131
+Eminem ||| 124
+Muse ||| 124
+Radiohead ||| 124
+Foo Fighters ||| 119
+Arctic Monkeys ||| 117
+The Black Keys ||| 116
+Jake Bugg ||| 114
+Motion City Soundtrack ||| 111
+The Killers ||| 101
+Hollywood Undead ||| 97
+Neon Trees ||| 89
+Breaking Benjamin ||| 87
+Imagine Dragons ||| 87
+Two Door Cinema Club ||| 87
+Rex Orange County ||| 81
+The All-American Rejects ||| 78
+The Neighbourhood ||| 64
+Adhitia Sofyan ||| 63
+American Authors ||| 62
+Fall Out Boy ||| 62
+Nirvana ||| 62
+Honne ||| 60
+Death Cab for Cutie ||| 59
+Jimmy Eat World ||| 59
+The Kooks ||| 57
+Efek Rumah Kaca ||| 56
+Post Malone ||| 55
+Angels & Airwaves ||| 54
+Sum 41 ||| 53
+Vampire Weekend ||| 52
+Kodaline ||| 50
+Kings of Convenience ||| 47
+Red Hot Chili Peppers ||| 47
+Noel Gallagher's High Flying Birds ||| 46
+Bastille ||| 45
+The Broken Family Band ||| 43
+Wallows ||| 41
+Cigarettes After Sex ||| 40
+## playcount: 5878

@@ -1,0 +1,51 @@
+Foo Fighters ||| 6665
+Neil Young ||| 4326
+Kurt Vile ||| 2903
+Nine Inch Nails ||| 2887
+Beck ||| 2680
+David Bowie ||| 2485
+Ty Segall ||| 2231
+Pearl Jam ||| 2202
+Queens of the Stone Age ||| 1969
+Cage the Elephant ||| 1907
+The Rolling Stones ||| 1835
+Dinosaur Jr. ||| 1740
+Led Zeppelin ||| 1684
+Nirvana ||| 1639
+OKAMOTO'S ||| 1613
+Sonic Youth ||| 1524
+Wilco ||| 1517
+Pete Yorn ||| 1453
+Neil Young & Crazy Horse ||| 1425
+The Who ||| 1419
+Thee Oh Sees ||| 1326
+Cat Power ||| 1307
+The Vines ||| 1285
+Arcade Fire ||| 1278
+Bob Dylan ||| 1276
+Mudhoney ||| 1150
+Nick Drake ||| 1133
+The Brian Jonestown Massacre ||| 1123
+The Dandy Warhols ||| 1091
+Ramones ||| 1047
+Black Lips ||| 1035
+The Kills ||| 1027
+The War on Drugs ||| 1002
+Death Cab for Cutie ||| 998
+Tame Impala ||| 995
+Beastie Boys ||| 941
+Black Rebel Motorcycle Club ||| 922
+Primal Scream ||| 917
+The Breeders ||| 913
+Eagles of Death Metal ||| 912
+Tenacious D ||| 909
+Feeder ||| 897
+PJ Harvey ||| 883
+The Strokes ||| 883
+Mike Watt ||| 852
+She & Him ||| 852
+Crocodiles ||| 844
+Nada Surf ||| 815
+Them Crooked Vultures ||| 813
+Pixies ||| 803
+## playcount: 76333

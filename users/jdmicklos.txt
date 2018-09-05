@@ -1,0 +1,51 @@
+Yeasayer ||| 1017
+The Smashing Pumpkins ||| 756
+Pearl Jam ||| 433
+Stevie Wonder ||| 428
+System of a Down ||| 412
+Incubus ||| 361
+Nirvana ||| 281
+Spoon ||| 267
+Rush ||| 262
+Red Hot Chili Peppers ||| 260
+Rage Against the Machine ||| 243
+Ted Leo and the Pharmacists ||| 226
+Justice ||| 220
+Foo Fighters ||| 218
+Alice in Chains ||| 207
+Muse ||| 204
+Avenged Sevenfold ||| 203
+Eric Clapton ||| 199
+Metallica ||| 199
+Fat Freddy's Drop ||| 194
+Toadies ||| 177
+Dave Matthews Band ||| 169
+Kanye West ||| 160
+Soundgarden ||| 144
+Jimmy Eat World ||| 143
+Medeski, Martin and Wood ||| 142
+Minus the Bear ||| 137
+Michael Tilson Thomas: San Francisco Symphony Orchestra ||| 108
+Tool ||| 108
+Bob Dylan ||| 105
+A Perfect Circle ||| 93
+Radiohead ||| 86
+Voxtrot ||| 85
+Weezer ||| 83
+Animal Collective ||| 82
+The Avalanches ||| 82
+James Taylor ||| 80
+The Black Crowes ||| 80
+Daft Punk ||| 75
+Dave Matthews & Tim Reynolds ||| 71
+Diana Krall ||| 71
+The John Butler Trio ||| 70
+The Presidents of the United States of America ||| 70
+Electric Light Orchestra ||| 69
+Depeche Mode ||| 66
+Béla Fleck and the Flecktones ||| 63
+Al Green ||| 62
+Steve Miller Band ||| 59
+The Flaming Lips ||| 57
+Mudvayne ||| 56
+## playcount: 9443

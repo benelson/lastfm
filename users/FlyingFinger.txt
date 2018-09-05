@@ -1,0 +1,51 @@
+Manowar ||| 221
+Iron Maiden ||| 219
+Iced Earth ||| 211
+Judas Priest ||| 175
+Dio ||| 174
+Helloween ||| 174
+Metallica ||| 155
+Bruce Dickinson ||| 137
+Motörhead ||| 130
+Ozzy Osbourne ||| 125
+HammerFall ||| 121
+Black Sabbath ||| 120
+Accept ||| 117
+Saxon ||| 117
+Edguy ||| 115
+Running Wild ||| 108
+Megadeth ||| 92
+AC/DC ||| 90
+Demons & Wizards ||| 89
+Blind Guardian ||| 85
+Linkin Park ||| 83
+Deep Purple ||| 79
+Gamma Ray ||| 78
+Queensrÿche ||| 77
+DragonForce ||| 74
+Rammstein ||| 74
+Stratovarius ||| 72
+Grave Digger ||| 71
+Scorpions ||| 70
+Kiss ||| 69
+In Extremo ||| 68
+Savatage ||| 68
+Rainbow ||| 67
+W.A.S.P. ||| 67
+Rhapsody ||| 66
+U.D.O. ||| 65
+Sonata Arctica ||| 60
+Children of Bodom ||| 58
+Dream Evil ||| 54
+Guns N' Roses ||| 52
+Avantasia ||| 51
+Kamelot ||| 51
+Nightwish ||| 50
+Venom ||| 50
+Samson ||| 49
+Halford ||| 48
+In Flames ||| 48
+Pantera ||| 47
+Yngwie Malmsteen ||| 47
+Dream Theater ||| 46
+## playcount: 4634

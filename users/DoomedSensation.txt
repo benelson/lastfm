@@ -1,0 +1,51 @@
+EA80 ||| 1370
+The Cure ||| 1004
+Alan Stivell ||| 851
+Led Zeppelin ||| 843
+Type O Negative ||| 733
+David Bowie ||| 685
+God Is An Astronaut ||| 677
+Fliehende Stürme ||| 545
+Guns N' Roses ||| 503
+The Doors ||| 495
+The Beta Band ||| 488
+Pink Floyd ||| 471
+Cat Stevens ||| 409
+Lykke Li ||| 405
+Mötley Crüe ||| 402
+The Cranberries ||| 402
+The Rolling Stones ||| 397
+Jethro Tull ||| 394
+Michael Nyman ||| 368
+Agalloch ||| 354
+Sinéad O'Connor ||| 333
+Witthüser & Westrupp ||| 325
+Skid Row ||| 323
+Little People ||| 318
+Acid Bath ||| 317
+Archive ||| 314
+IAMX ||| 305
+Alcest ||| 286
+Ozzy Osbourne ||| 277
+Eisregen ||| 265
+Lifelover ||| 257
+The Byrds ||| 252
+Simon & Garfunkel ||| 250
+Black Sabbath ||| 248
+Yann Tiersen ||| 235
+Black Label Society ||| 233
+The Zombies ||| 233
+Moby ||| 231
+Hüsker Dü ||| 228
+Coldplay ||| 227
+Florence + the Machine ||| 227
+Velvet Revolver ||| 227
+Duffy ||| 217
+alt-J ||| 215
+Massive Attack ||| 215
+Arvo Pärt ||| 212
+The Kinks ||| 208
+J.J. Cale ||| 206
+Lacrimosa ||| 203
+Loreena McKennitt ||| 202
+## playcount: 19385

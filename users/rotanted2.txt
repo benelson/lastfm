@@ -1,0 +1,51 @@
+Helloween ||| 1093
+Anthrax ||| 1063
+Angra ||| 1027
+Raul Seixas ||| 669
+Megadeth ||| 546
+Steel Panther ||| 450
+Def Leppard ||| 406
+Skid Row ||| 379
+Raimundos ||| 346
+TNT ||| 305
+Korpiklaani ||| 285
+Europe ||| 284
+Seu Cuca ||| 278
+Twilight Force ||| 264
+Death ||| 245
+Deep Purple ||| 238
+Mr. Big ||| 235
+Bon Jovi ||| 203
+Cinderella ||| 203
+Zumbis do Espaço ||| 200
+Van Halen ||| 198
+Aerosmith ||| 191
+Kiss ||| 181
+Cannibal Corpse ||| 180
+Massacration ||| 179
+The Offspring ||| 177
+Sarcófago ||| 166
+Kreator ||| 156
+Titãs ||| 153
+Violator ||| 148
+Rhapsody ||| 145
+Black Sabbath ||| 143
+Burzum ||| 142
+Warrant ||| 142
+Amon Amarth ||| 139
+Poison ||| 131
+Led Zeppelin ||| 127
+Os Cascavelletes ||| 120
+The Beatles ||| 117
+Engenheiros Do Hawaii ||| 116
+Slayer ||| 111
+Blind Guardian ||| 109
+Nenhum de Nós ||| 109
+Marduk ||| 106
+Behemoth ||| 104
+ABBA ||| 103
+Creedence Clearwater Revival ||| 102
+Alice Cooper ||| 100
+Metallica ||| 96
+Saxon ||| 90
+## playcount: 12800

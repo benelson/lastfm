@@ -1,0 +1,51 @@
+Jack Johnson ||| 1602
+John Mayer ||| 566
+Pearl Jam ||| 328
+Green Day ||| 327
+The Wallflowers ||| 270
+Dave Matthews Band ||| 253
+Boyce Avenue ||| 212
+AC/DC ||| 194
+Jamiroquai ||| 187
+Norah Jones ||| 139
+MxPx ||| 130
+Rage Against the Machine ||| 123
+Paulo César Baruk ||| 111
+Coldplay ||| 101
+Toranja ||| 98
+Fort Minor ||| 96
+Cake ||| 91
+Semisonic ||| 87
+Third Eye Blind ||| 86
+The White Stripes ||| 84
+Maroon 5 ||| 83
+Matchbox Twenty ||| 82
+Bruno Mars ||| 77
+Damien Rice ||| 76
+Eagle-Eye Cherry ||| 76
+Speedometer ||| 75
+Fastball ||| 72
+Anderson Dantas ||| 70
+Dave Matthews ||| 70
+Alanis Morissette ||| 66
+James Blunt ||| 66
+Westlife ||| 65
+Hillsong United ||| 60
+Linkin Park ||| 59
+Katy Perry ||| 58
+Matt Wertz ||| 58
+Chris Tomlin ||| 56
+The Verve ||| 56
+Jimmy Eat World ||| 55
+Portishead ||| 54
+Brooke Fraser ||| 51
+Smash Mouth ||| 51
+Weezer ||| 49
+Arctic Monkeys ||| 47
+Ben Harper ||| 47
+Snow Patrol ||| 46
+Hoobastank ||| 45
+Counting Crows ||| 43
+Amos Lee ||| 42
+Imagine Dragons ||| 41
+## playcount: 6881

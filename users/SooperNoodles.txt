@@ -1,0 +1,51 @@
+The Beatles ||| 2091
+Kings of Leon ||| 1454
+alt-J ||| 1234
+Arcade Fire ||| 1128
+Tame Impala ||| 832
+David Bowie ||| 822
+Wolf Alice ||| 669
+The Vaccines ||| 570
+Gorillaz ||| 568
+Wolfmother ||| 556
+Queens of the Stone Age ||| 526
+Band of Skulls ||| 500
+Arctic Monkeys ||| 458
+The Black Keys ||| 453
+Jack White ||| 448
+CHVRCHES ||| 419
+The Strokes ||| 399
+Paramore ||| 384
+The Last Shadow Puppets ||| 306
+Radiohead ||| 273
+Justin Hurwitz ||| 240
+The Raconteurs ||| 230
+Foo Fighters ||| 221
+Kasabian ||| 207
+Iggy Pop ||| 198
+Royal Blood ||| 167
+The Horrors ||| 167
+The White Stripes ||| 161
+Jamie T ||| 159
+The Smiths ||| 150
+M83 ||| 144
+Sleigh Bells ||| 139
+Jimi Hendrix ||| 132
+The Beach Boys ||| 129
+Raury ||| 123
+Blur ||| 122
+Pink Floyd ||| 117
+Kanye West ||| 115
+Hans Zimmer ||| 98
+Queen ||| 91
+Cliff Martinez ||| 86
+The Prodigy ||| 86
+The Who ||| 84
+Electric Light Orchestra ||| 79
+Muse ||| 78
+The Kinks ||| 76
+The Stranglers ||| 76
+Years & Years ||| 74
+The Black Angels ||| 73
+Placebo ||| 71
+## playcount: 17983

@@ -1,0 +1,31 @@
+The Beatles ||| 774
+John Lennon ||| 271
+The Beach Boys ||| 152
+Jimi Hendrix ||| 107
+Oasis ||| 86
+Paul McCartney ||| 82
+The Kinks ||| 72
+The Doors ||| 60
+Led Zeppelin ||| 58
+The Rolling Stones ||| 58
+Pink Floyd ||| 52
+David Bowie ||| 45
+Franz Ferdinand ||| 42
+George Harrison ||| 42
+The Who ||| 35
+The Velvet Underground ||| 30
+Queen ||| 23
+Coldplay ||| 12
+Cream ||| 4
+Eagles ||| 2
+Black Sabbath ||| 1
+Deep Purple ||| 1
+Foreigner ||| 1
+James Taylor ||| 1
+Jefferson Airplane ||| 1
+Santana ||| 1
+Steve Miller Band ||| 1
+Styx ||| 1
+The Animals ||| 1
+Tom Petty and The Heartbreakers ||| 1
+## playcount: 2017

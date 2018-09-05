@@ -1,0 +1,51 @@
+Radiohead ||| 8650
+Foo Fighters ||| 8348
+The Killers ||| 5405
+Death Cab for Cutie ||| 5134
+Nada Surf ||| 4766
+Pearl Jam ||| 2902
+Snow Patrol ||| 2596
+South ||| 2463
+Audioslave ||| 2294
+Matt Pond PA ||| 2256
+Pink Floyd ||| 2172
+Muse ||| 2012
+Regina Spektor ||| 1822
+Keane ||| 1780
+Aqueduct ||| 1732
+The Shins ||| 1485
+Band of Horses ||| 1473
+Dios Malos ||| 1453
+Linkin Park ||| 1409
+Phoenix ||| 1365
+Manchester Orchestra ||| 1279
+Yann Tiersen ||| 1274
+Coldplay ||| 1186
+Jimmy Eat World ||| 1142
+Bell X1 ||| 1137
+Angra ||| 1079
+Sparklehorse ||| 1055
+Iron Maiden ||| 1043
+Queens of the Stone Age ||| 1025
+Kings of Leon ||| 1013
+Rise Against ||| 953
+Rogue Wave ||| 953
+Placebo ||| 928
+Metallica ||| 870
+Turin Brakes ||| 868
+Jack Johnson ||| 865
+Franz Ferdinand ||| 863
+Eminem ||| 859
+Enya ||| 850
+Los Hermanos ||| 845
+The Strokes ||| 799
+Cake ||| 798
+Modest Mouse ||| 781
+Bombay Bicycle Club ||| 758
+The Cure ||| 756
+Ingrid Michaelson ||| 719
+Something Corporate ||| 718
+Weezer ||| 713
+Tigran Hamasyan ||| 705
+Jack's Mannequin ||| 698
+## playcount: 89049

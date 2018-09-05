@@ -1,0 +1,51 @@
+blink-182 ||| 32
+Avenged Sevenfold ||| 19
+Led Zeppelin ||| 19
+Children of Bodom ||| 18
+Nightwish ||| 17
+Good Charlotte ||| 12
+Weezer ||| 12
+Lamb of God ||| 10
+Slash ||| 10
+Eluveitie ||| 9
+Maximum the Hormone ||| 9
+Green Day ||| 8
+Indica ||| 7
+Sonic Syndicate ||| 7
+Sum 41 ||| 6
+The Veronicas ||| 6
+Muse ||| 5
+Smash Mouth ||| 5
+Gorillaz ||| 4
+Papa Roach ||| 4
+Paramore ||| 4
+Stereos ||| 4
+3 Doors Down ||| 3
+Cradle of Filth ||| 3
+Panic! at the Disco ||| 3
+Scouting for Girls ||| 3
+Cobra Starship ||| 2
+Escape the Fate ||| 2
+My Chemical Romance ||| 2
+Pierce The Veil ||| 2
+Pixie Lott ||| 2
+Shakira ||| 2
+The Beatles ||| 2
+The Maine ||| 2
+The Rasmus ||| 2
+Adam Lambert ||| 1
+Amy Macdonald ||| 1
+Bare Infinity ||| 1
+Brokencyde ||| 1
+Caro Emerald ||| 1
+Cheryl Cole ||| 1
+Daft Punk ||| 1
+Dååth ||| 1
+Esmée Denters ||| 1
+Gavin DeGraw ||| 1
+Hollywood Undead ||| 1
+John Mayer ||| 1
+Lifehouse ||| 1
+Locnville ||| 1
+Mando Diao ||| 1
+## playcount: 272

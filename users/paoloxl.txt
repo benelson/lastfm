@@ -1,0 +1,51 @@
+Madonna ||| 3020
+Pink Floyd ||| 1936
+Coldplay ||| 1816
+Lady Gaga ||| 1804
+Laura Pausini ||| 1744
+Placebo ||| 1626
+David Bowie ||| 1611
+Avril Lavigne ||| 1586
+Elisa ||| 1585
+The Cranberries ||| 1426
+Queen ||| 1373
+Florence + the Machine ||| 1332
+Britney Spears ||| 1327
+Shakira ||| 1278
+Ana Tijoux ||| 1226
+Red Hot Chili Peppers ||| 1202
+Tegan and Sara ||| 1191
+Dido ||| 1170
+My Chemical Romance ||| 1127
+Within Temptation ||| 1066
+Cobra Starship ||| 1052
+Amy Winehouse ||| 1038
+Evanescence ||| 1014
+Moby ||| 1005
+Caparezza ||| 982
+Lenny Kravitz ||| 976
+Katy Perry ||| 951
+Lafee ||| 946
+Gucci Mane ||| 940
+Christina Aguilera ||| 938
+Ennio Morricone ||| 926
+Paramore ||| 921
+Glee Cast ||| 909
+Adele ||| 897
+Alanis Morissette ||| 896
+Blur ||| 896
+Kasabian ||| 883
+Francesca Michielin ||| 869
+Crystal Castles ||| 854
+R.E.M. ||| 815
+The Doors ||| 813
+Alicia Keys ||| 806
+The Killers ||| 788
+Maroon 5 ||| 771
+Green Day ||| 768
+Taylor Swift ||| 749
+Carmen Consoli ||| 739
+Subsonica ||| 736
+Arctic Monkeys ||| 705
+Linkin Park ||| 704
+## playcount: 56733

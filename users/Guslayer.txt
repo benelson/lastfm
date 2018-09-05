@@ -1,0 +1,51 @@
+Pink Floyd ||| 10381
+Iron Maiden ||| 9431
+The Beatles ||| 8176
+Led Zeppelin ||| 7634
+The Rolling Stones ||| 7311
+Black Sabbath ||| 5348
+The Doors ||| 3759
+Oasis ||| 3434
+Megadeth ||| 2838
+The Who ||| 2503
+Bob Marley & The Wailers ||| 2262
+Cachorro Grande ||| 2081
+The Jimi Hendrix Experience ||| 1975
+Jefferson Airplane ||| 1900
+King Crimson ||| 1840
+Slayer ||| 1762
+Deep Purple ||| 1520
+Cream ||| 1361
+Frank Zappa ||| 1355
+Alice in Chains ||| 1192
+Os Mutantes ||| 1169
+Bob Dylan ||| 1026
+Arctic Monkeys ||| 998
+Jethro Tull ||| 954
+Tame Impala ||| 954
+Iced Earth ||| 934
+Kasabian ||| 832
+The Brian Jonestown Massacre ||| 829
+The Beach Boys ||| 819
+Gentle Giant ||| 750
+Grand Funk Railroad ||| 744
+Emerson, Lake & Palmer ||| 713
+Nektar ||| 709
+Noel Gallagher's High Flying Birds ||| 670
+Kiss ||| 644
+George Harrison ||| 634
+Ghost ||| 614
+Syd Barrett ||| 603
+Red Hot Chili Peppers ||| 587
+Marcelo Gross ||| 579
+Caravan ||| 575
+Ozzy Osbourne ||| 569
+Camel ||| 556
+David Bowie ||| 542
+UFO ||| 526
+Grateful Dead ||| 524
+Beady Eye ||| 518
+Neil Young ||| 503
+Queens of the Stone Age ||| 496
+Motörhead ||| 488
+## playcount: 99122

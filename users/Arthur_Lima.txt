@@ -1,0 +1,51 @@
+Radiohead ||| 6726
+The Verve ||| 4567
+Pink Floyd ||| 4489
+Travis ||| 3834
+Led Zeppelin ||| 3163
+Slowdive ||| 2682
+Yes ||| 2515
+The Strokes ||| 2425
+INXS ||| 2123
+King Crimson ||| 1820
+Whitesnake ||| 1756
+Tame Impala ||| 1624
+AC/DC ||| 1559
+The Doors ||| 1556
+The Alan Parsons Project ||| 1539
+Skank ||| 1510
+Mika ||| 1440
+Keane ||| 1417
+The Cure ||| 1385
+Fiona Apple ||| 1260
+Oasis ||| 1239
+Rush ||| 1221
+Guns N' Roses ||| 1220
+Ride ||| 1198
+Richard Ashcroft ||| 1173
+Europe ||| 1165
+Boston ||| 1095
+America ||| 1089
+Genesis ||| 1050
+RuPaul ||| 968
+Toto ||| 936
+The Jam ||| 897
+Van Halen ||| 860
+Cream ||| 841
+Franz Ferdinand ||| 794
+Red Hot Chili Peppers ||| 768
+Scorpions ||| 734
+Queen ||| 731
+Grand Funk Railroad ||| 730
+Florence + the Machine ||| 658
+R.E.M. ||| 637
+Camel ||| 627
+Aretha Franklin ||| 581
+Electric Light Orchestra ||| 578
+Deep Purple ||| 577
+Loreena McKennitt ||| 577
+Def Leppard ||| 547
+Journey ||| 547
+The Jesus and Mary Chain ||| 537
+Pearl Jam ||| 508
+## playcount: 74473

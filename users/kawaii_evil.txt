@@ -1,0 +1,51 @@
+Interpol ||| 10645
+The Doors ||| 7784
+David Bowie ||| 5178
+The Smiths ||| 4256
+The Beatles ||| 3518
+Sigur Rós ||| 3467
+U2 ||| 3168
+The Velvet Underground ||| 2868
+The Cure ||| 2865
+The National ||| 2779
+Bob Dylan ||| 2195
+Kent ||| 2025
+Charlotte Gainsbourg ||| 1983
+Travis ||| 1948
+Florence + the Machine ||| 1913
+First Aid Kit ||| 1872
+Björk ||| 1856
+PJ Harvey ||| 1786
+Morphine ||| 1708
+The Strokes ||| 1692
+Regina Spektor ||| 1656
+Nick Cave & The Bad Seeds ||| 1637
+Nirvana ||| 1543
+Emilie Autumn ||| 1471
+Babyshambles ||| 1438
+Joy Division ||| 1399
+Blood Red Shoes ||| 1379
+Warpaint ||| 1236
+Radiohead ||| 1216
+Placebo ||| 1202
+Garbage ||| 1165
+Pink Floyd ||| 1136
+Siouxsie and the Banshees ||| 1110
+Enter Shikari ||| 1095
+Archive ||| 1075
+Patti Smith ||| 1045
+Daughter ||| 1015
+Kasabian ||| 1008
+Françoise Hardy ||| 978
+Bring Me the Horizon ||| 969
+Noel Gallagher's High Flying Birds ||| 891
+Blur ||| 839
+Sonic Youth ||| 839
+Carla Bruni ||| 835
+The Rolling Stones ||| 824
+Otep ||| 817
+Depeche Mode ||| 814
+I:Scintilla ||| 800
+Goldfrapp ||| 784
+Alina Orlova ||| 761
+## playcount: 98483

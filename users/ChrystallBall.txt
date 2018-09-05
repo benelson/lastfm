@@ -1,0 +1,51 @@
+[unknown] ||| 4700
+The Temper Trap ||| 1014
+Drake ||| 853
+blink-182 ||| 821
+Take That ||| 771
+Digitalism ||| 727
+Röyksopp ||| 690
+Calvin Harris ||| 666
+Kaiser Chiefs ||| 553
+Fall Out Boy ||| 550
+Two Door Cinema Club ||| 524
+The Fray ||| 522
+Sam Sparro ||| 501
+Foster the People ||| 467
+Gorillaz ||| 450
+Jessie Ware ||| 448
+Phoenix ||| 408
+Friendly Fires ||| 406
+The Prodigy ||| 401
+Kid Cudi ||| 397
+Frank Ocean ||| 389
+Bag Raiders ||| 380
+The Weeknd ||| 367
+Bloc Party ||| 366
+Kylie Minogue ||| 359
+Daft Punk ||| 349
+Chris Brown ||| 340
+N*E*R*D ||| 333
+Jamiroquai ||| 330
+AlunaGeorge ||| 326
+Keane ||| 326
+The Ting Tings ||| 322
+Stars ||| 321
+Kele ||| 299
+Parov Stelar ||| 298
+30 Seconds to Mars ||| 297
+Foals ||| 297
+Kanye West ||| 296
+Simian Mobile Disco ||| 295
+Limp Bizkit ||| 293
+Pharrell Williams ||| 292
+Mattafix ||| 285
+Oasis ||| 281
+Duran Duran ||| 278
+Arctic Monkeys ||| 271
+Coldplay ||| 269
+Planet Funk ||| 264
+Avicii ||| 263
+Disclosure ||| 263
+Angels & Airwaves ||| 255
+## playcount: 25173

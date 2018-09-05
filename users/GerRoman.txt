@@ -1,0 +1,51 @@
+Сплин ||| 341
+Metallica ||| 129
+The Beatles ||| 111
+Red Hot Chili Peppers ||| 95
+Александр Васильев ||| 84
+Led Zeppelin ||| 83
+Nirvana ||| 83
+Fiddler's Green ||| 55
+King Crimson ||| 49
+Linkin Park ||| 47
+Rammstein ||| 39
+Кино ||| 36
+System of a Down ||| 30
+The Offspring ||| 29
+Ludovico Einaudi ||| 28
+The Doors ||| 28
+Amity in Fame ||| 26
+blink-182 ||| 22
+Evanescence ||| 22
+Константин Завалин ||| 20
+Scorpions ||| 18
+ДДТ ||| 18
+Мумий Тролль ||| 17
+Lumen ||| 16
+Nightwish ||| 16
+Би-2 ||| 15
+Пикник ||| 15
+Manfred Mann's Earth Band ||| 14
+Ночные Снайперы ||| 14
+Catharsis ||| 13
+Glen Hansard & Markéta Irglová ||| 13
+John Frusciante ||| 12
+Muse ||| 12
+Slipknot ||| 9
+Animal Джаz ||| 8
+Торба-на-Круче ||| 8
+Amy Macdonald ||| 7
+The Cranberries ||| 7
+Аквариум ||| 7
+Пилот ||| 7
+Limp Bizkit ||| 6
+Tom Petty ||| 6
+Белая Гвардия ||| 6
+Найк Борзов ||| 6
+Нечетный Воин ||| 6
+ундервуд ||| 6
+Jack Johnson ||| 5
+Tom Petty and The Heartbreakers ||| 5
+Агата Кристи ||| 5
+Король и Шут ||| 5
+## playcount: 1659

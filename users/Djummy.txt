@@ -1,0 +1,51 @@
+Paramore ||| 801
+Incubus ||| 629
+Muse ||| 289
+Slipknot ||| 200
+Foo Fighters ||| 178
+Michael Jackson ||| 166
+Britney Spears ||| 141
+Morgan Le Femme ||| 128
+Avril Lavigne ||| 127
+Lady Gaga ||| 122
+Rita Lee ||| 119
+Katy Perry ||| 117
+Guns N' Roses ||| 114
+Juliette and the Licks ||| 98
+La Roux ||| 86
+Nirvana ||| 85
+Florence + the Machine ||| 84
+Red Hot Chili Peppers ||| 76
+Sum 41 ||| 69
+Faith No More ||| 67
+Ramones ||| 65
+Charlie Brown JR. ||| 64
+The Jackson 5 ||| 57
+Janis Joplin ||| 56
+Metallica ||| 53
+KT Tunstall ||| 43
+Darol Anger ||| 41
+Hanson ||| 40
+Faichecleres ||| 37
+Pitty ||| 36
+Arctic Monkeys ||| 32
+Christina Aguilera ||| 32
+Madonna ||| 32
+Queens of the Stone Age ||| 30
+The Ting Tings ||| 30
+Lily Allen ||| 29
+The Black Crowes ||| 26
+Shakira ||| 25
+Amy Winehouse ||| 24
+Panny Pan ||| 24
+Cansei de Ser Sexy ||| 23
+Sandy Leah ||| 23
+Etta James ||| 22
+Coldplay ||| 20
+Kings of Leon ||| 20
+Stevie Ray Vaughan ||| 20
+Backstreet Boys ||| 19
+Kiss ||| 19
+Stella Can ||| 19
+Queen ||| 18
+## playcount: 4675

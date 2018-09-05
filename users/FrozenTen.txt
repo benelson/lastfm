@@ -1,0 +1,51 @@
+Nickelback ||| 723
+Billy Talent ||| 670
+Red Hot Chili Peppers ||| 488
+Three Days Grace ||| 398
+3 Doors Down ||| 371
+Breaking Benjamin ||| 362
+Papa Roach ||| 316
+Bastille ||| 289
+Alter Bridge ||| 230
+Bon Jovi ||| 201
+Foo Fighters ||| 175
+Ed Sheeran ||| 165
+Good Charlotte ||| 161
+Scorpions ||| 156
+Coma ||| 145
+Switchfoot ||| 141
+Chassis ||| 136
+Fall Out Boy ||| 124
+The Neighbourhood ||| 117
+Linkin Park ||| 106
+Bryan Adams ||| 96
+OneRepublic ||| 89
+Carpark North ||| 85
+Finger Eleven ||| 80
+Matchbox Twenty ||| 80
+Royal Republic ||| 79
+Goo Goo Dolls ||| 75
+Coldplay ||| 74
+Hollywood Undead ||| 74
+Elliott Smith ||| 71
+My Darkest Days ||| 69
+Arctic Monkeys ||| 65
+Calvin Harris ||| 65
+Led Zeppelin ||| 63
+Rise Against ||| 61
+Paramore ||| 56
+Kings of Leon ||| 55
+Biffy Clyro ||| 52
+AC/DC ||| 51
+Rev Theory ||| 51
+IRA ||| 44
+Two Steps from Hell ||| 42
+Young the Giant ||| 41
+Aerosmith ||| 40
+Avenged Sevenfold ||| 39
+Imagine Dragons ||| 35
+Green Day ||| 33
+Capital Cities ||| 32
+Passion Pit ||| 32
+The xx ||| 32
+## playcount: 7235

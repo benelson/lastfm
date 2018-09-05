@@ -1,0 +1,51 @@
+Kent ||| 7190
+Radiohead ||| 6303
+Megadeth ||| 5451
+New Order ||| 4541
+Metallica ||| 4205
+David Bowie ||| 3868
+Editors ||| 3751
+George Michael ||| 3315
+Depeche Mode ||| 2676
+Interpol ||| 2574
+Pet Shop Boys ||| 2537
+Elbow ||| 2321
+Guns N' Roses ||| 2266
+Muse ||| 2212
+R.E.M. ||| 2099
+Dizzy Mizz Lizzy ||| 2083
+Michael Jackson ||| 2075
+Suede ||| 2070
+The Beatles ||| 2051
+Fall Out Boy ||| 2010
+Daft Punk ||| 1913
+Placebo ||| 1906
+Arcade Fire ||| 1884
+Paul van Dyk ||| 1863
+U2 ||| 1840
+Elton John ||| 1743
+Electronic ||| 1731
+Erasure ||| 1692
+Madonna ||| 1663
+Manic Street Preachers ||| 1655
+The War on Drugs ||| 1601
+PJ Harvey ||| 1582
+Faithless ||| 1577
+Kylie Minogue ||| 1547
+Mew ||| 1514
+The Cure ||| 1484
+Blur ||| 1426
+Oasis ||| 1425
+Duran Duran ||| 1418
+Above & Beyond ||| 1383
+Peter Gabriel ||| 1380
+Röyksopp ||| 1377
+David Gray ||| 1337
+Coldplay ||| 1334
+The National ||| 1326
+Prince ||| 1296
+Rammstein ||| 1277
+The Rolling Stones ||| 1272
+Pearl Jam ||| 1248
+Britney Spears ||| 1221
+## playcount: 111513

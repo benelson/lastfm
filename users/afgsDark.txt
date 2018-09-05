@@ -1,0 +1,51 @@
+Pink Floyd ||| 7884
+Pearl Jam ||| 7851
+Led Zeppelin ||| 6810
+Tom Petty and The Heartbreakers ||| 6427
+Nirvana ||| 6115
+The Rolling Stones ||| 5912
+Deep Purple ||| 4867
+Nightwish ||| 4739
+The Doors ||| 4536
+Children of Bodom ||| 4157
+Alice in Chains ||| 3730
+Fleetwood Mac ||| 3589
+Neil Young ||| 3469
+Helloween ||| 3192
+Edguy ||| 3068
+The Beatles ||| 2945
+Bob Dylan ||| 2917
+Iron Maiden ||| 2731
+Van Halen ||| 2666
+The Who ||| 2588
+Thin Lizzy ||| 2434
+Skid Row ||| 2391
+Def Leppard ||| 2364
+Poison ||| 2259
+Scorpions ||| 2180
+Gin Blossoms ||| 2157
+Dokken ||| 2106
+Lynyrd Skynyrd ||| 2006
+The Offspring ||| 1990
+Bon Jovi ||| 1950
+U2 ||| 1925
+Mother Love Bone ||| 1918
+The Police ||| 1870
+Kiss ||| 1848
+Guns N' Roses ||| 1792
+Aerosmith ||| 1767
+Sonata Arctica ||| 1765
+Black Sabbath ||| 1714
+Warrant ||| 1706
+Jimi Hendrix ||| 1649
+Therion ||| 1641
+Oasis ||| 1640
+Sinergy ||| 1605
+John Mellencamp ||| 1579
+The Replacements ||| 1576
+Green Day ||| 1517
+Humble Pie ||| 1516
+Bruce Springsteen ||| 1515
+Rush ||| 1487
+Amoral ||| 1476
+## playcount: 145536

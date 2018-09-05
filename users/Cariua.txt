@@ -1,0 +1,51 @@
+Andrea Bocelli ||| 4
+Carl Orff ||| 4
+Georges Bizet ||| 4
+Giacomo Puccini ||| 4
+Giuseppe Verdi ||| 4
+Plácido Domingo ||| 4
+Alessandro Safina ||| 3
+Iggy Pop ||| 3
+Il Divo ||| 3
+José Carreras ||| 3
+Kiri Te Kanawa ||| 3
+Luciano Pavarotti ||| 3
+Maria Callas ||| 3
+Patti Smith ||| 3
+Richard Wagner ||| 3
+The Three Tenors ||| 3
+Wolfgang Amadeus Mozart ||| 3
+Bedřich Smetana ||| 2
+David Bowie ||| 2
+Filippa Giordano ||| 2
+Herbert von Karajan ||| 2
+Iggy Pop & James Williamson ||| 2
+Léo Delibes ||| 2
+Sarah Brightman ||| 2
+Alfredo Kraus ||| 1
+Amilcare Ponchielli ||| 1
+Angela Gheorghiu ||| 1
+Anna Netrebko ||| 1
+Bryn Terfel ||| 1
+Cecilia Bartoli ||| 1
+Chico Buarque ||| 1
+Corinne Bailey Rae ||| 1
+Fritz Wunderlich ||| 1
+Giuseppe di Stefano ||| 1
+I Am Alaska ||| 1
+John Cale ||| 1
+Jussi Björling ||| 1
+Kiri Te Kanawa,Luciano Pavarotti ||| 1
+Mario Lanza ||| 1
+Natalie Dessay ||| 1
+Paul Potts ||| 1
+Peter Anders ||| 1
+PJ Harvey ||| 1
+Ramón Vargas ||| 1
+Ricardo Marinello ||| 1
+Roberto Alagna ||| 1
+Russell Watson ||| 1
+Second Monday ||| 1
+Take The Crown ||| 1
+Television ||| 1
+## playcount: 97

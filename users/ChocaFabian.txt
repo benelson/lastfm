@@ -1,0 +1,51 @@
+The Beatles ||| 3014
+Pearl Jam ||| 2827
+John Frusciante ||| 2634
+The Black Keys ||| 2601
+Radiohead ||| 2361
+Red Hot Chili Peppers ||| 2328
+Superlitio ||| 1565
+Beck ||| 1449
+Zero 7 ||| 1410
+Foo Fighters ||| 1337
+Tom Waits ||| 1308
+Pink Floyd ||| 1220
+Yann Tiersen ||| 1180
+The Strokes ||| 1164
+Muse ||| 937
+Robi Draco Rosa ||| 905
+Moby ||| 894
+Queens of the Stone Age ||| 890
+The Cinematic Orchestra ||| 813
+Bajofondo ||| 760
+Charly García ||| 722
+Astor Piazzolla ||| 710
+Sparklehorse ||| 702
+The Doors ||| 665
+Gustavo Cerati ||| 635
+Velandia y la tigra ||| 624
+Vincent Gallo ||| 622
+Nine Inch Nails ||| 616
+Gotan Project ||| 614
+Koop ||| 614
+Federico Aubele ||| 605
+Nirvana ||| 605
+Café Tacvba ||| 600
+John Lennon ||| 580
+Nouvelle Vague ||| 570
+Alice in Chains ||| 553
+Oasis ||| 553
+Broken Social Scene ||| 538
+Soundgarden ||| 515
+Jamiroquai ||| 492
+Coldplay ||| 487
+Nicola Conte ||| 465
+The Frames ||| 459
+Sigur Rós ||| 437
+Bonobo ||| 420
+David Gilmour ||| 415
+The Smashing Pumpkins ||| 413
+TV on the Radio ||| 408
+A Perfect Circle ||| 396
+Gomez ||| 389
+## playcount: 48021

@@ -1,0 +1,51 @@
+John Mayer ||| 2683
+The xx ||| 1879
+Foo Fighters ||| 1758
+Pink Floyd ||| 1636
+Gregory Porter ||| 1230
+Moby ||| 1107
+Red Hot Chili Peppers ||| 1099
+Yeasayer ||| 1096
+The Kooks ||| 920
+Bon Iver ||| 903
+Fleetwood Mac ||| 875
+Arctic Monkeys ||| 849
+Coldplay ||| 827
+Lykke Li ||| 819
+The Beatles ||| 810
+Dire Straits ||| 776
+Kings of Leon ||| 741
+Led Zeppelin ||| 681
+Death Cab for Cutie ||| 661
+Daft Punk ||| 588
+Supertramp ||| 582
+Adele ||| 561
+Selah Sue ||| 557
+Oasis ||| 545
+Rise Against ||| 538
+Bløf ||| 530
+James Vincent McMorrow ||| 528
+AC/DC ||| 527
+alt-J ||| 527
+Röyksopp ||| 524
+Phoenix ||| 507
+Two Door Cinema Club ||| 499
+James Blake ||| 498
+The Script ||| 496
+Mumford & Sons ||| 487
+Banks ||| 484
+The Black Keys ||| 456
+David Bowie ||| 454
+De Staat ||| 446
+Jason Mraz ||| 445
+Bloc Party ||| 426
+The Temper Trap ||| 417
+Bombay Bicycle Club ||| 411
+Racoon ||| 408
+White Lies ||| 404
+Muse ||| 396
+U2 ||| 396
+Slash ||| 395
+Hurts ||| 392
+Triggerfinger ||| 385
+## playcount: 36159

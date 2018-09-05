@@ -1,0 +1,51 @@
+Linkin Park ||| 2763
+Kings of Leon ||| 1780
+Pearl Jam ||| 1778
+Kevin Gates ||| 1471
+Placebo ||| 870
+Arctic Monkeys ||| 848
+Coldplay ||| 837
+Radiohead ||| 781
+The Strokes ||| 630
+Elliott Smith ||| 398
+Foo Fighters ||| 360
+Weezer ||| 339
+Muse ||| 287
+Green Day ||| 276
+The Cure ||| 253
+The Killers ||| 248
+MGMT ||| 247
+Eddie Vedder ||| 237
+Oasis ||| 232
+Soundgarden ||| 197
+Dead By Sunrise ||| 175
+Jack Johnson ||| 172
+The Kooks ||| 170
+Interpol ||| 169
+Beck ||| 163
+Katy Perry ||| 156
+The Shins ||| 156
+YG ||| 146
+Arcade Fire ||| 143
+Bright Eyes ||| 140
+Keane ||| 136
+Neil Young ||| 129
+Snow Patrol ||| 129
+Avril Lavigne ||| 120
+The National ||| 117
+Death Cab for Cutie ||| 116
+R.E.M. ||| 112
+Bob Dylan ||| 111
+Audioslave ||| 109
+Chevelle ||| 107
+Florence + the Machine ||| 97
+The Beatles ||| 93
+Cut Copy ||| 89
+Anberlin ||| 87
+Queens of the Stone Age ||| 87
+My Morning Jacket ||| 83
+The Concretes ||| 80
+Incubus ||| 78
+Red Hot Chili Peppers ||| 75
+Modest Mouse ||| 73
+## playcount: 18450

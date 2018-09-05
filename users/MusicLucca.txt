@@ -1,0 +1,51 @@
+Shakira ||| 8703
+Beyoncé ||| 3916
+Katy Perry ||| 2051
+Lorde ||| 1660
+Ariana Grande ||| 1594
+Rihanna ||| 1239
+Black Eyed Peas ||| 852
+Taylor Swift ||| 705
+Imagine Dragons ||| 686
+Ke$ha ||| 650
+The Ting Tings ||| 574
+Avril Lavigne ||| 480
+Selena Gomez ||| 466
+Jennifer Lopez ||| 449
+Miley Cyrus ||| 444
+Nicki Minaj ||| 396
+Amy Winehouse ||| 368
+Demi Lovato ||| 363
+Selena Gomez & the Scene ||| 327
+Michael Jackson ||| 278
+Britney Spears ||| 255
+Mariah Carey ||| 245
+Iggy Azalea ||| 237
+Adele ||| 180
+Coldplay ||| 154
+Lana Del Rey ||| 149
+Pitbull ||| 130
+Maroon 5 ||| 126
+Fergie ||| 119
+The Wanted ||| 91
+Ed Sheeran ||| 88
+Jessie J ||| 81
+Chris Brown ||| 79
+Eminem ||| 69
+P!nk ||| 67
+Calvin Harris ||| 65
+Ivete Sangalo ||| 65
+Icona Pop ||| 64
+Christina Aguilera ||| 60
+Jason Mraz ||| 58
+Idina Menzel ||| 57
+Ellie Goulding ||| 55
+Green Day ||| 55
+Kelly Clarkson ||| 54
+P9 ||| 54
+Lady Gaga ||| 53
+Madonna ||| 52
+Beyoncé & Shakira ||| 49
+Jessie J, Ariana Grande & Nicki Minaj ||| 48
+Destiny's Child ||| 45
+## playcount: 29105

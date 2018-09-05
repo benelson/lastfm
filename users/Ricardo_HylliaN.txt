@@ -1,0 +1,51 @@
+Madonna ||| 76346
+Epica ||| 29805
+Within Temptation ||| 17319
+Sarah Brightman ||| 14134
+Kamelot ||| 11973
+P!nk ||| 8627
+ReVamp ||| 4688
+Céline Dion ||| 4040
+Delain ||| 3309
+Beyoncé ||| 3137
+Spice Girls ||| 2871
+Tarja ||| 2838
+Amaranthe ||| 2825
+Krypteria ||| 1985
+Nightwish ||| 1817
+Lady Gaga ||| 1789
+RuPaul ||| 1749
+Hilary Duff ||| 1747
+Katy Perry ||| 1595
+Barbra Streisand ||| 1508
+Gwen Stefani ||| 1499
+Shania Twain ||| 1397
+Rihanna ||| 1325
+Evanescence ||| 1274
+Avril Lavigne ||| 1162
+Breaking Benjamin ||| 1093
+Ghost ||| 1071
+Maroon 5 ||| 1040
+Laura Pausini ||| 989
+Shakira ||| 952
+Bee Gees ||| 907
+Exit Eden ||| 878
+Britney Spears ||| 824
+Him ||| 805
+Gloria Estefan ||| 748
+Miley Cyrus ||| 741
+Kylie Minogue ||| 728
+Queen ||| 727
+The Pussycat Dolls ||| 703
+Roupa Nova ||| 700
+Nicki Minaj ||| 680
+Arch Enemy ||| 674
+Delta Goodrem ||| 655
+Fergie ||| 651
+Adore Delano ||| 648
+Seventh Wonder ||| 626
+Demi Lovato ||| 585
+Destiny's Child ||| 582
+Lana Del Rey ||| 575
+Leona Lewis ||| 561
+## playcount: 219902

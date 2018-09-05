@@ -1,0 +1,51 @@
+Tool ||| 5201
+CunninLynguists ||| 4836
+AFI ||| 2882
+Pink Floyd ||| 2865
+Korn ||| 2611
+Parkway Drive ||| 2314
+Chevelle ||| 2268
+Chimaira ||| 2250
+Rise Against ||| 2147
+Metallica ||| 2027
+Five Finger Death Punch ||| 1991
+A Perfect Circle ||| 1567
+Lamb of God ||| 1533
+Kno ||| 1487
+Despised Icon ||| 1485
+Matisyahu ||| 1464
+Blackmore's Night ||| 1294
+Massive Attack ||| 1256
+##### ||| 1227
+Killswitch Engage ||| 1198
+DevilDriver ||| 1183
+Кровосток ||| 1114
+Eminem ||| 1036
+Disturbed ||| 973
+Bullet for My Valentine ||| 967
+Misericordiam ||| 962
+All That Remains ||| 889
+The Dillinger Escape Plan ||| 884
+Promoe ||| 807
+Yoshihisa Hirano and Hideki Taniuchi ||| 747
+30 Seconds to Mars ||| 740
+Emilie Autumn ||| 739
+Rishloo ||| 730
+Многоточие ||| 696
+Bleeding Through ||| 667
+Three Days Grace ||| 663
+Linkin Park ||| 656
+Bring Me the Horizon ||| 626
+Looptroop Rockers ||| 616
+Пикник ||| 580
+Deftones ||| 574
+Blaqk Audio ||| 563
+Miss May I ||| 522
+Looptroop ||| 509
+Flyleaf ||| 507
+Hurt ||| 505
+The Prodigy ||| 494
+Tori Amos ||| 475
+Hans Zimmer ||| 448
+Heaven Shall Burn ||| 442
+## playcount: 65217

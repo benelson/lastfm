@@ -1,0 +1,51 @@
+Foo Fighters ||| 1350
+Deftones ||| 1134
+Incubus ||| 1128
+División Minúscula ||| 981
+Panda ||| 959
+Zoé ||| 859
+Arctic Monkeys ||| 693
+Oasis ||| 691
+Gustavo Cerati ||| 685
+Soda Stereo ||| 673
+Insite ||| 582
+Carlos Méndez ||| 541
+Metallica ||| 530
+Fobia ||| 527
+Jaguares ||| 527
+QBO ||| 518
+Cienfue ||| 515
+Caifanes ||| 472
+Cartel De Santa ||| 466
+Héroes del Silencio ||| 466
+30 Seconds to Mars ||| 434
+Pearl Jam ||| 434
+Molotov ||| 428
+Avenged Sevenfold ||| 409
+Audioslave ||| 393
+Control Machete ||| 391
+The Killers ||| 390
+Papa Roach ||| 375
+Radiohead ||| 369
+Limp Bizkit ||| 361
+Matchbox Twenty ||| 359
+The Smashing Pumpkins ||| 355
+Paramore ||| 354
+The Offspring ||| 351
+Café Tacvba ||| 332
+Jumbo ||| 311
+Guns N' Roses ||| 297
+Slipknot ||| 289
+La Ley ||| 287
+Eminem ||| 284
+blink-182 ||| 268
+Staind ||| 267
+Nirvana ||| 260
+Korn ||| 253
+Weezer ||| 252
+Placebo ||| 250
+Panic! at the Disco ||| 241
+Red Hot Chili Peppers ||| 239
+Fall Out Boy ||| 236
+AC/DC ||| 230
+## playcount: 23996

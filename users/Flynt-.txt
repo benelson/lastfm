@@ -1,0 +1,51 @@
+M83 ||| 576
+Keane ||| 442
+Daft Punk ||| 369
+Kasabian ||| 334
+Massive Attack ||| 285
+Moderat ||| 277
+Apparat ||| 265
+Eskobar ||| 258
+Tori Amos ||| 245
+Radiohead ||| 230
+Chang Yun Jing ||| 210
+The Naked and Famous ||| 202
+Abel Korzeniowski ||| 198
+Never Shout Never ||| 182
+Thomas Feiner & Anywhen ||| 179
+Muse ||| 171
+John Murphy ||| 155
+Patrick Wolf ||| 150
+You Me at Six ||| 149
+Portugal. The Man ||| 147
+White Lies ||| 143
+Museum ||| 140
+梅林茂 ||| 136
+Portishead ||| 127
+Fink ||| 122
+Does It Offend You, Yeah? ||| 115
+Digitalism ||| 104
+Nine Inch Nails ||| 104
+Eluvium ||| 100
+Awolnation ||| 94
+Ramona Falls ||| 92
+Nada Surf ||| 87
+Ennio Morricone ||| 76
+Modwheelmood ||| 74
+Vast ||| 68
+Fisher ||| 66
+Ladytron ||| 63
+Kent ||| 62
+Zhang Yun Jing ||| 62
+Elbow ||| 57
+The Smashing Pumpkins ||| 56
+The Knife ||| 55
+Coheed and Cambria ||| 52
+Gene ||| 50
+Hooverphonic ||| 48
+We Are the Ocean ||| 48
+Woodkid ||| 48
+Bat for Lashes ||| 47
+Brian Eno ||| 47
+Frankmusik ||| 46
+## playcount: 7413

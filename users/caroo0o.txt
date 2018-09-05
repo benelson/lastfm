@@ -1,0 +1,51 @@
+The Beatles ||| 2315
+Muse ||| 2136
+Pink Floyd ||| 1587
+Radiohead ||| 1500
+Arctic Monkeys ||| 1351
+Led Zeppelin ||| 1184
+The Black Keys ||| 949
+Florence + the Machine ||| 907
+The Killers ||| 872
+My Chemical Romance ||| 815
+Kings of Leon ||| 768
+Arcade Fire ||| 752
+The Smiths ||| 751
+Marina & the Diamonds ||| 727
+The Rolling Stones ||| 723
+Ed Sheeran ||| 719
+The Vaccines ||| 717
+Pearl Jam ||| 714
+Coldplay ||| 712
+Vampire Weekend ||| 670
+Frank Ocean ||| 612
+Red Hot Chili Peppers ||| 604
+Death Cab for Cutie ||| 603
+The Cure ||| 580
+The Strokes ||| 569
+Amy Winehouse ||| 556
+Nirvana ||| 542
+Lana Del Rey ||| 540
+Metallica ||| 515
+The Shins ||| 499
+The Kooks ||| 485
+Beyoncé ||| 468
+Fall Out Boy ||| 463
+Panic! at the Disco ||| 461
+Erykah Badu ||| 438
+Gustavo Cerati ||| 426
+Soda Stereo ||| 414
+The Clash ||| 412
+One Direction ||| 402
+All Time Low ||| 379
+Band of Horses ||| 377
+Deftones ||| 365
+blink-182 ||| 362
+Massive Attack ||| 361
+Bon Iver ||| 355
+David Bowie ||| 352
+Kendrick Lamar ||| 349
+Placebo ||| 349
+Shakira ||| 345
+Oasis ||| 336
+## playcount: 34388

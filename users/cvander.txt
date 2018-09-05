@@ -1,0 +1,51 @@
+Kevin Johansen ||| 1345
+MGMT ||| 913
+Kings of Leon ||| 843
+Coldplay ||| 803
+Black Eyed Peas ||| 764
+Julieta Venegas ||| 688
+Putumayo ||| 663
+Yann Tiersen ||| 632
+Paul McCartney ||| 627
+Miranda ||| 618
+Andrew Bird ||| 583
+Arcade Fire ||| 521
+Lily Allen ||| 412
+Sufjan Stevens ||| 371
+Shakira ||| 358
+Lady Gaga ||| 325
+U2 ||| 321
+Telefunka ||| 315
+M.I.A. ||| 299
+Alanis Morissette ||| 297
+La Guardia Hereje ||| 290
+Gotan Project ||| 288
+James Blunt ||| 276
+Austin TV ||| 255
+FatalExceptionID ||| 243
+Ricardo Arjona ||| 238
+Beyoncé ||| 226
+Miss Li ||| 220
+Café Tacvba ||| 219
+Lykke Li ||| 207
+blink-182 ||| 199
+Moby ||| 197
+Bloc Party ||| 181
+Ricardo Andrade ||| 178
+Gorillaz ||| 139
+Nancy Ajram ||| 138
+Katy Perry ||| 137
+La Vela Puerca ||| 133
+The Decemberists ||| 133
+The Veronicas ||| 125
+Rihanna ||| 119
+Maná ||| 117
+Juanes ||| 115
+Aṣa ||| 108
+Cut Copy ||| 106
+The Ting Tings ||| 106
+Nelly Furtado ||| 104
+Madonna ||| 98
+Los Amigos Invisibles ||| 93
+Plain White T's ||| 92
+## playcount: 16778

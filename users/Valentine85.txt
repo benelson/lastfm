@@ -1,0 +1,51 @@
+The Beatles ||| 834
+The Crowns ||| 599
+The Rolling Stones ||| 269
+The Subways ||| 208
+Bloc Party ||| 173
+Muse ||| 166
+Oasis ||| 159
+Arctic Monkeys ||| 119
+Queen ||| 104
+Aerosmith ||| 93
+John Lennon ||| 75
+Keane ||| 74
+Foo Fighters ||| 45
+The Killers ||| 42
+Guns N' Roses ||| 40
+Silverchair ||| 37
+Red Hot Chili Peppers ||| 32
+The Strokes ||| 32
+Nirvana ||| 29
+Led Zeppelin ||| 28
+50 Cent ||| 27
+Avenged Sevenfold ||| 24
+Snow Patrol ||| 20
+30 Seconds to Mars ||| 16
+Kaiser Chiefs ||| 16
+The Fray ||| 16
+Supertramp ||| 15
+The Kinks ||| 15
+John Mayer ||| 12
+T.I. ||| 12
+blink-182 ||| 11
+The Red Jumpsuit Apparatus ||| 11
+Anouk ||| 10
+AC/DC ||| 8
+Lil' Wayne ||| 6
+Linkin Park ||| 6
+Metallica ||| 5
+The Amboy Dukes ||| 4
+Fall Out Boy ||| 3
+Franck Carducci ||| 3
+Katy Perry ||| 3
+The Shadows of Knight ||| 3
+The Sonics ||| 3
+The Standells ||| 3
+My Chemical Romance ||| 2
+OneRepublic ||| 2
+Strawberry Alarm Clock ||| 2
+The Barbarians ||| 2
+The Beau Brummels ||| 2
+The Blues Magoos ||| 2
+## playcount: 3422

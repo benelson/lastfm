@@ -1,0 +1,51 @@
+Beck ||| 2926
+The Beatles ||| 2366
+Phish ||| 1591
+Aerosmith ||| 1287
+Led Zeppelin ||| 927
+Slightly Stoopid ||| 716
+Long Beach Dub All Stars ||| 669
+Bob Marley ||| 659
+Jurassic 5 ||| 596
+Dave Matthews Band ||| 498
+The Allman Brothers Band ||| 497
+Grateful Dead ||| 456
+Red Hot Chili Peppers ||| 404
+Cake ||| 382
+Simon & Garfunkel ||| 291
+Counting Crows ||| 283
+Barenaked Ladies ||| 273
+Radiohead ||| 273
+Bob Marley & The Wailers ||| 266
+B.B. King ||| 242
+Wu-Tang Clan ||| 242
+Trey Anastasio ||| 234
+Soulive ||| 229
+Guster ||| 199
+Tenacious D ||| 192
+Sublime ||| 178
+Dispatch ||| 163
+Gorillaz ||| 158
+James Taylor ||| 156
+The Casual Fiasco ||| 152
+311 ||| 146
+Frank Zappa ||| 144
+John Mayer ||| 136
+The Rolling Stones ||| 136
+Coldplay ||| 128
+John Scofield ||| 125
+U2 ||| 122
+Trey Anastasio & Tom Marshall ||| 118
+Wilco ||| 110
+Creedence Clearwater Revival ||| 109
+Ben Folds Five ||| 105
+Pink Floyd ||| 105
+Marvin Gaye ||| 101
+The Flaming Lips ||| 100
+Béla Fleck and the Flecktones ||| 99
+Dave Matthews ||| 97
+Jimi Hendrix ||| 95
+O.A.R. ||| 95
+David Bowie ||| 91
+Ernest Ranglin ||| 90
+## playcount: 19757

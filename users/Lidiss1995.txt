@@ -1,0 +1,51 @@
+Michael Jackson ||| 2115
+Queen ||| 1797
+The Beatles ||| 1757
+Elvis Presley ||| 1245
+Coldplay ||| 1200
+Bruce Springsteen ||| 917
+Red Hot Chili Peppers ||| 891
+Bob Marley ||| 887
+Madonna ||| 883
+U2 ||| 754
+Adele ||| 735
+Bon Jovi ||| 731
+Whitney Houston ||| 661
+Nirvana ||| 617
+Phil Collins ||| 596
+Depeche Mode ||| 583
+Lady Gaga ||| 572
+Daft Punk ||| 555
+Black Eyed Peas ||| 546
+Marvin Gaye ||| 539
+The Police ||| 534
+Prince ||| 531
+Genesis ||| 527
+Tina Turner ||| 522
+R.E.M. ||| 519
+The Rolling Stones ||| 484
+Aretha Franklin ||| 466
+Aerosmith ||| 449
+Lana Del Rey ||| 447
+Lorde ||| 447
+David Guetta ||| 410
+Duran Duran ||| 391
+David Bowie ||| 374
+Guns N' Roses ||| 347
+Dire Straits ||| 340
+James Brown ||| 338
+The Cranberries ||| 336
+Pink Floyd ||| 326
+The Clash ||| 325
+Stevie Wonder ||| 310
+Maroon 5 ||| 298
+Katy Perry ||| 291
+The Cure ||| 280
+Bryan Adams ||| 272
+Rihanna ||| 271
+ABBA ||| 270
+Bruno Mars ||| 268
+Led Zeppelin ||| 263
+30 Seconds to Mars ||| 252
+Wolfgang Amadeus Mozart ||| 250
+## playcount: 29719

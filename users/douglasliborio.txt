@@ -1,0 +1,51 @@
+Panic! at the Disco ||| 2293
+The Strokes ||| 1815
+Aerosmith ||| 1497
+Lana Del Rey ||| 1409
+Arcade Fire ||| 1075
+The Killers ||| 975
+Arctic Monkeys ||| 964
+Avril Lavigne ||| 954
+Foo Fighters ||| 809
+The xx ||| 758
+Los Hermanos ||| 753
+Two Door Cinema Club ||| 733
+The Black Keys ||| 642
+M.I.A. ||| 534
+Radiohead ||| 534
+Jake Bugg ||| 478
+Foster the People ||| 436
+McFly ||| 411
+Kings of Leon ||| 383
+30 Seconds to Mars ||| 356
+MGMT ||| 349
+Phoenix ||| 314
+Metric ||| 299
+Macklemore & Ryan Lewis ||| 295
+Placebo ||| 277
+Bruno & Marrone ||| 270
+Sia ||| 258
+Mallu Magalhães ||| 245
+The Beatles ||| 239
+The Last Shadow Puppets ||| 236
+Wesley Safadão ||| 216
+Capital Cities ||| 211
+Imagine Dragons ||| 205
+Jack White ||| 193
+Ashlee Simpson ||| 181
+Lily Allen ||| 174
+Phillip Phillips ||| 173
+Muse ||| 170
+My Chemical Romance ||| 158
+Of Monsters and Men ||| 157
+Julia Stone ||| 156
+Beyoncé ||| 155
+Marcelo Camelo e Mallu Magalhães ||| 153
+Paramore ||| 152
+Simone e Simaria ||| 150
+David Bowie ||| 140
+Gusttavo Lima ||| 138
+Coldplay ||| 137
+Justin Timberlake ||| 137
+Demi Lovato ||| 135
+## playcount: 23882

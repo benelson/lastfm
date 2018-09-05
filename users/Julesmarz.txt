@@ -1,0 +1,51 @@
+MGMT ||| 3876
+Homeshake ||| 3461
+Ariel Pink ||| 1996
+Tame Impala ||| 1914
+Arctic Monkeys ||| 1379
+Mac DeMarco ||| 1265
+Gustavo Santaolalla ||| 1186
+Ariel Pink's Haunted Graffiti ||| 1081
+The Horrors ||| 1071
+Air ||| 941
+The Holydrug Couple ||| 878
+Connan Mockasin ||| 849
+Christopher Owens ||| 827
+Mild High Club ||| 826
+The Beach Boys ||| 798
+Radiohead ||| 788
+Girls ||| 779
+Moses Gunn Collective ||| 731
+Gorillaz ||| 699
+Jorge Drexler ||| 669
+Beach House ||| 617
+Danny Elfman ||| 574
+Blur ||| 553
+St. Vincent ||| 493
+The Growlers ||| 493
+The Strokes ||| 487
+Incubus ||| 475
+Queens of the Stone Age ||| 471
+The xx ||| 468
+Kings of Leon ||| 430
+Kurt Vile ||| 410
+Grimes ||| 316
+Sonic Youth ||| 309
+Smith Westerns ||| 290
+Placebo ||| 286
+Christina Rosenvinge ||| 279
+The Flaming Lips ||| 260
+Red Hot Chili Peppers ||| 257
+Foxygen ||| 252
+Pond ||| 249
+The Kills ||| 249
+Nick Cave & The Bad Seeds ||| 245
+Bedouine ||| 244
+Todd Rundgren ||| 233
+Metronomy ||| 232
+The Avalanches ||| 224
+The Drums ||| 223
+John Frusciante ||| 215
+Deerhunter ||| 206
+Travis Bretzer ||| 204
+## playcount: 36258

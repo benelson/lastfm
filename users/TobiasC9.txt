@@ -1,0 +1,51 @@
+Janet Jackson ||| 5426
+Taylor Swift ||| 3927
+Mariah Carey ||| 3747
+Britney Spears ||| 2370
+Selena Gomez ||| 1967
+Cher ||| 1181
+Ke$ha ||| 1161
+Tamar Braxton ||| 1008
+Ciara ||| 837
+Christina Aguilera ||| 789
+Camila Cabello ||| 763
+Zara Larsson ||| 662
+Jennifer Hudson ||| 606
+Ariana Grande ||| 478
+Bridgit Mendler ||| 321
+Björk ||| 310
+Lady Gaga ||| 308
+Michael Jackson ||| 280
+Demi Lovato ||| 265
+Fergie ||| 262
+Adele ||| 255
+Carly Rae Jepsen ||| 238
+Delta Goodrem ||| 234
+Miley Cyrus ||| 217
+Meghan Trainor ||| 207
+Iggy Azalea ||| 191
+Bebe Rexha ||| 184
+Cardi B ||| 175
+Dua Lipa ||| 167
+Fifth Harmony ||| 155
+Kylie Minogue ||| 150
+Katy Perry ||| 137
+Azealia Banks ||| 132
+Rihanna ||| 132
+Selena Gomez & the Scene ||| 126
+Sophie ||| 103
+Ruslana ||| 102
+Bruno Mars ||| 82
+Anitta ||| 79
+Madonna ||| 73
+Avril Lavigne ||| 71
+Rita Ora ||| 63
+Jamala ||| 54
+Nicki Minaj ||| 50
+Clean Bandit ||| 45
+Wanessa ||| 45
+Rouge ||| 42
+Rachel Taylor ||| 40
+Machine Gun Kelly ||| 39
+Marian Hill ||| 36
+## playcount: 30292

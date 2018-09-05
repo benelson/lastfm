@@ -1,0 +1,51 @@
+AFI ||| 30
+My Chemical Romance ||| 30
+Green Day ||| 24
+Panic! at the Disco ||| 23
+Fall Out Boy ||| 22
+The Used ||| 19
+30 Seconds to Mars ||| 16
+Paramore ||| 16
+Taking Back Sunday ||| 15
+blink-182 ||| 14
+Good Charlotte ||| 14
+Panda ||| 14
+System of a Down ||| 14
+The Red Jumpsuit Apparatus ||| 13
+Jimmy Eat World ||| 12
+Aiden ||| 11
+Funeral for a Friend ||| 11
+The All-American Rejects ||| 11
+Billy Talent ||| 10
+Cobra Starship ||| 10
+Dashboard Confessional ||| 10
+Enter Shikari ||| 10
+Sum 41 ||| 10
+Brand New ||| 9
+Hawthorne Heights ||| 9
+Hellogoodbye ||| 9
+Insite ||| 9
+Muse ||| 9
+Plain White T's ||| 9
+El Otro Yo ||| 8
+The Academy Is... ||| 8
+The Beatles ||| 8
+The Distillers ||| 8
+The Fray ||| 8
+[unknown] ||| 8
+Armor for Sleep ||| 7
+Descartes A Kant ||| 7
+From First to Last ||| 7
+Matchbook Romance ||| 7
+Sugarcult ||| 7
+Thermo ||| 7
+Chiodos ||| 6
+Motion City Soundtrack ||| 6
+Nirvana ||| 6
+Placebo ||| 6
+SR-71 ||| 6
+The Horrors ||| 6
+The Offspring ||| 6
+Underoath ||| 6
+Zurdok ||| 6
+## playcount: 557

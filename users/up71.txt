@@ -1,0 +1,51 @@
+The Beatles ||| 1407
+Bob Dylan ||| 1275
+The Rolling Stones ||| 1066
+Radiohead ||| 1017
+Lou Reed ||| 968
+Bruce Springsteen ||| 921
+The Beach Boys ||| 831
+Leonard Cohen ||| 710
+Iron & Wine ||| 648
+Joni Mitchell ||| 646
+Elliott Smith ||| 598
+The Who ||| 596
+Pearl Jam ||| 578
+David Bowie ||| 575
+Neil Young ||| 562
+Johnny Cash ||| 548
+Queen ||| 543
+The Kinks ||| 525
+Aretha Franklin ||| 523
+Fleet Foxes ||| 505
+The Doors ||| 505
+Frank Zappa ||| 500
+Wilco ||| 498
+Paul Weller ||| 493
+Sufjan Stevens ||| 492
+Aimee Mann ||| 491
+Belle and Sebastian ||| 453
+Cat Power ||| 445
+Ryan Adams ||| 435
+Bee Gees ||| 424
+Deep Purple ||| 401
+Steely Dan ||| 387
+Janis Joplin ||| 384
+Tom Waits ||| 384
+Elvis Presley ||| 379
+Badly Drawn Boy ||| 378
+Dusty Springfield ||| 377
+The National ||| 377
+The Hollies ||| 374
+Elton John ||| 371
+R.E.M. ||| 371
+Randy Newman ||| 370
+The Shins ||| 367
+Midlake ||| 350
+The Moody Blues ||| 349
+Van Halen ||| 346
+Nina Simone ||| 342
+Gene Pitney ||| 336
+Arcade Fire ||| 323
+Modest Mouse ||| 319
+## playcount: 27063

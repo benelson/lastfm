@@ -1,0 +1,51 @@
+Metallica ||| 11
+Thrice ||| 9
+Kanye West ||| 5
+System of a Down ||| 5
+Am Radio ||| 4
+U2 ||| 4
+Anamanaguchi ||| 3
+Blue Öyster Cult ||| 3
+Cauterize ||| 3
+Dr. Dre ||| 3
+DragonForce ||| 3
+Eminem ||| 3
+Finger Eleven ||| 3
+Foo Fighters ||| 3
+Him ||| 3
+Linkin Park ||| 3
+Red Hot Chili Peppers ||| 3
+Smash Mouth ||| 3
+17586063 ||| 2
+Alkaline Trio ||| 2
+Avenged Sevenfold ||| 2
+Coldplay ||| 2
+Dream Theater ||| 2
+No More Kings ||| 2
+Ozomatli ||| 2
+Pink Floyd ||| 2
+Queen ||| 2
+Symphony X ||| 2
+The Bronx ||| 2
+The Rolling Stones ||| 2
+Vanden Plas ||| 2
+Vinnie Moore ||| 2
+311 ||| 1
+AC/DC ||| 1
+Aerosmith ||| 1
+Alice Cooper ||| 1
+All That Remains ||| 1
+At The Spot ||| 1
+Atmosphere ||| 1
+Atreyu ||| 1
+Audioslave ||| 1
+Beastie Boys ||| 1
+Billy Idol ||| 1
+Bloodhound Gang ||| 1
+Bob Marley ||| 1
+Brand New ||| 1
+Cat Stevens ||| 1
+Chumbawamba ||| 1
+Cobra Starship ||| 1
+Cold ||| 1
+## playcount: 120

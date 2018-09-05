@@ -1,0 +1,51 @@
+Lana Del Rey ||| 3141
+One Direction ||| 2658
+Lady Gaga ||| 1564
+Miley Cyrus ||| 1401
+Rihanna ||| 1376
+Marina & the Diamonds ||| 1308
+Britney Spears ||| 1109
+Justin Bieber ||| 1049
+Zayn ||| 1040
+Lorde ||| 1000
+Ellie Goulding ||| 864
+Nicki Minaj ||| 845
+Ed Sheeran ||| 794
+Drake ||| 770
+Ariana Grande ||| 734
+Sam Smith ||| 717
+Taylor Swift ||| 715
+Selena Gomez ||| 610
+Charli XCX ||| 550
+Arctic Monkeys ||| 517
+Iggy Azalea ||| 510
+Little Mix ||| 502
+Cher Lloyd ||| 497
+Bastille ||| 495
+Imagine Dragons ||| 486
+Katy Perry ||| 484
+Ke$ha ||| 431
+Beyoncé ||| 428
+The xx ||| 412
+Calvin Harris ||| 407
+Twenty One Pilots ||| 399
+Avicii ||| 397
+Demi Lovato ||| 396
+Halsey ||| 383
+Tove Lo ||| 380
+Sia ||| 374
+Azealia Banks ||| 338
+Jessie J ||| 332
+Dua Lipa ||| 317
+Justin Timberlake ||| 314
+Chris Brown ||| 291
+Bruno Mars ||| 287
+Jennifer Lopez ||| 268
+Macklemore & Ryan Lewis ||| 267
+Nicola Roberts ||| 267
+Christina Aguilera ||| 261
+The Weeknd ||| 255
+Shawn Mendes ||| 248
+James Blake ||| 239
+Mac Miller ||| 228
+## playcount: 33655

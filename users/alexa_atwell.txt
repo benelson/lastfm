@@ -1,0 +1,51 @@
+Andrew Bird ||| 440
+The Black Keys ||| 311
+The Beatles ||| 248
+City and Colour ||| 240
+Blind Pilot ||| 228
+Fleet Foxes ||| 209
+Vampire Weekend ||| 134
+John Mayer ||| 105
+Beach House ||| 95
+Augustana ||| 81
+Neutral Milk Hotel ||| 78
+Coldplay ||| 76
+Portugal. The Man ||| 64
+Washed Out ||| 63
+Arctic Monkeys ||| 59
+The Shins ||| 59
+Radiohead ||| 56
+Ryan Adams ||| 52
+Kings of Leon ||| 50
+Bright Eyes ||| 49
+Bloc Party ||| 43
+The Lumineers ||| 34
+Jack Johnson ||| 32
+Two Door Cinema Club ||| 30
+The Temper Trap ||| 29
+Bon Iver ||| 28
+José González ||| 28
+Ray LaMontagne ||| 27
+Snow Patrol ||| 27
+Atlas Genius ||| 26
+Cat Power ||| 24
+Grizzly Bear ||| 24
+The Paper Kites ||| 23
+Young the Giant ||| 23
+Alabama Shakes ||| 22
+Gotye ||| 22
+Iron & Wine ||| 21
+Givers ||| 20
+Of Monsters and Men ||| 19
+Elliott Smith ||| 18
+The Kooks ||| 18
+Coconut Records ||| 17
+Neon Trees ||| 17
+Sigur Rós ||| 17
+Mazzy Star ||| 16
+Band of Horses ||| 14
+Beirut ||| 14
+Joshua Radin ||| 13
+Mumford & Sons ||| 13
+Stateless ||| 13
+## playcount: 3369

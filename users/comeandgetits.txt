@@ -1,0 +1,51 @@
+RBD ||| 1741
+Taylor Swift ||| 932
+Dulce María ||| 876
+Anitta ||| 652
+John Mayer ||| 511
+Rihanna ||| 355
+The 1975 ||| 260
+Selena Gomez ||| 174
+Little Mix ||| 168
+Charlie Brown JR. ||| 163
+Capital Inicial ||| 154
+Maite Perroni ||| 133
+Zayn ||| 129
+One Direction ||| 125
+Clarice Falcão ||| 117
+Anahí ||| 111
+Lady Gaga ||| 109
+Los Hermanos ||| 107
+Os Paralamas Do Sucesso ||| 107
+Demi Lovato ||| 100
+Britney Spears ||| 98
+Mallu Magalhães ||| 85
+Engenheiros Do Hawaii ||| 71
+Katy Perry ||| 70
+Luan Santana ||| 70
+Beyoncé ||| 67
+Avril Lavigne ||| 64
+Lana Del Rey ||| 62
+Marília Mendonça ||| 61
+Imagine Dragons ||| 53
+Legião Urbana ||| 51
+Wesley Safadão ||| 45
+Frejat ||| 38
+Jota Quest ||| 38
+Jorge & Mateus ||| 36
+The Beatles ||| 35
+Christina Aguilera ||| 32
+Pitty ||| 30
+Henrique & Juliano ||| 29
+Claudia Leitte ||| 26
+The Pretty Reckless ||| 25
+Ed Sheeran ||| 24
+The Neighbourhood ||| 24
+Pixie Lott ||| 23
+Fifth Harmony ||| 22
+Miley Cyrus ||| 22
+Bon Jovi ||| 21
+Ariana Grande ||| 20
+Bruno Mars ||| 20
+Halsey ||| 20
+## playcount: 8306

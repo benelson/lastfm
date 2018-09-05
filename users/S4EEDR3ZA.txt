@@ -1,0 +1,51 @@
+Coldplay ||| 28048
+Linkin Park ||| 10672
+Oasis ||| 8751
+Radiohead ||| 8557
+Pink Floyd ||| 6189
+Muse ||| 4642
+Noel Gallagher's High Flying Birds ||| 4248
+Arctic Monkeys ||| 4045
+Green Day ||| 3926
+Interpol ||| 3835
+Nirvana ||| 3628
+U2 ||| 2739
+Porcupine Tree ||| 2607
+Poets of the Fall ||| 2540
+Metallica ||| 2301
+Editors ||| 2295
+Kasabian ||| 2279
+The National ||| 2179
+Depeche Mode ||| 2163
+Red Hot Chili Peppers ||| 2146
+The Beatles ||| 2047
+The Killers ||| 1924
+Arcade Fire ||| 1872
+Explosions in the Sky ||| 1849
+Foo Fighters ||| 1611
+The Smiths ||| 1469
+The Cure ||| 1400
+Led Zeppelin ||| 1398
+Alice in Chains ||| 1352
+Blackfield ||| 1251
+The Stone Roses ||| 1243
+The Black Keys ||| 1230
+Mogwai ||| 1227
+Joy Division ||| 1203
+Opeth ||| 1189
+Riverside ||| 1176
+Travis ||| 1173
+Steven Wilson ||| 1166
+Camel ||| 1160
+Sigur Rós ||| 1150
+If These Trees Could Talk ||| 1119
+The Last Shadow Puppets ||| 1116
+Foals ||| 1061
+Pearl Jam ||| 986
+Keane ||| 974
+The Verve ||| 972
+Anathema ||| 950
+Beady Eye ||| 931
+Black Sabbath ||| 913
+Gorillaz ||| 897
+## playcount: 145799

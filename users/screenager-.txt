@@ -1,0 +1,51 @@
+Coldplay ||| 924
+Mumford & Sons ||| 596
+Taylor Swift ||| 516
+One Direction ||| 455
+Lana Del Rey ||| 452
+Jack's Mannequin ||| 399
+The 1975 ||| 367
+Lo-Fang ||| 352
+Disclosure ||| 312
+Fall Out Boy ||| 282
+City and Colour ||| 279
+Jake Bugg ||| 277
+Two Door Cinema Club ||| 273
+Beyoncé ||| 263
+Mayday Parade ||| 251
+Rise Against ||| 247
+The Academy Is... ||| 245
+Frank Ocean ||| 242
+alt-J ||| 233
+Death Cab for Cutie ||| 201
+Pitch Perfect ||| 194
+The Weeknd ||| 186
+Norwegian Recycling ||| 183
+Bombay Bicycle Club ||| 181
+Flume ||| 180
+Kate Nash ||| 151
+Hermitude ||| 149
+Arctic Monkeys ||| 148
+Laura Marling ||| 147
+The Kooks ||| 144
+Boyce Avenue ||| 141
+Glee Cast ||| 137
+Solange ||| 133
+Nelly ||| 131
+CHVRCHES ||| 129
+Destiny's Child ||| 129
+Alexandre Desplat ||| 118
+Mystery Jets ||| 116
+Passion Pit ||| 113
+The Vamps ||| 112
+Kendrick Lamar ||| 111
+James Newton Howard ||| 110
+Drake ||| 109
+Bastille ||| 107
+Miley Cyrus ||| 103
+Vampire Weekend ||| 103
+Anberlin ||| 97
+Hans Zimmer ||| 96
+Earl Wild ||| 94
+John Williams ||| 92
+## playcount: 11110

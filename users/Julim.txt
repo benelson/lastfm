@@ -1,0 +1,51 @@
+Gal Costa ||| 20004
+Clara Nunes ||| 18820
+Elis Regina ||| 18726
+Caetano Veloso ||| 17414
+Chico Buarque ||| 17393
+Rita Lee ||| 16924
+Marisa Monte ||| 16654
+Adriana Calcanhotto ||| 16635
+Björk ||| 16623
+Alanis Morissette ||| 15638
+Doces Bárbaros ||| 13480
+Novos Baianos ||| 12528
+Jorge Ben ||| 11551
+The Beatles ||| 7268
+Coldplay ||| 7237
+Tulipa Ruiz ||| 5535
+Milton Nascimento ||| 5475
+Maria Rita ||| 4849
+Secos & Molhados ||| 4668
+Roberta Sá ||| 4566
+Florence + the Machine ||| 4537
+Gilberto Gil ||| 4456
+Vanessa da Mata ||| 4429
+Lily Allen ||| 4377
+Os Mutantes ||| 4057
+Pitty ||| 4003
+Baby Consuelo ||| 3989
+The Mamas & the Papas ||| 3686
+Nara Leão ||| 3621
+Arctic Monkeys ||| 3580
+Spice Girls ||| 3508
+Maria Bethânia ||| 3423
+Cartola ||| 3258
+Chicas ||| 3187
+Cat Power ||| 3150
+She & Him ||| 3063
+Keane ||| 3060
+Arcade Fire ||| 2948
+Amy Winehouse ||| 2833
+Kaiser Chiefs ||| 2801
+Barão Vermelho ||| 2588
+David Bowie ||| 2576
+Oasis ||| 2552
+Aqua ||| 2006
+La Roux ||| 1946
+Duffy ||| 1815
+Norah Jones ||| 1815
+The Killers ||| 1814
+Kings of Leon ||| 1783
+Vampire Weekend ||| 1742
+## playcount: 344591

@@ -1,0 +1,51 @@
+The Killers ||| 5175
+Coldplay ||| 3532
+Muse ||| 3156
+Arctic Monkeys ||| 2553
+Stereophonics ||| 2086
+Red Hot Chili Peppers ||| 2055
+Kaiser Chiefs ||| 1891
+Yann Tiersen ||| 1653
+Vampire Weekend ||| 1572
+MGMT ||| 1539
+Carlos Vives ||| 1339
+Los Fabulosos Cadillacs ||| 1305
+Mumford & Sons ||| 1065
+Bloc Party ||| 935
+Imagine Dragons ||| 836
+Interpol ||| 814
+Plain White T's ||| 812
+The Kooks ||| 812
+Foo Fighters ||| 788
+Cold War Kids ||| 700
+Franz Ferdinand ||| 695
+Man or Astro-Man? ||| 684
+The Strokes ||| 635
+Arcade Fire ||| 621
+Alanis Morissette ||| 619
+Dire Straits ||| 614
+Aerosmith ||| 602
+Nirvana ||| 580
+Keane ||| 566
+Juan Luis Guerra ||| 562
+Fito Páez ||| 546
+Phoenix ||| 545
+Maroon 5 ||| 539
+Simple Plan ||| 536
+Soda Stereo ||| 524
+Grouplove ||| 522
+Radiohead ||| 502
+AC/DC ||| 478
+Guns N' Roses ||| 472
+Bon Jovi ||| 453
+Death Cab for Cutie ||| 447
+Laika & The Cosmonauts ||| 446
+José González ||| 423
+I'm from Barcelona ||| 420
+The Coral ||| 415
+Ricardo Arjona ||| 400
+Monsieur Periné ||| 384
+Green Day ||| 383
+Nickelback ||| 376
+Queen ||| 371
+## playcount: 49978

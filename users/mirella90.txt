@@ -1,0 +1,51 @@
+U2 ||| 48
+Yann Tiersen ||| 26
+Coldplay ||| 24
+The Cranberries ||| 19
+The Cure ||| 16
+The Verve ||| 12
+Slowdive ||| 7
+Babyshambles ||| 6
+Simple Minds ||| 6
+Clint Mansell ||| 5
+Lisa Gerrard ||| 5
+Luis Bacalov ||| 5
+blink-182 ||| 4
+Dżem ||| 4
+Echo & the Bunnymen ||| 4
+Katie Melua ||| 4
+KT Tunstall ||| 4
+Morcheeba ||| 4
+Nena ||| 4
+Peter Gabriel ||| 4
+The Church ||| 4
+Bitter:Sweet ||| 3
+Bon Jovi ||| 3
+Bruce Springsteen ||| 3
+David Gilmour ||| 3
+Fuel ||| 3
+James Newton Howard ||| 3
+John Frusciante ||| 3
+Kaiser Chiefs ||| 3
+Katy Perry ||| 3
+The Sisters of Mercy ||| 3
+Azure Ray ||| 2
+Biosphere ||| 2
+Cocteau Twins ||| 2
+Guano Apes ||| 2
+Guns N' Roses ||| 2
+Gustavo Santaolalla ||| 2
+Lush ||| 2
+Meryl Streep ||| 2
+Moby ||| 2
+Morrissey ||| 2
+Nelly Furtado ||| 2
+Nirvana ||| 2
+Oasis ||| 2
+Ours ||| 2
+Passengers ||| 2
+Pearl Jam ||| 2
+Peer Raben ||| 2
+Rachel Portman ||| 2
+Radiohead ||| 2
+## playcount: 283

@@ -1,0 +1,51 @@
+Iron Maiden ||| 1073
+Judas Priest ||| 1038
+Sabaton ||| 768
+Megadeth ||| 758
+Sarcófago ||| 442
+Metallica ||| 366
+Venom ||| 354
+Sepultura ||| 334
+Iced Earth ||| 324
+Black Sabbath ||| 249
+Helloween ||| 245
+Volbeat ||| 244
+Matanza ||| 210
+Slayer ||| 210
+Cannibal Corpse ||| 198
+System of a Down ||| 178
+Annihilator ||| 177
+Anthrax ||| 145
+Dio ||| 144
+Blind Guardian ||| 133
+Brujeria ||| 128
+Pantera ||| 123
+Behemoth ||| 122
+Manowar ||| 116
+Sodom ||| 116
+Ramones ||| 112
+Municipal Waste ||| 111
+Ghost ||| 101
+Johnny Cash ||| 97
+Motorocker ||| 97
+Kreator ||| 96
+Amon Amarth ||| 90
+Raubtier ||| 90
+Hibria ||| 89
+Motörhead ||| 89
+Destruction ||| 88
+S.O.D. ||| 84
+Celtic Frost ||| 81
+The Smashing Pumpkins ||| 78
+AC/DC ||| 75
+Red Hot Chili Peppers ||| 63
+Krisiun ||| 62
+Vital Remains ||| 62
+Black Label Society ||| 56
+Machine Head ||| 53
+Aerosmith ||| 49
+Death ||| 48
+Lynyrd Skynyrd ||| 47
+Edguy ||| 46
+Goat Horn ||| 46
+## playcount: 10105

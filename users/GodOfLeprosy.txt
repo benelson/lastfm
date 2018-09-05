@@ -1,0 +1,51 @@
+Opeth ||| 654
+Amorphis ||| 527
+DevilDriver ||| 515
+Iced Earth ||| 444
+Death ||| 432
+Machine Head ||| 431
+Kreator ||| 330
+Exodus ||| 310
+Jethro Tull ||| 306
+Blind Guardian ||| 298
+Metallica ||| 265
+Katatonia ||| 260
+Dark Tranquillity ||| 258
+Soulfly ||| 246
+Nevermore ||| 243
+Diablo ||| 240
+Motörhead ||| 217
+Nocte Obducta ||| 207
+Candlemass ||| 195
+Sepultura ||| 191
+Soilwork ||| 184
+Bloodbath ||| 163
+Scar Symmetry ||| 156
+Johnny Cash ||| 153
+Dornenreich ||| 149
+Rammstein ||| 134
+Arch Enemy ||| 133
+Black Sabbath ||| 133
+Volbeat ||| 133
+In Flames ||| 132
+Cynic ||| 130
+Agrypnie ||| 128
+Morgana Lefay ||| 128
+Trivium ||| 123
+Die Apokalyptischen Reiter ||| 117
+Pantera ||| 113
+Annihilator ||| 108
+At the Gates ||| 101
+Judas Priest ||| 101
+Knorkator ||| 100
+Fear Factory ||| 99
+Hypocrisy ||| 99
+Queen ||| 98
+Slayer ||| 97
+Testament ||| 95
+Celtic Frost ||| 94
+Fields of the Nephilim ||| 93
+Cavalera Conspiracy ||| 92
+Sentenced ||| 92
+All Shall Perish ||| 90
+## playcount: 10137

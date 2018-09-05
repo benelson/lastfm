@@ -1,0 +1,51 @@
+Metallica ||| 1461
+Muse ||| 1248
+The Beatles ||| 917
+Green Day ||| 867
+Queen ||| 862
+Led Zeppelin ||| 794
+Foo Fighters ||| 789
+Arcade Fire ||| 768
+Iron Maiden ||| 759
+Nirvana ||| 737
+Queens of the Stone Age ||| 732
+Guns N' Roses ||| 688
+Megadeth ||| 687
+Boston ||| 671
+Bon Jovi ||| 669
+Arctic Monkeys ||| 663
+The Strokes ||| 656
+Pearl Jam ||| 614
+Avenged Sevenfold ||| 586
+The Offspring ||| 572
+Nine Inch Nails ||| 518
+Red Hot Chili Peppers ||| 504
+U2 ||| 496
+Radiohead ||| 478
+AC/DC ||| 475
+Rush ||| 454
+Eagles ||| 452
+The Jimi Hendrix Experience ||| 449
+Pink Floyd ||| 443
+The Rolling Stones ||| 442
+The Who ||| 433
+Daft Punk ||| 400
+Coldplay ||| 356
+Black Sabbath ||| 355
+Audioslave ||| 351
+Jimmy Eat World ||| 344
+Rancid ||| 339
+Judas Priest ||| 336
+Silversun Pickups ||| 334
+System of a Down ||| 327
+Bon Iver ||| 320
+Deftones ||| 315
+Mastodon ||| 300
+Rodrigo y Gabriela ||| 294
+Spoon ||| 288
+Bang Camaro ||| 287
+Phoenix ||| 287
+Soundgarden ||| 285
+Ozzy Osbourne ||| 283
+Alice in Chains ||| 282
+## playcount: 26967

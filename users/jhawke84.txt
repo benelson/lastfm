@@ -1,0 +1,51 @@
+Ramones ||| 5641
+Pink Floyd ||| 4708
+ZZ Top ||| 4396
+Diamond Head ||| 3911
+Johnny Cash ||| 3820
+Fleet Foxes ||| 3424
+Dio ||| 3364
+Black Sabbath ||| 2935
+Eddie Cochran ||| 2807
+Electric Light Orchestra ||| 2754
+Status Quo ||| 2360
+Blondie ||| 2339
+Def Leppard ||| 2172
+Ozzy Osbourne ||| 2022
+Counting Crows ||| 1945
+Eagles ||| 1817
+Saxon ||| 1805
+Elf ||| 1686
+Iron Maiden ||| 1668
+The Feeling ||| 1645
+Meat Loaf ||| 1633
+The Killers ||| 1485
+Buddy Holly ||| 1358
+Chuck Berry ||| 1146
+Eric Clapton ||| 1131
+Rainbow ||| 1046
+Angel Witch ||| 994
+Judas Priest ||| 887
+The Rolling Stones ||| 749
+Heaven & Hell ||| 739
+Deep Purple ||| 732
+Motörhead ||| 729
+The Jam ||| 720
+Elvis Presley ||| 667
+Dream Theater ||| 605
+Stray Cats ||| 531
+Fleetwood Mac ||| 485
+Elton John ||| 473
+Tygers of Pan Tang ||| 433
+Metallica ||| 412
+Bob Dylan ||| 369
+Extreme ||| 332
+Chas 'n' Dave ||| 308
+Simon & Garfunkel ||| 305
+UFO ||| 303
+Tank ||| 301
+Led Zeppelin ||| 291
+T'Pau ||| 285
+The Kinks ||| 280
+Styx ||| 262
+## playcount: 77210

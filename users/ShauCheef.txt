@@ -1,0 +1,42 @@
+Usher ||| 33
+Frank Ocean ||| 26
+Lauryn Hill ||| 12
+Brandy ||| 6
+Carly Rae Jepsen ||| 6
+will.i.am ||| 6
+Azealia Banks ||| 4
+Stevie Wonder ||| 4
+Beyoncé ||| 3
+La Oreja de Van Gogh ||| 3
+Michael Jackson ||| 3
+Nelly Furtado ||| 3
+Cali & El Dandee ||| 2
+Chris Brown ||| 2
+J. Cole ||| 2
+Julieta Venegas ||| 2
+Kanye West ||| 2
+Lloyd ||| 2
+Mika ||| 2
+Adam Lambert ||| 1
+Alicia Keys ||| 1
+Calvin Harris ||| 1
+Cassie ||| 1
+Cat Power ||| 1
+Cher Lloyd ||| 1
+David Guetta ||| 1
+Example ||| 1
+Foster the People ||| 1
+fun. ||| 1
+Jessie J ||| 1
+Kasabian ||| 1
+Kelly Rowland ||| 1
+M.I.A. ||| 1
+Melanie Fiona ||| 1
+Miguel ||| 1
+Mike Posner ||| 1
+Owl City & Carly Rae Jepsen ||| 1
+Pitbull ||| 1
+Scrubs ||| 1
+The Wanted ||| 1
+Whitney Houston ||| 1
+## playcount: 145

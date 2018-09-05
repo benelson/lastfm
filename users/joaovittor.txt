@@ -1,0 +1,51 @@
+Mariah Carey ||| 10908
+Beyoncé ||| 7303
+Miley Cyrus ||| 6527
+Ariana Grande ||| 4027
+Taylor Swift ||| 3884
+Katy Perry ||| 3301
+Tinashe ||| 3086
+Britney Spears ||| 2481
+Adele ||| 2117
+Madonna ||| 2003
+Rihanna ||| 1970
+Lady Gaga ||| 1600
+Janet Jackson ||| 1233
+Anitta ||| 1229
+Little Mix ||| 1046
+Christina Aguilera ||| 915
+Destiny's Child ||| 736
+Nicki Minaj ||| 673
+Hannah Montana ||| 611
+Demi Lovato ||| 585
+Rouge ||| 574
+Selena Gomez ||| 544
+Ashley Tisdale ||| 441
+f(x) ||| 425
+Shakira ||| 356
+Lana Del Rey ||| 261
+Jay-Z ||| 213
+Lorde ||| 179
+Zayn ||| 177
+Fifth Harmony ||| 169
+The Weeknd ||| 154
+Fergie ||| 137
+Calvin Harris ||| 134
+Ariana Grande & Nathan Sykes ||| 88
+Drake ||| 66
+Jessie J, Ariana Grande & Nicki Minaj ||| 64
+Deborah Lurie ||| 63
+Céline Dion ||| 62
+Carrie Underwood ||| 57
+Nick Jonas ||| 49
+Rihanna Feat. SZA ||| 44
+Beyoncé & Luther Vandross ||| 43
+Hilary Duff ||| 36
+Carly Rae Jepsen ||| 33
+Gaiola das Popozudas ||| 33
+Jennifer Lopez ||| 28
+Bon Jovi ||| 25
+Ed Sheeran ||| 25
+Jay-Z & Kanye West ||| 22
+Selena Gomez & the Scene ||| 20
+## playcount: 60757

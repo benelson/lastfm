@@ -1,0 +1,51 @@
+The Beatles ||| 3768
+Iron Maiden ||| 2277
+Led Zeppelin ||| 1757
+Pink Floyd ||| 1592
+Bright Eyes ||| 1103
+Ludwig van Beethoven ||| 996
+Metallica ||| 785
+Queen ||| 777
+Arch Enemy ||| 776
+Porcupine Tree ||| 774
+A Day to Remember ||| 669
+Wolfgang Amadeus Mozart ||| 666
+Ayreon ||| 657
+Guns N' Roses ||| 623
+Anathema ||| 618
+Eminem ||| 589
+Belle and Sebastian ||| 566
+Buckethead ||| 560
+Antonio Vivaldi ||| 536
+David Bowie ||| 475
+Joy Division ||| 459
+Francisco Tárrega ||| 448
+The Clash ||| 430
+Megadeth ||| 414
+MC Chris ||| 396
+fun. ||| 375
+Pyotr Ilyich Tchaikovsky ||| 371
+Explosions in the Sky ||| 365
+AC/DC ||| 363
+Slayer ||| 347
+Me First and the Gimme Gimmes ||| 344
+Carbon Leaf ||| 333
+Johann Sebastian Bach ||| 330
+My Dying Bride ||| 306
+Opeth ||| 300
+Bo Burnham ||| 291
+John Williams ||| 287
+The Doors ||| 287
+Nirvana ||| 279
+Muse ||| 269
+Pantera ||| 261
+"Weird Al" Yankovic ||| 258
+Ingrid Michaelson ||| 258
+Death Cab for Cutie ||| 254
+Michael Jackson ||| 251
+Hans Zimmer ||| 221
+Less Than Jake ||| 220
+U2 ||| 211
+The Smiths ||| 190
+Aerosmith ||| 186
+## playcount: 29868

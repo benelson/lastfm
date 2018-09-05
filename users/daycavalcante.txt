@@ -1,0 +1,51 @@
+Bon Jovi ||| 12239
+Guns N' Roses ||| 10427
+Michael Jackson ||| 6960
+Aerosmith ||| 2701
+Crashdïet ||| 2490
+Kiss ||| 2109
+Skid Row ||| 2104
+Mötley Crüe ||| 1879
+Kiara Rocks ||| 1339
+Green Day ||| 1209
+Pink Floyd ||| 1172
+Ramones ||| 1017
+Red Hot Chili Peppers ||| 945
+AC/DC ||| 943
+Janet Jackson ||| 922
+Poison ||| 876
+Vixen ||| 862
+Pearl Jam ||| 835
+Queen ||| 833
+Nirvana ||| 790
+Reckless Love ||| 783
+Scorpions ||| 772
+ABBA ||| 761
+Van Halen ||| 727
+System of a Down ||| 681
+Alice in Chains ||| 645
+Creedence Clearwater Revival ||| 638
+Led Zeppelin ||| 626
+Cinderella ||| 620
+The Killers ||| 582
+Joan Jett and the Blackhearts ||| 523
+Black Sabbath ||| 509
+The Beatles ||| 503
+Avril Lavigne ||| 498
+Arctic Monkeys ||| 491
+Def Leppard ||| 486
+Elvis Presley ||| 480
+Oasis ||| 475
+Him ||| 474
+Alice Cooper ||| 469
+The Who ||| 453
+David Bowie ||| 440
+Muse ||| 440
+Europe ||| 430
+Queens of the Stone Age ||| 427
+Twisted Sister ||| 423
+Jon Bon Jovi ||| 422
+Metallica ||| 420
+Whitesnake ||| 407
+Rise Against ||| 406
+## playcount: 68663

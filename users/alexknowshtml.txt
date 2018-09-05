@@ -1,0 +1,51 @@
+Radiohead ||| 771
+Weezer ||| 671
+Foo Fighters ||| 663
+The Killers ||| 616
+Daft Punk ||| 550
+Bloc Party ||| 501
+The Offspring ||| 468
+Green Day ||| 405
+The Strokes ||| 404
+LCD Soundsystem ||| 390
+Modest Mouse ||| 378
+Beck ||| 364
+Tegan and Sara ||| 361
+The Shins ||| 357
+Beastie Boys ||| 347
+The Smashing Pumpkins ||| 337
+Yeah Yeah Yeahs ||| 332
+Death Cab for Cutie ||| 331
+Shiny Toy Guns ||| 331
+The Crystal Method ||| 331
+Gym Class Heroes ||| 327
+Franz Ferdinand ||| 323
+Gorillaz ||| 317
+Mutemath ||| 314
+Red Hot Chili Peppers ||| 304
+New Order ||| 296
+Coldplay ||| 290
+Reel Big Fish ||| 286
+Spoon ||| 285
+OK Go ||| 281
+The Beatles ||| 280
+The Cure ||| 280
+Jane's Addiction ||| 271
+Head Automatica ||| 259
+Stone Temple Pilots ||| 254
+Nine Inch Nails ||| 247
+The Postal Service ||| 245
+Stabbing Westward ||| 236
+The Rolling Stones ||| 234
+Cake ||| 229
+Pearl Jam ||| 228
+Sublime ||| 228
+Muse ||| 227
+Band of Horses ||| 225
+The Bravery ||| 223
+EVE 6 ||| 221
+Keane ||| 221
+Sonic Youth ||| 214
+Tool ||| 212
+311 ||| 207
+## playcount: 16672

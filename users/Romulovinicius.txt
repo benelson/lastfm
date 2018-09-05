@@ -1,0 +1,51 @@
+Rihanna ||| 3512
+Katy Perry ||| 1079
+Beyoncé ||| 1023
+Lady Gaga ||| 949
+Nicole Scherzinger ||| 526
+Rita Ora ||| 526
+Britney Spears ||| 512
+Jessie J ||| 354
+Jennifer Lopez ||| 328
+Avril Lavigne ||| 309
+Miley Cyrus ||| 300
+Christina Aguilera ||| 247
+Ke$ha ||| 217
+Natasha Bedingfield ||| 215
+Nicki Minaj ||| 205
+Adele ||| 165
+Bruno Mars ||| 157
+Marina & the Diamonds ||| 151
+Leona Lewis ||| 148
+Kylie Minogue ||| 126
+Nicola Roberts ||| 123
+Shakira ||| 123
+Mariah Carey ||| 121
+Taylor Swift ||| 114
+Lana Del Rey ||| 97
+Robyn ||| 93
+Ellie Goulding ||| 85
+Maroon 5 ||| 81
+P!nk ||| 80
+Selena Gomez & the Scene ||| 79
+The Wanted ||| 77
+Anahí ||| 73
+Coldplay ||| 70
+Adam Lambert ||| 68
+Fall Out Boy ||| 68
+Paloma Faith ||| 68
+Cher Lloyd ||| 67
+Nelly Furtado ||| 65
+Alicia Keys ||| 64
+Cheryl ||| 61
+Lady Antebellum ||| 61
+Kelly Rowland ||| 54
+Glee Cast ||| 53
+Foxes ||| 51
+Ricky Martin ||| 51
+Florence + the Machine ||| 49
+Colbie Caillat ||| 45
+Dia Frampton ||| 39
+Amy Winehouse ||| 38
+Kelly Clarkson ||| 36
+## playcount: 13203

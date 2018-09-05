@@ -1,0 +1,51 @@
+U2 ||| 6717
+Coldplay ||| 3252
+Eels ||| 1659
+Johan ||| 1242
+The Pigeon Detectives ||| 1139
+The Kooks ||| 1014
+Spinvis ||| 717
+Radiohead ||| 698
+The Beatles ||| 626
+The Killers ||| 606
+The Whitest Boy Alive ||| 530
+Maxïmo Park ||| 488
+Travis ||| 440
+Jason Mraz ||| 370
+Linkin Park ||| 346
+KT Tunstall ||| 344
+Black Eyed Peas ||| 333
+The Rakes ||| 308
+Razorlight ||| 304
+Snow Patrol ||| 297
+Kaiser Chiefs ||| 296
+Michael Jackson ||| 284
+Gabriel Rios ||| 282
+Nickelback ||| 262
+De Dijk ||| 257
+Jack Johnson ||| 243
+Red Hot Chili Peppers ||| 227
+Scouting for Girls ||| 224
+Justin Nozuka ||| 223
+The Police ||| 219
+Di-rect ||| 213
+Krezip ||| 205
+Blur ||| 199
+M. Ward ||| 192
+Voicst ||| 189
+Paolo Nutini ||| 186
+Mika ||| 185
+The Fray ||| 181
+Madonna ||| 178
+Maroon 5 ||| 175
+Tuomo ||| 173
+Keane ||| 168
+Gym Class Heroes ||| 163
+Newton Faulkner ||| 154
+MGMT ||| 151
+P!nk ||| 147
+John Legend ||| 146
+Bob Marley ||| 143
+De Staat ||| 132
+The Futureheads ||| 128
+## playcount: 27355

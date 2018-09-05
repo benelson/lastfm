@@ -1,0 +1,51 @@
+Pearl Jam ||| 2743
+Foo Fighters ||| 2179
+Silverchair ||| 2138
+Red Hot Chili Peppers ||| 1775
+The Smashing Pumpkins ||| 1692
+Blur ||| 1669
+Radiohead ||| 1582
+The Beatles ||| 1502
+Our Lady Peace ||| 1469
+Alice in Chains ||| 1401
+Weezer ||| 1351
+The Cure ||| 1294
+Pixies ||| 1184
+John Frusciante ||| 1106
+Oasis ||| 1086
+Soundgarden ||| 1067
+Stone Temple Pilots ||| 966
+Nirvana ||| 944
+Queens of the Stone Age ||| 926
+blink-182 ||| 885
+Queen ||| 830
+Keane ||| 809
+Muse ||| 809
+Mudhoney ||| 806
+Green Day ||| 792
+U2 ||| 790
+Rise Against ||| 736
+Morrissey ||| 735
+R.E.M. ||| 686
+Chris Cornell ||| 657
+Local H ||| 640
+City and Colour ||| 622
+Bush ||| 596
+Candlebox ||| 582
+Deftones ||| 577
+Alter Bridge ||| 568
+Counting Crows ||| 558
+Coldplay ||| 550
+Pavement ||| 548
+Breaking Benjamin ||| 538
+Alien Ant Farm ||| 526
+Mägo de Oz ||| 514
+Shinedown ||| 507
+Arctic Monkeys ||| 495
+Lifehouse ||| 493
+Gorillaz ||| 471
+Eddie Vedder ||| 451
+Audioslave ||| 442
+Screaming Trees ||| 434
+The Offspring ||| 433
+## playcount: 47154

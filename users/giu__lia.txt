@@ -1,0 +1,51 @@
+The Beatles ||| 3636
+John Mayer ||| 1784
+McFly ||| 1709
+Kings of Leon ||| 1261
+Aerosmith ||| 1238
+Glee Cast ||| 1161
+Paul McCartney ||| 1078
+Guns N' Roses ||| 951
+Muse ||| 922
+Lady Gaga ||| 803
+Michael Jackson ||| 772
+Paramore ||| 757
+Elvis Presley ||| 750
+Katy Perry ||| 731
+Maroon 5 ||| 710
+The Kooks ||| 710
+Garbage ||| 705
+Lana Del Rey ||| 650
+Lily Allen ||| 640
+Madonna ||| 625
+Florence + the Machine ||| 620
+Lobão ||| 605
+Tegan and Sara ||| 586
+Slash ||| 579
+O Teatro Mágico ||| 566
+3OH!3 ||| 557
+Green Day ||| 555
+Jason Mraz ||| 554
+Panic! at the Disco ||| 500
+Christina Aguilera ||| 498
+Fleetwood Mac ||| 485
+Arcade Fire ||| 482
+Across the Universe ||| 455
+Kanye West ||| 453
+Justin Timberlake ||| 439
+Keane ||| 430
+Adele ||| 429
+Kings of Convenience ||| 428
+Bon Jovi ||| 426
+The Rolling Stones ||| 423
+Beyoncé ||| 414
+Bruce Springsteen ||| 414
+Moptop ||| 412
+Owl City ||| 404
+Rihanna ||| 388
+Mumford & Sons ||| 380
+Arctic Monkeys ||| 365
+System of a Down ||| 362
+The Pretty Reckless ||| 360
+Queen ||| 356
+## playcount: 35518

@@ -1,0 +1,51 @@
+RBD ||| 4940
+Madonna ||| 2400
+Fresno ||| 2311
+Paramore ||| 2227
+Forfun ||| 1990
+Avril Lavigne ||| 1867
+Britney Spears ||| 1845
+Lady Gaga ||| 1764
+Pitty ||| 1671
+Rihanna ||| 1514
+Linkin Park ||| 1510
+Anahí ||| 1458
+Simple Plan ||| 1438
+Beyoncé ||| 1419
+Jack Johnson ||| 1415
+Amy Winehouse ||| 1363
+Oasis ||| 1323
+Panic! at the Disco ||| 1323
+Demi Lovato ||| 1315
+Black Eyed Peas ||| 1290
+NX Zero ||| 1212
+The Strokes ||| 1203
+Arctic Monkeys ||| 1120
+Cássia Eller ||| 1065
+P!nk ||| 1038
+McFly ||| 974
+Jonas Brothers ||| 952
+Miley Cyrus ||| 925
+Michael Jackson ||| 914
+Fall Out Boy ||| 856
+The Veronicas ||| 843
+Chiquititas ||| 828
+All Time Low ||| 826
+Katy Perry ||| 785
+Ke$ha ||| 721
+Evanescence ||| 720
+Naruto ||| 700
+Boys Like Girls ||| 680
+Sandy e Junior ||| 673
+The Pretty Reckless ||| 667
+Shakira ||| 666
+Fergie ||| 646
+Cobra Starship ||| 602
+Scracho ||| 581
+Florence + the Machine ||| 555
+Kylie Minogue ||| 549
+Lily Allen ||| 543
+Maria Cecília & Rodolfo ||| 533
+blink-182 ||| 498
+Kid Abelha ||| 492
+## playcount: 59750

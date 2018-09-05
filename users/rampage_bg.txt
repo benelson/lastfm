@@ -1,0 +1,51 @@
+Pendulum ||| 3150
+AC/DC ||| 1754
+Right Said Fred ||| 1660
+Queen ||| 1511
+Fatboy Slim ||| 1498
+Boy Hits Car ||| 1489
+The Killers ||| 1429
+The Crystal Method ||| 1336
+The Prodigy ||| 1321
+Tom Petty and The Heartbreakers ||| 1267
+Michael Jackson ||| 1182
+U2 ||| 1088
+Linkin Park ||| 1085
+Three Days Grace ||| 1018
+Red Hot Chili Peppers ||| 1003
+Muse ||| 932
+Matrix & Futurebound ||| 914
+Disturbed ||| 907
+Parov Stelar ||| 842
+Moby ||| 806
+Lostprophets ||| 790
+Groove Armada ||| 763
+Billy Talent ||| 749
+Eminem ||| 737
+Electric Light Orchestra ||| 715
+Biffy Clyro ||| 703
+Metallica ||| 670
+David Guetta ||| 613
+Skillet ||| 568
+Sonata Arctica ||| 568
+Placebo ||| 564
+Keane ||| 554
+Nickelback ||| 541
+The Fray ||| 488
+Слави Трифонов ||| 483
+Arctic Monkeys ||| 473
+Nightwish ||| 456
+INXS ||| 452
+Upsurt ||| 451
+Johnny Cash ||| 443
+James Blunt ||| 425
+Alter Bridge ||| 420
+Jason Derülo ||| 408
+Pain ||| 406
+Elvis Presley ||| 404
+Foo Fighters ||| 397
+Seether ||| 396
+Audioslave ||| 395
+Joshua Radin ||| 394
+Eels ||| 392
+## playcount: 42010

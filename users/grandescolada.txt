@@ -1,0 +1,51 @@
+Ariana Grande ||| 1440
+Lana Del Rey ||| 1079
+Taylor Swift ||| 640
+Demi Lovato ||| 589
+Katy Perry ||| 281
+Selena Gomez ||| 233
+Tove Lo ||| 201
+Shawn Mendes ||| 178
+Lady Gaga ||| 156
+Ellie Goulding ||| 147
+Ke$ha ||| 143
+Beyoncé ||| 137
+Rihanna ||| 133
+BLACKPINK ||| 123
+Fergie ||| 122
+Zara Larsson ||| 119
+Carly Rae Jepsen ||| 117
+Lorde ||| 107
+Adele ||| 104
+Charli XCX ||| 102
+Camila Cabello ||| 92
+Halsey ||| 84
+The Weeknd ||| 66
+Azealia Banks ||| 63
+Coldplay ||| 62
+Justin Bieber ||| 62
+Imagine Dragons ||| 58
+Little Mix ||| 58
+Queen ||| 58
+Ashley Tisdale ||| 54
+Anitta ||| 49
+Julia Michaels ||| 44
+Nicki Minaj ||| 43
+Ed Sheeran ||| 37
+Kendrick Lamar ||| 37
+Miley Cyrus ||| 34
+Mariah Carey ||| 33
+Lily Allen ||| 32
+Bruno Mars ||| 31
+Jax Jones ||| 31
+Alesso ||| 30
+Fifth Harmony ||| 30
+Jessie J ||| 29
+Nick Jonas ||| 29
+Dua Lipa ||| 28
+Calvin Harris ||| 27
+Cashmere Cat ||| 27
+Logic ||| 27
+Missy Elliott ||| 25
+Iggy Azalea ||| 24
+## playcount: 7455

@@ -1,0 +1,51 @@
+Mariah Carey ||| 375
+Kelly Rowland ||| 341
+Ciara ||| 337
+Céline Dion ||| 311
+Beyoncé ||| 239
+Tamar Braxton ||| 183
+Miley Cyrus ||| 173
+Chris Brown ||| 154
+Kelly Clarkson ||| 153
+Jay-Z ||| 142
+Fantasia ||| 135
+Justin Timberlake ||| 122
+Robin Thicke ||| 119
+Mary J. Blige ||| 109
+Miguel ||| 103
+Britney Spears ||| 102
+Cher ||| 100
+J. Cole ||| 100
+Jessica Simpson ||| 95
+Jason Derülo ||| 92
+John Legend ||| 85
+Ashanti ||| 83
+Chrisette Michele ||| 82
+Taylor Swift ||| 82
+Brandy ||| 81
+Destiny's Child ||| 81
+Ariana Grande ||| 80
+Janet Jackson ||| 77
+Tim McGraw ||| 77
+Christina Aguilera ||| 76
+Carrie Underwood ||| 75
+Leona Lewis ||| 73
+Drake ||| 72
+K. Michelle ||| 72
+Selena Gomez ||| 71
+Jewel ||| 68
+Alicia Keys ||| 67
+The Saturdays ||| 64
+Girls Aloud ||| 63
+Vanessa Williams ||| 62
+Rihanna ||| 60
+Demi Lovato ||| 58
+Najwa Karam ||| 58
+Michael Bublé ||| 56
+Aaliyah ||| 54
+Wale ||| 54
+Nat King Cole ||| 53
+Whitney Houston ||| 52
+Chanté Moore ||| 51
+Kendrick Lamar ||| 51
+## playcount: 5523

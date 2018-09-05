@@ -1,0 +1,51 @@
+Rihanna ||| 172
+Beyoncé ||| 96
+Icona Pop ||| 69
+Justin Timberlake ||| 65
+Madonna ||| 59
+Christina Aguilera ||| 58
+Kendrick Lamar ||| 58
+P!nk ||| 41
+Ciara ||| 39
+Taylor Swift ||| 38
+Alicia Keys ||| 37
+Avril Lavigne ||| 36
+Marina & the Diamonds ||| 36
+Macklemore & Ryan Lewis ||| 35
+Chris Brown ||| 34
+Selena Gomez & the Scene ||| 32
+Britney Spears ||| 30
+Cassie ||| 29
+Eminem ||| 26
+Katy Perry ||| 26
+Ariana Grande ||| 25
+Black Eyed Peas ||| 24
+Demi Lovato ||| 23
+Rita Ora ||| 21
+Iggy Azalea ||| 20
+Ke$ha ||| 20
+Destiny's Child ||| 19
+Selena Gomez ||| 19
+A$AP Rocky ||| 18
+Faith Hill ||| 18
+Aaliyah ||| 12
+Michael Jackson ||| 11
+Kylie Minogue ||| 10
+Ashanti ||| 8
+Fergie ||| 8
+Azealia Banks ||| 6
+Drake ||| 5
+Jordin Sparks ||| 5
+Nicole Scherzinger ||| 5
+Sinéad O'Connor ||| 5
+Evanescence ||| 4
+Jay-Z ||| 4
+Cheryl Cole ||| 2
+Céline Dion ||| 2
+DJ Fresh ||| 2
+Natalie Imbruglia ||| 2
+Psy ||| 2
+3OH!3 ||| 1
+Aerosmith ||| 1
+Ja Rule ||| 1
+## playcount: 1319

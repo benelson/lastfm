@@ -1,0 +1,51 @@
+Nine Inch Nails ||| 4390
+Tool ||| 3564
+Foo Fighters ||| 3531
+Queens of the Stone Age ||| 2360
+blink-182 ||| 2175
+Nirvana ||| 1872
+Rammstein ||| 1379
+Korn ||| 1354
+Metallica ||| 889
+Gorki ||| 818
+Radiohead ||| 803
+Johnny Cash ||| 790
+Boys Noize ||| 738
+Heideroosjes ||| 715
+Kyuss ||| 692
+Leonard Cohen ||| 649
+A Perfect Circle ||| 633
+Rage Against the Machine ||| 606
+Deftones ||| 595
+Vitalic ||| 563
+Pink Floyd ||| 509
+Led Zeppelin ||| 491
+The Subs ||| 489
+Bloodhound Gang ||| 483
+The Dust Brothers ||| 469
+Nick Cave & The Bad Seeds ||| 457
+Shameboy ||| 447
+AC/DC ||| 440
+Justice ||| 422
+Dada Life ||| 418
+Digitalism ||| 414
+Peaches ||| 412
+The Vaccines ||| 407
+2 Many DJ's ||| 401
+Tocadisco ||| 399
+Triggerfinger ||| 392
+The Smashing Pumpkins ||| 386
+Pixies ||| 380
+50 Cent ||| 377
+Rise Against ||| 373
+System of a Down ||| 367
+Marilyn Manson ||| 361
+Daft Punk ||| 360
+Royal Blood ||| 335
+The Offspring ||| 333
+Trentemøller ||| 333
+MGMT ||| 323
+Johnny Berlin ||| 307
+Placebo ||| 302
+Eminem ||| 288
+## playcount: 40991

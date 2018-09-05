@@ -1,0 +1,51 @@
+Pink Floyd ||| 1232
+blink-182 ||| 598
+Red Hot Chili Peppers ||| 590
+Radiohead ||| 539
+Linkin Park ||| 531
+Stereophonics ||| 529
+Less Than Jake ||| 526
+Editors ||| 409
+Muse ||| 406
+Rage Against the Machine ||| 398
+System of a Down ||| 362
+Biffy Clyro ||| 336
+Dr. Dre ||| 318
+AFI ||| 306
+OutKast ||| 299
+Cypress Hill ||| 296
+Mad Caddies ||| 272
+NOFX ||| 265
+Oasis ||| 259
+The Roots ||| 256
+Bloc Party ||| 215
+Sum 41 ||| 207
+ATB ||| 184
+Arctic Monkeys ||| 183
+The Smiths ||| 155
+Manic Street Preachers ||| 151
+Fatboy Slim ||| 136
+The Enemy ||| 135
+Gorillaz ||| 124
+Kings of Leon ||| 115
+Nirvana ||| 111
+Smash Mouth ||| 109
+Jimmy Eat World ||| 106
+Common ||| 105
+Lostprophets ||| 105
+Coldplay ||| 103
+The Cure ||| 103
+Velvet Revolver ||| 103
+Kasabian ||| 100
+The Killers ||| 96
+U2 ||| 93
+The Offspring ||| 87
+Jimi Hendrix ||| 83
+Placebo ||| 83
+The Rakes ||| 81
+Bad Religion ||| 80
+The Streets ||| 78
+Andre 3000 ||| 76
+The Chemical Brothers ||| 75
+Limp Bizkit ||| 69
+## playcount: 12178

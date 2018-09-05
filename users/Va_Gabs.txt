@@ -1,0 +1,51 @@
+Pink Floyd ||| 6695
+AC/DC ||| 6422
+Die Toten Hosen ||| 5673
+Metallica ||| 5094
+Black Sabbath ||| 5053
+Johnny Cash ||| 4988
+The Offspring ||| 4822
+Megadeth ||| 4507
+Dropkick Murphys ||| 4344
+Led Zeppelin ||| 4075
+Belchior ||| 3617
+The Who ||| 3553
+Pearl Jam ||| 3190
+Rush ||| 3060
+Judas Priest ||| 2873
+Neil Young ||| 2661
+Feine Sahne Fischfilet ||| 2543
+Iron Maiden ||| 2396
+Neil Young & Crazy Horse ||| 1897
+Foo Fighters ||| 1825
+Red Fang ||| 1747
+Motörhead ||| 1722
+Queen ||| 1679
+Red Hot Chili Peppers ||| 1666
+Ramones ||| 1634
+Kiss ||| 1588
+Against Me! ||| 1535
+Scorpions ||| 1523
+Eddie Vedder ||| 1515
+Ozzy Osbourne ||| 1507
+Frank Sinatra ||| 1505
+Astor Piazzolla ||| 1495
+David Gilmour ||| 1307
+blink-182 ||| 1266
+The Allman Brothers Band ||| 1149
+Blue Öyster Cult ||| 1138
+Miles Davis ||| 1105
+Charles Mingus ||| 1098
+ДДТ ||| 1096
+Lynyrd Skynyrd ||| 1087
+Zé Ramalho ||| 1082
+Nômade Orquestra ||| 1048
+Alice in Chains ||| 1044
+Deep Purple ||| 1020
+toe ||| 1006
+Iggy Pop ||| 1002
+Morphine ||| 995
+Daft Punk ||| 982
+Faith No More ||| 972
+Gogol Bordello ||| 969
+## playcount: 117770

@@ -1,0 +1,41 @@
+Foo Fighters ||| 478
+Red Hot Chili Peppers ||| 433
+Iron Maiden ||| 314
+AC/DC ||| 290
+Nirvana ||| 207
+Led Zeppelin ||| 163
+The Killers ||| 149
+Metallica ||| 107
+Velvet Revolver ||| 104
+Guns N' Roses ||| 98
+The Beatles ||| 87
+30 Seconds to Mars ||| 77
+Lynyrd Skynyrd ||| 62
+Scorpions ||| 48
+Alice Cooper ||| 39
+Motörhead ||| 32
+Van Halen ||| 32
+Pink Floyd ||| 30
+U2 ||| 28
+Jimi Hendrix ||| 24
+System of a Down ||| 18
+Aerosmith ||| 16
+Cream ||| 15
+Stone Sour ||| 15
+Fall Out Boy ||| 8
+The Who ||| 7
+Creedence Clearwater Revival ||| 6
+Ozzy Osbourne ||| 6
+Kansas ||| 5
+The Offspring ||| 3
+Black Sabbath ||| 2
+Green Day ||| 2
+The Black Keys ||| 2
+Arctic Monkeys ||| 1
+B.B. King & Eric Clapton ||| 1
+Blind Guardian ||| 1
+Derek and the Dominos ||| 1
+Stevie Ray Vaughan ||| 1
+The Doors ||| 1
+The Jimi Hendrix Experience ||| 1
+## playcount: 2914

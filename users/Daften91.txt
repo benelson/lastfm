@@ -1,0 +1,51 @@
+Daft Punk ||| 830
+My Chemical Romance ||| 294
+Linkin Park ||| 257
+Two Door Cinema Club ||| 254
+Unicorn Kid ||| 223
+Paramore ||| 182
+Coldplay ||| 162
+Tegan and Sara ||| 146
+Café Tacvba ||| 145
+Fitz and the Tantrums ||| 136
+Panic! at the Disco ||| 126
+The Ting Tings ||| 119
+Mike Candys ||| 118
+AFI ||| 111
+Belanova ||| 105
+Keane ||| 104
+Klaxons ||| 101
+Calvin Harris ||| 96
+Anamanaguchi ||| 93
+Swedish House Mafia ||| 85
+Insite ||| 84
+Flyleaf ||| 81
+Ellie Goulding ||| 80
+System of a Down ||| 80
+Alphabeat ||| 74
+Discopolis ||| 70
+Black Eyed Peas ||| 69
+Good Charlotte ||| 68
+Scooter ||| 68
+The Rasmus ||| 66
+M83 ||| 65
+30 Seconds to Mars ||| 64
+Delux ||| 64
+Cascada ||| 61
+Jack Holiday ||| 61
+Jesse & Joy ||| 61
+Fall Out Boy ||| 60
+Evanescence ||| 59
+Muse ||| 58
+Example ||| 57
+Twenty One Pilots ||| 57
+Zoé ||| 57
+Vampire Weekend ||| 55
+Green Day ||| 54
+Syun Nishigaki ||| 54
+Gorillaz ||| 53
+Inspector ||| 51
+Rudimental ||| 50
+Nero ||| 49
+No Doubt ||| 49
+## playcount: 5566

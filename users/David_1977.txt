@@ -1,0 +1,51 @@
+INXS ||| 869
+Kiss ||| 832
+Megadeth ||| 732
+Def Leppard ||| 640
+Julian Cope ||| 626
+Manic Street Preachers ||| 542
+The Beach Boys ||| 376
+John Frusciante ||| 367
+Guns N' Roses ||| 342
+Madonna ||| 321
+Frente! ||| 288
+Stone Temple Pilots ||| 278
+Green Day ||| 259
+Alice Cooper ||| 223
+Culture Club ||| 179
+The Beatles ||| 177
+Aerosmith ||| 157
+Faith No More ||| 155
+Depeche Mode ||| 154
+Slayer ||| 154
+Oasis ||| 139
+Live ||| 133
+Captain Beefheart & His Magic Band ||| 126
+Creed ||| 113
+Lenny Kravitz ||| 111
+Red Hot Chili Peppers ||| 108
+Everclear ||| 106
+Prince ||| 106
+Hole ||| 97
+Mötley Crüe ||| 91
+Pink Floyd ||| 91
+The Damned ||| 90
+U2 ||| 90
+Cheap Trick ||| 88
+Staind ||| 88
+The Police ||| 88
+Nirvana ||| 86
+Velvet Revolver ||| 86
+Cher ||| 85
+Motörhead ||| 83
+4 Non Blondes ||| 80
+Audioslave ||| 80
+blink-182 ||| 77
+Dire Straits ||| 77
+Talking Heads ||| 77
+Elton John ||| 73
+Led Zeppelin ||| 73
+David Bowie ||| 69
+Fleetwood Mac ||| 69
+Vince Neil ||| 69
+## playcount: 10420

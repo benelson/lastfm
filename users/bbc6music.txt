@@ -1,0 +1,51 @@
+David Bowie ||| 4710
+Radiohead ||| 3286
+The Rolling Stones ||| 3058
+The Cure ||| 2832
+Beck ||| 2806
+Arcade Fire ||| 2725
+The Beatles ||| 2721
+Manic Street Preachers ||| 2720
+R.E.M. ||| 2672
+Arctic Monkeys ||| 2599
+The Clash ||| 2561
+The Chemical Brothers ||| 2444
+PJ Harvey ||| 2421
+Elbow ||| 2376
+Primal Scream ||| 2307
+The Smiths ||| 2283
+Blur ||| 2262
+Pixies ||| 2234
+The Charlatans ||| 2224
+The Who ||| 2224
+New Order ||| 2209
+Oasis ||| 2180
+Depeche Mode ||| 2161
+Bob Dylan ||| 2108
+The Kinks ||| 2107
+Kings of Leon ||| 2100
+Franz Ferdinand ||| 2082
+Goldfrapp ||| 2081
+Stevie Wonder ||| 2038
+Suede ||| 2023
+Pulp ||| 2001
+Belle and Sebastian ||| 1993
+Bloc Party ||| 1985
+Vampire Weekend ||| 1973
+Talking Heads ||| 1967
+The Stone Roses ||| 1941
+Blondie ||| 1930
+The Jam ||| 1913
+Super Furry Animals ||| 1901
+Hot Chip ||| 1899
+Foo Fighters ||| 1862
+Echo & the Bunnymen ||| 1857
+Led Zeppelin ||| 1851
+Supergrass ||| 1842
+The Flaming Lips ||| 1813
+James Brown ||| 1797
+Beastie Boys ||| 1789
+Jimi Hendrix ||| 1785
+Foals ||| 1777
+Roxy Music ||| 1753
+## playcount: 112183

@@ -1,0 +1,35 @@
+AFI ||| 60
+Maria Peszek ||| 29
+Crystal Castles ||| 19
+Pink Floyd ||| 16
+Arctic Monkeys ||| 12
+Plagiat199 ||| 12
+Shakira ||| 11
+Nine Inch Nails ||| 10
+Otep ||| 9
+Red Hot Chili Peppers ||| 8
+Depeche Mode ||| 7
+Brodka ||| 6
+Motörhead ||| 6
+Rammstein ||| 5
+SoKo ||| 5
+Czesław Śpiewa ||| 4
+Daft Punk ||| 4
+My Riot ||| 4
+Acid Drinkers ||| 2
+Black ||| 2
+Danzig ||| 2
+Joy Division ||| 2
+Ozzy Osbourne ||| 2
+The Cure ||| 2
+Asaf Avidan ||| 1
+Ed Sheeran ||| 1
+Ewa ||| 1
+Maanam ||| 1
+Milky Chance ||| 1
+Pixies ||| 1
+Rihanna ||| 1
+Sweet Noise feat. Edyta Górniak ||| 1
+The Kills ||| 1
+The Rolling Stones ||| 1
+## playcount: 249

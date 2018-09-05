@@ -1,0 +1,51 @@
+Neil Young ||| 1005
+Paul McCartney ||| 598
+Tom Petty and The Heartbreakers ||| 533
+Crosby, Stills & Nash ||| 265
+Neil Young & Crazy Horse ||| 252
+Tom Petty ||| 243
+Midnight Oil ||| 203
+The Saints ||| 179
+The Beatles ||| 164
+Pearl Jam ||| 122
+Foxboro Hot Tubs ||| 121
+The Beach Boys ||| 119
+George Harrison ||| 87
+AC/DC ||| 65
+Bob Dylan ||| 56
+Neil Young & Pearl Jam ||| 56
+The Rolling Stones ||| 54
+Crowded House ||| 46
+John Mellencamp ||| 44
+The Angels ||| 43
+Aerosmith ||| 42
+Foo Fighters ||| 42
+Rage Against the Machine ||| 37
+Electric Light Orchestra ||| 35
+The Kinks ||| 34
+Them Crooked Vultures ||| 33
+U2 ||| 33
+Buffalo Springfield ||| 31
+Beck ||| 29
+Jimi Hendrix ||| 29
+Jimmy Barnes ||| 29
+Paul McCartney & Elvis Costello ||| 28
+The Easybeats ||| 27
+Wolfmother ||| 24
+Fuzz ||| 23
+Cold Chisel ||| 21
+Bullet for My Valentine ||| 19
+The Cars ||| 19
+Soundgarden ||| 17
+Black Sabbath ||| 16
+Cream ||| 16
+The Brian Jonestown Massacre ||| 16
+R.E.M. ||| 15
+Tom Waits ||| 15
+Nickelback ||| 14
+Wilco ||| 14
+Bruce Springsteen ||| 13
+Divinyls ||| 13
+Metallica ||| 13
+Mudcrutch ||| 13
+## playcount: 4965

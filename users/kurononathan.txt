@@ -1,0 +1,51 @@
+Angra ||| 3559
+Pearl Jam ||| 3124
+Coldplay ||| 2903
+System of a Down ||| 2664
+Legião Urbana ||| 2453
+Nirvana ||| 1932
+Matanza ||| 1771
+Engenheiros Do Hawaii ||| 1609
+Radiohead ||| 1442
+The Killers ||| 1353
+Snow Patrol ||| 1328
+Guns N' Roses ||| 1051
+The Cranberries ||| 985
+Evanescence ||| 974
+光田康典 ||| 944
+Muse ||| 913
+The Strokes ||| 899
+Metallica ||| 803
+Pixies ||| 645
+Zeca Baleiro ||| 575
+山根ミチル ||| 572
+Bob Marley & The Wailers ||| 505
+Renato Russo ||| 480
+Linkin Park ||| 468
+Queen ||| 452
+Tiê ||| 385
+Three Days Grace ||| 273
+Mastodon ||| 264
+Foo Fighters ||| 237
+Pitty ||| 229
+Band of Horses ||| 185
+Alice in Chains ||| 181
+Scorpions ||| 144
+Coldplay vs. Riva ||| 120
+Zé Ramalho ||| 117
+Opeth ||| 110
+Interpol ||| 66
+U2 ||| 60
+Big Brother & The Holding Company ||| 58
+Maroon 5 ||| 57
+CPM 22 ||| 41
+Machine Head ||| 40
+Pink Floyd ||| 39
+Nena ||| 37
+castlevania sotn ||| 32
+Portishead ||| 32
+Bon Jovi ||| 30
+Cidade Negra ||| 28
+Ozzy Osbourne ||| 28
+Fagner ||| 26
+## playcount: 37223

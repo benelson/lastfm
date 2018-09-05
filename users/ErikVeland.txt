@@ -1,0 +1,51 @@
+generik ||| 2999
+The Beatles ||| 2415
+Hans Zimmer ||| 1466
+Gnarls Barkley ||| 1412
+Aphex Twin ||| 1120
+The Nextmen ||| 1016
+Röyksopp ||| 1013
+Kanye West ||| 974
+Xploding Plastix ||| 919
+Operator Please ||| 827
+Daft Punk ||| 798
+Subgud ||| 710
+Madrugada ||| 705
+Moby ||| 664
+Girl Talk ||| 659
+Sufjan Stevens ||| 648
+Sigur Rós ||| 642
+Nouvelle Vague ||| 633
+Seigmen ||| 618
+The Prodigy ||| 605
+Kyle Dixon & Michael Stein ||| 591
+Magnet ||| 581
+UNKLE ||| 559
+Prince ||| 552
+Yann Tiersen ||| 527
+The Flashbulb ||| 524
+Gorillaz ||| 516
+Michael Jackson ||| 498
+Miike Snow ||| 488
+Amon Tobin ||| 487
+Trentemøller ||| 481
+Nina Simone ||| 472
+Sérgio Mendes ||| 472
+David Bowie ||| 467
+Bassnectar ||| 459
+Jack Johnson ||| 459
+Monophobe ||| 450
+Architecture in Helsinki ||| 447
+Kings of Convenience ||| 434
+Kraftwerk ||| 433
+Grim ||| 426
+Jóhann Jóhannsson ||| 424
+Gotye ||| 421
+Ben Folds ||| 420
+Leonard Cohen ||| 414
+Arcade Fire ||| 392
+Frost ||| 389
+José González ||| 384
+Flight of the Conchords ||| 383
+The KLF ||| 379
+## playcount: 34772

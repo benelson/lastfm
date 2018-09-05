@@ -1,0 +1,51 @@
+Tool ||| 1469
+Tori Amos ||| 595
+Nouvelle Vague ||| 208
+A Perfect Circle ||| 190
+Van der Graaf Generator ||| 183
+Puscifer ||| 179
+Thom Yorke ||| 164
+Jethro Tull ||| 148
+R.E.M. ||| 135
+Radiohead ||| 87
+Frank Zappa ||| 85
+The Rolling Stones ||| 81
+The Doors ||| 80
+John Lennon ||| 75
+Pink Floyd ||| 60
+King Crimson ||| 58
+The Flower Kings ||| 58
+The Who ||| 49
+Yevgueni ||| 48
+Édith Piaf ||| 42
+Scissor Sisters ||| 40
+Disney ||| 38
+Porcupine Tree ||| 30
+Soft Machine ||| 28
+Hans Teeuwen ||| 27
+Genesis ||| 26
+Nirvana ||| 25
+Joni Mitchell ||| 21
+Rancid ||| 19
+Talking Heads ||| 18
+Vanilla Fudge ||| 18
+Manu Chao ||| 16
+Spinvis ||| 16
+Yes ||| 16
+The Chieftains ||| 15
+Pain of Salvation ||| 14
+Pelican ||| 14
+Bill Hicks ||| 13
+Depeche Mode ||| 13
+Slipknot ||| 13
+Michael Franti & Spearhead ||| 12
+Tracy Chapman ||| 12
+Clouseau ||| 11
+Ayreon ||| 10
+Soil ||| 10
+Buzzcocks ||| 9
+Dream Theater ||| 9
+Hair ||| 9
+Mr. Bungle ||| 9
+The Offspring ||| 9
+## playcount: 4514

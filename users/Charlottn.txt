@@ -1,0 +1,51 @@
+The Beatles ||| 15267
+Muse ||| 3303
+The Kooks ||| 3106
+Arctic Monkeys ||| 2418
+The Beach Boys ||| 2141
+George Harrison ||| 1844
+Tame Impala ||| 1676
+John Lennon ||| 1514
+The Doors ||| 1458
+Paul McCartney ||| 1415
+The Kinks ||| 1413
+The Rolling Stones ||| 1226
+Oasis ||| 1184
+Stereophonics ||| 1108
+Radiohead ||| 1010
+The Coral ||| 960
+Keane ||| 884
+Mac DeMarco ||| 806
+Paolo Nutini ||| 802
+The Last Shadow Puppets ||| 743
+The Feeling ||| 731
+The Strokes ||| 728
+Vampire Weekend ||| 723
+MGMT ||| 722
+Razorlight ||| 722
+Air Traffic ||| 706
+alt-J ||| 687
+The Who ||| 662
+Bruce Springsteen ||| 639
+Incubus ||| 633
+Hot Chip ||| 594
+Fleetwood Mac ||| 584
+John Mayer ||| 576
+The Rascals ||| 574
+David Bowie ||| 571
+The Wombats ||| 546
+The xx ||| 522
+Simon & Garfunkel ||| 517
+Daft Punk ||| 491
+Paul McCartney & Wings ||| 489
+Interpol ||| 474
+Electric Light Orchestra ||| 463
+Paul Kalkbrenner ||| 463
+Pink Floyd ||| 461
+Coconut Records ||| 457
+The Hoosiers ||| 453
+Bob Dylan ||| 440
+Michael Jackson ||| 434
+Jamie Cullum ||| 415
+Arcade Fire ||| 411
+## playcount: 61166

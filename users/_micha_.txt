@@ -1,0 +1,51 @@
+Subway to Sally ||| 31
+Coldplay ||| 21
+Radiohead ||| 21
+Green Day ||| 16
+Placebo ||| 16
+System of a Down ||| 16
+3 Doors Down ||| 14
+Nirvana ||| 14
+The Killers ||| 14
+Guns N' Roses ||| 13
+Jimmy Eat World ||| 13
+Rage Against the Machine ||| 13
+Red Hot Chili Peppers ||| 13
+Beck ||| 12
+Weezer ||| 12
+Lostprophets ||| 11
+Metallica ||| 11
+Muse ||| 11
+Queens of the Stone Age ||| 11
+blink-182 ||| 10
+Evanescence ||| 10
+Nine Inch Nails ||| 10
+Papa Roach ||| 10
+The All-American Rejects ||| 10
+The Cure ||| 10
+A Perfect Circle ||| 9
+Avril Lavigne ||| 9
+Fall Out Boy ||| 9
+Gorillaz ||| 9
+Incubus ||| 9
+Linkin Park ||| 9
+The Smashing Pumpkins ||| 9
+U2 ||| 9
+Audioslave ||| 8
+Blind Guardian ||| 8
+Die Apokalyptischen Reiter ||| 8
+Finntroll ||| 8
+Foo Fighters ||| 8
+Gentleman ||| 8
+My Chemical Romance ||| 8
+Rammstein ||| 8
+Taking Back Sunday ||| 8
+The Strokes ||| 8
+The White Stripes ||| 8
+30 Seconds to Mars ||| 7
+Arctic Monkeys ||| 7
+Franz Ferdinand ||| 7
+Letzte Instanz ||| 7
+Oasis ||| 7
+Panic! at the Disco ||| 7
+## playcount: 545

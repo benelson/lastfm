@@ -1,0 +1,51 @@
+Metric ||| 2175
+jj ||| 2062
+Biffy Clyro ||| 1122
+Kent ||| 916
+Maria Mena ||| 912
+Missy Higgins ||| 706
+alt-J ||| 652
+Purity Ring ||| 559
+Sigur Rós ||| 468
+Tracy Chapman ||| 410
+The Wombats ||| 409
+NONONO ||| 383
+First Aid Kit ||| 377
+Shout Out Louds ||| 343
+Lady Gaga ||| 309
+Dire Straits ||| 299
+Die Antwoord ||| 297
+Neil Young ||| 293
+The Cure ||| 285
+Rihanna ||| 277
+Blackmill ||| 266
+Amanda Jenssen ||| 247
+KT Tunstall ||| 246
+Gotye ||| 244
+The Royal Concept ||| 235
+Bad Religion ||| 234
+Familjen ||| 234
+Parov Stelar ||| 228
+Chris Garneau ||| 225
+Sexion d'Assaut ||| 221
+Mark Knopfler ||| 215
+Ellie Goulding ||| 213
+Stiftelsen ||| 212
+Lake Street Dive ||| 207
+Family of the Year ||| 206
+CocoRosie ||| 204
+The Faint ||| 200
+Imogen Heap ||| 188
+Regina Spektor ||| 188
+Sick Puppies ||| 187
+Lorentz & Sakarias ||| 182
+Mumford & Sons ||| 182
+Frou Frou ||| 180
+Sister Hazel ||| 179
+Natural Child ||| 170
+Medina ||| 169
+Imagine Dragons ||| 167
+The Expendables ||| 165
+Laura Marling ||| 162
+Amadou & Mariam ||| 159
+## playcount: 19369

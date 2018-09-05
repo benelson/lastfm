@@ -1,0 +1,51 @@
+Deftones ||| 1404
+Linkin Park ||| 1221
+Metallica ||| 1214
+Puddle of Mudd ||| 955
+Korn ||| 888
+Rage Against the Machine ||| 876
+Foo Fighters ||| 724
+Depeche Mode ||| 707
+Seether ||| 705
+Tool ||| 680
+Nirvana ||| 647
+Nine Inch Nails ||| 636
+Green Day ||| 607
+A Perfect Circle ||| 605
+Oasis ||| 598
+Papa Roach ||| 587
+Weezer ||| 582
+Pearl Jam ||| 572
+Muse ||| 570
+Queens of the Stone Age ||| 556
+P.O.D. ||| 545
+Air ||| 535
+The White Stripes ||| 533
+Beck ||| 527
+Placebo ||| 518
+Björk ||| 514
+Blur ||| 504
+Stone Temple Pilots ||| 498
+System of a Down ||| 498
+Audioslave ||| 473
+Travis ||| 470
+Radiohead ||| 465
+The Prodigy ||| 457
+Coldplay ||| 444
+The Beatles ||| 442
+Staind ||| 441
+Godsmack ||| 429
+Guns N' Roses ||| 414
+The Smashing Pumpkins ||| 412
+Jane's Addiction ||| 397
+Disturbed ||| 387
+U2 ||| 384
+Nickelback ||| 379
+Incubus ||| 377
+The Cure ||| 366
+AC/DC ||| 365
+The Cranberries ||| 363
+Red Hot Chili Peppers ||| 359
+Limp Bizkit ||| 355
+Soundgarden ||| 350
+## playcount: 28535

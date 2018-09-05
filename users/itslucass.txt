@@ -1,0 +1,51 @@
+Mariah Carey ||| 2332
+Rihanna ||| 1879
+Cher ||| 1767
+Taylor Swift ||| 1531
+Christina Aguilera ||| 1269
+Selena Gomez ||| 1216
+Ariana Grande ||| 982
+Katy Perry ||| 909
+Carly Rae Jepsen ||| 867
+Avril Lavigne ||| 849
+Lorde ||| 829
+Madonna ||| 826
+Kylie Minogue ||| 679
+Lily Allen ||| 619
+Céline Dion ||| 617
+Charli XCX ||| 564
+Camila Cabello ||| 521
+Kelly Clarkson ||| 519
+David Guetta ||| 509
+Lea Michele ||| 505
+Nick Jonas ||| 475
+Nicki Minaj ||| 466
+Iggy Azalea ||| 452
+Jessie J ||| 423
+Whitney Houston ||| 401
+Rita Ora ||| 399
+Little Mix ||| 396
+Lykke Li ||| 396
+Anitta ||| 390
+Ivy Levan ||| 367
+Major Lazer ||| 360
+Demi Lovato ||| 358
+Jennifer Lopez ||| 357
+Lady Gaga ||| 352
+Tove Lo ||| 329
+Paloma Faith ||| 325
+SZA ||| 316
+Bea Miller ||| 304
+Adele ||| 301
+Hurts ||| 301
+Post Malone ||| 301
+Britney Spears ||| 300
+Ellie Goulding ||| 299
+Julia Michaels ||| 291
+Samantha Jade ||| 291
+P!nk ||| 289
+Leona Lewis ||| 277
+Bruno Mars ||| 276
+Hayley Kiyoko ||| 272
+Hailee Steinfeld ||| 271
+## playcount: 30124

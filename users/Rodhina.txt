@@ -1,0 +1,51 @@
+Mariah Carey ||| 8358
+Taylor Swift ||| 7380
+Arctic Monkeys ||| 3090
+Kate Bush ||| 3049
+Janet Jackson ||| 3027
+Prince ||| 2464
+Beyoncé ||| 2412
+Drake ||| 2330
+Kendrick Lamar ||| 2183
+Aaliyah ||| 2050
+Ciara ||| 1945
+Anitta ||| 1916
+Radiohead ||| 1837
+Lorde ||| 1821
+The Strokes ||| 1769
+Ariana Grande ||| 1740
+Christina Aguilera ||| 1701
+Lana Del Rey ||| 1682
+Rihanna ||| 1675
+The Weeknd ||| 1656
+Frank Ocean ||| 1624
+Alicia Keys ||| 1604
+Adele ||| 1508
+Kanye West ||| 1494
+Miranda Lambert ||| 1484
+Lady Gaga ||| 1416
+Madonna ||| 1371
+Kacey Musgraves ||| 1364
+Paramore ||| 1308
+Tori Amos ||| 1263
+Tinashe ||| 1223
+Ke$ha ||| 1215
+David Bowie ||| 1200
+Florence + the Machine ||| 1165
+Shakira ||| 1112
+Selena Gomez ||| 1108
+Charli XCX ||| 1075
+Lily Allen ||| 1067
+Britney Spears ||| 1056
+Mary J. Blige ||| 1048
+Janelle Monáe ||| 1034
+Björk ||| 1003
+Gwen Stefani ||| 1001
+Carrie Underwood ||| 997
+Pink Floyd ||| 993
+The Black Keys ||| 941
+Camila Cabello ||| 940
+TLC ||| 911
+Norah Jones ||| 889
+Carly Rae Jepsen ||| 867
+## playcount: 89366

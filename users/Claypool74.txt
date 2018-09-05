@@ -1,0 +1,51 @@
+The Doors ||| 5011
+The Rolling Stones ||| 4030
+Creedence Clearwater Revival ||| 2625
+Black Sabbath ||| 2487
+Led Zeppelin ||| 2465
+The Jimi Hendrix Experience ||| 2132
+Pink Floyd ||| 1904
+Ratos De Porão ||| 1353
+Dead Kennedys ||| 1075
+Jimi Hendrix ||| 1032
+Os Mutantes ||| 872
+Jefferson Airplane ||| 809
+Johnny Cash ||| 743
+Secos & Molhados ||| 637
+The Allman Brothers Band ||| 619
+Metallica ||| 531
+Big Brother & The Holding Company ||| 483
+Pantera ||| 461
+The Who ||| 424
+Deep Purple ||| 407
+Sepultura ||| 388
+Cream ||| 384
+Motörhead ||| 370
+Lynyrd Skynyrd ||| 360
+AC/DC ||| 358
+Canned Heat ||| 343
+ZZ Top ||| 327
+Jorge Ben ||| 292
+Bob Marley & The Wailers ||| 268
+Titãs ||| 268
+Gilberto Gil ||| 266
+Chico Science & Nação Zumbi ||| 264
+U2 ||| 249
+Muddy Waters ||| 245
+Rainbow ||| 236
+B.B. King ||| 231
+Junior Wells ||| 229
+Roger Waters ||| 227
+UFO ||| 225
+Grand Funk Railroad ||| 224
+Red Hot Chili Peppers ||| 220
+Franz Ferdinand ||| 219
+John Lee Hooker ||| 219
+Slayer ||| 210
+The Wailers ||| 207
+Charlie Parker ||| 197
+Planet Hemp ||| 193
+The Coffinshakers ||| 192
+Raul Seixas ||| 189
+Eric Clapton ||| 181
+## playcount: 37881

@@ -1,0 +1,51 @@
+The Beatles ||| 99
+Los Hermanos ||| 83
+Jeff Buckley ||| 79
+Coldplay ||| 56
+Kings of Convenience ||| 53
+Radiohead ||| 34
+Eddie Vedder ||| 33
+Mombojó ||| 33
+The Strokes ||| 33
+Arctic Monkeys ||| 30
+Cazuza ||| 29
+Keane ||| 29
+Pink Floyd ||| 23
+Björk ||| 14
+Alex Turner ||| 11
+30 Seconds to Mars ||| 8
+Nirvana ||| 8
+Raul Seixas ||| 7
+Chico Buarque ||| 6
+John Barry ||| 6
+Legião Urbana ||| 6
+Andrea Bocelli ||| 5
+Howard Shore ||| 5
+Pearl Jam ||| 5
+Pino Donaggio ||| 5
+Queen ||| 4
+Scorpions ||| 4
+The Album Leaf ||| 4
+Bossa Elvis ||| 3
+MGMT ||| 3
+Muse ||| 3
+Toquinho & Vinicius ||| 3
+U2 ||| 3
+09 ||| 2
+Clint Mansell ||| 2
+Florence + the Machine ||| 2
+Gustavo Santaolalla ||| 2
+Sigur Rós ||| 2
+Toquinho ||| 2
+Across The Univ ||| 1
+Beirut ||| 1
+Bernard Herrmann ||| 1
+Burt Bacharach ||| 1
+Carlos Gardel ||| 1
+Charles Aznavour ||| 1
+David Bowie ||| 1
+Don McLean ||| 1
+Jim Sturgess ||| 1
+Jim Sturgess, Evan Rachel Wood, Lisa Hogg ||| 1
+John Williams ||| 1
+## playcount: 750

@@ -1,0 +1,51 @@
+Howard Stern ||| 1072
+Grateful Dead ||| 184
+Rush ||| 123
+Genesis ||| 84
+The Beatles ||| 80
+AC/DC ||| 60
+Pink Floyd ||| 59
+The Rolling Stones ||| 55
+Electric Light Orchestra ||| 46
+The Alan Parsons Project ||| 45
+David Bowie ||| 44
+Peter Gabriel ||| 44
+Metallica ||| 42
+Queen ||| 42
+U2 ||| 37
+Van Halen ||| 37
+Eric Clapton ||| 34
+Jimi Hendrix ||| 33
+Led Zeppelin ||| 32
+Dire Straits ||| 31
+Jane's Addiction ||| 30
+Neil Young ||| 30
+The Allman Brothers Band ||| 27
+Scorpions ||| 26
+Beck ||| 25
+Eagles ||| 25
+The Police ||| 25
+Yes ||| 25
+Red Hot Chili Peppers ||| 24
+Santana ||| 24
+Emerson, Lake & Palmer ||| 23
+ZZ Top ||| 23
+Jeff Beck ||| 22
+Aerosmith ||| 21
+Styx ||| 21
+The Dead Milkmen ||| 21
+Bob Marley ||| 20
+Pearl Jam ||| 20
+Cream ||| 19
+Dead Kennedys ||| 17
+The Doors ||| 17
+Fear ||| 16
+Sublime ||| 16
+Talking Heads ||| 16
+Tom Petty ||| 16
+Black Flag ||| 15
+Devo ||| 14
+Page & Plant ||| 14
+Stephen Hawking ||| 14
+The Who ||| 14
+## playcount: 2804

@@ -1,0 +1,51 @@
+Billie Holiday ||| 216
+Otis Redding ||| 207
+Nina Simone ||| 199
+Frédéric Chopin ||| 187
+Johann Sebastian Bach ||| 173
+Aretha Franklin ||| 162
+Ludwig van Beethoven ||| 158
+Franz Schubert ||| 153
+Franz Liszt ||| 147
+Etta James ||| 142
+Ella Fitzgerald ||| 137
+Simply Red ||| 132
+Howard Hewett ||| 131
+Randy Crawford ||| 127
+Sergei Rachmaninoff ||| 126
+Ray Charles ||| 125
+Dinah Washington ||| 124
+Will Downing ||| 121
+Claude Debussy ||| 117
+Bessie Smith ||| 114
+Phyllis Hyman ||| 113
+Louis Armstrong ||| 112
+Ella Fitzgerald & Louis Armstrong ||| 107
+Tina Turner ||| 107
+Wolfgang Amadeus Mozart ||| 106
+Georg Friedrich Händel ||| 103
+Joni Mitchell ||| 100
+Antonín Dvořák ||| 97
+Sarah Vaughan ||| 96
+Gabriel Fauré ||| 95
+John Coltrane ||| 93
+Anita Baker ||| 91
+Madeleine Peyroux ||| 91
+Robert Schumann ||| 90
+Johannes Brahms ||| 89
+Duke Ellington ||| 84
+Felix Mendelssohn ||| 84
+Chet Baker ||| 78
+Maurice Ravel ||| 78
+Cyndi Lauper ||| 76
+Dionne Warwick ||| 75
+Henry Purcell ||| 74
+Luciano Pavarotti ||| 74
+George Gershwin ||| 73
+Pyotr Ilyich Tchaikovsky ||| 73
+Chanté Moore ||| 72
+Antonio Vivaldi ||| 71
+Bee Gees ||| 71
+Karyn White ||| 70
+Regina Belle ||| 69
+## playcount: 5610

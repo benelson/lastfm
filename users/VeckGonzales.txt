@@ -1,0 +1,51 @@
+Lady Gaga ||| 56147
+Madonna ||| 24073
+Taylor Swift ||| 16480
+Xuxa ||| 10177
+Miley Cyrus ||| 9361
+Cyndi Lauper ||| 9071
+Katy Perry ||| 8894
+Michael Jackson ||| 8659
+Beyoncé ||| 7417
+Demi Lovato ||| 5851
+Halsey ||| 5233
+Bruce Springsteen ||| 5019
+Tove Lo ||| 4858
+Ke$ha ||| 3883
+Selena Gomez ||| 3815
+M.I.A. ||| 3568
+Ariana Grande ||| 3537
+Lana Del Rey ||| 3346
+Whitney Houston ||| 2980
+The Weeknd ||| 2575
+Mariah Carey ||| 2522
+Grimes ||| 2493
+Harry Styles ||| 2376
+Justin Bieber ||| 2345
+Sam Smith ||| 2345
+Zayn ||| 2310
+ABBA ||| 2144
+Azealia Banks ||| 1857
+Rihanna ||| 1721
+Christina Aguilera ||| 1700
+Florence + the Machine ||| 1659
+Camila Cabello ||| 1553
+Troye Sivan ||| 1510
+Coldplay ||| 1439
+Britney Spears ||| 1369
+Kylie Minogue ||| 1268
+MØ ||| 1081
+Drake ||| 994
+Melanie Martinez ||| 958
+Calvin Harris ||| 921
+David Bowie ||| 921
+Pink Floyd ||| 821
+Carly Rae Jepsen ||| 713
+Lorde ||| 694
+Kanye West ||| 674
+Bonnie Tyler ||| 664
+Grace Jones ||| 588
+Birdy ||| 579
+Blue Angel ||| 578
+Guns N' Roses ||| 574
+## playcount: 236315

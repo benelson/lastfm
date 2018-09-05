@@ -1,0 +1,51 @@
+Coldplay ||| 777
+The Killers ||| 684
+Bloc Party ||| 550
+The xx ||| 379
+José González ||| 343
+Death Cab for Cutie ||| 315
+Clueso ||| 306
+Lykke Li ||| 249
+U2 ||| 245
+Razorlight ||| 220
+Arcade Fire ||| 213
+The Kooks ||| 212
+Shout Out Louds ||| 208
+Maxïmo Park ||| 203
+Kings of Leon ||| 201
+Editors ||| 198
+Moby ||| 197
+Mando Diao ||| 193
+Miike Snow ||| 192
+Snow Patrol ||| 192
+The Pigeon Detectives ||| 183
+Oasis ||| 178
+The National ||| 176
+Keane ||| 168
+Sportfreunde Stiller ||| 165
+Bon Iver ||| 159
+Fleet Foxes ||| 159
+Jay-Z ||| 157
+Kaiser Chiefs ||| 157
+Crystal Fighters ||| 149
+Foo Fighters ||| 149
+Kasabian ||| 148
+The Tallest Man on Earth ||| 147
+Red Hot Chili Peppers ||| 139
+Modest Mouse ||| 138
+Phoenix ||| 136
+Interpol ||| 134
+William Fitzsimmons ||| 133
+Sufjan Stevens ||| 131
+Travis ||| 131
+Athlete ||| 123
+Edward Sharpe & The Magnetic Zeros ||| 116
+Patrick Wolf ||| 116
+Mumford & Sons ||| 115
+James Blake ||| 114
+Franz Ferdinand ||| 113
+The Maccabees ||| 113
+Kanye West ||| 112
+Nick Drake ||| 112
+We Are Scientists ||| 112
+## playcount: 10260

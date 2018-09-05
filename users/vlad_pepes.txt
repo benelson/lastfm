@@ -1,0 +1,51 @@
+The Beatles ||| 768
+Jethro Tull ||| 351
+King Crimson ||| 346
+Led Zeppelin ||| 260
+Tool ||| 252
+The Mars Volta ||| 209
+Pink Floyd ||| 199
+Jefferson Airplane ||| 191
+The Doors ||| 163
+Radiohead ||| 150
+System of a Down ||| 146
+Mastodon ||| 144
+The Who ||| 139
+Porcupine Tree ||| 117
+Yes ||| 117
+Thelonious Monk ||| 114
+[unknown] ||| 80
+Miles Davis ||| 78
+大谷幸 ||| 77
+At the Drive-In ||| 76
+Wolfgang Amadeus Mozart ||| 75
+Anthony Newman ||| 74
+Duke Ellington ||| 69
+Georg Friedrich Händel ||| 67
+The Sixteen ||| 63
+Johann Sebastian Bach ||| 62
+Bob Dylan ||| 59
+Franz Joseph Haydn ||| 59
+Emerson, Lake & Palmer ||| 56
+Abbaye Notre Dame de Fontgombault ||| 55
+Metallica ||| 53
+Queen ||| 53
+The White Stripes ||| 48
+Anonymous ||| 46
+Grimes ||| 46
+Charlie Parker ||| 45
+Bill Evans Trio ||| 43
+Nova Schola Gregoriana ||| 41
+Carlo Gesualdo ||| 40
+Rush ||| 39
+Jamey Johnson ||| 36
+John Coltrane ||| 36
+Cannonball Adderley ||| 35
+Django Reinhardt ||| 34
+Genesis ||| 33
+La Nave del Misterio ||| 33
+Sviatoslav Richter ||| 33
+Tomás Luis de Victoria ||| 33
+Black Sabbath ||| 32
+Chris Stapleton ||| 32
+## playcount: 5407

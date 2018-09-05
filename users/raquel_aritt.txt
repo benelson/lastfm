@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 1161
+Weezer ||| 1062
+The Killers ||| 953
+blink-182 ||| 831
+The All-American Rejects ||| 717
+The Strokes ||| 460
+The Offspring ||| 396
+Maroon 5 ||| 329
+Pixies ||| 305
+Emily Kinney ||| 288
+The Beatles ||| 284
+The Cure ||| 263
+Radiohead ||| 186
+The Jesus and Mary Chain ||| 168
+Zeca Baleiro ||| 150
+Ramones ||| 133
+Kate Nash ||| 122
+Bob Dylan ||| 117
+Nirvana ||| 111
+Violent Femmes ||| 111
+Paramore ||| 106
+Hey Monday ||| 95
+MGMT ||| 85
+Oasis ||| 79
+Little Joy ||| 77
+The White Stripes ||| 74
+The Libertines ||| 69
+Taylor Swift ||| 61
+Projeto Sal ||| 59
+Pearl Jam ||| 55
+The Who ||| 53
+Rooney ||| 46
+The Velvet Underground ||| 46
+Brandon Flowers ||| 43
+The Smiths ||| 41
+Bon Jovi ||| 39
+U2 ||| 35
+Volantes ||| 35
+Angels & Airwaves ||| 33
+Coldplay ||| 33
+Gorillaz ||| 32
+Plain White T's ||| 32
+The Black Keys ||| 32
+Of Monsters and Men ||| 31
+Jim Sturgess ||| 30
+New Order ||| 29
+Metallica ||| 28
+Neon Trees ||| 27
+Red Hot Chili Peppers ||| 25
+The Beach Boys ||| 25
+## playcount: 9602

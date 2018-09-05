@@ -1,0 +1,51 @@
+Beyoncé ||| 22807
+Taylor Swift ||| 9546
+Katy Perry ||| 7954
+Lady Gaga ||| 6246
+Rihanna ||| 4849
+Alicia Keys ||| 2981
+Kelly Clarkson ||| 2872
+P!nk ||| 2769
+Lana Del Rey ||| 2613
+Miley Cyrus ||| 2418
+Nicki Minaj ||| 2320
+Coldplay ||| 2194
+Black Eyed Peas ||| 1922
+Ariana Grande ||| 1654
+Anitta ||| 1617
+Christina Aguilera ||| 1578
+Adele ||| 1499
+Carrie Underwood ||| 1426
+RBD ||| 1324
+Avril Lavigne ||| 1214
+Adore Delano ||| 1118
+OneRepublic ||| 1050
+Florence + the Machine ||| 1011
+Ellie Goulding ||| 988
+Mariah Carey ||| 956
+One Direction ||| 953
+RuPaul ||| 905
+Paramore ||| 830
+Azealia Banks ||| 774
+Britney Spears ||| 757
+Jay-Z ||| 748
+Jessie J ||| 724
+Rita Ora ||| 700
+Tove Lo ||| 626
+Sia ||| 573
+Ciara ||| 553
+Selena Gomez ||| 523
+Pitty ||| 515
+Hozier ||| 490
+Christina Perri ||| 468
+Eminem ||| 466
+Bruno Mars ||| 461
+Kanye West ||| 452
+Madonna ||| 408
+Ke$ha ||| 355
+Erik Hassle ||| 351
+Iggy Azalea ||| 347
+Justin Timberlake ||| 344
+Evanescence ||| 337
+All Time Low ||| 319
+## playcount: 100905

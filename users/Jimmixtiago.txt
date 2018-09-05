@@ -1,0 +1,51 @@
+Avril Lavigne ||| 67782
+Maroon 5 ||| 9604
+Katy Perry ||| 9201
+Adele ||| 7369
+Sky Ferreira ||| 7279
+Miley Cyrus ||| 6999
+Lana Del Rey ||| 6837
+Rihanna ||| 5098
+Ke$ha ||| 3330
+Paramore ||| 2903
+Kelly Clarkson ||| 2655
+Jessie J ||| 2610
+Natalia Kills ||| 2357
+The Pretty Reckless ||| 2227
+Ramones ||| 2023
+Rita Ora ||| 1962
+Demi Lovato ||| 1789
+Eva Simons ||| 1770
+The Exploited ||| 1649
+Nirvana ||| 1561
+Aggro Santos ||| 1522
+The Strokes ||| 1507
+David Guetta ||| 1444
+NOFX ||| 1337
+Guns N' Roses ||| 1319
+Eliza Doolittle ||| 1236
+Cher Lloyd ||| 1206
+OneRepublic ||| 1070
+Emily Osment ||| 976
+Miike Snow ||| 868
+Taio Cruz ||| 860
+Jimmix ||| 808
+Katie Stevens ||| 789
+Hoodie Allen ||| 753
+James Durbin ||| 745
+Gym Class Heroes ||| 724
+P!nk ||| 711
+Nicki Minaj ||| 703
+Two Door Cinema Club ||| 700
+Ciara ||| 653
+The Wanted ||| 648
+Coldplay ||| 644
+Oasis ||| 630
+Christina Aguilera ||| 624
+Neon Trees ||| 618
+Cobra Starship ||| 610
+Yellowcard ||| 600
+Heidi Montag ||| 594
+Spinnerette ||| 584
+Bruno Mars ||| 550
+## playcount: 173038

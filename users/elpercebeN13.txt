@@ -1,0 +1,51 @@
+Bruce Springsteen ||| 32
+Alabama ||| 20
+John Williams ||| 20
+Elvis Presley ||| 17
+John Barry ||| 17
+Eros Ramazzotti ||| 14
+Jack Johnson ||| 14
+John Denver ||| 14
+Miklós Rózsa ||| 12
+Alan Jackson ||| 11
+Camilo Sesto ||| 11
+Hans Zimmer ||| 11
+Jorge Negrete ||| 11
+Kenny Rogers ||| 11
+Klaus Badelt ||| 11
+Mark Knopfler ||| 11
+Bon Jovi ||| 10
+Eagles ||| 10
+Electric Light Orchestra ||| 10
+John Mellencamp ||| 10
+Mecano ||| 10
+Queen ||| 10
+The Beach Boys ||| 10
+Trevor Jones ||| 10
+Blake Shelton ||| 9
+Michael Jackson ||| 9
+Neil Sedaka ||| 9
+Plain White T's ||| 9
+R.E.M. ||| 9
+Rosie Thomas ||| 9
+The Beatles ||| 9
+The Cranberries ||| 9
+John Anderson ||| 8
+Spandau Ballet ||| 8
+Victor Young ||| 8
+3 Doors Down ||| 7
+Ben Harper ||| 7
+Bryan Adams ||| 7
+Don Williams ||| 7
+James Horner ||| 7
+Radio Futura ||| 7
+Ricky Nelson ||| 7
+Rod Stewart ||| 7
+Roy Orbison ||| 7
+The Sunday Drivers ||| 7
+Aerolíneas Federales ||| 6
+Amos Lee ||| 6
+Bob Seger ||| 6
+Carlos Cano ||| 6
+Chicago ||| 6
+## playcount: 513

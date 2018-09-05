@@ -1,0 +1,51 @@
+Aerosmith ||| 2610
+Sweet ||| 2419
+Led Zeppelin ||| 2321
+T. Rex ||| 2157
+Pink Floyd ||| 1475
+Cream ||| 1419
+Jobriath ||| 1415
+Whitesnake ||| 1396
+Supertramp ||| 1190
+The Velvet Underground ||| 1117
+Kiss ||| 1035
+Creedence Clearwater Revival ||| 969
+The Rolling Stones ||| 942
+David Bowie ||| 877
+Queen ||| 754
+Slade ||| 737
+The Doors ||| 704
+Deep Purple ||| 687
+Secos & Molhados ||| 676
+Brett Smiley ||| 563
+Roxy Music ||| 544
+Cinderella ||| 489
+Black Sabbath ||| 486
+Lucifer's Friend ||| 480
+Danger Danger ||| 475
+Judas Priest ||| 462
+Hollywood Brats ||| 436
+Girl ||| 435
+Rainbow ||| 433
+King Kobra ||| 432
+Joe Cocker ||| 366
+Ave Sangria ||| 361
+Firehouse ||| 351
+Silverhead ||| 348
+Uriah Heep ||| 320
+L.A. Guns ||| 317
+Firewind ||| 315
+Alice Cooper ||| 312
+Rhapsody ||| 309
+Angra ||| 302
+Def Leppard ||| 298
+The Stooges ||| 292
+Quiet Riot ||| 282
+Budgie ||| 281
+Boston ||| 278
+Ratt ||| 278
+Britny Fox ||| 271
+Blue Murder ||| 254
+Almah ||| 250
+Sparks ||| 247
+## playcount: 36167

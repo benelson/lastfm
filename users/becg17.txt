@@ -1,0 +1,51 @@
+The Strokes ||| 310
+Nirvana ||| 191
+The Smiths ||| 175
+Red Hot Chili Peppers ||| 161
+The Kooks ||| 118
+Stereophonics ||| 115
+Foster the People ||| 96
+Garbage ||| 96
+Suede ||| 91
+Lana Del Rey ||| 88
+Arcade Fire ||| 86
+Tom Odell ||| 86
+MGMT ||| 83
+Jake Bugg ||| 80
+Basement Jaxx ||| 77
+The Last Shadow Puppets ||| 71
+Florence + the Machine ||| 69
+The Cure ||| 69
+Arctic Monkeys ||| 65
+Kasabian ||| 63
+Editors ||| 62
+Fleetwood Mac ||| 62
+London Grammar ||| 62
+Massive Attack ||| 60
+Bloc Party ||| 57
+Blur ||| 56
+Placebo ||| 55
+Dubstar ||| 54
+Doves ||| 53
+Gorillaz ||| 53
+Kanye West ||| 51
+Groove Armada ||| 50
+Crystal Fighters ||| 49
+The Script ||| 49
+Bob Marley & The Wailers ||| 48
+James ||| 46
+Radiohead ||| 44
+The Killers ||| 42
+Calvin Harris ||| 41
+Kings of Leon ||| 40
+Paul Weller ||| 39
+The Verve ||| 39
+Graham Coxon ||| 38
+Daft Punk ||| 37
+The Specials ||| 37
+Richard Ashcroft ||| 36
+Hozier ||| 35
+Travis ||| 35
+Caribou ||| 34
+Death in Vegas ||| 34
+## playcount: 3588

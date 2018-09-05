@@ -1,0 +1,51 @@
+Amy Winehouse ||| 4513
+Nina Simone ||| 2685
+Billie Holiday ||| 2504
+Fiona Apple ||| 2483
+The Beatles ||| 2026
+Blondie ||| 1949
+The Supremes ||| 1850
+Björk ||| 1834
+Etta James ||| 1829
+Françoise Hardy ||| 1568
+Lana Del Rey ||| 1508
+Aretha Franklin ||| 1490
+Ella Fitzgerald ||| 1469
+Édith Piaf ||| 1445
+Ray Charles ||| 1403
+Janis Joplin ||| 1308
+Portishead ||| 1303
+CocoRosie ||| 1302
+Devendra Banhart ||| 1286
+Cat Power ||| 1193
+Elvis Presley ||| 1177
+Goldfrapp ||| 1157
+France Gall ||| 1100
+David Bowie ||| 1081
+Florence + the Machine ||| 1064
+Martha Reeves & The Vandellas ||| 1061
+Elis Regina ||| 984
+The Doors ||| 979
+The Shangri-Las ||| 967
+M.I.A. ||| 892
+Lily Allen ||| 869
+Charlotte Gainsbourg ||| 843
+Norah Jones ||| 840
+Pink Floyd ||| 837
+Kali Uchis ||| 823
+The Ronettes ||| 798
+Ike & Tina Turner ||| 794
+No Doubt ||| 793
+Alaska y Dinarama ||| 762
+Regina Spektor ||| 762
+Nirvana ||| 732
+The Shirelles ||| 728
+Sharon Jones and the Dap-Kings ||| 727
+Nancy Sinatra ||| 695
+Pyotr Ilyich Tchaikovsky ||| 673
+Django Reinhardt ||| 644
+Astrud Gilberto ||| 634
+Dinah Washington ||| 634
+Nouvelle Vague ||| 634
+James Brown ||| 630
+## playcount: 62262

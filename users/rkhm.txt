@@ -1,0 +1,51 @@
+Legião Urbana ||| 1008
+The Who ||| 821
+The Rolling Stones ||| 602
+Led Zeppelin ||| 393
+Placebo ||| 350
+The Cure ||| 333
+The Doors ||| 333
+Creedence Clearwater Revival ||| 318
+Pink Floyd ||| 304
+Florence + the Machine ||| 223
+Engenheiros Do Hawaii ||| 215
+Joni Mitchell ||| 213
+Massive Attack ||| 212
+Regina Spektor ||| 199
+Janis Joplin ||| 179
+Cat Power ||| 172
+Snow Patrol ||| 168
+Crosby, Stills, Nash & Young ||| 162
+ABBA ||| 155
+Raul Seixas ||| 152
+Simon & Garfunkel ||| 151
+Belle and Sebastian ||| 148
+Björk ||| 146
+Röyksopp ||| 141
+Boyce Avenue ||| 137
+Pato Fu ||| 137
+The Beatles ||| 134
+Marisa Monte ||| 126
+Moby ||| 117
+Ella Fitzgerald ||| 105
+Aerosmith ||| 97
+Elis Regina ||| 96
+Fiona Apple ||| 95
+Yann Tiersen ||| 94
+Madeleine Peyroux ||| 87
+Buffalo Springfield ||| 86
+Alice in Chains ||| 85
+Cássia Eller ||| 84
+Nirvana ||| 82
+Cyndi Lauper ||| 78
+Rita Lee ||| 76
+Annie Lennox ||| 72
+Kate & Anna McGarrigle ||| 72
+Bat for Lashes ||| 71
+Jason Mraz ||| 71
+Queen ||| 69
+Black Sabbath ||| 67
+The Police ||| 65
+Wolfgang Amadeus Mozart ||| 63
+Cher ||| 62
+## playcount: 9426

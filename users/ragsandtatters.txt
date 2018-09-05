@@ -1,0 +1,51 @@
+Pink Floyd ||| 2830
+Camel ||| 957
+Damien Rice ||| 940
+Carlo Rizzi ||| 937
+Pink Martini ||| 888
+Mägo de Oz ||| 750
+David Gilmour ||| 738
+Maroon 5 ||| 689
+Metallica ||| 672
+Marc Anthony ||| 660
+Roger Waters ||| 645
+Morphine ||| 641
+Angela Gheorghiu ||| 639
+Yo-Yo Ma ||| 624
+Bob Dylan ||| 619
+Anna Tomowa-Sintow ||| 603
+The Beatles ||| 589
+Jeff Buckley ||| 551
+Yann Tiersen ||| 541
+Berliner Philharmoniker ||| 527
+Calle 13 ||| 501
+Ricardo Arjona ||| 493
+David Bowie ||| 469
+Gorillaz ||| 441
+Eddie Vedder ||| 439
+Megadeth ||| 429
+123 ||| 420
+Chichi Peralta ||| 406
+Antonio Pappano ||| 405
+Alejandro Sanz ||| 375
+Darren Korb ||| 368
+Kings of Convenience ||| 360
+Iron Maiden ||| 357
+Javier Navarrete ||| 350
+Emin Khachaturian ||| 349
+Bob Marley & The Wailers ||| 344
+Shakira ||| 340
+Guns N' Roses ||| 336
+Radiohead ||| 335
+Claudio Abbado ||| 334
+Michael Jackson ||| 330
+Madrugada ||| 328
+Philharmonix ||| 318
+Juan Gabriel ||| 316
+Anathema ||| 300
+The Cinematic Orchestra ||| 297
+The xx ||| 297
+Juan Luis Guerra ||| 293
+Maná ||| 291
+Buena Vista Social Club ||| 290
+## playcount: 26951

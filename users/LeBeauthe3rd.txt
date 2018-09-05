@@ -1,0 +1,51 @@
+Kiss ||| 539
+Rob Zombie ||| 524
+John Mellencamp ||| 465
+Tom Petty and The Heartbreakers ||| 462
+Neil Diamond ||| 426
+Barenaked Ladies ||| 407
+Prince & The Revolution ||| 370
+Judas Priest ||| 369
+Duran Duran ||| 367
+Ozzy Osbourne ||| 314
+AC/DC ||| 310
+Metallica ||| 297
+Sting ||| 295
+The Police ||| 279
+Cirque Du Soleil ||| 273
+Guns N' Roses ||| 273
+Black Sabbath ||| 272
+Static-X ||| 257
+The Who ||| 227
+Rush ||| 225
+Led Zeppelin ||| 224
+Pantera ||| 204
+The Cranberries ||| 198
+Mötley Crüe ||| 195
+Iron Maiden ||| 190
+Nickelback ||| 185
+Joan Jett and the Blackhearts ||| 172
+Van Halen ||| 170
+Jimi Hendrix ||| 155
+Andrea Bocelli ||| 154
+Pyotr Ilyich Tchaikovsky ||| 154
+Saliva ||| 154
+4 Non Blondes ||| 147
+Stone Temple Pilots ||| 143
+Nine Inch Nails ||| 141
+Dream Theater ||| 134
+Bruce Springsteen ||| 132
+Jon Bon Jovi ||| 130
+Lenny Kravitz ||| 128
+The Black Crowes ||| 127
+Maurice Ravel ||| 124
+Styx ||| 122
+Autograph ||| 114
+Dio ||| 114
+Tool ||| 108
+Vince DiCola ||| 108
+Quiet Riot ||| 106
+Tesla ||| 99
+Bulletboys ||| 92
+Poison ||| 88
+## playcount: 11263

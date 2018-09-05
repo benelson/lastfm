@@ -1,0 +1,51 @@
+Good Charlotte ||| 5
+Breaking Benjamin ||| 4
+Panic! at the Disco ||| 4
+Fall Out Boy ||| 3
+Green Day ||| 3
+My Chemical Romance ||| 3
+Simple Plan ||| 3
+Taking Back Sunday ||| 3
+The Ark ||| 3
+The Used ||| 3
+Arctic Monkeys ||| 2
+Billy Talent ||| 2
+Cascada ||| 2
+Coldplay ||| 2
+James Blunt ||| 2
+Lifehouse ||| 2
+Muse ||| 2
+Rob Thomas ||| 2
+Sum 41 ||| 2
+The Academy Is... ||| 2
+The All-American Rejects ||| 2
+The Calling ||| 2
+Three Days Grace ||| 2
+12 Stones ||| 1
+3 Doors Down ||| 1
+30 Seconds to Mars ||| 1
+AFI ||| 1
+Alexisonfire ||| 1
+Apulanta ||| 1
+Aqua ||| 1
+Audioslave ||| 1
+blink-182 ||| 1
+Blue ||| 1
+Bowling for Soup ||| 1
+Bryan Adams ||| 1
+Bush ||| 1
+Clubraiders ||| 1
+Cobra Starship ||| 1
+Creed ||| 1
+Crossfade ||| 1
+Daniel Powter ||| 1
+Danzel ||| 1
+Darude ||| 1
+Daughtry ||| 1
+Death Cab for Cutie ||| 1
+Default ||| 1
+DJ Sammy ||| 1
+Don Johnson Big Band ||| 1
+Drowning Pool ||| 1
+Elastinen ||| 1
+## playcount: 87

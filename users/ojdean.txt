@@ -1,0 +1,51 @@
+Prince ||| 34549
+Jimi Hendrix ||| 9888
+Thin Lizzy ||| 9697
+The Rolling Stones ||| 5410
+David Bowie ||| 5268
+The Beatles ||| 4951
+King's X ||| 3826
+Led Zeppelin ||| 3778
+Queen ||| 3637
+U2 ||| 3518
+Funkadelic ||| 3454
+The Jimi Hendrix Experience ||| 3444
+Robin Trower ||| 3385
+Etta James ||| 3269
+Michael Jackson ||| 2780
+Big Country ||| 2672
+Rush ||| 2481
+Kate Bush ||| 2259
+War ||| 2202
+The Isley Brothers ||| 2089
+Dishwalla ||| 2083
+Aerosmith ||| 2073
+AC/DC ||| 1964
+James Brown ||| 1949
+Alice Cooper ||| 1930
+Mother's Finest ||| 1894
+Mandrill ||| 1883
+Ohio Players ||| 1872
+ZZ Top ||| 1872
+Fishbone ||| 1857
+Depeche Mode ||| 1855
+Kiss ||| 1833
+Sly & The Family Stone ||| 1781
+Phil Lynott ||| 1758
+Rare Earth ||| 1754
+Santana ||| 1744
+Lil' Wayne ||| 1743
+Peter Gabriel ||| 1738
+Paul McCartney ||| 1713
+The Cult ||| 1686
+Pink Floyd ||| 1683
+Gorillaz ||| 1674
+RZA ||| 1669
+Gary Moore ||| 1668
+Dr. John ||| 1654
+The Clash ||| 1650
+Cheap Trick ||| 1622
+The Police ||| 1612
+Jay-Z ||| 1608
+B.B. King ||| 1572
+## playcount: 165951

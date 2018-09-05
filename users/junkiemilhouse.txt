@@ -1,0 +1,51 @@
+Blur ||| 3170
+Frank Zappa ||| 2375
+Dave Matthews Band ||| 2276
+Radiohead ||| 2236
+Queens of the Stone Age ||| 2054
+Pearl Jam ||| 1586
+Eric Clapton ||| 1536
+Noel Gallagher's High Flying Birds ||| 1532
+Stereophonics ||| 1512
+Rush ||| 1359
+Bruce Springsteen ||| 1284
+Oasis ||| 1242
+John Mayer ||| 1214
+Grateful Dead ||| 1040
+Elliott Smith ||| 1017
+The Strokes ||| 1016
+Beastie Boys ||| 976
+Nirvana ||| 862
+Counting Crows ||| 858
+The Black Keys ||| 846
+The Who ||| 835
+The Rolling Stones ||| 739
+Los Hermanos ||| 718
+Cream ||| 689
+Franz Ferdinand ||| 665
+El Cuarteto De Nos ||| 664
+Teenage Fanclub ||| 631
+Pavement ||| 608
+The Offspring ||| 603
+The Libertines ||| 577
+Red Hot Chili Peppers ||| 558
+Foo Fighters ||| 510
+The Beatles ||| 510
+Graham Coxon ||| 506
+Pantera ||| 477
+Nine Inch Nails ||| 466
+The Coronas ||| 447
+Tom Zé ||| 432
+The Cardigans ||| 413
+The National ||| 405
+The Black Crowes ||| 399
+Raimundos ||| 389
+Placebo ||| 374
+Neutral Milk Hotel ||| 366
+Weezer ||| 356
+The Verve ||| 355
+Daft Punk ||| 351
+Paul McCartney ||| 350
+Green Day ||| 349
+Cake ||| 342
+## playcount: 45075

@@ -1,0 +1,51 @@
+Porcupine Tree ||| 1639
+Saga ||| 763
+Incubus ||| 748
+Nine Inch Nails ||| 716
+Toto ||| 499
+Pink Floyd ||| 472
+AC/DC ||| 470
+Genesis ||| 440
+Foo Fighters ||| 414
+Rush ||| 346
+Fish ||| 329
+Foreigner ||| 327
+Mark Knopfler ||| 275
+Zoé ||| 255
+Muse ||| 217
+Def Leppard ||| 210
+Geddy Lee ||| 198
+Marillion ||| 196
+Journey ||| 185
+Jimi Hendrix ||| 184
+Chevelle ||| 175
+Miguel Rios ||| 171
+Placebo ||| 166
+Blackfield ||| 164
+Alice in Chains ||| 163
+Trent Reznor and Atticus Ross ||| 160
+Peter Gabriel ||| 135
+David Gilmour ||| 130
+The Beatles ||| 129
+Gustavo Cerati ||| 123
+Elton John ||| 119
+Pearl Jam ||| 112
+The Police ||| 112
+Itzhak Perlman ||| 110
+Supertramp ||| 105
+Phil Collins ||| 99
+Camel ||| 95
+Stevie Ray Vaughan ||| 95
+ABBA ||| 91
+Roxette ||| 86
+Scorpions ||| 85
+Kansas ||| 81
+Ozzy Osbourne ||| 81
+Roy Buchanan ||| 80
+Black Sabbath ||| 76
+Aditus ||| 75
+Soda Stereo ||| 75
+Arctic Monkeys ||| 70
+Dream Theater ||| 63
+Staind ||| 62
+## playcount: 12171

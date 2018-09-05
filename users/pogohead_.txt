@@ -1,0 +1,51 @@
+blink-182 ||| 5027
+Kings of Leon ||| 4824
+Coldplay ||| 3094
+Queens of the Stone Age ||| 1772
+Slayer ||| 1256
+Rancid ||| 895
+The Doors ||| 883
+Nine Inch Nails ||| 865
+Rise Against ||| 743
+Foo Fighters ||| 709
+Pantera ||| 624
+Red Hot Chili Peppers ||| 623
+Deftones ||| 621
+Raised Fist ||| 611
+System of a Down ||| 588
+Jimmy Eat World ||| 573
+Muse ||| 543
+Sum 41 ||| 542
+Bright Eyes ||| 469
+Bruce Springsteen ||| 456
+Weezer ||| 452
+Band of Horses ||| 451
+Radiohead ||| 447
+Death Cab for Cutie ||| 420
+The Airborne Toxic Event ||| 400
+Rage Against the Machine ||| 394
+Placebo ||| 393
+Arctic Monkeys ||| 379
+Four Year Strong ||| 364
+She & Him ||| 364
+Oasis ||| 318
+Tool ||| 314
+Stereophonics ||| 300
+Foster the People ||| 290
+Biffy Clyro ||| 288
+Metallica ||| 279
+The Killers ||| 277
+Vision of Disorder ||| 255
+Bloodsimple ||| 248
+30 Seconds to Mars ||| 244
+Third Eye Blind ||| 243
+Beatsteaks ||| 240
+Big Foot Mama ||| 225
+The Kooks ||| 222
+Chevelle ||| 212
+Dashboard Confessional ||| 212
+Snow Patrol ||| 212
+Sepultura ||| 210
+Chimaira ||| 204
+OneRepublic ||| 196
+## playcount: 34771

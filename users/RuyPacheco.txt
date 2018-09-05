@@ -1,0 +1,51 @@
+Mariah Carey ||| 1170
+Christina Aguilera ||| 244
+Azealia Banks ||| 221
+Janelle Monáe ||| 180
+Amy Winehouse ||| 168
+Madonna ||| 145
+Rihanna ||| 136
+Ella Fitzgerald ||| 118
+The Strokes ||| 112
+Beyoncé ||| 97
+Lily Allen ||| 81
+Janis Joplin ||| 60
+Franz Ferdinand ||| 59
+Oasis ||| 55
+Die Antwoord ||| 54
+Adele ||| 53
+Michael Jackson ||| 53
+Avril Lavigne ||| 52
+Alicia Keys ||| 46
+Fergie ||| 43
+Nancy Wilson ||| 41
+Whitney Houston ||| 39
+The Who ||| 37
+Aretha Franklin ||| 35
+The Beatles ||| 35
+Ramones ||| 34
+Lauryn Hill ||| 33
+Katy Perry ||| 32
+Eliza Doolittle ||| 31
+The Doors ||| 31
+Erykah Badu ||| 30
+Led Zeppelin ||| 30
+Robert Johnson ||| 30
+Dinah Washington ||| 29
+Minnie Riperton ||| 28
+Carpenters ||| 26
+Daft Punk ||| 24
+The Rolling Stones ||| 24
+Brandy ||| 23
+The Beach Boys ||| 23
+Lana Del Rey ||| 20
+Radiohead ||| 19
+P!nk ||| 18
+Corinne Bailey Rae ||| 17
+Johnny Cash ||| 17
+Pink ||| 16
+Shania Twain ||| 16
+Black Eyed Peas ||| 15
+Maroon 5 ||| 15
+Madeleine Peyroux ||| 14
+## playcount: 3929

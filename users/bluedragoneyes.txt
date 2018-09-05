@@ -1,0 +1,51 @@
+Korn ||| 700
+Stephen Lynch ||| 664
+"Weird Al" Yankovic ||| 552
+Green Day ||| 487
+Incubus ||| 482
+Linkin Park ||| 448
+Hank Green ||| 446
+Disturbed ||| 442
+Queen ||| 416
+blink-182 ||| 383
+Saliva ||| 363
+Breaking Benjamin ||| 362
+Papa Roach ||| 329
+Mest ||| 324
+Adam Sandler ||| 313
+Bakers Dozen ||| 306
+MxPx ||| 293
+Amadan ||| 290
+EVE 6 ||| 285
+Staind ||| 273
+Sugarcult ||| 261
+Foo Fighters ||| 256
+John Williams ||| 250
+Eminem ||| 249
+Crazy Town ||| 245
+Switchfoot ||| 245
+Sum 41 ||| 221
+Good Charlotte ||| 213
+No Doubt ||| 213
+Mindless Self Indulgence ||| 204
+P.O.D. ||| 199
+Unwritten Law ||| 198
+Nightwish ||| 196
+Weezer ||| 195
+Jimmy Eat World ||| 190
+Dashboard Confessional ||| 188
+Fall Out Boy ||| 187
+Default ||| 185
+Panic! at the Disco ||| 181
+Andrew Shanafelt ||| 180
+Red Hot Chili Peppers ||| 174
+Taking Back Sunday ||| 174
+The Presidents of the United States of America ||| 169
+Brand New ||| 164
+New Found Glory ||| 163
+Simon & Garfunkel ||| 162
+The Smashing Pumpkins ||| 159
+Rancid ||| 152
+Hoobastank ||| 151
+Nickelback ||| 148
+## playcount: 14030

@@ -1,0 +1,51 @@
+Guns N' Roses ||| 24
+Bullet for My Valentine ||| 17
+Rage Against the Machine ||| 14
+Garbage ||| 12
+Motörhead ||| 12
+Aerosmith ||| 11
+The Cranberries ||| 11
+Foo Fighters ||| 10
+David Bowie ||| 9
+Iron Maiden ||| 9
+Ozzy Osbourne ||| 9
+Red Hot Chili Peppers ||| 9
+Depeche Mode ||| 8
+Kansas ||| 8
+Nirvana ||| 8
+Republica ||| 8
+Black Sabbath ||| 7
+Disturbed ||| 7
+Michael Jackson ||| 7
+Queen ||| 7
+Rush ||| 7
+Slipknot ||| 7
+Def Leppard ||| 6
+Oasis ||| 6
+Sex Pistols ||| 6
+Soil ||| 6
+The Offspring ||| 6
+Velvet Revolver ||| 6
+White Zombie ||| 6
+Audioslave ||| 5
+Cheap Trick ||| 5
+Dope ||| 5
+Electric Light Orchestra ||| 5
+Gorillaz ||| 5
+Kiss ||| 5
+Mötley Crüe ||| 5
+New Order ||| 5
+Papa Roach ||| 5
+Powerman 5000 ||| 5
+Rob Zombie ||| 5
+Skunk Anansie ||| 5
+Slash's Snakepit ||| 5
+Soundgarden ||| 5
+T. Rex ||| 5
+Tenacious D ||| 5
+Van Halen ||| 5
+AC/DC ||| 4
+Alice Cooper ||| 4
+Bon Jovi ||| 4
+Boston ||| 4
+## playcount: 364

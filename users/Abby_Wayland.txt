@@ -1,0 +1,51 @@
+Tokio Hotel ||| 44349
+Rihanna ||| 18843
+Coldplay ||| 15357
+Taylor Swift ||| 12136
+OneRepublic ||| 7833
+Glee Cast ||| 7600
+Vienna Teng ||| 6693
+Lana Del Rey ||| 6225
+Evanescence ||| 6057
+Birdy ||| 5553
+Madonna ||| 5365
+Aaliyah ||| 5317
+Beyoncé ||| 5252
+소녀시대 ||| 5075
+Adam Lambert ||| 4822
+Chris Brown ||| 4767
+Lady Gaga ||| 4386
+30 Seconds to Mars ||| 4320
+MS MR ||| 4266
+Ariana Grande ||| 4245
+安室奈美恵 ||| 4214
+Placebo ||| 4169
+Big Bang ||| 4007
+Lorde ||| 3791
+Ke$ha ||| 3565
+Kylie Minogue ||| 3529
+Florence + the Machine ||| 3457
+Adele ||| 3319
+A Perfect Circle ||| 3291
+Linkin Park ||| 3179
+Silbermond ||| 3112
+Panic! at the Disco ||| 2966
+Justin Timberlake ||| 2944
+Kanye West ||| 2799
+Loreen ||| 2772
+Tinashe ||| 2677
+The Chainsmokers ||| 2666
+Sia ||| 2627
+Demi Lovato ||| 2611
+Fall Out Boy ||| 2558
+Hurts ||| 2558
+Kelly Clarkson ||| 2538
+Muse ||| 2386
+Дима Билан ||| 2342
+Marina & the Diamonds ||| 2281
+2NE1 ||| 2263
+Delta Goodrem ||| 2232
+Christina Aguilera ||| 2190
+Troye Sivan ||| 2113
+Полина Гагарина ||| 2085
+## playcount: 265702

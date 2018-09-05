@@ -1,0 +1,51 @@
+The Rolling Stones ||| 2923
+The Beatles ||| 2759
+The White Stripes ||| 2502
+Arctic Monkeys ||| 2276
+Nirvana ||| 1938
+The Doors ||| 1623
+Led Zeppelin ||| 1542
+The Smiths ||| 1521
+Marilyn Manson ||| 1447
+Bob Dylan ||| 1240
+Lana Del Rey ||| 1197
+Alice in Chains ||| 1149
+Black Sabbath ||| 855
+AC/DC ||| 790
+Rory Gallagher ||| 758
+Limp Bizkit ||| 713
+The Dead Weather ||| 686
+Sex Pistols ||| 683
+The Jimi Hendrix Experience ||| 654
+Elvis Presley ||| 629
+Jack White ||| 612
+Korn ||| 583
+The Cult ||| 583
+David Bowie ||| 569
+Oasis ||| 560
+Fleetwood Mac ||| 511
+T. Rex ||| 489
+The Prodigy ||| 489
+Rob Zombie ||| 471
+Slipknot ||| 440
+Creedence Clearwater Revival ||| 435
+Jimi Hendrix ||| 429
+The Kinks ||| 404
+Red Hot Chili Peppers ||| 386
+The Who ||| 368
+Metallica ||| 337
+Cream ||| 320
+Pink Floyd ||| 264
+Frank Sinatra ||| 256
+The Stone Roses ||| 255
+Queens of the Stone Age ||| 243
+Neil Young ||| 241
+Deep Purple ||| 237
+Lady Gaga ||| 218
+Rammstein ||| 218
+Iron Maiden ||| 217
+Kasabian ||| 217
+The Raconteurs ||| 217
+Florence + the Machine ||| 216
+Linkin Park ||| 211
+## playcount: 38881

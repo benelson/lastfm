@@ -1,0 +1,51 @@
+Danzig ||| 486
+Alice in Chains ||| 349
+Ratt ||| 343
+Pantera ||| 223
+Van Halen ||| 207
+Helmet ||| 202
+Down ||| 197
+Warrant ||| 190
+Tad ||| 162
+Stone Temple Pilots ||| 151
+Dokken ||| 147
+David Lee Roth ||| 143
+Screaming Trees ||| 142
+Soundgarden ||| 141
+Fear Factory ||| 135
+Judas Priest ||| 133
+Ozzy Osbourne ||| 125
+Poison ||| 125
+Static-X ||| 125
+The Doors ||| 124
+Faith No More ||| 123
+Guns N' Roses ||| 121
+Skid Row ||| 117
+The Police ||| 115
+Jerry Cantrell ||| 110
+Deftones ||| 108
+Misfits ||| 101
+Hole ||| 94
+Pearl Jam ||| 94
+Type O Negative ||| 86
+Crowbar ||| 83
+Melvins ||| 80
+Def Leppard ||| 79
+Mother Love Bone ||| 79
+Steel Panther ||| 78
+Corrosion of Conformity ||| 76
+Iron Maiden ||| 75
+Black Sabbath ||| 73
+Kix ||| 73
+Suicidal Tendencies ||| 72
+Anthrax ||| 70
+Lynch Mob ||| 68
+Ugly Kid Joe ||| 68
+White Zombie ||| 68
+Temple of the Dog ||| 67
+Alabama Thunderpussy ||| 66
+Blind Melon ||| 62
+Cinderella ||| 61
+Mad Season ||| 61
+Paradise Lost ||| 61
+## playcount: 6339

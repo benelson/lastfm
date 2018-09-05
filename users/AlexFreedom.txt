@@ -1,0 +1,51 @@
+Arcade Fire ||| 47
+Malajube ||| 23
+Blur ||| 8
+Beck ||| 6
+Franz Ferdinand ||| 6
+Alanis Morissette ||| 5
+Arctic Monkeys ||| 5
+Faith No More ||| 5
+Modest Mouse ||| 5
+Muse ||| 5
+PJ Harvey ||| 5
+Placebo ||| 5
+Radiohead ||| 5
+The White Stripes ||| 5
+U2 ||| 5
+Audioslave ||| 4
+Autechre ||| 4
+Boards of Canada ||| 4
+Coldplay ||| 4
+Colours Run ||| 4
+Death Cab for Cutie ||| 4
+Foo Fighters ||| 4
+Garbage ||| 4
+Jimmy Eat World ||| 4
+Moby ||| 4
+Nirvana ||| 4
+Queens of the Stone Age ||| 4
+R.E.M. ||| 4
+Rage Against the Machine ||| 4
+Red Hot Chili Peppers ||| 4
+The Decemberists ||| 4
+Weezer ||| 4
+Air ||| 3
+blink-182 ||| 3
+Bloc Party ||| 3
+dredg ||| 3
+Green Day ||| 3
+Incubus ||| 3
+Interpol ||| 3
+KingBathmat ||| 3
+Korn ||| 3
+Linkin Park ||| 3
+Massive Attack ||| 3
+Matchbox Twenty ||| 3
+My Chemical Romance ||| 3
+Nickelback ||| 3
+Nine Inch Nails ||| 3
+No Doubt ||| 3
+Pearl Jam ||| 3
+Pixies ||| 3
+## playcount: 262

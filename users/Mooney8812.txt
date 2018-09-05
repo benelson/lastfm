@@ -1,0 +1,51 @@
+Beyoncé ||| 232
+Jason Mraz ||| 204
+Rihanna ||| 170
+Justin Timberlake ||| 122
+Lady Gaga ||| 33
+Adele ||| 29
+Kanye West ||| 19
+Nicki Minaj ||| 18
+王力宏 ||| 18
+陳奕迅 ||| 18
+Jay-Z ||| 16
+Gym Class Heroes ||| 15
+Coldplay ||| 13
+Drake ||| 13
+南拳媽媽 ||| 13
+Green Day ||| 12
+Maroon 5 ||| 12
+陳冠希 ||| 12
+Lil' Wayne ||| 11
+Black Eyed Peas ||| 10
+Linkin Park ||| 10
+爽子 ||| 10
+Bad Meets Evil ||| 9
+Cobra Starship ||| 9
+David Guetta ||| 9
+Ke$ha ||| 9
+Nicole Scherzinger ||| 9
+莫文蔚 ||| 9
+B.o.B ||| 8
+LMFAO ||| 8
+Michael Jackson ||| 8
+Mika ||| 8
+Eli Young Band ||| 7
+Example ||| 7
+Jake Owen ||| 7
+Jason Derülo ||| 7
+Justin Bieber ||| 7
+Lady Antebellum ||| 7
+One Direction ||| 7
+Robin Thicke ||| 7
+The Fray ||| 7
+萧敬腾 ||| 7
+Beyond ||| 6
+Brad Paisley ||| 6
+Bruno Mars ||| 6
+Dev ||| 6
+DJ Khaled ||| 6
+Foster the People ||| 6
+Hot Chelle Rae ||| 6
+Iyaz ||| 6
+## playcount: 1214

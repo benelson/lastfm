@@ -1,0 +1,51 @@
+Frank Zappa ||| 3350
+The Rolling Stones ||| 3343
+The Beatles ||| 2968
+Neil Young ||| 2193
+Paul McCartney ||| 2181
+The Beach Boys ||| 2117
+Prince ||| 1903
+Bruce Springsteen ||| 1898
+Grateful Dead ||| 1831
+Pearl Jam ||| 1703
+Phish ||| 1560
+Bob Dylan ||| 1556
+Johnny Cash ||| 1354
+Kiss ||| 1342
+Elvis Presley ||| 1278
+The Pogues ||| 1255
+Cheap Trick ||| 1227
+Pink Floyd ||| 1068
+Billy Joel ||| 996
+Queen ||| 928
+John Lennon ||| 839
+Miles Davis ||| 783
+The Clash ||| 775
+Tom Waits ||| 770
+The Black Crowes ||| 700
+Frank Sinatra ||| 691
+Fleetwood Mac ||| 682
+Nirvana ||| 641
+Led Zeppelin ||| 570
+The Doors ||| 568
+George Harrison ||| 564
+Elton John ||| 542
+Aerosmith ||| 519
+Guns N' Roses ||| 468
+Genesis ||| 432
+The Byrds ||| 423
+Brian Wilson ||| 422
+Afghan Whigs ||| 418
+Oasis ||| 413
+Foo Fighters ||| 401
+Creedence Clearwater Revival ||| 390
+Lenny Kravitz ||| 381
+The White Stripes ||| 376
+Chicago ||| 373
+Dave Matthews Band ||| 367
+Andrew Dice Clay ||| 365
+Marvin Gaye ||| 353
+Peter Gabriel ||| 350
+Mick Jagger ||| 336
+Keith Richards ||| 335
+## playcount: 51298

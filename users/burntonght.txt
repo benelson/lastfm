@@ -1,0 +1,51 @@
+Michael Jackson ||| 76
+Lana Del Rey ||| 34
+The Pretty Reckless ||| 28
+Marina & the Diamonds ||| 21
+Pearl Jam ||| 18
+Arctic Monkeys ||| 16
+Bon Jovi ||| 16
+Elvis Presley ||| 16
+Ed Sheeran ||| 13
+John Travolta ||| 11
+Tove Lo ||| 11
+Nirvana ||| 10
+Legião Urbana ||| 9
+Linkin Park ||| 9
+Charli XCX ||| 8
+Caetano Veloso ||| 7
+Cazuza ||| 6
+Mamonas Assassinas ||| 6
+The Maine ||| 6
+Coldplay ||| 5
+Crystal Castles ||| 5
+Evanescence ||| 5
+Nickelback ||| 5
+Gotye ||| 4
+Kate Nash ||| 4
+Marilyn Manson ||| 4
+The Beatles ||| 4
+Tony Sheridan ||| 4
+Adele ||| 3
+Kimbra ||| 3
+Paramore ||| 3
+Queen ||| 3
+System of a Down ||| 3
+The Strokes ||| 3
+Beyoncé ||| 2
+Health ||| 2
+Jay-Z ||| 2
+Joe Cocker ||| 2
+Los Hermanos ||| 2
+Oasis ||| 2
+Pink Floyd ||| 2
+Quincy Jones ||| 2
+Sia ||| 2
+The Cure ||| 2
+The Smiths ||| 2
+Beatle Things ||| 1
+Cage the Elephant ||| 1
+Chuck Berry ||| 1
+Dave Grohl ||| 1
+Foo Fighters ||| 1
+## playcount: 406

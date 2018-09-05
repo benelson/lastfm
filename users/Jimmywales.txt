@@ -1,0 +1,51 @@
+Oasis ||| 2842
+Arctic Monkeys ||| 1122
+Iron Maiden ||| 1086
+Rage Against the Machine ||| 858
+Red Hot Chili Peppers ||| 700
+Metallica ||| 619
+Kasabian ||| 548
+Pantera ||| 547
+Nine Inch Nails ||| 526
+Dire Straits ||| 368
+Jake Bugg ||| 325
+The Stranglers ||| 304
+AC/DC ||| 277
+Milburn ||| 274
+The Coup ||| 268
+Kanye West ||| 262
+The Killers ||| 258
+Noel Gallagher's High Flying Birds ||| 255
+Limp Bizkit ||| 242
+Slayer ||| 242
+Bruce Springsteen ||| 229
+Pink Floyd ||| 229
+Public Enemy ||| 229
+Eric Clapton ||| 228
+N-Dubz ||| 222
+Frank Zappa ||| 213
+Johnny Cash ||| 211
+Fatboy Slim ||| 210
+Audioslave ||| 209
+Elton John ||| 196
+Skepta ||| 195
+Taylor Swift ||| 194
+Pulp ||| 192
+Nirvana ||| 185
+The Stone Roses ||| 180
+Simon & Garfunkel ||| 178
+Foo Fighters ||| 176
+Beady Eye ||| 175
+Lamb of God ||| 168
+La Roux ||| 157
+ABBA ||| 156
+Rammstein ||| 152
+Dr. Dre ||| 148
+MC Devvo ||| 145
+Travis ||| 143
+Neil Young ||| 142
+The Prodigy ||| 142
+Bob Dylan ||| 140
+Jessie J ||| 132
+Wu-Tang Clan ||| 130
+## playcount: 17329

@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 9455
+Kings of Leon ||| 4442
+Coldplay ||| 3836
+Red Hot Chili Peppers ||| 3501
+Kasabian ||| 2471
+Kodaline ||| 1260
+Incubus ||| 1227
+The Neighbourhood ||| 964
+alt-J ||| 946
+The Kooks ||| 888
+Flume ||| 796
+The Black Keys ||| 692
+Queens of the Stone Age ||| 682
+Crystal Fighters ||| 626
+Nirvana ||| 625
+The xx ||| 614
+Die Antwoord ||| 566
+Ben Howard ||| 521
+Led Zeppelin ||| 517
+The Hives ||| 517
+System of a Down ||| 509
+Archive ||| 495
+Mumford & Sons ||| 483
+Chet Faker ||| 479
+Myslovitz ||| 465
+AC/DC ||| 450
+Miles Kane ||| 450
+U2 ||| 450
+Foo Fighters ||| 412
+Black Eyed Peas ||| 390
+Radiohead ||| 389
+Cage the Elephant ||| 388
+Linkin Park ||| 355
+Disclosure ||| 327
+Band of Skulls ||| 324
+Bring Me the Horizon ||| 315
+30 Seconds to Mars ||| 312
+The 1975 ||| 312
+The Libertines ||| 310
+Crystal Castles ||| 305
+The Prodigy ||| 302
+Limp Bizkit ||| 300
+Eminem ||| 296
+Pearl Jam ||| 296
+Green Day ||| 288
+Pixies ||| 282
+Daughter ||| 261
+Hozier ||| 255
+Foals ||| 250
+Muse ||| 224
+## playcount: 45820

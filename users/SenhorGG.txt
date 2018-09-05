@@ -1,0 +1,51 @@
+Madonna ||| 28146
+Mariah Carey ||| 21809
+Katy Perry ||| 20772
+Taylor Swift ||| 12037
+Rihanna ||| 11923
+Lana Del Rey ||| 11241
+Cícero ||| 11102
+Ellie Goulding ||| 11100
+The Beatles ||| 10191
+Britney Spears ||| 9742
+Engenheiros Do Hawaii ||| 9443
+Sia ||| 9050
+Miley Cyrus ||| 8841
+Amy Winehouse ||| 8511
+Marina & the Diamonds ||| 8163
+Lady Gaga ||| 8109
+Florence + the Machine ||| 7796
+Avril Lavigne ||| 7667
+Beyoncé ||| 6098
+Christina Aguilera ||| 5954
+Lorde ||| 5894
+Grimes ||| 5607
+Charli XCX ||| 5521
+Sky Ferreira ||| 5074
+MØ ||| 5026
+Ke$ha ||| 4499
+Silva ||| 4421
+Birdy ||| 4219
+Coldplay ||| 3813
+Jake Bugg ||| 3225
+St. Vincent ||| 3136
+Iggy Azalea ||| 2984
+Lily Allen ||| 2797
+Azealia Banks ||| 2767
+iamamiwhoami ||| 2641
+Tove Lo ||| 2581
+Tiago Iorc ||| 2519
+Nicki Minaj ||| 2265
+Lykke Li ||| 2104
+Björk ||| 2062
+Kylie Minogue ||| 1962
+M.I.A. ||| 1799
+Ariana Grande ||| 1655
+The xx ||| 1624
+Elis Regina ||| 1543
+Anitta ||| 1536
+Pitty ||| 1514
+Arctic Monkeys ||| 1486
+Elliphant ||| 1474
+Adele ||| 1365
+## playcount: 316808

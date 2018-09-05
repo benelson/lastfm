@@ -1,0 +1,51 @@
+Iron Maiden ||| 1234
+Charon ||| 839
+Black Sabbath ||| 608
+Nevermore ||| 543
+The Platters ||| 530
+Katatonia ||| 498
+Primal Fear ||| 484
+Mushroomhead ||| 413
+Porcupine Tree ||| 399
+Place Vendome ||| 387
+Bruce Dickinson ||| 370
+Guns N' Roses ||| 362
+Goo Goo Dolls ||| 359
+Angra ||| 349
+Kavla ||| 338
+Bee Gees ||| 335
+Binaural Beats Sleep ||| 330
+Sonic Syndicate ||| 307
+Type O Negative ||| 265
+Warrel Dane ||| 263
+The Smashing Pumpkins ||| 257
+U2 ||| 233
+Anathema ||| 226
+Tool ||| 217
+Shinedown ||| 215
+Jorn ||| 208
+Ozzy Osbourne ||| 199
+Paul Stanley ||| 199
+Johnny Cash ||| 196
+Therion ||| 196
+Scar Symmetry ||| 194
+The 69 Eyes ||| 182
+The Winery Dogs ||| 179
+Pearl Jam ||| 174
+Hans Zimmer ||| 173
+Atticus Ross ||| 172
+Allen-Lande ||| 169
+Gotthard ||| 169
+Machine Head ||| 152
+Masterplan ||| 151
+Rush ||| 149
+Kiss ||| 144
+Michael Kiske ||| 140
+David Bowie ||| 131
+The Beatles ||| 130
+Edguy ||| 125
+God Is An Astronaut ||| 125
+Amorphis ||| 123
+I Am Abomination ||| 123
+Fear Factory ||| 122
+## playcount: 14386

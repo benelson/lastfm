@@ -1,0 +1,51 @@
+Iron Maiden ||| 1393
+Metallica ||| 674
+King Diamond ||| 465
+Black Sabbath ||| 439
+Santa Cruz ||| 408
+Motörhead ||| 380
+Megadeth ||| 289
+Kiss ||| 284
+Mötley Crüe ||| 280
+Death ||| 265
+Pink Floyd ||| 261
+U2 ||| 256
+blink-182 ||| 254
+PÄÄ KII ||| 252
+Slipknot ||| 232
+Testament ||| 232
+Rush ||| 230
+Mastodon ||| 223
+The Rolling Stones ||| 217
+Mokoma ||| 197
+Slayer ||| 188
+Aerosmith ||| 187
+Led Zeppelin ||| 187
+Hardcore Superstar ||| 186
+Alice Cooper ||| 184
+Ulver ||| 183
+Bathory ||| 174
+Dream Theater ||| 174
+Tom Waits ||| 172
+Stam1na ||| 171
+Pantera ||| 169
+Sepultura ||| 167
+AC/DC ||| 160
+Deep Purple ||| 159
+In Flames ||| 159
+Venom ||| 159
+Guns N' Roses ||| 157
+The Beatles ||| 153
+Electric Wizard ||| 150
+Kreator ||| 149
+The Doors ||| 141
+A Day to Remember ||| 138
+Darkthrone ||| 133
+Impaled Nazarene ||| 131
+Esham ||| 129
+Ramones ||| 129
+Anthrax ||| 124
+Dimmu Borgir ||| 122
+Opeth ||| 121
+Napalm Death ||| 120
+## playcount: 11907

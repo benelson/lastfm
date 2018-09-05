@@ -1,0 +1,51 @@
+Johnny Cash ||| 32814
+Ricky Nelson ||| 30571
+Julio Iglesias ||| 28230
+Elvis Presley ||| 24846
+Édith Piaf ||| 21026
+Czesław Niemen ||| 17809
+Mieczysław Fogg ||| 15015
+Mazowsze ||| 14063
+Vico Torriani ||| 13950
+Paul Anka ||| 12434
+Louis Armstrong ||| 11870
+Ella Fitzgerald ||| 10963
+Farida Gangi ||| 10678
+Bing Crosby ||| 10057
+Ella Fitzgerald & Louis Armstrong ||| 9924
+Salvatore Adamo ||| 9409
+Frédéric Chopin ||| 9326
+The Platters ||| 8986
+Henry Mancini ||| 8502
+Kana king & his Hawaiians ||| 8028
+Pat Boone ||| 7970
+Jacques Brel ||| 7791
+Patriotyczne ||| 7623
+Richard Clayderman ||| 7172
+Ray Charles ||| 7040
+Fats Domino ||| 6853
+Sława Przybylska ||| 6714
+Czerwone Gitary ||| 6674
+Irena Santor ||| 6528
+Barbra Streisand ||| 6420
+Hanoar Haoved ||| 6408
+Danny Malando ||| 6175
+Frank Sinatra ||| 5995
+Hank Williams ||| 5914
+Marco Borsato ||| 5800
+Глеб Романов ||| 5703
+Maria Koterbska ||| 5410
+Doris Day ||| 5108
+The Mamas & the Papas ||| 5090
+Charles Aznavour ||| 4902
+Roy Orbison ||| 4838
+Bee Gees ||| 4691
+Chorus & Orchestra ||| 4621
+Montserrat Caballé & Shirley Verrett ||| 4611
+Billie Jo Spears ||| 4574
+Horst Jankowski ||| 4571
+Céline Dion ||| 4545
+The Ames Brothers ||| 4501
+Stanisław Grzesiuk ||| 4481
+Yves Montand ||| 4461
+## playcount: 481685

@@ -1,0 +1,51 @@
+Legião Urbana ||| 909
+Alice in Chains ||| 505
+Engenheiros Do Hawaii ||| 394
+Nirvana ||| 377
+Garbage ||| 345
+Lily Allen ||| 306
+Raul Seixas ||| 223
+Ira! ||| 197
+Matanza ||| 181
+Kings of Leon ||| 145
+Radiohead ||| 143
+Charlie Brown JR. ||| 142
+The Beatles ||| 140
+The Pretty Reckless ||| 130
+Ana Carolina ||| 88
+Rock Rocket ||| 79
+Ramones ||| 72
+The Smiths ||| 72
+Nickelback ||| 71
+Capital Inicial ||| 68
+Mamonas Assassinas ||| 66
+John Lennon ||| 65
+The Rolling Stones ||| 63
+Pearl Jam ||| 61
+Metallica ||| 58
+The Strokes ||| 58
+Foo Fighters ||| 57
+Guns N' Roses ||| 54
+Oasis ||| 51
+Lana Del Rey ||| 49
+Raimundos ||| 48
+Madonna ||| 42
+Johnny Cash ||| 39
+The Killers ||| 39
+Inkoma ||| 38
+Cássia Eller ||| 35
+Lee Hazlewood ||| 32
+Red Hot Chili Peppers ||| 31
+Arctic Monkeys ||| 29
+The Kooks ||| 29
+Bob Dylan ||| 28
+Creedence Clearwater Revival ||| 28
+AC/DC ||| 26
+Gritando HC ||| 25
+Dead Fish ||| 24
+Chico Buarque ||| 19
+Stone Temple Pilots ||| 18
+Green River ||| 17
+Marilyn Manson ||| 16
+Misfits ||| 16
+## playcount: 5748

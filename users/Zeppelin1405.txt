@@ -1,0 +1,51 @@
+Led Zeppelin ||| 14508
+The Jimi Hendrix Experience ||| 3094
+The Rolling Stones ||| 2822
+The Beatles ||| 2722
+Black Sabbath ||| 2264
+Iron Maiden ||| 2233
+Deep Purple ||| 2135
+The Who ||| 2075
+Cream ||| 2070
+Acid Drinkers ||| 1920
+Slayer ||| 1561
+AC/DC ||| 1539
+The Yardbirds ||| 1467
+The Doors ||| 1301
+Pink Floyd ||| 1141
+Creedence Clearwater Revival ||| 1009
+Metallica ||| 1004
+Lao Che ||| 812
+Megadeth ||| 805
+Motörhead ||| 781
+Luxtorpeda ||| 729
+Eric Clapton ||| 693
+Pantera ||| 691
+John Coltrane ||| 675
+The White Stripes ||| 656
+Chuck Berry ||| 644
+Page & Plant ||| 585
+John Williams ||| 579
+Thin Lizzy ||| 567
+John Mayall & The Bluesbreakers ||| 551
+David Bowie ||| 514
+Robert Plant ||| 500
+TSA ||| 490
+B.B. King ||| 475
+Miles Davis ||| 459
+U2 ||| 448
+Breakout ||| 435
+Fleetwood Mac ||| 419
+Howlin' Wolf ||| 419
+Krzysztof Komeda ||| 419
+ZZ Top ||| 415
+Jeff Beck Group ||| 414
+Yes ||| 409
+Wings ||| 398
+Band of Gypsys ||| 391
+Rush ||| 383
+Pink Freud ||| 362
+Rory Gallagher ||| 356
+Bob Marley ||| 340
+Howard Shore ||| 339
+## playcount: 62018

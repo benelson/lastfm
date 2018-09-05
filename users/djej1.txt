@@ -1,0 +1,51 @@
+Metric ||| 5011
+Red Hot Chili Peppers ||| 4046
+Rise Against ||| 3963
+The Thermals ||| 3456
+Tegan and Sara ||| 2151
+Anti-Flag ||| 2114
+The Beatles ||| 1812
+Bloc Party ||| 1799
+Art Brut ||| 1732
+Less Than Jake ||| 1730
+Lily Allen ||| 1618
+The Rolling Stones ||| 1587
+Lady Gaga ||| 1549
+Authority Zero ||| 1538
+Bad Religion ||| 1486
+Streetlight Manifesto ||| 1438
+Against Me! ||| 1363
+Eminem ||| 1314
+Robots in Disguise ||| 1298
+Kanye West ||| 1293
+Best Coast ||| 1284
+Daft Punk ||| 1240
+Sonic Youth ||| 1195
+Miranda Lambert ||| 1190
+2Pac ||| 1170
+Muse ||| 1166
+The Clash ||| 1157
+Alice in Videoland ||| 1107
+The Who ||| 1061
+Band of Horses ||| 1051
+Trick Daddy ||| 1023
+Sexy Sushi ||| 1022
+NOFX ||| 1015
+The Gaslight Anthem ||| 998
+Pixies ||| 970
+Marnie Stern ||| 933
+Arcade Fire ||| 932
+Kaiser Chiefs ||| 917
+Thursday ||| 900
+The Shangri-Las ||| 868
+T.I. ||| 852
+Regina Spektor ||| 835
+Nas ||| 833
+Lupe Fiasco ||| 827
+blink-182 ||| 826
+Modest Mouse ||| 773
+AC/DC ||| 771
+Beach Day ||| 746
+The Killers ||| 733
+Talib Kweli ||| 732
+## playcount: 71425

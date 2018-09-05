@@ -1,0 +1,51 @@
+Ghost ||| 3462
+Metallica ||| 2531
+Lady Gaga ||| 1975
+Lana Del Rey ||| 1631
+HAIM ||| 1312
+Hurts ||| 1139
+Guns N' Roses ||| 1079
+Halestorm ||| 1026
+The Great Discord ||| 669
+30 Seconds to Mars ||| 617
+Mötley Crüe ||| 516
+Rihanna ||| 450
+Slash ||| 443
+Manic Street Preachers ||| 377
+Kvelertak ||| 367
+Tove Lo ||| 339
+Leathermouth ||| 335
+Ariana Grande ||| 306
+The Weeknd ||| 276
+Little Mix ||| 275
+Mindless Self Indulgence ||| 273
+СЕРГЕЙ ЛАЗАРЕВ ||| 273
+Tid ||| 260
+Alesana ||| 202
+Nine Inch Nails ||| 195
+Sharon Needles ||| 191
+Velvet Revolver ||| 187
+Subvision ||| 173
+MCC [Magna Carta Cartel] ||| 160
+Marina & the Diamonds ||| 155
+Bring Me the Horizon ||| 150
+Amy Winehouse ||| 142
+Perhosveitsi-Heikki & Lika-Aki ||| 136
+Sum 41 ||| 129
+Paramore ||| 126
+My Chemical Romance ||| 124
+Madonna ||| 120
+Selena Gomez ||| 120
+Beyoncé ||| 111
+Britney Spears ||| 109
+Marilyn Manson ||| 109
+Rammstein ||| 109
+Arctic Monkeys ||| 107
+Hole ||| 107
+The Sisters of Mercy ||| 100
+Fleetwood Mac ||| 95
+Katy Perry ||| 93
+Nirvana ||| 89
+David Guetta ||| 86
+System of a Down ||| 86
+## playcount: 23442

@@ -1,0 +1,51 @@
+Interpol ||| 7207
+Radiohead ||| 4979
+Queens of the Stone Age ||| 3661
+Arctic Monkeys ||| 3500
+Elliott Smith ||| 3149
+The National ||| 2963
+Pixies ||| 1925
+Pantera ||| 1570
+Joy Division ||| 1533
+John Frusciante ||| 1426
+The Strokes ||| 1375
+Homeshake ||| 1282
+Death Grips ||| 1243
+Kyuss ||| 1213
+Mark Lanegan ||| 1166
+Jimi Hendrix ||| 1150
+AC/DC ||| 1133
+Timber Timbre ||| 1086
+Mac DeMarco ||| 1082
+The Doors ||| 1025
+Metallica ||| 978
+The Black Keys ||| 967
+Los Hermanos ||| 955
+The Beatles ||| 843
+Frank Sinatra ||| 759
+Placebo ||| 756
+Mumford & Sons ||| 737
+Future Islands ||| 696
+Electric Wizard ||| 685
+The Tallest Man on Earth ||| 677
+Daughter ||| 659
+Arcade Fire ||| 645
+Led Zeppelin ||| 633
+Red Hot Chili Peppers ||| 630
+Meshuggah ||| 620
+Tyler, the Creator ||| 599
+Jeff Buckley ||| 564
+Kilians ||| 563
+John Mayer ||| 558
+Julian Plenti ||| 552
+St. Vincent ||| 547
+Devendra Banhart ||| 543
+Albert Hammond, Jr. ||| 539
+Soundgarden ||| 499
+Aimee Mann ||| 484
+Aphex Twin ||| 472
+Circa Survive ||| 464
+Alice in Chains ||| 460
+Pearl Jam ||| 457
+Wayne Shorter ||| 455
+## playcount: 62664

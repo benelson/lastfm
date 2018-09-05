@@ -1,0 +1,51 @@
+The Beatles ||| 3121
+The Rolling Stones ||| 3080
+Oasis ||| 1962
+Arctic Monkeys ||| 1796
+Bob Dylan ||| 1483
+Foo Fighters ||| 1010
+The Black Keys ||| 959
+Paul McCartney ||| 899
+Red Hot Chili Peppers ||| 884
+Beady Eye ||| 818
+AC/DC ||| 817
+Kings of Leon ||| 807
+Jimi Hendrix ||| 744
+Queens of the Stone Age ||| 738
+The Strokes ||| 716
+Supergrass ||| 709
+The Redwalls ||| 687
+Led Zeppelin ||| 672
+Jet ||| 654
+George Harrison ||| 584
+Black Sabbath ||| 558
+David Bowie ||| 535
+The Doors ||| 514
+Neil Young ||| 504
+The Black Crowes ||| 491
+Pink Floyd ||| 483
+John Lennon ||| 474
+Neil Young & Crazy Horse ||| 469
+Kula Shaker ||| 450
+The Who ||| 426
+The Kinks ||| 405
+Jack White ||| 394
+Franz Ferdinand ||| 384
+Cream ||| 364
+The Raconteurs ||| 359
+ZZ Top ||| 345
+Cake ||| 328
+Tame Impala ||| 328
+T. Rex ||| 307
+The Hives ||| 286
+Alabama Shakes ||| 284
+The Clash ||| 280
+The Band ||| 272
+Wolfmother ||| 260
+The Fratellis ||| 255
+Noel Gallagher's High Flying Birds ||| 251
+The Dead Weather ||| 247
+The Verve ||| 243
+Beck ||| 236
+Kasabian ||| 231
+## playcount: 34103

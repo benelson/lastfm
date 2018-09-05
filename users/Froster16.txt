@@ -1,0 +1,51 @@
+Iron Maiden ||| 54611
+Depeche Mode ||| 18617
+David Bowie ||| 13018
+Guns N' Roses ||| 11957
+Red Hot Chili Peppers ||| 8706
+Metallica ||| 5409
+Bryan Adams ||| 4808
+System of a Down ||| 4693
+Megadeth ||| 4433
+Linkin Park ||| 3943
+The Cure ||| 3759
+AC/DC ||| 3638
+Pearl Jam ||| 3468
+a-ha ||| 2486
+U2 ||| 2406
+Alice in Chains ||| 2317
+Black Sabbath ||| 2107
+Gotye ||| 2015
+Coldplay ||| 2009
+Marillion ||| 1754
+The Rolling Stones ||| 1635
+Slayer ||| 1555
+Annihilator ||| 1540
+Pantera ||| 1530
+Bon Jovi ||| 1468
+Aerosmith ||| 1441
+Judas Priest ||| 1366
+Genesis ||| 1354
+Obywatel G.C. ||| 1334
+Motörhead ||| 1326
+HammerFall ||| 1237
+Spinal Tap ||| 1166
+Jimi Hendrix ||| 1161
+Pink Floyd ||| 1081
+Miami Nights 1984 ||| 1052
+Anthrax ||| 1037
+Johnny Cash ||| 950
+Brian Eno ||| 909
+Journey ||| 906
+Sting ||| 864
+Joy Division ||| 848
+Nirvana ||| 841
+Van Halen ||| 827
+Tenacious D ||| 791
+Ozzy Osbourne ||| 782
+Rammstein ||| 750
+Jethro Tull ||| 746
+Eurythmics ||| 745
+Aphex Twin ||| 731
+Whiplash ||| 711
+## playcount: 188838

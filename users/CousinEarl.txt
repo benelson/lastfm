@@ -1,0 +1,51 @@
+Ween ||| 4311
+The Beatles ||| 4300
+Bob Marley ||| 3516
+Gorillaz ||| 3060
+Pink Floyd ||| 2406
+Depeche Mode ||| 2358
+Bad Brains ||| 1921
+The Dreadnoughts ||| 1647
+MF DOOM ||| 1509
+Madvillain ||| 1444
+Israel Kamakawiwo'ole ||| 1243
+Nujabes ||| 1237
+Maximum the Hormone ||| 1214
+Blur ||| 1197
+The Blake Robinson Synthetic Orchestra ||| 1178
+Creedence Clearwater Revival ||| 1066
+Radiohead ||| 962
+Nirvana ||| 883
+The Doors ||| 813
+The Beach Boys ||| 810
+The Clash ||| 785
+Led Zeppelin ||| 772
+A Tribe Called Quest ||| 770
+Steel Pulse ||| 676
+Fleet Foxes ||| 675
+Billy Talent ||| 622
+Jamiroquai ||| 579
+Johnny Cash ||| 578
+Black Sabbath ||| 573
+Metallica ||| 557
+The Red Army Choir ||| 546
+PINK GUY ||| 525
+Gnarls Barkley ||| 519
+The Ink Spots ||| 506
+Black Eyed Peas ||| 469
+Franz Ferdinand ||| 469
+Van Halen ||| 465
+Blue Öyster Cult ||| 459
+Dead Kennedys ||| 454
+King Geedorah ||| 444
+Bob Dylan ||| 440
+The Notorious B.I.G. ||| 439
+Elvis Presley ||| 420
+Arcade Fire ||| 402
+Fats Waller ||| 390
+Jimi Hendrix ||| 372
+Tenacious D ||| 354
+Tyler, the Creator ||| 352
+Duran Duran ||| 350
+Daft Punk ||| 346
+## playcount: 52383

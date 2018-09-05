@@ -1,0 +1,51 @@
+Bowling for Soup ||| 5560
+Red Hot Chili Peppers ||| 5367
+Streetlight Manifesto ||| 3464
+System of a Down ||| 2641
+Senses Fail ||| 2496
+Reel Big Fish ||| 2017
+The Skints ||| 1956
+The Beatles ||| 1923
+David Bowie ||| 1913
+Rise Against ||| 1866
+Korn ||| 1862
+Nickelback ||| 1831
+Mad Caddies ||| 1808
+A Day to Remember ||| 1720
+Seether ||| 1660
+Aerosmith ||| 1343
+Theory of a Deadman ||| 1285
+Fightstar ||| 1282
+Foo Fighters ||| 1245
+City and Colour ||| 1166
+Otis Redding ||| 1112
+Taking Back Sunday ||| 1096
+Avenged Sevenfold ||| 1039
+Fat Freddy's Drop ||| 1030
+Soundgarden ||| 1022
+blink-182 ||| 963
+3 Doors Down ||| 899
+You Me at Six ||| 873
+Bad Manners ||| 835
+FM Static ||| 798
+Sum 41 ||| 785
+Arctic Monkeys ||| 775
+Destiny's Child ||| 758
+We Are the Ocean ||| 741
+Three Days Grace ||| 739
+Kanye West ||| 727
+Fleetwood Mac ||| 716
+Bob Schneider ||| 703
+Rage Against the Machine ||| 702
+The Who ||| 700
+The White Stripes ||| 693
+Breaking Benjamin ||| 677
+Black Stone Cherry ||| 657
+Fall Out Boy ||| 657
+Meat Loaf ||| 648
+Alexisonfire ||| 639
+Tenacious D ||| 623
+Aretha Franklin ||| 616
+Mayday Parade ||| 612
+The Cat Empire ||| 609
+## playcount: 67849

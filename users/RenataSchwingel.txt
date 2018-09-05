@@ -1,0 +1,51 @@
+Beyoncé ||| 4491
+Katy Perry ||| 4039
+Lady Gaga ||| 1002
+Azealia Banks ||| 893
+Rihanna ||| 728
+Nicki Minaj ||| 626
+Florence + the Machine ||| 624
+Justin Timberlake ||| 603
+M.I.A. ||| 499
+Demi Lovato ||| 413
+Britney Spears ||| 367
+Foo Fighters ||| 356
+Madonna ||| 332
+Shakira ||| 330
+Destiny's Child ||| 319
+P!nk ||| 308
+David Guetta ||| 276
+Alicia Keys ||| 266
+Calvin Harris ||| 249
+Kanye West ||| 242
+Sam Smith ||| 229
+Sia ||| 220
+Nirvana ||| 213
+U2 ||| 197
+Fergie ||| 196
+Ed Sheeran ||| 195
+Icona Pop ||| 190
+Adele ||| 180
+Black Eyed Peas ||| 177
+The Pussycat Dolls ||| 174
+Ciara ||| 163
+Jessie J ||| 157
+Daft Punk ||| 146
+Gwen Stefani ||| 143
+Jason Derülo ||| 143
+Little Mix ||| 141
+Muse ||| 140
+The Weeknd ||| 139
+Guns N' Roses ||| 138
+Ke$ha ||| 134
+Paramore ||| 134
+Clean Bandit ||| 125
+Jack White ||| 124
+Mariah Carey ||| 124
+Meghan Trainor ||| 124
+Amy Winehouse ||| 120
+David Bowie ||| 120
+Criolo ||| 119
+Ariana Grande ||| 117
+Christina Aguilera ||| 117
+## playcount: 21602

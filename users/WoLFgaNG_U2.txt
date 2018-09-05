@@ -1,0 +1,51 @@
+U2 ||| 9481
+Muse ||| 4401
+Pearl Jam ||| 4103
+The Cranberries ||| 2323
+Coldplay ||| 2315
+Poets of the Fall ||| 2086
+Nightwish ||| 1819
+Tarja ||| 1656
+Three Days Grace ||| 1650
+Foo Fighters ||| 1625
+Oasis ||| 1503
+Iron Maiden ||| 1444
+Queen ||| 1382
+Soda Stereo ||| 1305
+Gustavo Cerati ||| 1202
+Manu Chao ||| 1196
+Red Hot Chili Peppers ||| 1170
+KT Tunstall ||| 1154
+Rise Against ||| 1089
+Leaves' Eyes ||| 1087
+The Beatles ||| 1055
+Linkin Park ||| 1040
+The Killers ||| 983
+Hugh Laurie ||| 971
+Pink Floyd ||| 964
+3 Doors Down ||| 961
+Biffy Clyro ||| 955
+Paramore ||| 953
+Héroes del Silencio ||| 936
+Shinedown ||| 935
+Arctic Monkeys ||| 910
+Within Temptation ||| 910
+Placebo ||| 895
+La Vela Puerca ||| 848
+Eruca Sativa ||| 827
+Nickelback ||| 802
+Sonata Arctica ||| 781
+Nirvana ||| 765
+Snow Patrol ||| 764
+Stereophonics ||| 763
+Bad Religion ||| 753
+Garbage ||| 744
+Green Day ||| 719
+Flogging Molly ||| 718
+Divididos ||| 711
+Rammstein ||| 689
+Imagine Dragons ||| 684
+Theory of a Deadman ||| 678
+David Bowie ||| 637
+Travis ||| 637
+## playcount: 68979

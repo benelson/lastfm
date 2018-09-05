@@ -1,0 +1,51 @@
+Coldplay ||| 1632
+The Smiths ||| 1499
+Lady Gaga ||| 1280
+Lorde ||| 900
+Muse ||| 887
+Lana Del Rey ||| 675
+Foster the People ||| 651
+Lykke Li ||| 647
+Radiohead ||| 604
+Morrissey ||| 599
+Tove Lo ||| 593
+Alanis Morissette ||| 577
+Florence + the Machine ||| 517
+Taylor Swift ||| 453
+Banks ||| 411
+Red Hot Chili Peppers ||| 385
+Charli XCX ||| 379
+Azealia Banks ||| 360
+Nicki Minaj ||| 337
+Beyoncé ||| 336
+Marina & the Diamonds ||| 332
+Rihanna ||| 324
+Twenty One Pilots ||| 290
+Avril Lavigne ||| 289
+Ariana Grande ||| 283
+Lily Allen ||| 264
+Madonna ||| 259
+Demi Lovato ||| 251
+Beck ||| 249
+High School Musical ||| 229
+Paramore ||| 215
+Carly Rae Jepsen ||| 211
+Nirvana ||| 206
+Iggy Azalea ||| 201
+Arctic Monkeys ||| 199
+Kid Abelha ||| 199
+The Kooks ||| 193
+Katy Perry ||| 185
+Mariah Carey ||| 183
+Jake Bugg ||| 181
+30 Seconds to Mars ||| 165
+SZA ||| 164
+The Killers ||| 163
+The xx ||| 163
+Amy Winehouse ||| 150
+RuPaul ||| 148
+Calvin Harris ||| 147
+Vanessa Hudgens ||| 146
+Panic! at the Disco ||| 145
+Brandon Flowers ||| 144
+## playcount: 20000

@@ -1,0 +1,51 @@
+Bob Dylan ||| 4255
+Loudon Wainwright III ||| 3195
+The Byrds ||| 3038
+Wilco ||| 2686
+The Rolling Stones ||| 2578
+The Beatles ||| 2547
+Håkan Hellström ||| 2369
+The Beach Boys ||| 2041
+Bruce Springsteen ||| 1796
+Sam Cooke ||| 1296
+The Magnetic Fields ||| 1117
+Belle and Sebastian ||| 1100
+Tom Waits ||| 1058
+Paul Simon ||| 1013
+Pink Floyd ||| 965
+Oasis ||| 913
+Elvis Presley ||| 890
+bob hund ||| 838
+Jens Lekman ||| 801
+Harry Nilsson ||| 721
+The Smiths ||| 704
+Otis Redding ||| 640
+Simon & Garfunkel ||| 627
+Gram Parsons ||| 624
+Motorpsycho ||| 620
+Ryan Adams ||| 586
+Pavement ||| 584
+Johann Sebastian Bach ||| 578
+The Shins ||| 545
+The Four Tops ||| 513
+Grateful Dead ||| 512
+The Clash ||| 512
+Josh Rouse ||| 496
+The Flying Burrito Brothers ||| 473
+David Bowie ||| 471
+The Band ||| 471
+Herr Nilsson ||| 468
+Glen Campbell ||| 460
+Smokey Robinson and The Miracles ||| 427
+The Who ||| 407
+Side Brok ||| 395
+Elvis Costello ||| 388
+The Bonzo Dog Band ||| 385
+Broder Daniel ||| 374
+Dusty Springfield ||| 372
+Spiritualized ||| 372
+The Stone Roses ||| 368
+Radiohead ||| 365
+Marvin Gaye ||| 363
+Paul McCartney ||| 363
+## playcount: 49680

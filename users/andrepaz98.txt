@@ -1,0 +1,51 @@
+AC/DC ||| 11312
+The Beatles ||| 4679
+Nirvana ||| 4290
+Megadeth ||| 3714
+30 Seconds to Mars ||| 2994
+Metallica ||| 2362
+Iron Maiden ||| 2010
+Slipknot ||| 1882
+blink-182 ||| 1866
+Strike ||| 1607
+Ramones ||| 1601
+The Clash ||| 1235
+Linkin Park ||| 886
+Charlie Brown JR. ||| 818
+Foo Fighters ||| 778
+New Found Glory ||| 770
+Avenged Sevenfold ||| 752
+Engenheiros Do Hawaii ||| 717
+Matanza ||| 698
+Sex Pistols ||| 601
+Capital Inicial ||| 585
+Ozzy Osbourne ||| 492
+Brothers of Brazil ||| 460
+Cazuza ||| 397
+Faith No More ||| 364
+CPM 22 ||| 350
+Pantera ||| 346
+Red Hot Chili Peppers ||| 344
+Lifehouse ||| 330
+The Cure ||| 327
+Black Sabbath ||| 312
+Avril Lavigne ||| 309
+Green Day ||| 298
+The Strokes ||| 298
+Paramore ||| 290
+Joan Jett ||| 284
+My Chemical Romance ||| 283
+Garage Fuzz ||| 281
+Nickelback ||| 273
+Fall Out Boy ||| 266
+Black Eyed Peas ||| 239
+The Classic Crime ||| 235
+Bittersweet Symphony ||| 233
+Muse ||| 232
+The Kooks ||| 228
+Angra ||| 210
+Coldplay ||| 209
+Pg ||| 207
+Hateen ||| 204
+Bon Jovi ||| 195
+## playcount: 54653

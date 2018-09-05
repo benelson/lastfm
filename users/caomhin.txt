@@ -1,0 +1,51 @@
+Weezer ||| 5043
+The Rolling Stones ||| 4707
+Garbage ||| 4025
+The Divine Comedy ||| 3779
+Johnny Cash ||| 3510
+Duke Special ||| 3074
+R.E.M. ||| 2672
+Kaiser Chiefs ||| 2439
+Red Hot Chili Peppers ||| 1974
+Fountains of Wayne ||| 1633
+Oasis ||| 1633
+Pink Floyd ||| 1567
+Supertramp ||| 1550
+Shiny Toy Guns ||| 1475
+"Weird Al" Yankovic ||| 1458
+Jack Johnson ||| 1440
+Mark Ronson ||| 1387
+The Feeling ||| 1371
+The Rasmus ||| 1257
+The Clash ||| 1210
+The Jam ||| 1197
+The Beatles ||| 1169
+Kanye West ||| 1133
+Saybia ||| 1116
+Lester Norton ||| 1046
+Traveling Wilburys ||| 1032
+The View ||| 997
+Sixpence None the Richer ||| 965
+Lady Gaga ||| 904
+William Shatner ||| 904
+Chris Isaak ||| 889
+The Killers ||| 888
+George Harrison ||| 862
+The Thrills ||| 852
+The Hoosiers ||| 836
+Travis ||| 794
+Death Cab for Cutie ||| 763
+Athlete ||| 762
+The Fray ||| 681
+Snow Patrol ||| 668
+Ani DiFranco ||| 663
+Blur ||| 660
+Blondie ||| 624
+Pet Shop Boys ||| 615
+Placebo ||| 592
+Faithless ||| 566
+Liz Phair ||| 558
+The Who ||| 543
+Gorillaz ||| 531
+Paul Anka ||| 531
+## playcount: 71545

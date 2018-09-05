@@ -1,0 +1,51 @@
+The Beatles ||| 4601
+John Lennon ||| 3947
+Bob Dylan ||| 1565
+Pink Floyd ||| 1024
+The Doors ||| 634
+Júpiter Maçã ||| 411
+The Velvet Underground ||| 382
+Elvis Presley ||| 339
+Led Zeppelin ||| 298
+The Avett Brothers ||| 230
+Paul McCartney ||| 225
+AC/DC ||| 210
+Jimi Hendrix ||| 209
+Creedence Clearwater Revival ||| 189
+Simon & Garfunkel ||| 154
+Paul McCartney & Wings ||| 151
+Marmalade ||| 148
+Chuck Berry ||| 140
+Jupiter Apple ||| 125
+Buddy Holly ||| 78
+Little Richard ||| 73
+The Clash ||| 72
+Blur ||| 71
+Syd Barrett ||| 58
+Raul Seixas ||| 54
+Roger Waters ||| 53
+Queen ||| 43
+David Bowie ||| 37
+Jerry Lee Lewis ||| 36
+Paul & Linda McCartney ||| 35
+Os Mutantes ||| 33
+Dead Man's Bones ||| 32
+Os Cascavelletes ||| 32
+The Rolling Stones ||| 27
+Eric Clapton ||| 25
+Metallica ||| 24
+B.B. King ||| 20
+Screamin' Jay Hawkins ||| 15
+Júpiter Maçã & Os Pereiras Azuis ||| 14
+Ramones ||| 13
+Bob Dylan and The Band ||| 12
+Pyotr Ilyich Tchaikovsky ||| 9
+Ben E. King ||| 8
+Joe Jeffrey Group ||| 8
+Louis Armstrong ||| 8
+Percy Sledge ||| 8
+The Happenings ||| 8
+Mamonas Assassinas ||| 7
+George Harrison ||| 6
+Elvis & Jerry Lee ||| 5
+## playcount: 15906

@@ -1,0 +1,51 @@
+Oasis ||| 2756
+Arctic Monkeys ||| 2482
+The Beatles ||| 2300
+The Strokes ||| 1172
+Maroon 5 ||| 824
+The Rolling Stones ||| 658
+Noel Gallagher's High Flying Birds ||| 620
+Noel Gallagher ||| 574
+Beady Eye ||| 537
+The Last Shadow Puppets ||| 513
+Lily Allen ||| 439
+Miles Kane ||| 425
+The Kooks ||| 389
+Depeche Mode ||| 354
+Skank ||| 333
+Foster the People ||| 306
+Led Zeppelin ||| 289
+The Who ||| 286
+The Rascals ||| 250
+Pitty ||| 245
+The Verve ||| 235
+The Smiths ||| 200
+Coldplay ||| 186
+The Jam ||| 167
+Nirvana ||| 158
+Julian Casablancas ||| 152
+The Killers ||| 148
+AC/DC ||| 147
+The Cure ||| 143
+The Stone Roses ||| 136
+The Black Keys ||| 133
+The White Stripes ||| 118
+Pink Floyd ||| 110
+Charlie Brown JR. ||| 105
+Blur ||| 103
+U2 ||| 102
+Fall Out Boy ||| 98
+Franz Ferdinand ||| 91
+Bob Dylan ||| 87
+Katy Perry ||| 87
+Jimi Hendrix ||| 80
+Capital Inicial ||| 79
+Foo Fighters ||| 73
+Paul McCartney & Wings ||| 73
+Amy Winehouse ||| 71
+Jessie J ||| 70
+John Lennon ||| 63
+Red Hot Chili Peppers ||| 59
+Lady Gaga ||| 58
+Kara's Flowers ||| 57
+## playcount: 19141

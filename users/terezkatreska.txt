@@ -1,0 +1,51 @@
+Lana Del Rey ||| 195
+Parov Stelar ||| 147
+Foals ||| 101
+Gnarls Barkley ||| 97
+Mumford & Sons ||| 94
+The Black Keys ||| 92
+Justin Timberlake ||| 83
+Daft Punk ||| 74
+Buena Vista Social Club ||| 72
+Dan Auerbach ||| 70
+Etta James ||| 56
+Beyoncé ||| 54
+Kings of Leon ||| 54
+Manu Chao ||| 53
+The Neighbourhood ||| 53
+Django Reinhardt ||| 51
+Band of Horses ||| 50
+Arctic Monkeys ||| 46
+alt-J ||| 43
+Woodkid ||| 38
+Jimi Hendrix ||| 37
+Queens of the Stone Age ||| 35
+The Beatles ||| 35
+The Kooks ||| 35
+Jake Bugg ||| 33
+The National ||| 33
+Nouvelle Vague ||| 31
+Stevie Wonder ||| 31
+The Rolling Stones ||| 31
+Wolfmother ||| 30
+Norah Jones ||| 29
+Razorlight ||| 29
+Buddy Guy ||| 28
+Florence + the Machine ||| 27
+AlunaGeorge ||| 26
+Richard Müller ||| 26
+Aloe Blacc ||| 25
+Pharrell Williams ||| 25
+Rudimental ||| 25
+Example ||| 24
+Fink ||| 24
+Boy Wonder ||| 23
+Chromeo ||| 22
+Gorillaz ||| 22
+Wolfgang Amadeus Mozart ||| 22
+Amy Winehouse ||| 21
+Elvis Presley ||| 20
+Depeche Mode ||| 19
+Enter Shikari ||| 19
+Rihanna ||| 19
+## playcount: 2329

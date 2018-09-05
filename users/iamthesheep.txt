@@ -1,0 +1,51 @@
+Pink Floyd ||| 8391
+Led Zeppelin ||| 3650
+Rush ||| 1848
+The Smashing Pumpkins ||| 1522
+Jethro Tull ||| 1482
+The Doors ||| 1295
+Pearl Jam ||| 1125
+The Rolling Stones ||| 908
+Black Sabbath ||| 806
+The Beatles ||| 797
+Alice in Chains ||| 784
+Bob Dylan ||| 706
+Neil Young ||| 705
+MGMT ||| 692
+Morphine ||| 624
+Iron Maiden ||| 587
+David Bowie ||| 565
+Blind Melon ||| 554
+Jefferson Airplane ||| 531
+Eric Clapton ||| 492
+The Raconteurs ||| 485
+Daft Punk ||| 470
+The Jimi Hendrix Experience ||| 464
+Syd Barrett ||| 459
+Jimi Hendrix ||| 428
+Supertramp ||| 427
+Fleet Foxes ||| 407
+John Lennon ||| 407
+Cream ||| 362
+Scorpions ||| 355
+The Velvet Underground ||| 349
+Blue Öyster Cult ||| 343
+George Harrison ||| 322
+Secos & Molhados ||| 322
+Grateful Dead ||| 314
+Nirvana ||| 309
+Yes ||| 304
+Ozzy Osbourne ||| 292
+Joy Division ||| 286
+Legião Urbana ||| 263
+Rainbow ||| 262
+Roger Waters ||| 257
+Fleetwood Mac ||| 256
+Creedence Clearwater Revival ||| 250
+David Gilmour ||| 243
+Ramones ||| 242
+Alter Bridge ||| 240
+Half Moon Run ||| 240
+Simon & Garfunkel ||| 239
+Mad Season ||| 238
+## playcount: 37899

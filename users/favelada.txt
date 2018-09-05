@@ -1,0 +1,51 @@
+Madonna ||| 3356
+Grace Jones ||| 1561
+Janet Jackson ||| 1539
+Björk ||| 1236
+Britney Spears ||| 1067
+M.I.A. ||| 958
+Florence + the Machine ||| 822
+P!nk ||| 798
+Kylie Minogue ||| 734
+Shakira ||| 655
+Christina Aguilera ||| 604
+Michael Jackson ||| 575
+Kanye West ||| 556
+Miranda Lambert ||| 479
+Justin Timberlake ||| 402
+Azealia Banks ||| 292
+Mariah Carey ||| 178
+Lady Gaga ||| 146
+Rihanna ||| 79
+Cyndi Lauper ||| 65
+Ke$ha ||| 57
+Lily Allen ||| 52
+Miley Cyrus ||| 40
+Melanie Martinez ||| 37
+Nicki Minaj ||| 33
+Beyoncé ||| 29
+Katy Perry ||| 28
+Tove Lo ||| 25
+Ariana Grande ||| 23
+Avril Lavigne ||| 23
+Marina & the Diamonds ||| 22
+Dev ||| 21
+Bruno Mars ||| 19
+FKA twigs ||| 19
+Thomas Rhett ||| 19
+Fall Out Boy ||| 18
+Halsey ||| 18
+Tony Bennett ||| 18
+Gwen Stefani ||| 17
+Lana Del Rey ||| 17
+Selena Gomez ||| 17
+Anitta ||| 16
+Drake ||| 16
+Fifth Harmony ||| 16
+Iggy Azalea ||| 16
+Adele ||| 15
+Little Mix ||| 15
+Parov Stelar ||| 15
+Demi Lovato ||| 14
+Jack Ü ||| 14
+## playcount: 16791

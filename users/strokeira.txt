@@ -1,0 +1,51 @@
+Lana Del Rey ||| 1477
+Arctic Monkeys ||| 1256
+The Smiths ||| 1256
+The Strokes ||| 993
+Crystal Castles ||| 642
+Tame Impala ||| 504
+The xx ||| 332
+Florence + the Machine ||| 326
+Mac DeMarco ||| 283
+Nirvana ||| 199
+Kings of Leon ||| 194
+Foo Fighters ||| 180
+Alex Turner ||| 177
+System of a Down ||| 157
+Homeshake ||| 144
+blink-182 ||| 137
+Beach Fossils ||| 132
+Marina & the Diamonds ||| 132
+Sky Ferreira ||| 125
+Oasis ||| 123
+American Football ||| 116
+Red Hot Chili Peppers ||| 111
+The Kooks ||| 111
+Led Zeppelin ||| 109
+Grimes ||| 106
+Coldplay ||| 96
+Cícero ||| 87
+Tyler, the Creator ||| 85
+MGMT ||| 77
+Melody's Echo Chamber ||| 73
+The Cranberries ||| 72
+Metallica ||| 67
+Forfun ||| 66
+Joy Division ||| 66
+Boogarins ||| 65
+The Black Keys ||| 62
+Megadeth ||| 55
+Amy Winehouse ||| 47
+Arcade Fire ||| 47
+Radiohead ||| 47
+Foster the People ||| 41
+La Dispute ||| 40
+Joyce Manor ||| 39
+Pearl Jam ||| 39
+Queens of the Stone Age ||| 36
+O Terno ||| 34
+Foals ||| 33
+SoKo ||| 33
+Wild Nothing ||| 33
+Daft Punk ||| 31
+## playcount: 10693

@@ -1,0 +1,51 @@
+Korn ||| 2412
+Deftones ||| 2389
+Foo Fighters ||| 2335
+A Day to Remember ||| 2249
+The Used ||| 1641
+Bullet for My Valentine ||| 1525
+Linkin Park ||| 1515
+blink-182 ||| 1472
+Bring Me the Horizon ||| 1460
+Asking Alexandria ||| 1338
+blessthefall ||| 1220
+Forfun ||| 1191
+Chevelle ||| 1120
+30 Seconds to Mars ||| 1107
+Marilyn Manson ||| 1036
+Green Day ||| 1006
+Bury Tomorrow ||| 979
+As I Lay Dying ||| 978
+Avenged Sevenfold ||| 962
+Underoath ||| 898
+Alexisonfire ||| 871
+Slipknot ||| 863
+Three Days Grace ||| 750
+The Devil Wears Prada ||| 725
+Funeral for a Friend ||| 692
+Finch ||| 673
+Papa Roach ||| 662
+The Offspring ||| 659
+Anberlin ||| 644
+My Chemical Romance ||| 644
+Static-X ||| 640
+Faith No More ||| 622
+Nirvana ||| 619
+Architects ||| 616
+Kings of Leon ||| 611
+Alice in Chains ||| 609
+Silverchair ||| 585
+BRAZA ||| 584
+Arctic Monkeys ||| 574
+Emarosa ||| 569
+Atreyu ||| 563
+Incubus ||| 541
+Rammstein ||| 513
+Before Their Eyes ||| 508
+Darkest Hour ||| 505
+Imagine Dragons ||| 492
+He Is Legend ||| 483
+System of a Down ||| 472
+Thrice ||| 458
+Of Mice & Men ||| 455
+## playcount: 47035

@@ -1,0 +1,51 @@
+Glenn Gould ||| 642
+Tom Petty and The Heartbreakers ||| 496
+Bob Marley & The Wailers ||| 481
+Iron Maiden ||| 458
+Muse ||| 457
+Wolfgang Amadeus Mozart ||| 456
+Red Hot Chili Peppers ||| 441
+Steve Vai ||| 430
+Black Sabbath ||| 379
+Coldplay ||| 373
+Eva Cassidy ||| 347
+Buddha Bar ||| 340
+Manu Chao ||| 311
+Santana ||| 300
+Tangerine Dream ||| 299
+Jean Michel Jarre ||| 295
+Thievery Corporation ||| 281
+The Rolling Stones ||| 278
+Van Halen ||| 269
+Styx ||| 250
+Deep Purple ||| 243
+Bob Marley ||| 239
+Pat Metheny ||| 237
+Nina Simone ||| 220
+Kraftwerk ||| 215
+Aretha Franklin ||| 204
+Cal Tjader ||| 199
+Madeleine Peyroux ||| 199
+Norah Jones ||| 198
+Pink Floyd ||| 193
+Peter Tosh ||| 192
+Jacques Loussier Trio ||| 191
+Massive Attack ||| 188
+Steve Howe ||| 187
+Rammstein ||| 186
+Isao Tomita ||| 171
+Rick Wakeman ||| 171
+Klaus Schulze ||| 168
+The Doors ||| 168
+Dhafer Youssef ||| 166
+Ozzy Osbourne ||| 161
+Dream Theater ||| 159
+Uriah Heep ||| 157
+The Beatles ||| 156
+Andreas Vollenweider ||| 154
+Rainbow ||| 151
+The Killers ||| 150
+Electric Light Orchestra ||| 147
+Ben Harper ||| 146
+David Bowie ||| 145
+## playcount: 13044

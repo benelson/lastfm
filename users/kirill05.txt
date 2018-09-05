@@ -1,0 +1,51 @@
+Nirvana ||| 38653
+Foo Fighters ||| 27847
+Nine Inch Nails ||| 26375
+Green Day ||| 25994
+Papa Roach ||| 22258
+My Chemical Romance ||| 20658
+Korn ||| 15247
+Sum 41 ||| 11580
+blink-182 ||| 11540
+System of a Down ||| 9870
+Placebo ||| 9619
+Rise Against ||| 9384
+Slipknot ||| 9124
+Radiohead ||| 8570
+Queens of the Stone Age ||| 8342
+Linkin Park ||| 8266
+Red Hot Chili Peppers ||| 7890
+Seether ||| 7614
+Deftones ||| 6329
+Alice in Chains ||| 5624
+Lumen ||| 5359
+Three Days Grace ||| 5334
+The Offspring ||| 4364
+letlive. ||| 3701
+Limp Bizkit ||| 3654
+Arctic Monkeys ||| 3533
+Coldplay ||| 3302
+Muse ||| 3179
+Fall Out Boy ||| 3111
+Pearl Jam ||| 3098
+30 Seconds to Mars ||| 3062
+Lostprophets ||| 2989
+Mastodon ||| 2939
+Bring Me the Horizon ||| 2845
+The Dillinger Escape Plan ||| 2734
+Guns N' Roses ||| 2594
+Oasis ||| 2391
+Him ||| 2390
+Metallica ||| 2315
+Stone Sour ||| 2252
+The Used ||| 2205
+Kasabian ||| 2090
+Architects ||| 2066
+The Smashing Pumpkins ||| 2053
+Rage Against the Machine ||| 1986
+The Black Keys ||| 1923
+Kings of Leon ||| 1904
+The Killers ||| 1849
+Soundgarden ||| 1831
+The White Stripes ||| 1804
+## playcount: 375641

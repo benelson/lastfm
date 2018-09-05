@@ -1,0 +1,51 @@
+The Strokes ||| 1512
+Coldplay ||| 1509
+U2 ||| 1220
+Phoenix ||| 915
+Arctic Monkeys ||| 604
+Daft Punk ||| 445
+Radiohead ||| 428
+Julian Casablancas + The Voidz ||| 402
+Kaiser Chiefs ||| 326
+Julian Casablancas ||| 294
+Albert Hammond, Jr. ||| 273
+Red Hot Chili Peppers ||| 205
+Queens of the Stone Age ||| 195
+Animal Collective ||| 194
+Blur ||| 185
+Talking Heads ||| 182
+Keane ||| 167
+Foo Fighters ||| 163
+Tool ||| 159
+Simply Red ||| 158
+Justice ||| 152
+The Cribs ||| 140
+The Verve ||| 140
+Franz Ferdinand ||| 134
+Nickel Eye ||| 134
+Nirvana ||| 131
+Queen ||| 131
+Arcade Fire ||| 116
+Jet ||| 106
+The Lonely Island ||| 105
+The Police ||| 96
+The Beatles ||| 91
+Kings of Leon ||| 88
+Ratatat ||| 84
+Oasis ||| 81
+Yeah Yeah Yeahs ||| 79
+Iggy Pop ||| 78
+Regina Spektor ||| 72
+Soda Stereo ||| 63
+Zoé ||| 63
+The White Stripes ||| 61
+Madeon ||| 59
+Pink Floyd ||| 59
+Depeche Mode ||| 58
+Disturbed ||| 58
+30 Seconds to Mars ||| 56
+Sweet Little Band ||| 55
+Sting ||| 54
+Interpol ||| 49
+Linkin Park ||| 49
+## playcount: 12178

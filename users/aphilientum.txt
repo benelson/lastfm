@@ -1,0 +1,51 @@
+Led Zeppelin ||| 4075
+Foo Fighters ||| 2540
+Mastodon ||| 1802
+The Beatles ||| 1599
+Iron Maiden ||| 742
+Björk ||| 601
+Fair to Midland ||| 595
+Devin Townsend ||| 335
+Gojira ||| 335
+Journey ||| 291
+Baroness ||| 279
+Children of Bodom ||| 253
+Vintersorg ||| 242
+System of a Down ||| 219
+HammerFall ||| 197
+Pantera ||| 194
+Trivium ||| 187
+Metallica ||| 177
+Black Sabbath ||| 170
+Norther ||| 159
+Him ||| 134
+Volbeat ||| 126
+Machine Head ||| 121
+Avenged Sevenfold ||| 116
+Antonio Vivaldi ||| 114
+Epica ||| 113
+Wolfmother ||| 110
+Red Fang ||| 109
+Bruce Dickinson ||| 108
+Eddie Vedder ||| 108
+Kiss ||| 106
+Dååth ||| 104
+Tenacious D ||| 101
+Rush ||| 99
+Slipknot ||| 97
+Graveworm ||| 94
+November ||| 89
+Cog ||| 88
+Intronaut ||| 86
+Killswitch Engage ||| 83
+In Flames ||| 82
+Taking Back Sunday ||| 81
+Pöwnuz ||| 79
+Nintendo ||| 76
+Ensiferum ||| 74
+Judas Priest ||| 73
+Megadeth ||| 70
+Paul McCartney ||| 65
+Enter Shikari ||| 64
+Bullet for My Valentine ||| 61
+## playcount: 17823

@@ -1,0 +1,51 @@
+Iron Maiden ||| 1183
+Accept ||| 1120
+Judas Priest ||| 872
+Saxon ||| 428
+AC/DC ||| 358
+Anthrax ||| 341
+Kat ||| 317
+Turbo ||| 314
+Running Wild ||| 291
+Black Sabbath ||| 285
+Megadeth ||| 271
+W.A.S.P. ||| 266
+Def Leppard ||| 264
+Metallica ||| 259
+Helloween ||| 257
+Gamma Ray ||| 247
+Ozzy Osbourne ||| 231
+Slayer ||| 202
+Motörhead ||| 165
+Pretty Maids ||| 157
+Manowar ||| 155
+Mercyful Fate ||| 152
+Metal Church ||| 152
+Dio ||| 148
+Whitesnake ||| 140
+Deep Purple ||| 138
+U.D.O. ||| 103
+Quiet Riot ||| 93
+Led Zeppelin ||| 66
+Kiss ||| 65
+Rainbow ||| 65
+Overkill ||| 64
+KSU ||| 63
+System of a Down ||| 62
+Annihilator ||| 61
+Queensrÿche ||| 59
+Living Death ||| 57
+Alice Cooper ||| 54
+Gorky Park ||| 54
+Destruction ||| 51
+Aerosmith ||| 49
+Gary Moore ||| 45
+Grim Reaper - Rock You To Hell ||| 45
+Tenacious D ||| 45
+Aria ||| 41
+Skid Row ||| 41
+UFO ||| 38
+The Jimi Hendrix Experience ||| 36
+Wilczy Pająk ||| 36
+Jimi Hendrix ||| 32
+## playcount: 10038

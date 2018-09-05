@@ -1,0 +1,51 @@
+Red Hot Chili Peppers ||| 2343
+The Strokes ||| 810
+John Frusciante ||| 682
+Arctic Monkeys ||| 457
+Los Hermanos ||| 443
+Nirvana ||| 410
+System of a Down ||| 406
+Radiohead ||| 374
+Ramones ||| 320
+Guns N' Roses ||| 255
+Metallica ||| 251
+The Beatles ||| 248
+The Kooks ||| 240
+Oasis ||| 234
+Maroon 5 ||| 228
+Pearl Jam ||| 212
+AC/DC ||| 208
+Daft Punk ||| 198
+Led Zeppelin ||| 188
+Linkin Park ||| 185
+Bad Religion ||| 179
+The Killers ||| 179
+Foo Fighters ||| 177
+David Bowie ||| 170
+Iron Maiden ||| 143
+The White Stripes ||| 137
+Aerosmith ||| 127
+Franz Ferdinand ||| 117
+Imagine Dragons ||| 115
+The Doors ||| 104
+Black Sabbath ||| 101
+MGMT ||| 101
+Korn ||| 98
+Arcade Fire ||| 97
+Queen ||| 94
+a-ha ||| 93
+Queens of the Stone Age ||| 84
+U2 ||| 80
+Coldplay ||| 78
+Kiss ||| 78
+Albert Hammond, Jr. ||| 74
+The Clash ||| 71
+Eminem ||| 69
+Slipknot ||| 69
+Michael Jackson ||| 67
+Skrillex ||| 66
+Serj Tankian ||| 64
+50 Cent ||| 63
+Julian Casablancas ||| 59
+Faith No More ||| 58
+## playcount: 11704

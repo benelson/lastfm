@@ -1,0 +1,51 @@
+Queen ||| 1876
+Morrissey ||| 1813
+U2 ||| 1720
+The Cure ||| 1451
+The Smiths ||| 1398
+Placebo ||| 922
+David Bowie ||| 674
+Adele ||| 586
+Pink Floyd ||| 586
+Ismael Serrano ||| 550
+Coldplay ||| 505
+Soda Stereo ||| 469
+James Blunt ||| 454
+Hugh Laurie ||| 429
+Iron & Wine ||| 387
+The Cranberries ||| 359
+Joy Division ||| 355
+Michael Jackson ||| 353
+Pearl Jam ||| 348
+The Kooks ||| 328
+Arctic Monkeys ||| 323
+Gustavo Cerati ||| 309
+One Night Only ||| 297
+Peter Murphy ||| 273
+The Who ||| 272
+Catupecu Machu ||| 251
+Luis Alberto Spinetta ||| 248
+The Killers ||| 244
+Frédéric Chopin ||| 233
+Rob Costlow ||| 209
+El Cuarteto De Nos ||| 199
+Three Days Grace ||| 191
+Train ||| 188
+Bon Iver ||| 177
+Maroon 5 ||| 177
+R.E.M. ||| 177
+The Beatles ||| 169
+Van Morrison ||| 168
+Roxette ||| 158
+Echo & the Bunnymen ||| 157
+Charly García ||| 156
+Sex Pistols ||| 156
+Fito Páez ||| 155
+Travis ||| 154
+Emilio Kauderer & Federico Jusid ||| 143
+Foo Fighters ||| 142
+Nirvana ||| 133
+Metallica ||| 131
+Hanson ||| 127
+Paramore ||| 127
+## playcount: 21407

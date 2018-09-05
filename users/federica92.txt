@@ -1,0 +1,51 @@
+Coldplay ||| 33
+Artista sconosciuto ||| 24
+The Killers ||| 24
+Bettie Serveert ||| 23
+Stereophonics ||| 21
+The Subways ||| 20
+Yeah Yeah Yeahs ||| 20
+Oasis ||| 19
+Keane ||| 18
+Kasabian ||| 16
+Audioslave ||| 15
+David Bowie ||| 15
+The Bravery ||| 15
+The Vines ||| 15
+The Cardigans ||| 14
+The Servant ||| 14
+James Blunt ||| 13
+Shandon ||| 13
+DIR EN GREY ||| 12
+Foo Fighters ||| 11
+Goo Goo Dolls ||| 11
+Jewel ||| 11
+Placebo ||| 11
+Sex Pistols ||| 11
+Kaiser Chiefs ||| 10
+Katy Perry ||| 10
+Shiny Toy Guns ||| 10
+Snow Patrol ||| 10
+OK Go ||| 8
+The Fray ||| 8
+30 Seconds to Mars ||| 7
+Air ||| 7
+Blur ||| 7
+Ewan McGregor ||| 7
+Rooney ||| 7
+The Strokes ||| 7
+4 Non Blondes ||| 6
+Avril Lavigne ||| 6
+Evan and Jaron ||| 6
+Evanescence ||| 6
+Portishead ||| 6
+blink-182 ||| 5
+Garbage ||| 5
+Radiohead ||| 5
+Skin ||| 5
+Skunk Anansie ||| 5
+AFI ||| 4
+Death Cab for Cutie ||| 4
+Green Day ||| 4
+Interpol ||| 4
+## playcount: 568

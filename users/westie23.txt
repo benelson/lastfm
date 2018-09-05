@@ -1,0 +1,51 @@
+T.I. ||| 21573
+2Pac ||| 14783
+Anastacia ||| 5812
+Black Eyed Peas ||| 5465
+Michael Jackson ||| 4939
+Ciara ||| 4718
+Ella Eyre ||| 4630
+The Game ||| 4502
+Eminem ||| 4374
+Rihanna ||| 4134
+B.o.B ||| 3407
+Ke$ha ||| 3235
+Lil' Wayne ||| 3099
+Rita Ora ||| 2913
+Nelly ||| 2870
+Vessy ||| 2411
+Respect ||| 2363
+Keri Hilson ||| 2342
+Alicia Keys ||| 1952
+Empire Cast ||| 1919
+Ludacris ||| 1891
+Avril Lavigne ||| 1760
+Akon ||| 1733
+The Pussycat Dolls ||| 1540
+Flo Rida ||| 1458
+Young Jeezy ||| 1427
+Nickelback ||| 1391
+Cassie ||| 1384
+Christina Milian ||| 1378
+Redman ||| 1321
+David Guetta ||| 1311
+Aaliyah ||| 1062
+Enigma ||| 1016
+DMX ||| 986
+Justin Timberlake ||| 966
+Ying Yang Twins ||| 960
+Xzibit ||| 947
+Evanescence ||| 939
+Lady Gaga ||| 932
+Ice Cube ||| 911
+Cypress Hill ||| 845
+Snoop Dogg ||| 839
+Nightwish ||| 801
+Rudimental ||| 766
+Christina Aguilera ||| 741
+Linkin Park ||| 737
+Nicki Minaj ||| 733
+Nicole Scherzinger ||| 722
+50 Cent ||| 689
+Kendrick Lamar ||| 681
+## playcount: 134308

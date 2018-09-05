@@ -1,0 +1,51 @@
+Engenheiros Do Hawaii ||| 2264
+Kiss ||| 2110
+Iron Maiden ||| 1763
+Pink Floyd ||| 1614
+The Beatles ||| 1494
+Deep Purple ||| 1053
+AC/DC ||| 1017
+Creedence Clearwater Revival ||| 1016
+Metallica ||| 994
+Ozzy Osbourne ||| 936
+The Allman Brothers Band ||| 933
+Dead Can Dance ||| 931
+Dream Theater ||| 901
+Guns N' Roses ||| 872
+Eric Clapton ||| 858
+Lynyrd Skynyrd ||| 827
+Pearl Jam ||| 796
+Angra ||| 789
+Nightwish ||| 789
+Bob Dylan ||| 748
+Black Sabbath ||| 695
+Raul Seixas ||| 681
+Led Zeppelin ||| 676
+Sepultura ||| 648
+Mägo de Oz ||| 643
+Miles Davis ||| 632
+Alice in Chains ||| 628
+Matanza ||| 622
+Tangerine Dream ||| 616
+Flogging Molly ||| 599
+Opeth ||| 570
+Rush ||| 559
+Blind Guardian ||| 554
+Velhas Virgens ||| 550
+Bill Monroe ||| 547
+Red Hot Chili Peppers ||| 504
+Faith No More ||| 476
+Arch Enemy ||| 471
+Johnny Cash ||| 468
+Megadeth ||| 456
+The Rolling Stones ||| 421
+Queen ||| 395
+Frank Sinatra ||| 385
+Coldplay ||| 378
+Steve Vai ||| 368
+Van Halen ||| 361
+Frank Zappa ||| 359
+Muse ||| 354
+O bando do velho Jack ||| 354
+Korpiklaani ||| 342
+## playcount: 38017

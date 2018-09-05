@@ -1,0 +1,51 @@
+Kanye West ||| 3359
+The Beatles ||| 3106
+Pixies ||| 2234
+Jay-Z ||| 2083
+AC/DC ||| 2007
+Metallica ||| 1850
+Radiohead ||| 1766
+Eminem ||| 1517
+Kendrick Lamar ||| 1494
+The Smiths ||| 1494
+The Clash ||| 1488
+Bob Dylan ||| 1464
+The Who ||| 1460
+The Rolling Stones ||| 1405
+Nas ||| 1364
+Dr. Dre ||| 1257
+Iron Maiden ||| 1206
+blink-182 ||| 1179
+Megadeth ||| 1179
+Pearl Jam ||| 1154
+Oasis ||| 1134
+Green Day ||| 1119
+Led Zeppelin ||| 1118
+Nirvana ||| 1109
+Motörhead ||| 1066
+Foo Fighters ||| 1039
+2Pac ||| 1003
+David Bowie ||| 983
+Weezer ||| 981
+Guns N' Roses ||| 974
+Arctic Monkeys ||| 972
+Drake ||| 916
+The Smashing Pumpkins ||| 907
+Mötley Crüe ||| 891
+Rage Against the Machine ||| 886
+LCD Soundsystem ||| 847
+Fleetwood Mac ||| 840
+OutKast ||| 824
+Run the Jewels ||| 814
+Tool ||| 810
+Tenacious D ||| 799
+Ice Cube ||| 781
+Kings of Leon ||| 777
+Ghostface Killah ||| 768
+Rush ||| 766
+Monster Magnet ||| 765
+Tom Petty and The Heartbreakers ||| 755
+The Libertines ||| 750
+Creedence Clearwater Revival ||| 738
+Aerosmith ||| 734
+## playcount: 60932

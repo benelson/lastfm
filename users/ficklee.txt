@@ -1,0 +1,51 @@
+blink-182 ||| 1191
+Rise Against ||| 916
+Crystal Castles ||| 485
+Hurts ||| 482
+Sum 41 ||| 480
+The Clash ||| 468
+The Kooks ||| 372
+Chase & Status ||| 348
+Depeche Mode ||| 312
+happysad ||| 306
+Oasis ||| 296
+Simple Plan ||| 296
+Guns N' Roses ||| 266
+Foo Fighters ||| 259
+The Strokes ||| 253
+IAMX ||| 243
+Kings of Leon ||| 243
+30 Seconds to Mars ||| 223
+The Killers ||| 216
+The Cure ||| 208
+Muse ||| 207
+Placebo ||| 202
+The Hives ||| 195
+Ramones ||| 184
+Blondie ||| 181
+Yann Tiersen ||| 179
+The Prodigy ||| 164
+Metallica ||| 153
+David Guetta ||| 149
+La Roux ||| 148
+Kasabian ||| 146
+The All-American Rejects ||| 139
+The Offspring ||| 139
+Red Hot Chili Peppers ||| 138
+Coldplay ||| 130
+Box Car Racer ||| 129
+Calvin Harris ||| 127
+Myslovitz ||| 127
+The Analogs ||| 124
+Florence + the Machine ||| 123
+Nickelback ||| 120
+One Night Only ||| 119
+Nightwish ||| 105
+McFly ||| 104
+Coma ||| 103
+Hoobastank ||| 101
+Zebrahead ||| 101
+Three Days Grace ||| 100
+Justin Timberlake ||| 99
+MGMT ||| 99
+## playcount: 11998

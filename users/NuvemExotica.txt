@@ -1,0 +1,51 @@
+Kiss ||| 4405
+Angra ||| 2634
+The Beatles ||| 2178
+Kansas ||| 1569
+Black Sabbath ||| 1324
+Sonata Arctica ||| 1213
+Evanescence ||| 1025
+The Pretty Reckless ||| 973
+Europe ||| 943
+Queen ||| 833
+Scorpions ||| 826
+System of a Down ||| 668
+Dire Straits ||| 560
+Ghost ||| 513
+Engenheiros Do Hawaii ||| 498
+Pink Floyd ||| 423
+Legião Urbana ||| 391
+Cinderella ||| 384
+Boston ||| 364
+Warrant ||| 321
+Aerosmith ||| 311
+Metallica ||| 296
+Ramones ||| 294
+<Artista Desconhecido> ||| 273
+Viper ||| 272
+Almah ||| 269
+Bad Company ||| 267
+Eric Carr ||| 259
+Nirvana ||| 258
+Dio ||| 241
+14 Bis ||| 237
+Rainbow ||| 218
+Tenacious D ||| 216
+Iron Maiden ||| 214
+Paul Stanley ||| 203
+Bruce Springsteen ||| 186
+Mägo de Oz ||| 183
+Led Zeppelin ||| 170
+Banda do Mar ||| 169
+a-ha ||| 163
+Andre Matos ||| 162
+Roxette ||| 160
+Rhapsody ||| 159
+David Guetta ||| 157
+Alice Cooper ||| 155
+Arctic Monkeys ||| 152
+Guns N' Roses ||| 150
+Megadeth ||| 149
+The Offspring ||| 148
+Whitesnake ||| 141
+## playcount: 28277

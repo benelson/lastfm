@@ -1,0 +1,51 @@
+Foo Fighters ||| 1528
+Kendrick Lamar ||| 1490
+Oasis ||| 1094
+Arctic Monkeys ||| 1059
+The Strokes ||| 1046
+Guns N' Roses ||| 927
+Coldplay ||| 875
+Frank Ocean ||| 847
+Arcade Fire ||| 707
+City and Colour ||| 680
+Black Drawing Chalks ||| 662
+The Smiths ||| 626
+Radiohead ||| 600
+Queens of the Stone Age ||| 592
+Travi$ Scott ||| 587
+Drake ||| 555
+Kanye West ||| 529
+Young Thug ||| 521
+Metallica ||| 488
+Mastodon ||| 486
+Interpol ||| 460
+Portugal. The Man ||| 432
+Jamie xx ||| 421
+The Beatles ||| 416
+Aerosmith ||| 393
+Incubus ||| 379
+Led Zeppelin ||| 378
+Deftones ||| 365
+Iron Maiden ||| 361
+Pearl Jam ||| 356
+The National ||| 340
+Lana Del Rey ||| 307
+Bon Jovi ||| 304
+The xx ||| 300
+Nirvana ||| 290
+Vivendo do Ócio ||| 289
+U2 ||| 285
+Red Hot Chili Peppers ||| 284
+Amy Winehouse ||| 273
+Megadeth ||| 261
+Circa Survive ||| 258
+SZA ||| 248
+Tame Impala ||| 246
+The Mars Volta ||| 237
+Future ||| 233
+The Killers ||| 231
+Phoenix ||| 229
+Kings of Convenience ||| 224
+Sabonetes ||| 223
+Ramones ||| 219
+## playcount: 25141

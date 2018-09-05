@@ -1,0 +1,51 @@
+Avril Lavigne ||| 10634
+Kylie Minogue ||| 4443
+Taylor Swift ||| 4315
+Panic! at the Disco ||| 4054
+Madonna ||| 3824
+Arctic Monkeys ||| 2725
+The Killers ||| 2580
+Radiohead ||| 2275
+Gwen Stefani ||| 1862
+Muse ||| 1565
+Katy Perry ||| 1550
+Lana Del Rey ||| 1501
+No Doubt ||| 1441
+Enya ||| 1292
+Green Day ||| 1235
+Good Charlotte ||| 1233
+Ed Sheeran ||| 1192
+Maroon 5 ||| 1179
+Björk ||| 1169
+Paramore ||| 1150
+Coldplay ||| 1148
+Oasis ||| 1140
+Sigur Rós ||| 1126
+Lorde ||| 1113
+Foster the People ||| 1104
+Alanis Morissette ||| 1090
+Depeche Mode ||| 1090
+One Direction ||| 1086
+Kings of Leon ||| 1020
+Rihanna ||| 994
+Shakira ||| 942
+Justin Timberlake ||| 934
+Fall Out Boy ||| 920
+Florence + the Machine ||| 861
+blink-182 ||| 847
+Christina Aguilera ||| 842
+Carly Rae Jepsen ||| 834
+Ke$ha ||| 818
+Kelly Clarkson ||| 799
+Ellie Goulding ||| 793
+Kate Nash ||| 781
+Blur ||| 768
+Sum 41 ||| 764
+Imagine Dragons ||| 761
+Brandon Flowers ||| 717
+Nelly Furtado ||| 716
+Calvin Harris ||| 714
+P!nk ||| 705
+OneRepublic ||| 694
+Ariana Grande ||| 686
+## playcount: 78026

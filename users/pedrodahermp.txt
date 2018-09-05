@@ -1,0 +1,51 @@
+Elliott Smith ||| 9738
+Radiohead ||| 4750
+The National ||| 3135
+The Cure ||| 2922
+Weezer ||| 2562
+Wilco ||| 2545
+Beck ||| 2329
+R.E.M. ||| 2250
+Pixies ||| 2098
+The Beatles ||| 1935
+The Lemonheads ||| 1932
+The Strokes ||| 1856
+Teenage Fanclub ||| 1846
+Nada Surf ||| 1789
+The Smashing Pumpkins ||| 1785
+Nirvana ||| 1637
+The Gaslight Anthem ||| 1598
+Pearl Jam ||| 1555
+Death Cab for Cutie ||| 1373
+Phoenix ||| 1355
+Ryan Adams ||| 1314
+Foo Fighters ||| 1202
+Dinosaur Jr. ||| 1195
+Kanye West ||| 1079
+Aimee Mann ||| 1059
+Soundgarden ||| 968
+Violins ||| 964
+Mac DeMarco ||| 956
+Bob Dylan ||| 928
+Big Star ||| 916
+Local Natives ||| 902
+Los Hermanos ||| 877
+Tame Impala ||| 852
+Bruce Springsteen ||| 833
+Neil Young ||| 812
+The Beach Boys ||| 805
+Silverchair ||| 764
+The Smiths ||| 756
+Ben Kweller ||| 738
+Arctic Monkeys ||| 709
+Pavement ||| 690
+Jeff Buckley ||| 684
+Arcade Fire ||| 659
+Belle and Sebastian ||| 656
+Fiona Apple ||| 642
+Pulp ||| 599
+Sharon Van Etten ||| 595
+Spoon ||| 574
+Yeah Yeah Yeahs ||| 572
+Silversun Pickups ||| 569
+## playcount: 75859

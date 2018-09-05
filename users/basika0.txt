@@ -1,0 +1,51 @@
+Jake Bugg ||| 70291
+The Doors ||| 34152
+The Beatles ||| 29874
+Twin Peaks ||| 29777
+Rodriguez ||| 20183
+Radiohead ||| 20082
+John Lennon ||| 19366
+Elvis Presley ||| 17699
+Nirvana ||| 17666
+The Rolling Stones ||| 17040
+Red Hot Chili Peppers ||| 16270
+Janis Joplin ||| 15051
+Republika ||| 14235
+Led Zeppelin ||| 13376
+Queen ||| 8756
+Simon & Garfunkel ||| 8704
+Pink Floyd ||| 8355
+Coldplay ||| 7858
+happysad ||| 7780
+Guns N' Roses ||| 7009
+Lou Reed ||| 7008
+Slipknot ||| 6925
+Bracia Figo Fagot ||| 5750
+The Clash ||| 5286
+Metallica ||| 5052
+The Kooks ||| 4771
+R.E.M. ||| 4331
+Kings of Leon ||| 4292
+Foghat ||| 4276
+Ramones ||| 4196
+The Police ||| 3570
+Travi$ Scott ||| 3389
+A$AP Rocky ||| 3338
+Johnny Cash ||| 3333
+Dire Straits ||| 3319
+Video ||| 3255
+Lana Del Rey ||| 3202
+Dżem ||| 3182
+3 Doors Down ||| 3150
+The xx ||| 3121
+Rezerwat ||| 2818
+The Strokes ||| 2804
+George Harrison ||| 2803
+Scorpions ||| 2573
+Bob Marley ||| 2562
+Jimi Hendrix ||| 2541
+T. Rex ||| 2477
+Aerosmith ||| 2337
+The Jimi Hendrix Experience ||| 2240
+Drake ||| 2150
+## playcount: 493575

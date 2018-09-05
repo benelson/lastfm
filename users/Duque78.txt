@@ -1,0 +1,51 @@
+Incubus ||| 115
+Silverchair ||| 115
+Nirvana ||| 101
+Foo Fighters ||| 83
+Stone Temple Pilots ||| 81
+Creed ||| 75
+Alice in Chains ||| 65
+Pearl Jam ||| 65
+Hoobastank ||| 57
+The Smashing Pumpkins ||| 54
+Audioslave ||| 52
+Soundgarden ||| 49
+System of a Down ||| 48
+The Offspring ||| 47
+No Doubt ||| 46
+Velvet Revolver ||| 46
+Puddle of Mudd ||| 45
+Weezer ||| 44
+Blind Melon ||| 41
+Korn ||| 40
+Pantera ||| 40
+Rage Against the Machine ||| 40
+Limp Bizkit ||| 35
+Chevelle ||| 33
+Oasis ||| 33
+Green Day ||| 28
+Bush ||| 27
+Lostprophets ||| 27
+Veruca Salt ||| 27
+Beck ||| 25
+Hole ||| 25
+Jerry Cantrell ||| 25
+blink-182 ||| 24
+Papa Roach ||| 24
+Red Hot Chili Peppers ||| 24
+The Dissociatives ||| 24
+Jimmy Eat World ||| 23
+Megadeth ||| 23
+The Vines ||| 23
+Fuel ||| 22
+Guns N' Roses ||| 22
+Queens of the Stone Age ||| 22
+Paramore ||| 21
+Live ||| 20
+Ugly Kid Joe ||| 20
+Garbage ||| 19
+The Killers ||| 19
+AFI ||| 18
+Killing Heidi ||| 18
+U2 ||| 18
+## playcount: 2018

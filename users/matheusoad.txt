@@ -1,0 +1,51 @@
+Pink Floyd ||| 7772
+Arctic Monkeys ||| 6851
+Radiohead ||| 4278
+Foo Fighters ||| 3568
+Red Hot Chili Peppers ||| 3465
+Pearl Jam ||| 3236
+The Beatles ||| 3188
+System of a Down ||| 3160
+Avenged Sevenfold ||| 2968
+Engenheiros Do Hawaii ||| 2277
+The Rolling Stones ||| 2033
+Poets of the Fall ||| 2026
+The National ||| 2002
+Elliott Smith ||| 1965
+The Doors ||| 1608
+Queens of the Stone Age ||| 1607
+Stone Temple Pilots ||| 1571
+Guns N' Roses ||| 1480
+Metallica ||| 1363
+The Kooks ||| 1304
+Oasis ||| 1298
+Him ||| 1283
+Weezer ||| 1275
+alt-J ||| 1253
+Black Label Society ||| 1236
+Led Zeppelin ||| 1163
+The Black Keys ||| 1158
+Nirvana ||| 963
+Queen ||| 882
+Los Hermanos ||| 838
+Franz Ferdinand ||| 837
+Ozzy Osbourne ||| 827
+Johnny Cash ||| 811
+Stone Sour ||| 810
+Corrosion of Conformity ||| 795
+Jack Johnson ||| 719
+Muse ||| 705
+Mumford & Sons ||| 673
+Slipknot ||| 639
+Bob Dylan ||| 638
+Incubus ||| 613
+Kings of Leon ||| 611
+Elton John ||| 602
+Kendrick Lamar ||| 597
+Eddie Vedder ||| 595
+Bon Iver ||| 587
+The Shins ||| 581
+Faith No More ||| 580
+Rammstein ||| 556
+Billy Talent ||| 547
+## playcount: 82394

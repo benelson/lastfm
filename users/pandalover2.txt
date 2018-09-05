@@ -1,0 +1,51 @@
+Queen ||| 20
+Carrie Underwood ||| 18
+Fleetwood Mac ||| 17
+The Doors ||| 16
+The Rolling Stones ||| 16
+David Bowie ||| 15
+Taylor Swift ||| 15
+Creedence Clearwater Revival ||| 14
+Johnny Cash ||| 13
+Deep Purple ||| 12
+Brad Paisley ||| 11
+Dixie Chicks ||| 11
+Elvis Costello & The Attractions ||| 11
+Garth Brooks ||| 11
+Josh Turner ||| 11
+The Who ||| 11
+Hank Williams ||| 10
+Shania Twain ||| 10
+Elton John ||| 9
+Jimi Hendrix ||| 9
+The Jimi Hendrix Experience ||| 9
+Weezer ||| 9
+Brooks & Dunn ||| 8
+Eric Clapton ||| 8
+Journey ||| 8
+Kenny Chesney ||| 8
+Lynyrd Skynyrd ||| 8
+Patsy Cline ||| 8
+Rascal Flatts ||| 8
+The Clash ||| 8
+Tom Petty and The Heartbreakers ||| 8
+Boston ||| 7
+Dire Straits ||| 7
+Electric Light Orchestra ||| 7
+Elvis Presley ||| 7
+Kris Kristofferson ||| 7
+Miranda Lambert ||| 7
+Supertramp ||| 7
+Willie Nelson ||| 7
+Aerosmith ||| 6
+Alan Jackson ||| 6
+Blue Öyster Cult ||| 6
+Bruce Springsteen ||| 6
+Cheap Trick ||| 6
+Eagles ||| 6
+Elvis Costello ||| 6
+G. Love & Special Sauce ||| 6
+Jack Johnson ||| 6
+Jason Aldean ||| 6
+Kansas ||| 6
+## playcount: 472

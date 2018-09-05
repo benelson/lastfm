@@ -1,0 +1,51 @@
+The Who ||| 5676
+The Doors ||| 3949
+Elvis Presley ||| 3521
+The Kinks ||| 3405
+The Beatles ||| 3387
+Jethro Tull ||| 3189
+Small Faces ||| 3036
+The Rolling Stones ||| 2995
+The Church ||| 2856
+Fleetwood Mac ||| 2760
+Cat Stevens ||| 2640
+The Moody Blues ||| 2554
+T. Rex ||| 2327
+Chet Baker ||| 2192
+Roy Orbison ||| 2096
+Harry Nilsson ||| 2028
+Chris Isaak ||| 2016
+Suede ||| 1937
+The Clash ||| 1747
+Humble Pie ||| 1723
+David Bowie ||| 1689
+Lou Reed ||| 1660
+Nick Drake ||| 1658
+The Yardbirds ||| 1606
+Eric Clapton ||| 1601
+The Jam ||| 1581
+Canned Heat ||| 1494
+Gene Vincent ||| 1451
+Bob Dylan ||| 1440
+Bryan Ferry ||| 1440
+Bert Jansch ||| 1434
+Grateful Dead ||| 1403
+Pete Townshend ||| 1387
+Dako Déjà Vu ||| 1359
+Led Zeppelin ||| 1347
+Roger Daltrey ||| 1326
+Big Star ||| 1311
+Roxy Music ||| 1300
+Gram Parsons ||| 1287
+Ryan Adams ||| 1270
+Faces ||| 1261
+Jefferson Airplane ||| 1235
+The Allman Brothers Band ||| 1230
+Neil Young ||| 1224
+The Hollies ||| 1222
+Anna Ternheim ||| 1213
+The Flying Burrito Brothers ||| 1151
+Alice Cooper ||| 1145
+Hot Tuna ||| 1144
+Blondie ||| 1097
+## playcount: 97000

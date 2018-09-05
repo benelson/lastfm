@@ -1,0 +1,51 @@
+Rush ||| 4978
+Neil Young ||| 3640
+The Who ||| 2171
+AC/DC ||| 2043
+Black Label Society ||| 1792
+Black Sabbath ||| 1792
+A Day to Remember ||| 1678
+The Beatles ||| 1620
+Kiss ||| 1609
+In Flames ||| 1349
+Graveyard ||| 1324
+The Rolling Stones ||| 1259
+Grateful Dead ||| 1246
+Queen ||| 1222
+Ozzy Osbourne ||| 1081
+Atreyu ||| 1080
+Slayer ||| 990
+Children of Bodom ||| 986
+Rise Against ||| 977
+Led Zeppelin ||| 921
+Mötley Crüe ||| 913
+Bob Dylan ||| 904
+Jethro Tull ||| 902
+Metallica ||| 878
+David Bowie ||| 873
+Pink Floyd ||| 862
+Bee Gees ||| 841
+Soilwork ||| 841
+Creedence Clearwater Revival ||| 822
+Audioslave ||| 820
+Styx ||| 715
+Van Halen ||| 708
+Raised Fist ||| 702
+Deep Purple ||| 692
+The Band ||| 683
+Lynyrd Skynyrd ||| 679
+Shinedown ||| 679
+Journey ||| 670
+The Black Dahlia Murder ||| 646
+The Kinks ||| 639
+Cream ||| 629
+Fall Out Boy ||| 620
+Adept ||| 612
+DevilDriver ||| 612
+Blue Öyster Cult ||| 592
+Witchcraft ||| 591
+Yes ||| 574
+Wishbone Ash ||| 565
+The Jimi Hendrix Experience ||| 564
+Arctic Monkeys ||| 560
+## playcount: 55146

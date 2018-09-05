@@ -1,0 +1,51 @@
+U2 ||| 2722
+Guns N' Roses ||| 1712
+Soda Stereo ||| 1391
+Bon Jovi ||| 1203
+Joaquín Sabina ||| 690
+Jesse & Joy ||| 504
+Oasis ||| 409
+La Ley ||| 374
+Ricardo Arjona ||| 315
+Nirvana ||| 295
+a-ha ||| 268
+Aerosmith ||| 256
+Bob Marley ||| 229
+Andrés Calamaro ||| 226
+Led Zeppelin ||| 222
+Of Monsters and Men ||| 217
+Madness ||| 193
+Coldplay ||| 179
+Pearl Jam ||| 173
+The Cranberries ||| 161
+Foo Fighters ||| 148
+Red Hot Chili Peppers ||| 144
+Audioslave ||| 143
+Maná ||| 142
+Lenny Kravitz ||| 141
+Bob Marley & The Wailers ||| 128
+Nightwish ||| 122
+Roxette ||| 120
+Passengers ||| 116
+Enanitos Verdes ||| 115
+Moby ||| 114
+Eminem ||| 109
+INXS ||| 104
+Justin Bieber ||| 103
+Queen ||| 103
+Bersuit Vergarabat ||| 101
+Miles Davis ||| 101
+Sting ||| 100
+Simple Minds ||| 99
+The Police ||| 98
+Dire Straits ||| 97
+R.E.M. ||| 96
+Bryan Adams ||| 95
+David Bowie ||| 93
+The Killers ||| 91
+Maroon 5 ||| 82
+Phil Collins ||| 80
+Rombai ||| 80
+Creedence Clearwater Revival ||| 79
+Duran Duran ||| 77
+## playcount: 14960

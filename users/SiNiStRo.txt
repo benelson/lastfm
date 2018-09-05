@@ -1,0 +1,20 @@
+Aerosmith ||| 7
+Foo Fighters ||| 4
+Default ||| 2
+Kelly Clarkson ||| 2
+Artista desconhecido ||| 1
+Audioslave ||| 1
+Coldplay ||| 1
+Jon Bon Jovi ||| 1
+Lifehouse ||| 1
+Linkin Park ||| 1
+Nickelback ||| 1
+O Rappa [www.sekelado.zip.net] ||| 1
+Red Hot Chili Peppers ||| 1
+Seether ||| 1
+Simple Plan ||| 1
+Teriyaki Boyz ||| 1
+U2 ||| 1
+U2 and Green Day ||| 1
+Velozes E Furiosos - Trilha So ||| 1
+## playcount: 30

@@ -1,0 +1,40 @@
+Jeans Team ||| 33
+Joakim ||| 6
+Bauhaus ||| 5
+David Bowie ||| 5
+Suicide ||| 5
+Anne Clark ||| 4
+Creedence Clearwater Revival ||| 4
+Death in Vegas ||| 4
+Manu Dibango ||| 4
+Steppenwolf ||| 4
+Bob Dylan ||| 3
+Les Garçons Bouchers ||| 3
+Ludwig Von 88 ||| 3
+Otis Redding ||| 3
+Pigalle ||| 3
+Bone Orchard ||| 2
+Canned Heat ||| 2
+Hubert-Félix Thiéfaine ||| 2
+John Lennon ||| 2
+Paul McCartney & Wings ||| 2
+The Beatles ||| 2
+Visage ||| 2
+Banlieue Rouge ||| 1
+Barry Manilow ||| 1
+Brigitte Fontaine ||| 1
+Buffalo Springfield ||| 1
+Fela Kuti ||| 1
+Femi Kuti ||| 1
+La Souris Déglinguée ||| 1
+Les Amis d'ta Femme ||| 1
+Les Sheriff ||| 1
+Les Vieilles Salopes ||| 1
+Les VRP ||| 1
+Matata ||| 1
+New Young Pony Club ||| 1
+Robots in Disguise ||| 1
+Sam Cooke ||| 1
+Stevie Wonder ||| 1
+The Velvet Underground ||| 1
+## playcount: 120

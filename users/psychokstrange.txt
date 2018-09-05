@@ -1,0 +1,51 @@
+Evanescence ||| 12241
+Radiohead ||| 11048
+Pink Floyd ||| 6351
+The Birthday Massacre ||| 4765
+Alice in Chains ||| 4561
+Lana Del Rey ||| 4340
+Detonautas Roque Clube ||| 3926
+Coldplay ||| 3900
+The Neighbourhood ||| 3799
+Adele ||| 3531
+Engenheiros Do Hawaii ||| 3527
+Rammstein ||| 3254
+Depeche Mode ||| 3220
+The Beatles ||| 3177
+Emilie Autumn ||| 3078
+Him ||| 2963
+Bryan Adams ||| 2933
+The Smiths ||| 2930
+Lorde ||| 2900
+Sonic Youth ||| 2688
+Pearl Jam ||| 2645
+Arctic Monkeys ||| 2543
+Morphine ||| 2503
+Red Hot Chili Peppers ||| 2462
+Amy Lee ||| 2381
+The Cure ||| 2339
+Air Supply ||| 2328
+Led Zeppelin ||| 2319
+The Smashing Pumpkins ||| 2316
+The Doors ||| 2305
+a-ha ||| 2201
+In This Moment ||| 2192
+Bruce Springsteen ||| 2035
+Nirvana ||| 2025
+Slipknot ||| 2021
+MGMT ||| 1990
+Bob Dylan ||| 1946
+Joy Division ||| 1943
+The Velvet Underground ||| 1825
+The Rolling Stones ||| 1799
+Madonna ||| 1779
+Birdy ||| 1773
+Audioslave ||| 1761
+Sia ||| 1759
+13th Floor Elevators ||| 1707
+Avril Lavigne ||| 1680
+t.A.T.u. ||| 1606
+System of a Down ||| 1578
+R.E.M. ||| 1570
+Phil Collins ||| 1569
+## playcount: 150032

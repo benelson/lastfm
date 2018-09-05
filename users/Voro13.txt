@@ -1,0 +1,51 @@
+Incubus ||| 1356
+Metallica ||| 440
+Porcupine Tree ||| 425
+Foo Fighters ||| 371
+The Ataris ||| 330
+A Perfect Circle ||| 325
+Guns N' Roses ||| 316
+Limp Bizkit ||| 291
+Alter Bridge ||| 276
+Rage Against the Machine ||| 276
+Faith No More ||| 267
+New Found Glory ||| 263
+Pearl Jam ||| 247
+3 Doors Down ||| 246
+Nickelback ||| 241
+Papa Roach ||| 240
+Queens of the Stone Age ||| 240
+Avenged Sevenfold ||| 214
+Korn ||| 212
+Radiohead ||| 211
+dredg ||| 204
+Slipknot ||| 202
+Jimmy Eat World ||| 201
+Finch ||| 200
+Modena City Ramblers ||| 198
+Staind ||| 189
+Fall Out Boy ||| 187
+Stone Sour ||| 185
+Creed ||| 179
+Seether ||| 178
+Hoobastank ||| 177
+System of a Down ||| 175
+Feeder ||| 171
+Tenacious D ||| 169
+NOFX ||| 168
+The Get Up Kids ||| 168
+Zebrahead ||| 167
+Fugazi ||| 156
+Breaking Benjamin ||| 154
+Nirvana ||| 154
+Coheed and Cambria ||| 153
+Drowning Pool ||| 146
+Deftones ||| 145
+blink-182 ||| 144
+Arctic Monkeys ||| 140
+Nine Inch Nails ||| 133
+Snot ||| 130
+Tool ||| 129
+Green Day ||| 123
+Something Corporate ||| 121
+## playcount: 11733

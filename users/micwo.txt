@@ -1,0 +1,51 @@
+Foo Fighters ||| 1114
+Coldplay ||| 827
+Sum 41 ||| 528
+The Offspring ||| 460
+New Found Glory ||| 449
+blink-182 ||| 448
+Green Day ||| 413
+Saosin ||| 392
+Red Hot Chili Peppers ||| 388
+System of a Down ||| 350
++44 ||| 329
+Angels & Airwaves ||| 288
+The Used ||| 285
+Yellowcard ||| 265
+Millencolin ||| 253
+Cobra Starship ||| 226
+Fall Out Boy ||| 226
+Yanni ||| 213
+Metallica ||| 185
+Lars Winnerbäck ||| 181
+Iglu & Hartly ||| 158
+Bo Kaspers Orkester ||| 157
+Backyard Babies ||| 144
+The Cardigans ||| 143
+Linkin Park ||| 129
+Hardcore Superstar ||| 122
+Avenged Sevenfold ||| 121
+String Tribute Players ||| 121
+Tenacious D ||| 121
+3 Doors Down ||| 120
+Eminem ||| 120
+-= U2 =- ||| 118
+30 Seconds to Mars ||| 116
+Jimmy Eat World ||| 114
+Takida ||| 112
+Avril Lavigne ||| 111
+Box Car Racer ||| 104
+Anberlin ||| 99
+Band of Horses ||| 98
+Spineshank ||| 98
+As Cities Burn ||| 95
+Papa Roach ||| 95
+Taking Back Sunday ||| 89
+The Presidents of the United States of America ||| 89
+Bullet for My Valentine ||| 86
+Skyla Talon ||| 85
+Snow Patrol ||| 81
+Basic Element ||| 79
+Rihanna ||| 79
+Nelly Furtado ||| 78
+## playcount: 11102

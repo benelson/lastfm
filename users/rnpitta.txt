@@ -1,0 +1,51 @@
+Miles Davis ||| 432
+Os Mutantes ||| 404
+Frank Zappa ||| 378
+John Coltrane ||| 370
+Jaco Pastorius ||| 361
+Tom Zé ||| 326
+Charles Mingus ||| 323
+Egberto Gismonti ||| 308
+Charlie Parker ||| 301
+Joshua Redman ||| 294
+Milton Nascimento ||| 291
+Baden Powell ||| 288
+Thelonious Monk ||| 278
+Avishai Cohen ||| 277
+Hermeto Pascoal ||| 276
+Gentle Giant ||| 272
+Elis Regina ||| 264
+Herbie Hancock ||| 259
+Antônio Carlos Jobim ||| 257
+Soft Machine ||| 252
+Bill Evans ||| 250
+Mônica Salmaso ||| 246
+Nina Simone ||| 228
+Guinga ||| 223
+Gong ||| 215
+Los Hermanos ||| 214
+Bud Powell ||| 205
+Mike Stern ||| 203
+João Donato ||| 201
+McCoy Tyner ||| 199
+The Dave Brubeck Quartet ||| 198
+Sun Ra ||| 191
+Stanley Clarke ||| 183
+Sonny Rollins ||| 178
+Dave Holland ||| 176
+Wayne Shorter ||| 175
+The Allman Brothers Band ||| 172
+Toumani Diabaté's Symmetric Orchestra ||| 168
+Weather Report ||| 168
+Ornette Coleman ||| 167
+Esperanza Spalding ||| 165
+Freddie Hubbard ||| 165
+Calibro 35 ||| 164
+Dave Douglas ||| 164
+The Cure ||| 164
+Novos Baianos ||| 162
+Arrigo Barnabé ||| 157
+Cannonball Adderley ||| 156
+Duke Ellington ||| 156
+Emerson, Lake & Palmer ||| 156
+## playcount: 11780

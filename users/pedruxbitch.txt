@@ -1,0 +1,51 @@
+Björk ||| 8727
+Beyoncé ||| 6478
+Britney Spears ||| 3402
+Rihanna ||| 3345
+Lady Gaga ||| 2540
+Janelle Monáe ||| 1926
+Christina Aguilera ||| 1896
+Lana Del Rey ||| 1880
+Nicki Minaj ||| 1827
+Madonna ||| 1763
+Amy Winehouse ||| 1467
+Florence + the Machine ||| 1453
+Adele ||| 1341
+Katy Perry ||| 1042
+Ke$ha ||| 1027
+Paramore ||| 841
+Avril Lavigne ||| 838
+Kylie Minogue ||| 729
+Glee Cast ||| 594
+P!nk ||| 541
+Wanessa ||| 514
+Azealia Banks ||| 512
+M.I.A. ||| 429
+Jessie J ||| 408
+Miley Cyrus ||| 404
+Demi Lovato ||| 402
+Marina & the Diamonds ||| 398
+Coldplay ||| 394
+Destiny's Child ||| 376
+Sia ||| 372
+Ariana Grande ||| 371
+Drake ||| 329
+Panic! at the Disco ||| 324
+Mariah Carey ||| 321
+The Pussycat Dolls ||| 315
+30 Seconds to Mars ||| 297
+Iggy Azalea ||| 292
+Anahí ||| 251
+Jennifer Lopez ||| 236
+Kanye West ||| 235
+My Chemical Romance ||| 233
+Princess Nokia ||| 233
+The Pretty Reckless ||| 227
+Fergie ||| 208
+Natalia Kills ||| 207
+Robyn ||| 207
+Adam Lambert ||| 196
+Jeffree Star ||| 193
+Taylor Swift ||| 189
+Bruno Mars ||| 188
+## playcount: 52918

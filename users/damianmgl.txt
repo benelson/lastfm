@@ -1,0 +1,51 @@
+Pulp ||| 307
+The Smiths ||| 242
+The Libertines ||| 232
+Arcade Fire ||| 211
+Gogol Bordello ||| 200
+Beirut ||| 178
+The Smashing Pumpkins ||| 171
+Crystal Castles ||| 165
+The Strokes ||| 161
+Sonic Youth ||| 139
+Die Antwoord ||| 117
+Adam Green ||| 94
+Edward Sharpe & The Magnetic Zeros ||| 93
+The Raveonettes ||| 92
+Black Lips ||| 90
+The Wombats ||| 90
+Cansei de Ser Sexy ||| 89
+Mumford & Sons ||| 86
+David Bowie ||| 80
+James ||| 77
+Two Door Cinema Club ||| 77
+The xx ||| 68
+Lykke Li ||| 67
+Placebo ||| 62
+The Notorious B.I.G. ||| 62
+Patrick Wolf ||| 61
+The Stone Roses ||| 61
+Billy Talent ||| 60
+Bob Marley ||| 60
+Phoenix ||| 60
+Frédéric Chopin ||| 56
+The Psychedelic Furs ||| 55
+The Maccabees ||| 54
+The Velvet Underground ||| 54
+Example ||| 52
+My Bloody Valentine ||| 51
+Bon Iver ||| 50
+Pixies ||| 49
+Klaxons ||| 45
+The Rolling Stones ||| 43
+Ra Ra Riot ||| 42
+Skywave ||| 42
+Black Kids ||| 40
+Molly Nilsson ||| 39
+Biffy Clyro ||| 38
+Seabear ||| 38
+Smashing Pumpkins - Machina, The Machines Of God ||| 38
+Arctic Monkeys ||| 37
+The Knife ||| 37
+The Shins ||| 37
+## playcount: 4449

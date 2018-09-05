@@ -1,0 +1,39 @@
+Rammstein ||| 28
+Slipknot ||| 20
+Rage Against the Machine ||| 19
+Machine Head ||| 17
+Korn ||| 15
+Stone Sour ||| 12
+System of a Down ||| 11
+Metallica ||| 7
+Enter Shikari ||| 5
+Bad Religion ||| 2
+Dry Kill Logic ||| 2
+30 Seconds to Mars ||| 1
+Alexisonfire ||| 1
+American Head Charge ||| 1
+Anthrax ||| 1
+Cannibal Corpse ||| 1
+Deftones ||| 1
+DevilDriver ||| 1
+Disturbed ||| 1
+Drowning Pool ||| 1
+Element Eighty ||| 1
+Limp Bizkit ||| 1
+Lostprophets ||| 1
+Mayhem ||| 1
+Morbid Angel ||| 1
+Mudvayne ||| 1
+Muse ||| 1
+Mushroomhead ||| 1
+P.O.D. ||| 1
+Papa Roach ||| 1
+Roadrunner United ||| 1
+Sepultura ||| 1
+Slayer ||| 1
+Sodom ||| 1
+Soulfly ||| 1
+Testament ||| 1
+The Berzerker ||| 1
+The Offspring ||| 1
+## playcount: 165

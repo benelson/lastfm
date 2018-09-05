@@ -1,0 +1,51 @@
+Daft Punk ||| 1175
+The Hives ||| 610
+Suicidal Tendencies ||| 511
+Red Hot Chili Peppers ||| 392
+Rancid ||| 391
+Alice in Chains ||| 389
+Tricky ||| 369
+Trivium ||| 353
+Erykah Badu ||| 338
+Deftones ||| 336
+Megadeth ||| 285
+Blur ||| 268
+Foo Fighters ||| 251
+Hot Hot Heat ||| 251
+Kaiser Chiefs ||| 232
+The Killers ||| 229
+The Distillers ||| 210
+Cut Copy ||| 205
+Florence + the Machine ||| 205
+Every Move a Picture ||| 198
+The Last Shadow Puppets ||| 194
+Björk ||| 190
+Morphine ||| 189
+The Strokes ||| 183
+Metallica ||| 174
+Arctic Monkeys ||| 169
+Massive Attack ||| 168
+Táxi ||| 167
+Head Automatica ||| 164
+Bon Jovi ||| 163
+The 88 ||| 150
+The Clash ||| 132
+The Kooks ||| 130
+Sia ||| 129
+The Fratellis ||| 129
+Zero 7 ||| 129
+Pantera ||| 127
+Iron Maiden ||| 126
+Duran Duran ||| 115
+Moloko ||| 109
+Kiss ||| 107
+Pitchshifter ||| 106
+Guns N' Roses ||| 105
+Arcade Fire ||| 104
+LCD Soundsystem ||| 101
+She Wants Revenge ||| 100
+Korn ||| 95
+Calvin Harris ||| 94
+The National ||| 94
+Portishead ||| 92
+## playcount: 11233

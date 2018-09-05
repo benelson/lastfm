@@ -1,0 +1,51 @@
+The Rolling Stones ||| 2138
+ZZ Top ||| 1027
+The Beatles ||| 801
+The Jimi Hendrix Experience ||| 139
+Bob Dylan ||| 132
+Deep Purple ||| 127
+Cream ||| 123
+The Who ||| 123
+Eric Clapton ||| 93
+Procol Harum ||| 65
+The Animals ||| 62
+The Yardbirds ||| 46
+Omega ||| 44
+Simon & Garfunkel ||| 44
+The Kinks ||| 44
+Jimi Hendrix ||| 43
+Keith Richards ||| 42
+Creedence Clearwater Revival ||| 41
+Steel Mill ||| 39
+Derek and the Dominos ||| 37
+Rolling Stones & Beatles ||| 37
+Aerosmith ||| 36
+Led Zepagain ||| 35
+Janis Joplin ||| 34
+John Lennon ||| 34
+The Guess Who ||| 34
+George Harrison ||| 32
+Gentleman ||| 31
+The Doors ||| 31
+The Ventures ||| 30
+Bob Marley ||| 28
+Bob Marley & The Wailers ||| 28
+Manu Chao ||| 28
+Steppenwolf ||| 28
+Chuck Berry ||| 27
+The Allman Brothers Band ||| 26
+Fleetwood Mac ||| 25
+Led Zeppelin ||| 24
+The Hollies ||| 23
+Dire Straits ||| 22
+Robert Plant ||| 22
+The Byrds ||| 22
+Lynyrd Skynyrd ||| 21
+Paul McCartney ||| 21
+Queen ||| 21
+Ten Years After ||| 21
+The Velvet Underground ||| 21
+Humble Pie ||| 19
+The Band ||| 19
+Bob Dylan and The Band ||| 18
+## playcount: 6008

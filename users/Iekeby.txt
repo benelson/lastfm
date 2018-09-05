@@ -1,0 +1,51 @@
+M83 ||| 2168
+Fenech-Soler ||| 2023
+Foster the People ||| 1688
+Owl City ||| 1629
+Home ||| 1501
+alt-J ||| 1357
+65daysofstatic ||| 1117
+The Album Leaf ||| 988
+God Is An Astronaut ||| 971
+Explosions in the Sky ||| 888
+Kid Cudi ||| 853
+Darren Korb ||| 812
+deadmau5 ||| 768
+Daft Punk ||| 670
+MGMT ||| 650
+Red Hot Chili Peppers ||| 641
+Kanye West ||| 638
+Foals ||| 581
+Skrillex ||| 576
+Klaxons ||| 573
+Tycho ||| 563
+Bastille ||| 542
+Mika ||| 508
+Arctic Monkeys ||| 487
+Maybeshewill ||| 473
+Miike Snow ||| 471
+30 Seconds to Mars ||| 465
+Linkin Park ||| 465
+Sigur Rós ||| 457
+Passion Pit ||| 451
+The 1975 ||| 439
+Empire of the Sun ||| 419
+Flume ||| 419
+Crystal Fighters ||| 418
+Phoenix ||| 409
+The Opposites ||| 394
+Starfucker ||| 361
+Yeasayer ||| 352
+The xx ||| 329
+Two Door Cinema Club ||| 311
+Muse ||| 306
+Chet Faker ||| 292
+Let's Get It ||| 291
+Boards of Canada ||| 288
+Ratatat ||| 286
+Justice ||| 279
+Gorillaz ||| 264
+Geographer ||| 259
+Hollywood Undead ||| 238
+Vampire Weekend ||| 236
+## playcount: 32564

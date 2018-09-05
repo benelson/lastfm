@@ -1,0 +1,51 @@
+OGOGO ||| 174
+Charlie Parker ||| 169
+Richard Wagner ||| 128
+Bill Evans ||| 98
+Niccolò Paganini ||| 96
+Johann Sebastian Bach ||| 68
+John Coltrane ||| 62
+Bill Evans Trio ||| 51
+Ludwig van Beethoven ||| 47
+Carlo Gesualdo ||| 28
+John Coltrane Quartet ||| 18
+Burial ||| 17
+Conlon Nancarrow ||| 16
+Glenn Gould ||| 15
+Georg Friedrich Händel ||| 14
+Leo Kottke ||| 14
+Ornette Coleman ||| 14
+Brian Eno ||| 13
+Starkey ||| 13
+Bob van Asperen/Melante Amsterdam ||| 12
+Eric Clapton ||| 12
+Lara St. John ||| 12
+Anne-Sophie Mutter ||| 11
+Dire Straits ||| 11
+Django Reinhardt ||| 11
+Kaki King ||| 11
+Kode9 ||| 11
+Muse ||| 11
+Zomby ||| 11
+Howard Alden ||| 10
+Jeff Beck ||| 10
+Jimi Hendrix ||| 10
+Norther ||| 10
+Santana ||| 10
+Synkro ||| 10
+Travis ||| 10
+Andy McKee ||| 9
+Butthole Surfers ||| 9
+Coldplay ||| 9
+Duke Ellington ||| 9
+Guns N' Roses ||| 9
+John McLaughlin ||| 9
+John Zorn ||| 9
+Kaiser Chiefs ||| 9
+Miles Davis ||| 9
+Radiohead ||| 9
+Regina Spektor ||| 9
+Steve Vai ||| 9
+The Bug ||| 9
+The Residents ||| 9
+## playcount: 1364

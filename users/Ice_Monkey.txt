@@ -1,0 +1,51 @@
+Pantera ||| 417
+Black Sabbath ||| 300
+Nirvana ||| 291
+Electric Wizard ||| 283
+Mötley Crüe ||| 280
+Down ||| 234
+Metallica ||| 201
+The Offspring ||| 200
+Orange Goblin ||| 188
+Kyuss ||| 173
+Crowbar ||| 168
+AC/DC ||| 162
+Trivium ||| 150
+Limp Bizkit ||| 149
+Rob Zombie ||| 149
+Acid King ||| 147
+Acid Bath ||| 138
+Queens of the Stone Age ||| 136
+Mastodon ||| 128
+Pearl Jam ||| 126
+Korn ||| 123
+Slipknot ||| 123
+White Zombie ||| 123
+Johnny Cash ||| 120
+Saint Vitus ||| 116
+Van Halen ||| 115
+Motörhead ||| 113
+Sublime ||| 113
+Bad Brains ||| 111
+Lamb of God ||| 111
+The Clash ||| 108
+Anthrax ||| 107
+Black Label Society ||| 105
+Guns N' Roses ||| 105
+Corrosion of Conformity ||| 101
+Alice in Chains ||| 99
+Disturbed ||| 98
+Eyehategod ||| 98
+Weezer ||| 98
+Witchfinder General ||| 94
+blink-182 ||| 92
+UB40 ||| 89
+Superjoint Ritual ||| 87
+Dopethrone ||| 84
+Rancid ||| 81
+Beastie Boys ||| 80
+Black Flag ||| 77
+Rammstein ||| 77
+Machine Head ||| 75
+Megadeth ||| 75
+## playcount: 7018

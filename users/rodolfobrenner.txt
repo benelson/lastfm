@@ -1,0 +1,51 @@
+Oasis ||| 1339
+Clarice Falcão ||| 912
+Paramore ||| 715
+Owl City ||| 679
+Natasha Bedingfield ||| 624
+The Strokes ||| 594
+Phillip Phillips ||| 553
+The Beatles ||| 522
+Superbus ||| 449
+Florence + the Machine ||| 406
+Arctic Monkeys ||| 375
+Foo Fighters ||| 293
+AC/DC ||| 121
+Norah Jones ||| 79
+Foster the People ||| 67
+Adele ||| 65
+Aerosmith ||| 57
+Jake Bugg ||| 54
+Ellie Goulding ||| 51
+Arcade Fire ||| 50
+Locksley ||| 38
+alt-J ||| 28
+Apanhador Só ||| 26
+Franz Ferdinand ||| 25
+Alicia Keys ||| 24
+Amy Winehouse ||| 24
+The Black Keys ||| 23
+Alabama Shakes ||| 22
+American Authors ||| 18
+The Apples in Stereo ||| 14
+Jamz ||| 11
+The Hush Sound ||| 11
+ABBA ||| 10
+Green Day ||| 10
+Coldplay ||| 8
+Rachel Platten ||| 8
+She & Him ||| 7
+Banda do Mar ||| 6
+Led Zeppelin ||| 5
+Queens of the Stone Age ||| 5
+Swedish House Mafia ||| 5
+Marvin Gaye & Tammi Terrell ||| 3
+The Doors ||| 3
+Aimee Mann ||| 2
+Alanis Morissette ||| 2
+Ed Sheeran ||| 2
+Elvis Presley ||| 2
+Gabrielle Aplin ||| 2
+Johnny Cash ||| 2
+The Killers ||| 2
+## playcount: 8353

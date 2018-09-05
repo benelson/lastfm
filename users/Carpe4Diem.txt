@@ -1,0 +1,51 @@
+The Beatles ||| 12832
+Wavves ||| 5368
+Nirvana ||| 3486
+Radiohead ||| 3412
+Led Zeppelin ||| 3203
+Green Day ||| 3106
+Slipknot ||| 2874
+Muse ||| 2496
+Queen ||| 2417
+The White Stripes ||| 1560
+Oasis ||| 1499
+Tame Impala ||| 1407
+John Lennon ||| 1335
+AC/DC ||| 1164
+Ramones ||| 1164
+The Andrews Sisters ||| 1134
+The Asteroids Galaxy Tour ||| 1033
+Burial ||| 991
+Paramore ||| 952
+Red Hot Chili Peppers ||| 895
+My Chemical Romance ||| 831
+The Rolling Stones ||| 826
+The Ink Spots ||| 714
+System of a Down ||| 706
+The Kooks ||| 647
+Elvis Presley ||| 644
+Mac DeMarco ||| 633
+Marilyn Manson ||| 599
+Jimi Hendrix ||| 565
+A Tribe Called Quest ||| 559
+Scorpions ||| 526
+The xx ||| 498
+The Prodigy ||| 477
+Boho Fau & Elevated Soul ||| 453
+Korn ||| 434
+Blind Willie Johnson ||| 424
+The Offspring ||| 413
+Queens of the Stone Age ||| 412
+Gorillaz ||| 406
+God Is An Astronaut ||| 388
+Aphex Twin ||| 381
+J Dilla ||| 369
+Linkin Park ||| 366
+Explosions in the Sky ||| 360
+Tyler, the Creator ||| 337
+Sigur Rós ||| 315
+The Black Keys ||| 307
+Bing Crosby ||| 306
+Pink Floyd ||| 301
+Odesza ||| 297
+## playcount: 66822

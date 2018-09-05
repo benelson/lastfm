@@ -1,0 +1,51 @@
+Snow Patrol ||| 5731
+The Killers ||| 5500
+blink-182 ||| 5035
+Katy Perry ||| 4370
+Florence + the Machine ||| 4353
+Lady Gaga ||| 4125
+Feeder ||| 3977
+Michael Jackson ||| 3953
+Calvin Harris ||| 3781
+Muse ||| 3775
+MGMT ||| 3750
+Black Eyed Peas ||| 3694
+Arctic Monkeys ||| 3636
+Stereophonics ||| 3344
+Coldplay ||| 3340
+Biffy Clyro ||| 3331
+Green Day ||| 3184
+Editors ||| 3143
+Kings of Leon ||| 3124
+Noah and the Whale ||| 2957
+Gorillaz ||| 2925
+The Beach Boys ||| 2924
+Rihanna ||| 2845
+The Wombats ||| 2746
+Mumford & Sons ||| 2617
+Daft Punk ||| 2592
+Ellie Goulding ||| 2480
+The Vaccines ||| 2460
+David Guetta ||| 2391
+Lily Allen ||| 2314
+Fall Out Boy ||| 2299
+Chase & Status ||| 2266
+The Prodigy ||| 2256
+Maroon 5 ||| 2154
+Vampire Weekend ||| 2147
+Bloc Party ||| 2108
+Queen ||| 2085
+U2 ||| 2047
+The Beatles ||| 2032
+Swedish House Mafia ||| 1955
+Hot Chip ||| 1938
+Bombay Bicycle Club ||| 1904
+CeeLo Green ||| 1891
+Goo Goo Dolls ||| 1890
+Kaiser Chiefs ||| 1868
+Red Hot Chili Peppers ||| 1829
+The Darkness ||| 1815
+The All-American Rejects ||| 1778
+Eminem ||| 1764
+Foo Fighters ||| 1751
+## playcount: 144174

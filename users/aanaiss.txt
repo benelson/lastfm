@@ -1,0 +1,51 @@
+Coldplay ||| 1470
+Oasis ||| 803
+Muse ||| 667
+Arctic Monkeys ||| 568
+The Fray ||| 461
+Radiohead ||| 368
+The Killers ||| 361
+Vetusta Morla ||| 320
+Ken Zazpi ||| 294
+Avril Lavigne ||| 274
+Keane ||| 238
+The Last Shadow Puppets ||| 215
+Els Pets ||| 175
+Kings of Leon ||| 148
+OneRepublic ||| 141
+Yellowcard ||| 136
+The Offspring ||| 131
+Embrace ||| 127
+Weezer ||| 126
+Fito & Fitipaldis ||| 121
+Sum 41 ||| 120
+Plain White T's ||| 101
+Linkin Park ||| 95
+Noel Gallagher's High Flying Birds ||| 94
+The Kooks ||| 91
+Placebo ||| 84
+Simple Plan ||| 83
+Ramones ||| 82
+blink-182 ||| 78
+Bruce Springsteen ||| 75
+Love of Lesbian ||| 72
+Snow Patrol ||| 70
+Zahara ||| 70
+Alejandro Sanz ||| 69
+The Script ||| 66
+White Lies ||| 63
+The Beatles ||| 61
+Pereza ||| 60
+Sopa De Cabra ||| 60
+The Strokes ||| 60
+U2 ||| 58
+Franz Ferdinand ||| 55
+Damien Rice ||| 54
+Nirvana ||| 54
+Bastille ||| 52
+Biffy Clyro ||| 49
+Bethany Joy Lenz ||| 48
+Good Charlotte ||| 46
+Bon Jovi ||| 45
+Florence + the Machine ||| 45
+## playcount: 9204

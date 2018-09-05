@@ -1,0 +1,51 @@
+AC/DC ||| 3997
+Kiss ||| 3215
+Aerosmith ||| 3147
+Van Halen ||| 3034
+Mötley Crüe ||| 2909
+Ozzy Osbourne ||| 2787
+Guns N' Roses ||| 2631
+The Rolling Stones ||| 2591
+Led Zeppelin ||| 2567
+Metallica ||| 2533
+The Beatles ||| 2026
+Lynyrd Skynyrd ||| 1901
+Judas Priest ||| 1843
+Black Sabbath ||| 1796
+Pink Floyd ||| 1770
+Alice in Chains ||| 1768
+Tool ||| 1761
+Rush ||| 1715
+ZZ Top ||| 1687
+Jimi Hendrix ||| 1596
+The Who ||| 1533
+Queen ||| 1501
+Journey ||| 1378
+Boston ||| 1305
+Stone Temple Pilots ||| 1285
+Foreigner ||| 1275
+The Cars ||| 1269
+Type O Negative ||| 1261
+Black Label Society ||| 1257
+Pantera ||| 1238
+Iron Maiden ||| 1202
+Marilyn Manson ||| 1170
+White Zombie ||| 1141
+Ted Nugent ||| 1124
+Def Leppard ||| 1105
+Bad Company ||| 1090
+Tom Petty and The Heartbreakers ||| 1057
+Joan Jett and the Blackhearts ||| 1049
+The Black Crowes ||| 1047
+Green Day ||| 1039
+Cheap Trick ||| 1037
+Spiritual Beggars ||| 1033
+Alter Bridge ||| 1032
+The Cult ||| 1027
+Rainbow ||| 1026
+Queensrÿche ||| 1023
+Megadeth ||| 1009
+Scorpions ||| 990
+Motörhead ||| 949
+Tesla ||| 947
+## playcount: 81673

@@ -1,0 +1,51 @@
+Aerosmith ||| 14
+Guns N' Roses ||| 14
+AC/DC ||| 13
+Audioslave ||| 11
+Deák Bill Gyula ||| 11
+Foo Fighters ||| 11
+Mötley Crüe ||| 10
+Nirvana ||| 9
+Rage Against the Machine ||| 9
+Van Halen ||| 9
+Led Zeppelin ||| 8
+Green Day ||| 7
+Metallica ||| 7
+Skid Row ||| 7
+Soundgarden ||| 7
+Velvet Revolver ||| 7
+3 Doors Down ||| 6
+Félúton ||| 6
+Ozzy Osbourne ||| 6
+Red Hot Chili Peppers ||| 6
+The Offspring ||| 6
+U2 ||| 6
+Incubus ||| 5
+Lenny Kravitz ||| 4
+R.E.M. ||| 4
+Stone Temple Pilots ||| 4
+System of a Down ||| 4
+The Smashing Pumpkins ||| 4
+Black Sabbath ||| 3
+Bush ||| 3
+Goo Goo Dolls ||| 3
+Jet ||| 3
+Kispál és a Borz ||| 3
+Linkin Park ||| 3
+Oasis ||| 3
+Pearl Jam ||| 3
+Queens of the Stone Age ||| 3
+Tenacious D ||| 3
+The Killers ||| 3
+311 ||| 2
+Alice in Chains ||| 2
+Beck ||| 2
+blink-182 ||| 2
+Bloodhound Gang ||| 2
+Blur ||| 2
+Creed ||| 2
+Garbage ||| 2
+Hanoi Rocks ||| 2
+Jimmy Eat World ||| 2
+Junkies ||| 2
+## playcount: 270

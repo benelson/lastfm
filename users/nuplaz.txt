@@ -1,0 +1,51 @@
+Miles Davis ||| 16
+Prince ||| 15
+Wayne Shorter ||| 15
+Elis Regina ||| 14
+Herbie Hancock ||| 14
+Hermeto Pascoal ||| 14
+Kurt Rosenwinkel ||| 14
+Me'Shell Ndegéocello ||| 14
+Oumou Sangare ||| 14
+Thelonious Monk ||| 14
+Weather Report ||| 14
+Salif Keita ||| 13
+Billie Holiday ||| 12
+D'Angelo ||| 12
+Gilberto Gil ||| 12
+Keith Jarrett ||| 12
+Stevie Wonder ||| 12
+Talking Heads ||| 12
+The Beatles ||| 12
+Charles Mingus ||| 11
+Chick Corea ||| 11
+Geri Allen ||| 11
+Gonzalo Rubalcaba ||| 11
+John Scofield ||| 11
+João Bosco ||| 11
+Kool & The Gang ||| 11
+Steel Pulse ||| 11
+A Tribe Called Quest ||| 10
+Björk ||| 10
+Bob Marley ||| 10
+James Brown ||| 10
+Jill Scott ||| 10
+Jimi Hendrix ||| 10
+John Coltrane ||| 10
+Michael Jackson ||| 10
+Milton Nascimento ||| 10
+Radiohead ||| 10
+Sade ||| 10
+Sly & The Family Stone ||| 10
+Sérgio Mendes ||| 10
+Ali Farka Touré ||| 9
+Amel Larrieux ||| 9
+Antônio Carlos Jobim ||| 9
+Avishai Cohen ||| 9
+Banda Black Rio ||| 9
+Booker T. & the MG's ||| 9
+Chico Buarque ||| 9
+Claude Debussy ||| 9
+Danilo Perez ||| 9
+David Bowie ||| 9
+## playcount: 563

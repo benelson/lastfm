@@ -1,0 +1,51 @@
+Slayer ||| 543
+Metallica ||| 450
+Avenged Sevenfold ||| 380
+System of a Down ||| 278
+Iron Maiden ||| 264
+Korzus ||| 219
+Eluveitie ||| 216
+[unknown] ||| 119
+Judas Priest ||| 115
+Lothlöryen ||| 91
+Van Halen ||| 86
+Amon Amarth ||| 67
+Carcass ||| 63
+Attomica ||| 60
+Arch Enemy ||| 49
+Massacration ||| 48
+Pantera ||| 44
+Exodus ||| 43
+Annihilator ||| 37
+Black Label Society ||| 31
+Norther ||| 30
+Heidevolk ||| 26
+Shaman ||| 25
+Nenhum de Nós ||| 24
+Kreator ||| 23
+Within Temptation ||| 22
+Blaze Bayley ||| 19
+Nightwish ||| 18
+AC/DC ||| 15
+Van Canto ||| 15
+Raimundos ||| 13
+Wintersun ||| 13
+Saxon ||| 12
+Serj Tankian ||| 12
+Therion ||| 12
+Doomsday Machine ||| 11
+Ramones ||| 11
+Toxic Holocaust ||| 11
+Megadeth ||| 10
+Morbid Angel ||| 10
+Tankard ||| 10
+Agnostic Front ||| 9
+Alice in Chains ||| 8
+Iced Earth ||| 8
+Bad Brains ||| 7
+S.H.A.P.T. ||| 7
+Creed ||| 6
+Death ||| 6
+Kalmah ||| 6
+Rage ||| 6
+## playcount: 3608

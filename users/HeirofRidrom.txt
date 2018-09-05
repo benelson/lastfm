@@ -1,0 +1,51 @@
+Crowded House ||| 20
+Foo Fighters ||| 12
+Sufjan Stevens ||| 12
+The Brian Jonestown Massacre ||| 12
+The Go! Team ||| 12
+Josh Pyke ||| 11
+Muse ||| 11
+José González ||| 10
+Radiohead ||| 10
+Beck ||| 9
+Silverchair ||| 9
+Elliott Smith ||| 8
+Little Birdy ||| 8
+Ben Kweller ||| 7
+Gotye ||| 7
+Jakob ||| 7
+Modest Mouse ||| 7
+Regina Spektor ||| 7
+The Cure ||| 7
+Arcade Fire ||| 6
+Coldplay ||| 6
+Fiona Apple ||| 6
+John Lennon ||| 6
+Kings of Leon ||| 6
+The Strokes ||| 6
+Air ||| 5
+Architecture in Helsinki ||| 5
+Bob Evans ||| 5
+Broken Social Scene ||| 5
+Cold War Kids ||| 5
+David Bowie ||| 5
+Doves ||| 5
+Faker ||| 5
+Feist ||| 5
+Frank Zappa ||| 5
+Leonard Cohen ||| 5
+Pixies ||| 5
+Powderfinger ||| 5
+Queens of the Stone Age ||| 5
+Red Hot Chili Peppers ||| 5
+Sigur Rós ||| 5
+Something for Kate ||| 5
+The Beatles ||| 5
+The Dandy Warhols ||| 5
+The Decemberists ||| 5
+The Killers ||| 5
+The New Pornographers ||| 5
+The Polyphonic Spree ||| 5
+The Shins ||| 5
+The Smiths ||| 5
+## playcount: 347

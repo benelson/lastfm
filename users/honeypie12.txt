@@ -1,0 +1,51 @@
+Oasis ||| 2946
+The Beatles ||| 2185
+Nada Surf ||| 1444
+Radiohead ||| 1403
+David Gilmour ||| 895
+Kings of Convenience ||| 813
+The Rolling Stones ||| 710
+Weezer ||| 606
+Josh Rouse ||| 486
+Paul McCartney ||| 402
+The Beach Boys ||| 402
+David Bowie ||| 360
+Goldfrapp ||| 345
+The Magic Numbers ||| 342
+Elliott Smith ||| 339
+Muse ||| 330
+Som Imaginário ||| 291
+John Pizzarelli ||| 277
+Jorge Ben ||| 266
+Rod Stewart ||| 261
+Bebel Gilberto ||| 254
+Bright Eyes ||| 249
+The Kooks ||| 243
+MGMT ||| 241
+Noel Gallagher ||| 232
+Justice ||| 226
+Peter Cincotti ||| 211
+The Winnerys ||| 208
+Manic Street Preachers ||| 178
+New Order ||| 177
+Bob Dylan ||| 161
+Snow Patrol ||| 160
+Cat Stevens ||| 156
+The Piano Tribute To Pink Floyd ||| 154
+Led Zeppelin ||| 152
+Rooney ||| 151
+Supercordas ||| 149
+Keren Ann ||| 148
+Teenage Fanclub ||| 145
+Adam Green ||| 128
+Daft Punk ||| 123
+Vetiver ||| 123
+Smoke City ||| 119
+The Hellacopters ||| 116
+The Shins ||| 116
+Phoenix ||| 115
+Wilson Simonal ||| 113
+Billie Holiday ||| 111
+Elton John ||| 101
+Belle and Sebastian ||| 100
+## playcount: 19963

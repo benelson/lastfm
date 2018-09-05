@@ -1,0 +1,51 @@
+Taylor Swift ||| 6379
+Lana Del Rey ||| 4171
+Halsey ||| 2931
+Lady Gaga ||| 2709
+Marina & the Diamonds ||| 2411
+Daughter ||| 2235
+Katy Perry ||| 2151
+Avril Lavigne ||| 2035
+Tove Lo ||| 1931
+Demi Lovato ||| 1815
+Damien Rice ||| 1771
+Ellie Goulding ||| 1630
+Angus & Julia Stone ||| 1599
+Ariana Grande ||| 1403
+Britney Spears ||| 1354
+Lorde ||| 1253
+Coldplay ||| 1235
+Carly Rae Jepsen ||| 1074
+Miley Cyrus ||| 1062
+The Killers ||| 1054
+Paramore ||| 964
+Tegan and Sara ||| 940
+Kelly Clarkson ||| 925
+Ke$ha ||| 894
+Adele ||| 862
+Florence + the Machine ||| 850
+Yeah Yeah Yeahs ||| 830
+Birdy ||| 805
+Rihanna ||| 796
+Augustana ||| 795
+Charli XCX ||| 784
+The Naked and Famous ||| 784
+Kodaline ||| 752
+OneRepublic ||| 746
+P!nk ||| 710
+Placebo ||| 710
+The xx ||| 708
+Lykke Li ||| 699
+Sia ||| 669
+Snow Patrol ||| 652
+Ed Sheeran ||| 638
+U2 ||| 622
+Lily Allen ||| 603
+My Chemical Romance ||| 603
+Melanie Martinez ||| 594
+Selena Gomez ||| 587
+Evanescence ||| 583
+Iron & Wine ||| 536
+Imagine Dragons ||| 535
+The Veronicas ||| 531
+## playcount: 63910

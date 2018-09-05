@@ -1,0 +1,51 @@
+Coldplay ||| 3484
+Radiohead ||| 3377
+Arctic Monkeys ||| 2817
+Panic! at the Disco ||| 2616
+Sum 41 ||| 2593
+AFI ||| 1980
+Extremoduro ||| 1744
+Lostprophets ||| 1711
+Jamiroquai ||| 1678
+Linkin Park ||| 1496
+Rise Against ||| 1311
+Jamie Cullum ||| 1271
+Carlos Vives ||| 1093
+Nirvana ||| 1003
+Incubus ||| 982
+Muse ||| 973
+Metallica ||| 943
+Paramore ||| 943
+Stone Temple Pilots ||| 938
+The Offspring ||| 900
+Foo Fighters ||| 879
+Interpol ||| 838
+Libido ||| 792
+Stereophonics ||| 746
+Mutemath ||| 718
+Depeche Mode ||| 669
+The Kooks ||| 658
+Placebo ||| 644
+John Newman ||| 642
+Moloko ||| 635
+Two Door Cinema Club ||| 633
+Michael Bublé ||| 624
+Kasabian ||| 613
+Gustavo Cerati ||| 591
+Héroes del Silencio ||| 479
+The Beatles ||| 476
+Red Hot Chili Peppers ||| 467
+Gorillaz ||| 466
+Audioslave ||| 435
+Mägo de Oz ||| 434
+Sérgio Mendes ||| 431
+Franz Ferdinand ||| 420
+Maroon 5 ||| 417
+Gotan Project ||| 409
+Apocalyptica ||| 404
+London Symphony Orchestra ||| 383
+Daft Punk ||| 369
+Soda Stereo ||| 364
+Calle 13 ||| 338
+blink-182 ||| 323
+## playcount: 50150

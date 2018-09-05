@@ -1,0 +1,51 @@
+Coldplay ||| 1432
+Angus & Julia Stone ||| 1194
+Myslovitz ||| 961
+Hey ||| 852
+The Beatles ||| 776
+U2 ||| 713
+The xx ||| 701
+Czesław Śpiewa ||| 699
+The White Stripes ||| 600
+Red Hot Chili Peppers ||| 563
+Hans Zimmer ||| 522
+Queen ||| 513
+Pink Floyd ||| 478
+Placebo ||| 424
+Crystal Fighters ||| 415
+Lana Del Rey ||| 401
+The Kooks ||| 395
+Sparklehorse ||| 388
+AC/DC ||| 372
+The Doors ||| 363
+Disney ||| 359
+Yann Tiersen ||| 334
+Beirut ||| 323
+Gorillaz ||| 320
+Brodka ||| 314
+The Rolling Stones ||| 289
+Crystal Castles ||| 284
+SBTRKT ||| 267
+Foals ||| 261
+Danny Elfman ||| 253
+The Naked and Famous ||| 239
+Modest Mouse ||| 231
+Chet Faker ||| 229
+The Killers ||| 222
+Kid Cudi ||| 221
+Foo Fighters ||| 216
+Patrick Wolf ||| 215
+CocoRosie ||| 190
+Nirvana ||| 189
+Mumford & Sons ||| 187
+Pearl Jam ||| 183
+Parov Stelar ||| 174
+Rihanna ||| 169
+The All-American Rejects ||| 168
+The Dead Weather ||| 161
+Grimes ||| 146
+The Velvet Underground ||| 145
+Devendra Banhart ||| 140
+Adele ||| 137
+Yeah Yeah Yeahs ||| 128
+## playcount: 19456

@@ -1,0 +1,51 @@
+Ayreon ||| 330
+AC/DC ||| 268
+Aerosmith ||| 250
+A Perfect Circle ||| 247
+Pearl Jam ||| 238
+Tool ||| 186
+Pain of Salvation ||| 185
+Anathema ||| 184
+Tom McRae ||| 175
+Breed77 ||| 174
+Eagles of Death Metal ||| 161
+Arena ||| 154
+Dream Theater ||| 152
+Finntroll ||| 143
+Opeth ||| 143
+Amplifier ||| 129
+Foo Fighters ||| 128
+Red Hot Chili Peppers ||| 126
+Muse ||| 125
+The Presidents of the United States of America ||| 124
+Get Well Soon ||| 115
+Sonata Arctica ||| 110
+Aereogramme ||| 108
+Adramelch ||| 105
+Serj Tankian ||| 100
+Spock's Beard ||| 96
+Korn ||| 95
+Against Me! ||| 93
+Amorphis ||| 88
+Abydos ||| 85
+Apocalyptica ||| 82
+Flogging Molly ||| 76
+Katatonia ||| 76
+Leech ||| 75
+Oceansize ||| 72
+Riverside ||| 72
+Star One ||| 68
+Chris Cornell ||| 67
+System of a Down ||| 67
+Devin Townsend ||| 66
+John Powell ||| 65
+Queens of the Stone Age ||| 65
+Alter Bridge ||| 64
+Kamelot ||| 63
+Subterranean Masquerade ||| 62
+Wolfmother ||| 61
+Nada Surf ||| 60
+Nodes Of Ranvier ||| 58
+Ambeon ||| 57
+Audioslave ||| 56
+## playcount: 5949

@@ -1,0 +1,51 @@
+Pink Floyd ||| 1125
+The Beatles ||| 152
+Metallica ||| 144
+Chumbawamba ||| 104
+Sigur Rós ||| 94
+Queen ||| 72
+Roger Waters ||| 71
+John Williams ||| 68
+Zero 7 ||| 65
+Manu Chao ||| 58
+Easy Star All-Stars ||| 53
+Radiohead ||| 49
+Madonna ||| 48
+David Bowie ||| 46
+Led Zeppelin ||| 46
+System of a Down ||| 44
+Billy Idol ||| 42
+INXS ||| 42
+Oasis ||| 42
+Air ||| 40
+The Orb ||| 38
+Black Sabbath ||| 36
+DJ Shadow ||| 34
+Slayer ||| 34
+Bob Marley ||| 33
+David Gilmour ||| 33
+Nirvana ||| 33
+Sepultura ||| 33
+Tool ||| 33
+Cliff Martinez ||| 32
+Ultramarine ||| 32
+Smog ||| 31
+Amy Winehouse ||| 30
+Fleetwood Mac ||| 30
+Iron Maiden ||| 30
+The Future Sound of London ||| 29
+Dream Theater ||| 28
+Queensrÿche ||| 27
+The Chemical Brothers ||| 27
+Voivod ||| 26
+Foo Fighters ||| 25
+The Rolling Stones ||| 25
+Bagpuss ||| 24
+Guns N' Roses ||| 24
+Neil Young ||| 24
+The Beloved ||| 24
+The Prodigy ||| 24
+The Streets ||| 24
+Faith No More ||| 23
+Fields of the Nephilim ||| 23
+## playcount: 3274

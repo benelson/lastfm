@@ -1,0 +1,51 @@
+Guns N' Roses ||| 289
+Slipknot ||| 171
+Amy Winehouse ||| 69
+Velvet Revolver ||| 61
+Metallica ||| 55
+Aerosmith ||| 51
+Matanza ||| 29
+Stone Sour ||| 23
+Titãs ||| 23
+Deep Purple ||| 19
+Pearl Jam ||| 19
+Iron Maiden ||| 17
+Led Zeppelin ||| 16
+Joan Jett ||| 14
+Ramones ||| 14
+AC/DC ||| 13
+Rush ||| 13
+Ozzy Osbourne ||| 11
+U2 ||| 11
+Dio ||| 10
+Dream Theater ||| 10
+Faith No More ||| 10
+Joan Jett and the Blackhearts ||| 10
+Pink Floyd ||| 10
+Rage Against the Machine ||| 9
+Evanescence ||| 8
+Lamb of God ||| 8
+Stone Temple Pilots ||| 8
+Ultraje A Rigor ||| 8
+Dire Straits ||| 7
+Rise Against ||| 7
+Black Sabbath ||| 6
+Kiss ||| 6
+Midnight Oil ||| 6
+Nirvana ||| 6
+The Rolling Stones ||| 6
+Bon Jovi ||| 5
+Charlie Brown JR. ||| 5
+Iggy Pop ||| 5
+Legião Urbana ||| 5
+Marilyn Manson ||| 5
+Megadeth ||| 5
+Red Hot Chili Peppers ||| 5
+Scorpions ||| 5
+Twisted Sister ||| 5
+Alice Cooper ||| 4
+Foo Fighters ||| 4
+Slayer ||| 4
+Van Halen ||| 4
+Airbourne ||| 3
+## playcount: 1117

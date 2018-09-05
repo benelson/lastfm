@@ -1,0 +1,51 @@
+Madonna ||| 44354
+Britney Spears ||| 9448
+Lady Gaga ||| 7788
+Lana Del Rey ||| 5676
+Beyoncé ||| 3301
+Mariah Carey ||| 3123
+Kylie Minogue ||| 2856
+Christina Aguilera ||| 2820
+Rihanna ||| 2642
+Max Richter ||| 2319
+Céline Dion ||| 2168
+Pyotr Ilyich Tchaikovsky ||| 2064
+Nicki Minaj ||| 1465
+Glee Cast ||| 1085
+Shakira ||| 1054
+Jennifer Lopez ||| 1035
+Björk ||| 1033
+Kanye West ||| 919
+Sia ||| 910
+Florence + the Machine ||| 889
+Iggy Azalea ||| 881
+Miley Cyrus ||| 863
+Black Eyed Peas ||| 861
+FKA twigs ||| 842
+Janet Jackson ||| 828
+Katy Perry ||| 821
+La Roux ||| 805
+Michael Jackson ||| 763
+Lily Allen ||| 690
+Lykke Li ||| 645
+Ciara ||| 584
+Cheryl ||| 563
+Fergie ||| 553
+Wanessa ||| 540
+M.I.A. ||| 531
+Clint Mansell ||| 521
+Camille ||| 499
+Anitta ||| 489
+Duffy ||| 485
+Ariana Grande ||| 477
+Adele ||| 476
+Sevdaliza ||| 466
+Christine and the Queens ||| 463
+P!nk ||| 460
+Nicola Roberts ||| 443
+Amy Winehouse ||| 438
+Crystal Castles ||| 423
+Scissor Sisters ||| 419
+Eminem ||| 411
+Ke$ha ||| 409
+## playcount: 114598

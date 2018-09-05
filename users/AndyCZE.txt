@@ -1,0 +1,51 @@
+Metallica ||| 6119
+Foo Fighters ||| 2868
+Tenacious D ||| 2687
+Rammstein ||| 2670
+Muse ||| 2386
+System of a Down ||| 2298
+Parov Stelar ||| 1967
+The Lonely Island ||| 1807
+Dream Theater ||| 1727
+Eminem ||| 1710
+Regina Spektor ||| 1676
+Red Hot Chili Peppers ||| 1517
+Tata Bojs ||| 1504
+Iron Maiden ||| 1424
+Arakain ||| 1283
+Genesis ||| 1200
+Serj Tankian ||| 994
+Blind Guardian ||| 941
+Aerosmith ||| 884
+Led Zeppelin ||| 842
+Godsmack ||| 827
+Lucie ||| 797
+Two Steps from Hell ||| 708
+Nightwish ||| 690
+The Police ||| 674
+Dark Gamballe ||| 672
+Linkin Park ||| 644
+Florence + the Machine ||| 618
+HammerFall ||| 602
+Kasabian ||| 571
+Slipknot ||| 564
+Emancipator ||| 557
+Pink Floyd ||| 556
+Arctic Monkeys ||| 549
+Nirvana ||| 544
+Kapitán Demo ||| 540
+Caravan Palace ||| 533
+Scars on Broadway ||| 505
+Marteria ||| 504
+John Frusciante ||| 498
+Placebo ||| 490
+Pražský výběr ||| 439
+Ozzy Osbourne ||| 430
+Atari Terror ||| 427
+A Perfect Circle ||| 414
+Marilyn Manson ||| 398
+Meg Myers ||| 389
+t.A.T.u. ||| 389
+Ludovico Einaudi ||| 387
+Justin Timberlake ||| 373
+## playcount: 54793

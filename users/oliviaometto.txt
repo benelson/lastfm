@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 4231
+The Strokes ||| 3442
+The Killers ||| 3233
+Franz Ferdinand ||| 2738
+Kings of Leon ||| 997
+The White Stripes ||| 877
+Led Zeppelin ||| 802
+The Rolling Stones ||| 784
+Gorillaz ||| 703
+The Black Keys ||| 664
+The Doors ||| 635
+Justice ||| 606
+Pink Floyd ||| 549
+Interpol ||| 548
+Bob Dylan ||| 520
+The Who ||| 498
+The Clash ||| 488
+David Bowie ||| 483
+Blur ||| 482
+Arcade Fire ||| 463
+Julian Casablancas ||| 441
+Depeche Mode ||| 440
+MGMT ||| 438
+Queens of the Stone Age ||| 432
+Kasabian ||| 423
+alt-J ||| 350
+Vampire Weekend ||| 337
+Two Door Cinema Club ||| 336
+The Last Shadow Puppets ||| 314
+The Smiths ||| 313
+The Kills ||| 311
+Kaiser Chiefs ||| 309
+The Velvet Underground ||| 296
+Tame Impala ||| 279
+The Vaccines ||| 278
+Queen ||| 273
+Fidlar ||| 272
+Kendrick Lamar ||| 266
+The Beatles ||| 266
+Eagles of Death Metal ||| 263
+blink-182 ||| 252
+Swim Deep ||| 246
+Nirvana ||| 243
+Phoenix ||| 243
+Beck ||| 242
+Cage the Elephant ||| 234
+Mumford & Sons ||| 234
+The Cure ||| 222
+Skrillex ||| 217
+M.I.A. ||| 212
+## playcount: 32725

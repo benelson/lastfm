@@ -1,0 +1,51 @@
+Metric ||| 1388
+Weezer ||| 1208
+Misfits ||| 970
+blink-182 ||| 795
+Mew ||| 757
+Melvins ||| 752
+St. Vincent ||| 700
+The Cure ||| 643
+Pissed Jeans ||| 567
+Radiohead ||| 544
+Liars ||| 438
+Paper Rival ||| 391
+The Bird and the Bee ||| 366
+Sneaker Pimps ||| 350
+Nirvana ||| 338
+Limp Bizkit ||| 334
+No Doubt ||| 331
+Space Ghost ||| 310
+Local Natives ||| 307
+Andrew Bird ||| 305
+Andrew Jackson Jihad ||| 304
+Drake ||| 303
+Metallica ||| 302
+Grizzly Bear ||| 285
+The Shangri-Las ||| 278
+Chevelle ||| 277
+Cock Sparrer ||| 275
+The Cramps ||| 275
+Embrace ||| 274
+Descendents ||| 271
+The Strokes ||| 254
+Clint Mansell ||| 252
+Beirut ||| 251
+Britney Spears ||| 244
+Vampire Weekend ||| 243
+Justice ||| 238
+Neutral Milk Hotel ||| 237
+Édith Piaf ||| 235
+Sibylle Baier ||| 227
+Tokyo Police Club ||| 222
+Kings of Leon ||| 221
+Tyler, the Creator ||| 211
+Ramones ||| 209
+Yann Tiersen ||| 207
+CocoRosie ||| 205
+Animal Collective ||| 199
+Al Green ||| 197
+Fleet Foxes ||| 197
+Arcade Fire ||| 193
+Kanye West ||| 184
+## playcount: 19064

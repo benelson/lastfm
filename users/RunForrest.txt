@@ -1,0 +1,51 @@
+U2 ||| 2755
+Coldplay ||| 2084
+Peter Gabriel ||| 1192
+Patty Griffin ||| 1093
+Sarah McLachlan ||| 980
+INXS ||| 868
+Pink Floyd ||| 786
+Arcade Fire ||| 759
+The Beatles ||| 728
+Radiohead ||| 710
+Sinéad O'Connor ||| 640
+James ||| 606
+Sigur Rós ||| 603
+Beth Orton ||| 594
+Death Cab for Cutie ||| 591
+Keane ||| 578
+The National ||| 559
+A Fine Frenzy ||| 523
+Bruce Springsteen ||| 482
+Madonna ||| 474
+Snow Patrol ||| 465
+Dido ||| 450
+Greg Laswell ||| 448
+Prince ||| 434
+The Police ||| 433
+Lindsey Buckingham ||| 388
+Doves ||| 386
+The Killers ||| 385
+Goldfrapp ||| 363
+Garbage ||| 357
+David Bowie ||| 332
+Bloc Party ||| 331
+My Morning Jacket ||| 322
+R.E.M. ||| 312
+Led Zeppelin ||| 311
+Jem ||| 306
+Alexi Murdoch ||| 302
+KT Tunstall ||| 297
+Regina Spektor ||| 293
+Tori Amos ||| 286
+Michelle Featherstone ||| 283
+The xx ||| 282
+Gorillaz ||| 280
+Alanis Morissette ||| 279
+Vienna Teng ||| 257
+Wilco ||| 254
+Phil Collins ||| 247
+Spoon ||| 245
+Moby ||| 244
+The Charlatans ||| 239
+## playcount: 27416

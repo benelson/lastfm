@@ -1,0 +1,39 @@
+ExcaligarD ||| 41
+Sirenia ||| 12
+Kamelot ||| 6
+Iron Maiden ||| 4
+www.supreme-yoga.com ||| 4
+Black Sabbath ||| 3
+Ozzy Osbourne ||| 3
+Airbourne ||| 2
+Beto Vázquez Infinity ||| 2
+Deep Purple ||| 2
+Def Leppard ||| 2
+Dio ||| 2
+Helloween ||| 2
+Judas Priest ||| 2
+Motörhead ||| 2
+Nazareth ||| 2
+Pink Floyd ||| 2
+Ramones ||| 2
+Slayer ||| 2
+Yngwie J. Malmsteen's Rising Force ||| 2
+Yngwie Malmsteen ||| 2
+ZZ Top ||| 2
+Океан Ельзи ||| 2
+Apocalyptica ||| 1
+Dream Theater ||| 1
+Epica ||| 1
+Jimi Hendrix ||| 1
+Manowar ||| 1
+Megadeth ||| 1
+Mötley Crüe ||| 1
+Pantera ||| 1
+Rebecca Black ||| 1
+Sex Pistols ||| 1
+Skid Row ||| 1
+Stratovarius ||| 1
+Testament ||| 1
+The Doors ||| 1
+Van Halen ||| 1
+## playcount: 120

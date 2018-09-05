@@ -1,0 +1,51 @@
+UFO ||| 1328
+Led Zeppelin ||| 1171
+Black Sabbath ||| 1022
+Rainbow ||| 966
+Rush ||| 929
+Def Leppard ||| 926
+Judas Priest ||| 924
+Metallica ||| 906
+Iron Maiden ||| 788
+Saxon ||| 777
+Scorpions ||| 711
+Grand Funk Railroad ||| 635
+AC/DC ||| 607
+Ozzy Osbourne ||| 604
+Pink Floyd ||| 603
+Uriah Heep ||| 536
+Grave Digger ||| 514
+The Doors ||| 494
+Mr. Big ||| 490
+Stevie Ray Vaughan and Double Trouble ||| 461
+Blue Öyster Cult ||| 457
+Accept ||| 455
+The Yardbirds ||| 454
+Aerosmith ||| 445
+Guns N' Roses ||| 433
+Bob Dylan ||| 425
+Shakira ||| 415
+Lynyrd Skynyrd ||| 410
+Dokken ||| 409
+Alice Cooper ||| 408
+The Cult ||| 399
+La Renga ||| 396
+Slash ||| 395
+John Lee Hooker ||| 387
+Deep Purple ||| 376
+Steppenwolf ||| 364
+The Sisters of Mercy ||| 358
+Bad Company ||| 321
+B.B. King ||| 319
+Twisted Sister ||| 319
+Thin Lizzy ||| 312
+Queensrÿche ||| 293
+Cinderella ||| 286
+Pet Shop Boys ||| 282
+Michael Schenker Group ||| 265
+Paradise Lost ||| 264
+Chuck Berry ||| 250
+ZZ Top ||| 248
+Blind Guardian ||| 240
+Megadeth ||| 235
+## playcount: 26012

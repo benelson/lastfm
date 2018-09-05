@@ -1,0 +1,51 @@
+Nirvana ||| 840
+Foo Fighters ||| 693
+Pearl Jam ||| 666
+Los Hermanos ||| 504
+Lifehouse ||| 494
+Radiohead ||| 413
+Snow Patrol ||| 292
+Imagine Dragons ||| 279
+Legião Urbana ||| 261
+Engenheiros Do Hawaii ||| 233
+The Pretty Reckless ||| 231
+The Smiths ||| 227
+Metallica ||| 222
+Sum 41 ||| 219
+Switchfoot ||| 202
+Seether ||| 197
+Oasis ||| 194
+Pink Floyd ||| 189
+30 Seconds to Mars ||| 175
+Green Day ||| 160
+Him ||| 159
+Florence + the Machine ||| 157
+Silverchair ||| 138
+Avril Lavigne ||| 129
+Eddie Vedder ||| 127
+Boyce Avenue ||| 122
+Kaiser Chiefs ||| 119
+The Beatles ||| 114
+Joy Division ||| 107
+The Killers ||| 102
+The Smashing Pumpkins ||| 99
+Sex Pistols ||| 87
+Kodaline ||| 83
+Sixx:A.M. ||| 83
+Audioslave ||| 80
+The Fray ||| 80
+The Vaccines ||| 80
+Aerosmith ||| 78
+Johnny Cash ||| 77
+The Kooks ||| 74
+Guns N' Roses ||| 70
+Dave Matthews Band ||| 65
+Kasabian ||| 64
+Arctic Monkeys ||| 61
+Capital Inicial ||| 58
+Soundgarden ||| 58
+Andrew Belle ||| 57
+Nando Reis ||| 55
+Caetano Veloso ||| 53
+Lana Del Rey ||| 52
+## playcount: 9379

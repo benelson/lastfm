@@ -1,0 +1,51 @@
+The Beatles ||| 5555
+The Rolling Stones ||| 2809
+Eric Clapton ||| 1333
+AC/DC ||| 1267
+Dire Straits ||| 1089
+Pink Floyd ||| 1076
+Deep Purple ||| 973
+Buddy Guy ||| 936
+Creedence Clearwater Revival ||| 885
+Led Zeppelin ||| 835
+Savoy Brown ||| 826
+Wishbone Ash ||| 707
+Eagles ||| 702
+Scorpions ||| 675
+Airbourne ||| 673
+The Marshall Tucker Band ||| 639
+Elvis Presley ||| 620
+Yavuz Çetin ||| 615
+Charlie Musselwhite ||| 598
+Rory Gallagher ||| 590
+Stará škola ||| 564
+Jean-Jacques Milteau ||| 562
+Paul Mauriat ||| 529
+Status Quo ||| 528
+Aerosmith ||| 525
+Queen ||| 504
+Joe Satriani ||| 503
+Fausto Papetti ||| 490
+Bad Company ||| 487
+Grand Funk Railroad ||| 479
+Jethro Tull ||| 477
+John Fogerty ||| 476
+Gary Moore ||| 455
+Johnny Cash ||| 455
+Paris Combo ||| 451
+Uriah Heep ||| 445
+Lynyrd Skynyrd ||| 442
+Cactus ||| 439
+Fleetwood Mac ||| 430
+Franz Ferdinand ||| 430
+The Doors ||| 428
+ZZ Top ||| 427
+Ten Years After ||| 424
+REO Speedwagon ||| 416
+Sonny Terry & Brownie McGhee ||| 397
+Bon Jovi ||| 394
+John Mayer ||| 392
+Rainbow ||| 377
+Shocking Blue ||| 376
+Kesmeşeker ||| 355
+## playcount: 37060

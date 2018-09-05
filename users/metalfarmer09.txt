@@ -1,0 +1,51 @@
+Metallica ||| 854
+Trivium ||| 506
+Him ||| 382
+Megadeth ||| 323
+Ozzy Osbourne ||| 293
+In Flames ||| 268
+Five Finger Death Punch ||| 266
+Korn ||| 248
+Papa Roach ||| 245
+Stone Sour ||| 236
+Slipknot ||| 217
+Machine Head ||| 215
+Bullet for My Valentine ||| 214
+Iron Maiden ||| 210
+AC/DC ||| 168
+Killswitch Engage ||| 160
+Nirvana ||| 157
+Shinedown ||| 157
+The Offspring ||| 157
+Avenged Sevenfold ||| 156
+Guns N' Roses ||| 155
+Marilyn Manson ||| 143
+Alestorm ||| 140
+Red Hot Chili Peppers ||| 133
+36 Crazyfists ||| 132
+Nine Inch Nails ||| 132
+Pantera ||| 132
+Disturbed ||| 131
+Alter Bridge ||| 124
+Mastodon ||| 119
+Funeral for a Friend ||| 115
+Linkin Park ||| 115
+Lacuna Coil ||| 114
+Slayer ||| 110
+Airbourne ||| 109
+Alice in Chains ||| 108
+Audioslave ||| 108
+Steel Panther ||| 106
+Foo Fighters ||| 105
+Bowling for Soup ||| 102
+Atreyu ||| 101
+Black Sabbath ||| 100
+Lamb of God ||| 100
+Adema ||| 99
+Bon Jovi ||| 98
+Mötley Crüe ||| 98
+Type O Negative ||| 97
+Anthrax ||| 96
+Soil ||| 96
+Sanctity ||| 95
+## playcount: 8845

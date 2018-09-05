@@ -1,0 +1,21 @@
+Queen ||| 269
+Sabaton ||| 60
+Nightwish ||| 49
+Michael Jackson ||| 45
+Freddie Mercury ||| 33
+Queen + Paul Rodgers ||| 32
+Bryan Adams ||| 22
+Green Day ||| 11
+Marilyn Manson ||| 10
+Megadeth ||| 10
+Turbo ||| 7
+E-Rotic ||| 5
+Haddaway ||| 5
+Frontside ||| 3
+Iron Maiden ||| 3
+Village People ||| 3
+Rufus Wainwright ||| 2
+Children of Bodom ||| 1
+Grand Theft Auto ||| 1
+Red Hot Chili Peppers ||| 1
+## playcount: 572

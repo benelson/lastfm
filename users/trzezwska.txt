@@ -1,0 +1,51 @@
+A Perfect Circle ||| 2733
+Tool ||| 1736
+Coma ||| 1277
+Korn ||| 1116
+Venflon ||| 1082
+Dry Kill Logic ||| 796
+John Mayer ||| 779
+30 Seconds to Mars ||| 527
+Hoobastank ||| 464
+Mona ||| 411
+Breaking Benjamin ||| 376
+Partia ||| 292
+Three Days Grace ||| 276
+Savage Garden ||| 270
+12 Stones ||| 247
+Michael Jackson ||| 236
+Skillet ||| 217
+The Cure ||| 213
+Kult ||| 212
+System of a Down ||| 207
+Darren Hayes ||| 195
+Metallica ||| 180
+Massive Attack ||| 176
+Gotye ||| 174
+Pearl Jam ||| 168
+Nickelback ||| 153
+Machine Head ||| 143
+Dream Theater ||| 141
+Deftones ||| 129
+The Prodigy ||| 123
+Him ||| 117
+Linkin Park ||| 99
+Kazik ||| 95
+Deriglasoff ||| 88
+Papa Roach ||| 87
+Serj Tankian ||| 84
+Buldog ||| 83
+Skunk Anansie ||| 81
+Slipknot ||| 81
+Poets of the Fall ||| 79
+Coldplay ||| 78
+Riverside ||| 77
+Sabaton ||| 74
+Seether ||| 71
+The Mars Volta ||| 69
+3xKlan ||| 68
+Hurt ||| 66
+Depeche Mode ||| 65
+3 Doors Down ||| 60
+Darkwater ||| 60
+## playcount: 16631

@@ -1,0 +1,51 @@
+The Beatles ||| 6169
+Florence + the Machine ||| 5467
+AC/DC ||| 4570
+Radiohead ||| 4053
+Muse ||| 3841
+Led Zeppelin ||| 3804
+Mumford & Sons ||| 3592
+Coldplay ||| 3507
+Lana Del Rey ||| 3374
+The Killers ||| 3331
+The National ||| 3329
+Kings of Leon ||| 3298
+Fall Out Boy ||| 3284
+Editors ||| 3182
+The Kills ||| 3154
+Foo Fighters ||| 3069
+The Pretty Reckless ||| 2914
+Rammstein ||| 2853
+Volbeat ||| 2817
+Linkin Park ||| 2790
+Slipknot ||| 2573
+Ed Sheeran ||| 2534
+Arcade Fire ||| 2528
+Hans Zimmer ||| 2483
+Marilyn Manson ||| 2427
+Arctic Monkeys ||| 2406
+Biffy Clyro ||| 2370
+Guns N' Roses ||| 2368
+The Black Keys ||| 2355
+Frank Turner ||| 2291
+The Subways ||| 2132
+The Rolling Stones ||| 2102
+Creedence Clearwater Revival ||| 2078
+Snow Patrol ||| 2059
+Panic! at the Disco ||| 2031
+Imagine Dragons ||| 2022
+Bruce Springsteen ||| 1906
+Metallica ||| 1901
+Ramin Djawadi ||| 1898
+Band of Horses ||| 1874
+Kaiser Chiefs ||| 1853
+Royal Republic ||| 1783
+Ghost ||| 1747
+Bob Dylan ||| 1711
+The White Buffalo ||| 1685
+Bon Iver ||| 1684
+Wolfmother ||| 1683
+Sia ||| 1682
+Of Monsters and Men ||| 1675
+System of a Down ||| 1644
+## playcount: 133883

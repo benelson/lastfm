@@ -1,0 +1,51 @@
+Madonna ||| 50222
+Lady Gaga ||| 10411
+Beyoncé ||| 8829
+Britney Spears ||| 8466
+Björk ||| 8353
+Tove Lo ||| 7030
+M.I.A. ||| 6376
+Kylie Minogue ||| 5914
+Christina Aguilera ||| 5600
+Charli XCX ||| 5278
+Marina & the Diamonds ||| 4910
+Ke$ha ||| 4865
+Lana Del Rey ||| 3723
+Katy Perry ||| 3510
+Rihanna ||| 2784
+Bat for Lashes ||| 2729
+Sky Ferreira ||| 2724
+Mariah Carey ||| 2618
+Grimes ||| 2144
+Gwen Stefani ||| 1994
+Azealia Banks ||| 1992
+FKA twigs ||| 1859
+Lorde ||| 1720
+Shakira ||| 1674
+Goldfrapp ||| 1355
+Miley Cyrus ||| 1310
+Daft Punk ||| 1289
+Lily Allen ||| 1266
+Iggy Azalea ||| 1176
+Vast ||| 1153
+Carly Rae Jepsen ||| 1137
+Taylor Swift ||| 1093
+Major Lazer ||| 1073
+Adele ||| 953
+Ariana Grande ||| 940
+Florence + the Machine ||| 907
+Selena Gomez ||| 874
+Banks ||| 852
+2NE1 ||| 809
+Lykke Li ||| 783
+The Weeknd ||| 747
+Sofi Tukker ||| 733
+Janelle Monáe ||| 693
+Little Boots ||| 693
+Allie X ||| 646
+Nicki Minaj ||| 646
+Jennifer Lopez ||| 618
+MØ ||| 603
+Justin Timberlake ||| 592
+Brooke Candy ||| 572
+## playcount: 179238

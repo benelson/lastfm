@@ -1,0 +1,51 @@
+Björk ||| 10949
+Lady Gaga ||| 10792
+Madonna ||| 10080
+Britney Spears ||| 7271
+Robyn ||| 5531
+Marilyn Manson ||| 5084
+Nicki Minaj ||| 4794
+Rihanna ||| 4545
+Beyoncé ||| 4269
+Amy Winehouse ||| 4048
+Kanye West ||| 3733
+Kylie Minogue ||| 3588
+Taylor Swift ||| 3435
+Christina Aguilera ||| 3425
+Marina & the Diamonds ||| 3389
+Ke$ha ||| 3253
+Michael Jackson ||| 3162
+Lana Del Rey ||| 2706
+Lights ||| 2664
+Coldplay ||| 2663
+Kelly Clarkson ||| 2559
+Avril Lavigne ||| 2293
+Panic! at the Disco ||| 2178
+P!nk ||| 2122
+Kelis ||| 1970
+Foster the People ||| 1694
+The xx ||| 1694
+Dev ||| 1589
+Adele ||| 1505
+Janelle Monáe ||| 1396
+Gwen Stefani ||| 1354
+Justice ||| 1239
+Lindsay Lohan ||| 1214
+Pink Floyd ||| 1208
+One Direction ||| 1158
+MGMT ||| 1147
+Natalia Kills ||| 1073
+Shania Twain ||| 1044
+Fiona Apple ||| 1003
+Jay-Z & Kanye West ||| 798
+Missy Elliott ||| 777
+La Roux ||| 678
+Azealia Banks ||| 677
+Ellie Goulding ||| 677
+Fergie ||| 674
+Justin Bieber ||| 670
+Jessie J ||| 563
+Stefani Germanotta Band ||| 501
+Carrie Underwood ||| 442
+Drake ||| 303
+## playcount: 135581

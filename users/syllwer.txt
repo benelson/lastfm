@@ -1,0 +1,51 @@
+Silverchair ||| 1343
+Foo Fighters ||| 1308
+Papa Roach ||| 1026
+Sum 41 ||| 833
+Three Days Grace ||| 803
+Avenged Sevenfold ||| 792
+Alien Ant Farm ||| 622
+Stone Sour ||| 439
+Rihanna ||| 434
+Charlie Brown JR. ||| 386
+Evanescence ||| 383
+Bon Jovi ||| 360
+Paramore ||| 313
+Stereophonics ||| 259
+Sugarcult ||| 244
+Richard Cheese ||| 230
+Seether ||| 228
+Nickelback ||| 226
+Story of the Year ||| 223
+Fall Out Boy ||| 191
+Bush ||| 183
+Linkin Park ||| 176
+Ignite ||| 175
+12 Stones ||| 165
+Slipknot ||| 165
+Hoobastank ||| 163
+Jay-Z ||| 161
+Rise Against ||| 161
+Fort Minor ||| 152
+Meriwether ||| 150
+Kanye West ||| 148
+Puddle of Mudd ||| 148
+Lil' Wayne ||| 142
+Boyce Avenue ||| 135
+Guns N' Roses ||| 134
+Disturbed ||| 126
+System of a Down ||| 126
+Incubus ||| 125
+No Doubt ||| 121
+Good Charlotte ||| 120
+The Avengers Soundtrack ||| 119
+3 Doors Down ||| 113
+Soulja Boy ||| 112
+Beyoncé ||| 110
+Green Day ||| 108
+Breaking Benjamin ||| 105
+Staind ||| 105
+Korn ||| 100
+Eminem ||| 94
+Lit ||| 85
+## playcount: 14670

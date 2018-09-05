@@ -1,0 +1,51 @@
+Anouk ||| 5740
+Lady Gaga ||| 4857
+Madonna ||| 2954
+Rihanna ||| 2937
+Adele ||| 2810
+Britney Spears ||| 2398
+Beyoncé ||| 1355
+Sia ||| 1324
+Katy Perry ||| 1188
+Robyn ||| 1131
+Daft Punk ||| 1112
+Maroon 5 ||| 1069
+Kylie Minogue ||| 1025
+Calvin Harris ||| 1017
+Justin Timberlake ||| 981
+P!nk ||| 977
+Amy Winehouse ||| 963
+David Guetta ||| 953
+RuPaul ||| 951
+Nelly Furtado ||| 935
+Ariana Grande ||| 894
+Lily Allen ||| 871
+Nicki Minaj ||| 800
+Lorde ||| 724
+Paloma Faith ||| 693
+Disclosure ||| 686
+Cheryl Cole ||| 638
+Fergie ||| 625
+Emeli Sandé ||| 613
+Florence + the Machine ||| 610
+Avicii ||| 598
+Macklemore & Ryan Lewis ||| 574
+The Saturdays ||| 555
+Justin Bieber ||| 551
+Jennifer Lopez ||| 549
+Sugababes ||| 542
+Alanis Morissette ||| 525
+The Pussycat Dolls ||| 517
+Duffy ||| 496
+Ilse DeLange ||| 482
+Selah Sue ||| 466
+Black Eyed Peas ||| 445
+September ||| 433
+Clean Bandit ||| 427
+Jessie J ||| 421
+Loreen ||| 409
+Christina Aguilera ||| 398
+Dua Lipa ||| 392
+Coldplay ||| 383
+Caro Emerald ||| 381
+## playcount: 53375

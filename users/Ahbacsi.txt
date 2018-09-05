@@ -1,0 +1,51 @@
+3 Doors Down ||| 18
+Iron Maiden ||| 18
+Fuel ||| 12
+Staind ||| 12
+Creed ||| 11
+Dio ||| 10
+Alter Bridge ||| 9
+Hoobastank ||| 9
+Blaze ||| 8
+Bruce Dickinson ||| 8
+Judas Priest ||| 8
+Megadeth ||| 8
+Nickelback ||| 8
+Seether ||| 8
+Audioslave ||| 7
+Pearl Jam ||| 7
+Tool ||| 7
+Chevelle ||| 6
+Iced Earth ||| 6
+Manowar ||| 6
+Saxon ||| 6
+Soundgarden ||| 6
+W.A.S.P. ||| 6
+12 Stones ||| 5
+AC/DC ||| 5
+Black Sabbath ||| 5
+Blind Guardian ||| 5
+Breaking Benjamin ||| 5
+Crossfade ||| 5
+Default ||| 5
+Godsmack ||| 5
+Grave Digger ||| 5
+Guns N' Roses ||| 5
+Helloween ||| 5
+Incubus ||| 5
+Motörhead ||| 5
+Accept ||| 4
+Alice in Chains ||| 4
+Black Label Society ||| 4
+Bush ||| 4
+Cold ||| 4
+Deftones ||| 4
+Foo Fighters ||| 4
+HammerFall ||| 4
+Live ||| 4
+Nine Inch Nails ||| 4
+Nirvana ||| 4
+Paul Di'anno ||| 4
+Samson ||| 4
+Savatage ||| 4
+## playcount: 325

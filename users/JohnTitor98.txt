@@ -1,0 +1,51 @@
+Iron Maiden ||| 1383
+Queen ||| 376
+Metallica ||| 357
+Megadeth ||| 310
+Fleetwood Mac ||| 214
+Slayer ||| 210
+AC/DC ||| 164
+Slipknot ||| 152
+Scorpions ||| 137
+Led Zeppelin ||| 111
+The Beatles ||| 74
+Death ||| 67
+Guns N' Roses ||| 64
+Kiss ||| 61
+Black Sabbath ||| 55
+Airbourne ||| 50
+Van Halen ||| 48
+Mägo de Oz ||| 47
+Pink Floyd ||| 46
+Helloween ||| 44
+Twisted Sister ||| 44
+Creedence Clearwater Revival ||| 43
+Dio ||| 43
+Simon & Garfunkel ||| 36
+Testament ||| 34
+Monstrosity ||| 33
+John Paul Jones ||| 32
+Globus ||| 31
+Brian May ||| 27
+Bruce Dickinson ||| 26
+Bon Jovi ||| 22
+Opeth ||| 22
+Eagles ||| 21
+Roger Taylor ||| 19
+Judas Priest ||| 18
+U2 ||| 18
+Carcass ||| 17
+John Lennon ||| 17
+Stevie Nicks ||| 17
+Kansas ||| 16
+Lynyrd Skynyrd ||| 16
+Five Finger Death Punch ||| 14
+Iron Savior ||| 10
+Joan Jett and the Blackhearts ||| 10
+Smile ||| 9
+ZZ Top ||| 9
+Freddie Mercury ||| 8
+Gamma Ray ||| 8
+Ramones ||| 8
+Robert Plant ||| 8
+## playcount: 4606

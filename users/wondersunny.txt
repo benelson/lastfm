@@ -1,0 +1,51 @@
+David Bowie ||| 34
+Placebo ||| 30
+Goldfrapp ||| 19
+Manic Street Preachers ||| 19
+Suede ||| 19
+Brian Eno ||| 16
+Radiohead ||| 16
+Muse ||| 15
+Starsailor ||| 15
+The Cure ||| 15
+Pulp ||| 14
+The Kooks ||| 14
+Duran Duran ||| 13
+Keane ||| 13
+Franz Ferdinand ||| 12
+Roxy Music ||| 11
+T. Rex ||| 11
+Depeche Mode ||| 10
+Eagles of Death Metal ||| 10
+James Dean Bradfield ||| 10
+Nina Hagen ||| 10
+Turbonegro ||| 10
+Blur ||| 9
+Cake ||| 9
+Lou Reed ||| 9
+Ocean Colour Scene ||| 9
+Portishead ||| 9
+The Rolling Stones ||| 9
+The Who ||| 9
+Antony and the Johnsons ||| 8
+Arcade Fire ||| 8
+Erasure ||| 8
+Kaiser Chiefs ||| 8
+Primal Scream ||| 8
+Razorlight ||| 8
+Sleeper ||| 8
+The Clash ||| 8
+The Smashing Pumpkins ||| 8
+30 Seconds to Mars ||| 7
+Albert Hammond, Jr. ||| 7
+Amy Winehouse ||| 7
+Boy Kill Boy ||| 7
+Daft Punk ||| 7
+Gene ||| 7
+Kings of Leon ||| 7
+Snow Patrol ||| 7
+The Velvet Underground ||| 7
+Alberto Camerini ||| 6
+Coldplay ||| 6
+Him ||| 6
+## playcount: 552

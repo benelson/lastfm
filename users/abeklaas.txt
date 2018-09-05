@@ -1,0 +1,51 @@
+Kane ||| 798
+Live ||| 325
+The Fray ||| 272
+Radiohead ||| 259
+Kings of Leon ||| 246
+Snow Patrol ||| 197
+Default ||| 161
+Fuel ||| 146
+Lifehouse ||| 115
+Nickelback ||| 110
+Hinder ||| 108
+Creed ||| 104
+Seether ||| 101
+Alter Bridge ||| 100
+Di-rect ||| 89
+Audioslave ||| 88
+Staind ||| 86
+Bush ||| 85
+White Lies ||| 84
+3 Doors Down ||| 83
+Nirvana ||| 82
+12 Stones ||| 77
+Boris ||| 74
+Submersed ||| 72
+The Doors ||| 72
+Three Days Grace ||| 72
+Dishwalla ||| 67
+Five for Fighting ||| 67
+Shinedown ||| 66
+Plain White T's ||| 65
+Goo Goo Dolls ||| 63
+Mando Diao ||| 63
+Chris Cornell ||| 61
+Pearl Jam ||| 60
+U2 ||| 58
+David Cook ||| 56
+Sister Hazel ||| 55
+Daughtry ||| 52
+Peter Doherty ||| 50
+Reamonn ||| 50
+Matchbox Twenty ||| 45
+Incubus ||| 43
+Institute ||| 43
+30 Seconds to Mars ||| 41
+Muse ||| 40
+Collective Soul ||| 39
+Linkin Park ||| 39
+Oasis ||| 38
+Papa Roach ||| 36
+Breaking Benjamin ||| 34
+## playcount: 5237

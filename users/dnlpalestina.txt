@@ -1,0 +1,51 @@
+The Beatles ||| 586
+Arctic Monkeys ||| 445
+Bon Iver ||| 321
+Radiohead ||| 305
+Lorde ||| 254
+Simon & Garfunkel ||| 224
+Café Tacvba ||| 204
+Daft Punk ||| 186
+Morrissey ||| 180
+The Black Keys ||| 155
+Kanye West ||| 144
+New Order ||| 139
+Natalia Lafourcade ||| 133
+The Strokes ||| 129
+Norah Jones ||| 126
+The Rolling Stones ||| 124
+Nirvana ||| 112
+Queen ||| 111
+Elvis Presley ||| 104
+Beck ||| 103
+Amy Winehouse ||| 100
+Lana Del Rey ||| 95
+Pulp ||| 95
+R.E.M. ||| 91
+David Bowie ||| 88
+U2 ||| 88
+Bob Marley & The Wailers ||| 86
+The Vaccines ||| 85
+Calexico ||| 84
+Björk ||| 83
+Elton John ||| 83
+Caifanes ||| 81
+Johann Sebastian Bach ||| 76
+Coldplay ||| 75
+Kings of Leon ||| 71
+Paul McCartney ||| 70
+Starsailor ||| 68
+Danger Mouse ||| 67
+Pet Shop Boys ||| 64
+Snoop Dogg ||| 64
+The Smiths ||| 63
+Vampire Weekend ||| 62
+Frank Ocean ||| 61
+Robyn ||| 61
+Pharrell Williams ||| 57
+Bob Dylan ||| 54
+PJ Harvey ||| 54
+Joy Division ||| 53
+Macklemore & Ryan Lewis ||| 53
+Cat Power ||| 52
+## playcount: 6269

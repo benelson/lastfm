@@ -1,0 +1,51 @@
+Tom Waits ||| 2559
+The Beatles ||| 2345
+The Black Keys ||| 2338
+Aretha Franklin ||| 1899
+Neko Case ||| 1824
+Bob Dylan ||| 1736
+Electric Light Orchestra ||| 1485
+Otis Redding ||| 1311
+Etta James ||| 1179
+Louis Armstrong ||| 1160
+NPR ||| 1160
+Coleman Hawkins ||| 1086
+The Rolling Stones ||| 1063
+Ray Charles ||| 1035
+Solomon Burke ||| 1014
+Arcade Fire ||| 931
+Nina Simone ||| 868
+David Bowie ||| 789
+Andrew Bird ||| 755
+Radiohead ||| 730
+James Brown ||| 729
+mclusky ||| 714
+Rita Pavone ||| 705
+Belle and Sebastian ||| 674
+Ty Segall ||| 650
+Beach House ||| 643
+Josh Ritter ||| 635
+Cat Power ||| 633
+Roy Orbison ||| 630
+Black Rebel Motorcycle Club ||| 619
+Creedence Clearwater Revival ||| 610
+The Raveonettes ||| 601
+Jonathan Richman And The Modern Lovers ||| 598
+The Beach Boys ||| 598
+AC/DC ||| 597
+Dan Auerbach ||| 594
+Sam Cooke ||| 580
+Spoon ||| 572
+The Flaming Lips ||| 558
+El Michels Affair ||| 546
+Wolf Parade ||| 526
+The Velvet Underground ||| 520
+Chuck Berry ||| 478
+The Kills ||| 475
+Jay-Z ||| 474
+Kanye West ||| 472
+My Morning Jacket ||| 467
+St. Vincent ||| 467
+Jerry Lee Lewis ||| 464
+The Clash ||| 455
+## playcount: 44551

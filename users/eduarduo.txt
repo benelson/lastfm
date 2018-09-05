@@ -1,0 +1,51 @@
+Metallica ||| 1422
+Los Hermanos ||| 943
+blink-182 ||| 900
+Legião Urbana ||| 867
+Megadeth ||| 799
+Bad Religion ||| 714
+Iron Maiden ||| 703
+System of a Down ||| 676
+Arch Enemy ||| 632
+Pantera ||| 632
+Foo Fighters ||| 534
+Motörhead ||| 499
+Slayer ||| 471
+Dashboard Confessional ||| 459
+Pearl Jam ||| 438
+Weezer ||| 425
+The Strokes ||| 401
+Faith No More ||| 384
+Nirvana ||| 340
+Apocalyptica ||| 338
+Franz Ferdinand ||| 310
+Papa Roach ||| 269
+Led Zeppelin ||| 267
+Red Hot Chili Peppers ||| 233
+The Smiths ||| 231
+Placebo ||| 226
+[unknown] ||| 224
+The Beatles ||| 207
+Rage Against the Machine ||| 203
+Raimundos ||| 182
+Silverchair ||| 172
+The Cure ||| 167
+Green Day ||| 162
+Judas Priest ||| 148
+Planet Hemp ||| 135
+Arctic Monkeys ||| 133
+Black Sabbath ||| 129
+Rammstein ||| 106
+AC/DC ||| 91
+Hoodoo Gurus ||| 88
+Dead Fish ||| 82
+Rush ||| 82
+Ramones ||| 77
+Deep Purple ||| 74
+Pixies ||| 72
+Dance of Days ||| 69
+INOJ ||| 68
+Pennywise ||| 54
+Lostprophets ||| 41
+Radiohead ||| 28
+## playcount: 16907

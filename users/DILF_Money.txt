@@ -1,0 +1,51 @@
+Bruno Mars ||| 64
+Adele ||| 57
+Britney Spears ||| 54
+Rihanna ||| 52
+John Legend ||| 33
+Alessia Cara ||| 32
+Alicia Keys ||| 31
+Taylor Swift ||| 29
+Carrie Underwood ||| 26
+Selena Gomez & the Scene ||| 25
+Maroon 5 ||| 24
+Demi Lovato ||| 20
+Justin Timberlake ||| 19
+Usher ||| 18
+Ariana Grande ||| 16
+Panic! at the Disco ||| 16
+Lady Gaga ||| 15
+Avril Lavigne ||| 14
+Rachel Platten ||| 14
+Carly Rae Jepsen ||| 13
+JoJo ||| 11
+Sia ||| 10
+Ellie Goulding ||| 9
+Fifth Harmony ||| 9
+Jon Bellion ||| 9
+Lana Del Rey ||| 9
+Rita Ora ||| 9
+Beyoncé ||| 8
+Jessie J ||| 8
+Marina & the Diamonds ||| 8
+Jennifer Lopez ||| 7
+Miley Cyrus ||| 7
+Cher ||| 6
+Hilary Duff ||| 6
+Kylie Minogue ||| 6
+Meghan Trainor ||| 6
+Janelle Monáe ||| 5
+Mary J. Blige ||| 5
+Selena Gomez ||| 5
+Calvin Harris ||| 4
+Christina Aguilera ||| 4
+Florence + the Machine ||| 4
+Gwen Stefani ||| 4
+P!nk ||| 4
+Ricky Martin ||| 4
+Tamar Braxton ||| 4
+Tori Kelly ||| 4
+Céline Dion ||| 3
+Natalia Kills ||| 3
+Anastacia ||| 2
+## playcount: 755

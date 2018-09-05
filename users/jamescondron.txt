@@ -1,0 +1,51 @@
+Tool ||| 4049
+Misfits ||| 3533
+The Mighty Mighty Bosstones ||| 1949
+Frank Sinatra ||| 1901
+Sublime ||| 1839
+Less Than Jake ||| 1595
+Sonic Youth ||| 1297
+Iron Maiden ||| 1289
+The Stone Roses ||| 1094
+Two Door Cinema Club ||| 1037
+Rancid ||| 983
+The Smashing Pumpkins ||| 935
+Camille Saint-Saëns ||| 914
+The Who ||| 851
+Nine Inch Nails ||| 822
+The Clash ||| 821
+Alice in Chains ||| 806
+Nirvana ||| 773
+AC/DC ||| 759
+Pantera ||| 726
+The Prodigy ||| 716
+Reel Big Fish ||| 698
+No Doubt ||| 697
+Weezer ||| 662
+Pearl Jam ||| 661
+Butthole Surfers ||| 635
+Dropkick Murphys ||| 629
+Pink Martini ||| 624
+Little Walter ||| 595
+Adolescents ||| 590
+Voodoo Glow Skulls ||| 582
+Prodigy ||| 572
+N.W.A ||| 551
+Leftöver Crack ||| 538
+Big D And The Kids Table ||| 535
+Creedence Clearwater Revival ||| 527
+HAIM ||| 508
+Skinny Puppy ||| 496
+Black Sabbath ||| 487
+Slovak Radio Symphony Orchestra ||| 485
+The Slackers ||| 480
+Slayer ||| 469
+System of a Down ||| 466
+Kiss ||| 464
+blink-182 ||| 455
+Dean Martin ||| 453
+Joy Division ||| 433
+Against All Authority ||| 428
+Neil Diamond ||| 428
+Kate Bush ||| 410
+## playcount: 44247

@@ -1,0 +1,51 @@
+The Beatles ||| 3368
+Queen ||| 2040
+Bob Marley ||| 1514
+Beirut ||| 1437
+Led Zeppelin ||| 1236
+David Bowie ||| 1162
+The Kinks ||| 1110
+Jefferson Airplane ||| 1006
+The Smiths ||| 914
+The Rolling Stones ||| 870
+Dean Martin ||| 861
+Pink Floyd ||| 825
+Elvis Presley ||| 743
+Santana ||| 717
+The Byrds ||| 695
+MGMT ||| 672
+The Who ||| 638
+AC/DC ||| 617
+Joan Baez ||| 568
+Jimi Hendrix ||| 549
+Deep Purple ||| 481
+Bob Dylan ||| 438
+U2 ||| 426
+Gipsy Kings ||| 423
+Israel Kamakawiwo'ole ||| 421
+The Doors ||| 411
+Frank Sinatra ||| 410
+Jerry Lee Lewis ||| 405
+The Clash ||| 385
+John Fogerty ||| 383
+Blur ||| 365
+Roy Orbison ||| 360
+Motörhead ||| 355
+Aerosmith ||| 320
+Creedence Clearwater Revival ||| 312
+Buddy Holly ||| 303
+Rod Stewart ||| 268
+The Kooks ||| 261
+Guns N' Roses ||| 258
+Jeff Beck ||| 242
+Peter Doherty ||| 242
+Van Halen ||| 222
+The Killers ||| 216
+Ravi Shankar ||| 210
+The Sounds ||| 204
+Steppenwolf ||| 197
+Blackmore's Night ||| 196
+Eric Clapton ||| 191
+Muse ||| 182
+Gogol Bordello ||| 175
+## playcount: 30804

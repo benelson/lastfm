@@ -1,0 +1,51 @@
+Foo Fighters ||| 6042
+Muse ||| 3649
+System of a Down ||| 3201
+The Killers ||| 2966
+Nickelback ||| 2045
+The Fray ||| 1987
+Linkin Park ||| 1766
+Panic! at the Disco ||| 1627
+Evanescence ||| 1481
+R.E.M. ||| 1431
+Fall Out Boy ||| 1229
+The All-American Rejects ||| 1225
+We Are Scientists ||| 1083
+Paramore ||| 1003
+The Hoosiers ||| 932
+Scouting for Girls ||| 895
+Fountains of Wayne ||| 820
+One Night Only ||| 757
+Glee Cast ||| 741
+Kelly Clarkson ||| 734
+Cary Brothers ||| 730
+Avril Lavigne ||| 631
+Lazlo Bane ||| 623
+Kings of Leon ||| 575
+The Automatic ||| 545
+Red Hot Chili Peppers ||| 506
+Green Day ||| 470
+増田俊郎 ||| 415
+The Last Shadow Puppets ||| 361
+Taylor Swift ||| 340
+Owl City ||| 331
+Black Eyed Peas ||| 285
+The Veronicas ||| 267
+Arctic Monkeys ||| 256
+Lily Allen ||| 253
+大島ミチル ||| 242
+The Smashing Pumpkins ||| 239
+The Used ||| 230
+Weezer ||| 227
+Sublime ||| 224
+Kasabian ||| 216
+Beyoncé ||| 215
+One Piece ||| 214
+Katy Perry ||| 205
+McFly ||| 198
+Jonathan Coulton ||| 196
+30 Seconds to Mars ||| 180
+The Coral ||| 177
+岩崎琢 ||| 144
+Colbie Caillat ||| 142
+## playcount: 45251

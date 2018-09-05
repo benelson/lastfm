@@ -1,0 +1,51 @@
+Slayer ||| 343
+Pantera ||| 208
+Slipknot ||| 143
+Black Sabbath ||| 130
+Bad Religion ||| 128
+Tool ||| 108
+Judas Priest ||| 103
+Megadeth ||| 94
+System of a Down ||| 94
+Pink Floyd ||| 90
+Death ||| 68
+Depeche Mode ||| 56
+Pearl Jam ||| 51
+Metallica ||| 50
+Rage Against the Machine ||| 47
+AC/DC ||| 41
+Nirvana ||| 38
+Lamb of God ||| 36
+Testament ||| 35
+Motörhead ||| 34
+Maylene and the Sons of Disaster ||| 33
+Deep Purple ||| 31
+Iron Maiden ||| 30
+Kreator ||| 29
+Lana Del Rey ||| 29
+Thin Lizzy ||| 26
+Alice in Chains ||| 25
+Mastodon ||| 25
+Opeth ||| 25
+The Cure ||| 25
+The xx ||| 25
+Cheap Trick ||| 24
+Kansas ||| 22
+Quicksilver Messenger Service ||| 22
+White Zombie ||| 22
+Scorpions ||| 21
+Lily Allen ||| 20
+Sex Pistols ||| 20
+Superjoint Ritual ||| 20
+The Jimi Hendrix Experience ||| 20
+The Adicts ||| 19
+The White Stripes ||| 19
+Blackfield ||| 18
+Bullet for My Valentine ||| 18
+Lynyrd Skynyrd ||| 18
+Overkill ||| 18
+Jimi Hendrix ||| 17
+Oasis ||| 17
+Ramones ||| 17
+The Cranberries ||| 17
+## playcount: 2569

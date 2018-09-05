@@ -1,0 +1,51 @@
+Britney Spears ||| 14750
+Christina Aguilera ||| 11893
+Selena Gomez ||| 8663
+Lana Del Rey ||| 6371
+Coldplay ||| 5679
+Avril Lavigne ||| 4565
+Michael Bublé ||| 4358
+Katy Perry ||| 4096
+Madonna ||| 2939
+Mariah Carey ||| 2353
+Kelly Clarkson ||| 2240
+소녀시대 ||| 2201
+Rihanna ||| 1946
+f(x) ||| 1647
+Gwen Stefani ||| 1527
+Beyoncé ||| 1391
+Muse ||| 1390
+Justin Timberlake ||| 1216
+Ellie Goulding ||| 1159
+Red Velvet ||| 1111
+Pitty ||| 902
+Lady Gaga ||| 788
+Exo ||| 776
+The Weeknd ||| 723
+Marisa Monte ||| 614
+RBD ||| 593
+Aaliyah ||| 540
+Drake ||| 514
+Bruno Mars ||| 440
+Nicki Minaj ||| 424
+Fall Out Boy ||| 410
+Nickelback ||| 408
+Kylie Minogue ||| 406
+Vanessa Hudgens ||| 405
+Hilary Duff ||| 378
+Iggy Azalea ||| 378
+Little Mix ||| 372
+Michael Jackson ||| 369
+Paula Fernandes ||| 359
+OneRepublic ||| 357
+Bastille ||| 353
+*NSYNC ||| 329
+John Legend ||| 328
+Meghan Trainor ||| 326
+Marina & the Diamonds ||| 318
+Kings of Leon ||| 315
+Maroon 5 ||| 311
+Sia ||| 302
+Jessica ||| 295
+Jamie Cullum ||| 286
+## playcount: 94814

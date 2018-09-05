@@ -1,0 +1,51 @@
+Moby ||| 5673
+Cat Power ||| 4276
+Radiohead ||| 3860
+The Beatles ||| 3594
+Johnny Cash ||| 3334
+Oasis ||| 3136
+Bob Dylan ||| 3096
+Coldplay ||| 2943
+John Frusciante ||| 2807
+Yann Tiersen ||| 2555
+The Strokes ||| 2431
+CocoRosie ||| 2417
+Devendra Banhart ||| 2395
+Leonard Cohen ||| 2366
+Björk ||| 2180
+Yeah Yeah Yeahs ||| 2113
+The Velvet Underground ||| 2046
+Los Hermanos ||| 2035
+Dido ||| 2026
+The Smiths ||| 1950
+The White Stripes ||| 1947
+The Rolling Stones ||| 1907
+Lady Gaga ||| 1881
+MGMT ||| 1850
+Pearl Jam ||| 1844
+Gorillaz ||| 1843
+David Bowie ||| 1828
+Pink Floyd ||| 1822
+Chico Buarque ||| 1782
+Travis ||| 1697
+Jorge Ben ||| 1669
+Beck ||| 1656
+Arctic Monkeys ||| 1622
+Zeca Baleiro ||| 1609
+Mika ||| 1588
+Belle and Sebastian ||| 1584
+U2 ||| 1574
+Kings of Convenience ||| 1567
+Jack Johnson ||| 1563
+Nancy Sinatra ||| 1529
+Franz Ferdinand ||| 1465
+Sigur Rós ||| 1459
+Amy Winehouse ||| 1428
+Tim Maia ||| 1332
+Beirut ||| 1289
+Elvis Presley ||| 1285
+Red Hot Chili Peppers ||| 1241
+Florence + the Machine ||| 1189
+Muse ||| 1119
+Madonna ||| 1050
+## playcount: 104452

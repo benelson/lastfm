@@ -1,0 +1,51 @@
+Slipknot ||| 1046
+Soulfly ||| 958
+Vader ||| 744
+Black Sabbath ||| 596
+Sepultura ||| 531
+Acid Drinkers ||| 526
+Motörhead ||| 371
+Cavalera Conspiracy ||| 370
+Stone Sour ||| 337
+Metallica ||| 335
+Five Finger Death Punch ||| 326
+Slayer ||| 284
+Anthrax ||| 274
+Judas Priest ||| 269
+Murderdolls ||| 267
+Gojira ||| 266
+Ozzy Osbourne ||| 240
+Exodus ||| 237
+Luxtorpeda ||| 230
+Cannibal Corpse ||| 207
+Megadeth ||| 203
+Illusion ||| 188
+Tenacious D ||| 182
+Annihilator ||| 172
+Napalm Death ||| 164
+Amon Amarth ||| 163
+Incite ||| 149
+Decapitated ||| 144
+Frontside ||| 135
+Death ||| 128
+Saint Vitus ||| 124
+Bloodbath ||| 114
+Pantera ||| 111
+Budgie ||| 109
+DevilDriver ||| 107
+Eric Clapton ||| 107
+Dead Infection ||| 102
+Elvis Presley ||| 99
+Overkill ||| 99
+Rammstein ||| 93
+System of a Down ||| 93
+Nailbomb ||| 90
+Apocalyptica ||| 87
+Panzer X ||| 79
+Arch Enemy ||| 75
+Lipali ||| 75
+Lamb of God ||| 74
+Iron Maiden ||| 64
+Ektomorf ||| 63
+Carcass ||| 62
+## playcount: 11869

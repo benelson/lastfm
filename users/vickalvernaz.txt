@@ -1,0 +1,51 @@
+Stone Sour ||| 1435
+John Mayer ||| 845
+3 Doors Down ||| 456
+Pearl Jam ||| 262
+KT Tunstall ||| 231
+The Beatles ||| 198
+Elton John ||| 190
+Damien Rice ||| 153
+Slipknot ||| 151
+7 Estrelo ||| 118
+Coldplay ||| 107
+Lenine ||| 104
+Pet Shop Boys ||| 92
+[unknown] ||| 90
+The Calling ||| 85
+Weezer ||| 84
+Adele ||| 77
+City and Colour ||| 74
+Norah Jones ||| 54
+Dave Matthews Band ||| 53
+Linkin Park ||| 51
+Led Zeppelin ||| 42
+Zeca Baleiro ||| 38
+Ana Cañas ||| 37
+Bon Jovi ||| 37
+Steel Dragon ||| 35
+Supertramp ||| 33
+Amy Winehouse ||| 29
+Weezer feat. Sara Bareilles ||| 24
+Isabella Taviani ||| 22
+Aerosmith ||| 21
+Ana Carolina ||| 20
+Maria Gadú ||| 20
+Maroon 5 ||| 20
+Elvis Presley ||| 18
+Red Hot Chili Peppers ||| 18
+Pink Floyd ||| 17
+12 Stones ||| 16
+Flávio Venturini ||| 16
+Capital Inicial ||| 15
+Código B ||| 15
+Cazuza ||| 13
+Genesis ||| 13
+Phil Collins ||| 13
+The Corrs ||| 12
+The Rolling Stones ||| 12
+Andru Donalds ||| 11
+Oswaldo Montenegro ||| 11
+Keane ||| 10
+Shakira ||| 10
+## playcount: 5508

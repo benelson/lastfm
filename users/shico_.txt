@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 2226
+Foo Fighters ||| 1441
+Queens of the Stone Age ||| 1217
+Nirvana ||| 998
+Muse ||| 639
+Caetano Veloso ||| 543
+Radiohead ||| 503
+Nine Inch Nails ||| 478
+The Who ||| 426
+The Smashing Pumpkins ||| 391
+David Bowie ||| 387
+Vulfpeck ||| 386
+Gilberto Gil ||| 384
+Royal Blood ||| 337
+Pink Floyd ||| 307
+Rage Against the Machine ||| 301
+Gorillaz ||| 273
+The Beatles ||| 266
+Pearl Jam ||| 264
+Kasabian ||| 263
+The Rolling Stones ||| 259
+Pixies ||| 252
+Jack White ||| 237
+Soundgarden ||| 225
+Daniel Caesar ||| 222
+The Black Keys ||| 216
+Nina Simone ||| 213
+Led Zeppelin ||| 211
+Devendra Banhart ||| 199
+Ty Segall ||| 192
+Portugal. The Man ||| 180
+Tame Impala ||| 179
+Black Sabbath ||| 178
+Janis Joplin ||| 165
+Band of Skulls ||| 156
+Milton Nascimento ||| 151
+The Pretty Reckless ||| 148
+Chico Buarque ||| 141
+Eric Clapton ||| 138
+Wilco ||| 138
+The Vines ||| 135
+Nick Cave & The Bad Seeds ||| 128
+Boogarins ||| 127
+Far From Alaska ||| 126
+Mykki Blanco ||| 124
+Cage the Elephant ||| 123
+Red Hot Chili Peppers ||| 123
+Morphine ||| 118
+Wolfmother ||| 118
+Björk ||| 117
+## playcount: 17069

@@ -1,0 +1,51 @@
+MGMT ||| 3768
+Beach House ||| 3552
+Warpaint ||| 3257
+SoKo ||| 2636
+Arctic Monkeys ||| 1801
+St. Vincent ||| 1794
+Tame Impala ||| 1475
+FKA twigs ||| 1251
+Jake Bugg ||| 1107
+Courtney Barnett ||| 1102
+The Kooks ||| 1094
+Grimes ||| 1008
+The Libertines ||| 913
+HAIM ||| 882
+Tegan and Sara ||| 820
+The Vaccines ||| 771
+The Strokes ||| 716
+Lolawolf ||| 712
+Wolf Alice ||| 639
+Lorde ||| 630
+Empress Of ||| 614
+Vampire Weekend ||| 604
+Mourn ||| 570
+The Beatles ||| 518
+Shura ||| 479
+Pink Floyd ||| 459
+Pond ||| 435
+Mazzy Star ||| 421
+Halsey ||| 411
+Joy Division ||| 408
+King Krule ||| 400
+CHVRCHES ||| 395
+The Horrors ||| 392
+Slowdive ||| 387
+Love of Lesbian ||| 383
+Soak ||| 343
+Toy ||| 328
+Ariana Grande ||| 327
+M.I.A. ||| 324
+Julia Holter ||| 320
+Portishead ||| 315
+The Flaming Lips ||| 299
+Foster the People ||| 293
+goat girl ||| 285
+Hinds ||| 285
+Mac DeMarco ||| 285
+Swim Deep ||| 285
+Torres ||| 244
+Alex Turner ||| 231
+Sleater-Kinney ||| 218
+## playcount: 41186

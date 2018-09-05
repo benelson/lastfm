@@ -1,0 +1,51 @@
+Foo Fighters ||| 1709
+Led Zeppelin ||| 1472
+Arctic Monkeys ||| 1396
+Radiohead ||| 1350
+Muse ||| 1263
+The Smiths ||| 1247
+The Beatles ||| 959
+The National ||| 928
+Incubus ||| 924
+Amy Winehouse ||| 909
+Babasónicos ||| 880
+Tan Bionica ||| 832
+Blur ||| 831
+Delta Spirit ||| 824
+The Kooks ||| 810
+Pearl Jam ||| 681
+Pulp ||| 675
+The Strokes ||| 672
+Band of Horses ||| 645
+Janis Joplin ||| 644
+Coldplay ||| 641
+Death Cab for Cutie ||| 625
+The Fratellis ||| 622
+Guns N' Roses ||| 607
+Nirvana ||| 605
+Eels ||| 592
+Queen ||| 570
+Weezer ||| 562
+Metric ||| 560
+Aerosmith ||| 526
+Kaiser Chiefs ||| 503
+The White Stripes ||| 494
+Kings of Leon ||| 492
+KT Tunstall ||| 468
+Starsailor ||| 453
+Regina Spektor ||| 451
+The Sounds ||| 450
+Morrissey ||| 449
+The Holloways ||| 449
+The Cure ||| 447
+No Doubt ||| 423
+Bright Eyes ||| 422
+Vampire Weekend ||| 416
+Daft Punk ||| 412
+Aqualung ||| 388
+Alanis Morissette ||| 383
+Calle 13 ||| 381
+John Mayer ||| 380
+Jack Johnson ||| 378
+Belle and Sebastian ||| 377
+## playcount: 34177

@@ -1,0 +1,51 @@
+blink-182 ||| 2148
+Coldplay ||| 1085
+Paramore ||| 1077
+Lady Gaga ||| 1039
+Avenged Sevenfold ||| 799
+Oasis ||| 629
+Green Day ||| 516
+Tequila Baby ||| 449
+Panic! at the Disco ||| 432
+Queen ||| 425
+The Beatles ||| 420
+Papa Roach ||| 334
+Engenheiros Do Hawaii ||| 291
+CPM 22 ||| 231
+Fresno ||| 228
+Katy Perry ||| 188
+Bob Marley ||| 179
+Red Hot Chili Peppers ||| 168
+Ke$ha ||| 163
+The Runaways ||| 133
+Avril Lavigne ||| 130
+Legião Urbana ||| 128
+Papas Da Língua ||| 127
+The Veronicas ||| 122
+Lily Allen ||| 113
+Os Paralamas Do Sucesso ||| 110
+System of a Down ||| 95
+Icona Pop ||| 82
+Black Eyed Peas ||| 80
+Cachorro Grande ||| 80
+Charlie Brown JR. ||| 80
+Ben Roots ||| 77
+Rihanna ||| 76
+Empire of the Sun ||| 74
+Cidadão Quem ||| 65
+Joan Jett and the Blackhearts ||| 65
+Arctic Monkeys ||| 59
+Fall Out Boy ||| 59
+Catch Side ||| 58
+Bob Marley & The Wailers ||| 55
+Scracho ||| 55
+AlunaGeorge ||| 54
+FREAKQUENCY ||| 48
+Natiruts ||| 44
+Ray Charles ||| 39
+The Offspring ||| 36
+Hateen ||| 35
+The Kooks ||| 34
+Slipknot ||| 33
+Lana Del Rey ||| 32
+## playcount: 13079

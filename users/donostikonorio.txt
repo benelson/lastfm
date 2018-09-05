@@ -1,0 +1,51 @@
+Madonna ||| 15638
+Beyoncé ||| 5501
+Rihanna ||| 3824
+Goldfrapp ||| 3050
+Lady Gaga ||| 2992
+Michael Jackson ||| 2911
+Britney Spears ||| 2721
+Justin Timberlake ||| 2471
+Robbie Williams ||| 2245
+Michael Bublé ||| 2155
+Lenny Kravitz ||| 2015
+Christina Aguilera ||| 1809
+Katy Perry ||| 1805
+Kylie Minogue ||| 1802
+Amaral ||| 1725
+Adele ||| 1564
+Fangoria ||| 1333
+David Guetta ||| 1158
+Alicia Keys ||| 1086
+Black Eyed Peas ||| 1036
+Amy Winehouse ||| 991
+Miley Cyrus ||| 960
+La Oreja de Van Gogh ||| 922
+Mónica Naranjo ||| 903
+Scissor Sisters ||| 894
+Sugababes ||| 881
+P!nk ||| 813
+Moby ||| 760
+Spice Girls ||| 719
+Across the Universe ||| 685
+Hurts ||| 653
+Timbaland ||| 590
+Franz Ferdinand ||| 584
+Jim Sturgess ||| 580
+Justice ||| 559
+Kanye West ||| 550
+Mark Ronson ||| 483
+Coldplay ||| 480
+Agnes Obel ||| 475
+Janet Jackson ||| 469
+Aretha Franklin ||| 460
+Jennifer Hudson ||| 456
+Antony and the Johnsons ||| 444
+Fischerspooner ||| 444
+Simian Mobile Disco ||| 441
+Jamie Cullum ||| 418
+Belleruche ||| 396
+Shakira ||| 387
+Calvin Harris ||| 380
+La casa azul ||| 363
+## playcount: 76981

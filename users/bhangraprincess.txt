@@ -1,0 +1,51 @@
+Flume ||| 490
+Drake ||| 482
+Kendrick Lamar ||| 336
+Glass Animals ||| 308
+Panic! at the Disco ||| 305
+Kanye West ||| 274
+Arctic Monkeys ||| 256
+Troye Sivan ||| 218
+Fall Out Boy ||| 169
+Jon Bellion ||| 168
+G-Eazy ||| 163
+Cage the Elephant ||| 159
+Young the Giant ||| 159
+Childish Gambino ||| 143
+Death Cab for Cutie ||| 141
+Foster the People ||| 141
+Logic ||| 131
+Cold War Kids ||| 129
+Kid Cudi ||| 128
+Red Hot Chili Peppers ||| 127
+The Postal Service ||| 126
+The Weeknd ||| 120
+Paramore ||| 119
+The Killers ||| 119
+The Kooks ||| 118
+Brandon Flowers ||| 117
+The Strokes ||| 116
+Oh Wonder ||| 115
+blink-182 ||| 110
+J. Cole ||| 110
+Lostboycrow ||| 110
+Abhi The Nomad ||| 109
+Phoenix ||| 107
+Twenty One Pilots ||| 106
+OneRepublic ||| 103
+BROODS ||| 101
+Passion Pit ||| 101
+Rise Against ||| 97
+Disclosure ||| 95
+Beyoncé ||| 90
+MGMT ||| 89
+Portugal. The Man ||| 87
+The White Stripes ||| 87
+Awolnation ||| 85
+Foo Fighters ||| 81
+The Naked and Famous ||| 81
+My Chemical Romance ||| 80
+Sam Lachow ||| 80
+Coldplay ||| 78
+Frank Ocean ||| 77
+## playcount: 7441

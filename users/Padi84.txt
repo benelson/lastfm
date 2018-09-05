@@ -1,0 +1,51 @@
+Coldplay ||| 2999
+Snow Patrol ||| 674
+Glee Cast ||| 235
+Oasis ||| 225
+Death Cab for Cutie ||| 214
+John Mayer ||| 191
+Soundtrack ||| 176
+Jewel ||| 169
+The Fray ||| 166
+Macklemore & Ryan Lewis ||| 159
+U2 ||| 128
+Kanye West ||| 121
+Paramore ||| 114
+a-ha ||| 106
+The Kooks ||| 94
+Lifehouse ||| 91
+Roxette ||| 91
+Philipp Poisel ||| 89
+Keane ||| 72
+KT Tunstall ||| 71
+Dashboard Confessional ||| 69
+Tired Pony ||| 69
+Matchbox Twenty ||| 67
+Bloc Party ||| 61
+Jack Johnson ||| 60
+Calvin Harris ||| 59
+Maroon 5 ||| 54
+Rooney ||| 53
+Arcade Fire ||| 50
+Bastille ||| 49
+The Calling ||| 49
+The All-American Rejects ||| 47
+Daft Punk ||| 44
+Tegan and Sara ||| 44
+Buffseeds ||| 43
+Travis ||| 43
+Macklemore ||| 40
+Scouting for Girls ||| 40
+Katy Perry ||| 38
+Red Hot Chili Peppers ||| 38
+Avril Lavigne ||| 37
+The Killers ||| 37
+Athlete ||| 35
+Eminem ||| 35
+Joseph Arthur ||| 35
+The Cure ||| 35
+Jay-Z ||| 34
+Ben Lee ||| 33
+James Blunt ||| 33
+Alanis Morissette ||| 32
+## playcount: 7548

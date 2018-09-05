@@ -1,0 +1,51 @@
+Coldplay ||| 1444
+Taylor Swift ||| 1274
+Avril Lavigne ||| 844
+American Authors ||| 315
+Imagine Dragons ||| 265
+Foo Fighters ||| 257
+Demi Lovato ||| 222
+Justin Timberlake ||| 205
+Ella Henderson ||| 191
+Goo Goo Dolls ||| 176
+Evanescence ||| 141
+OneRepublic ||| 88
+P!nk ||| 71
+Ed Sheeran ||| 59
+Beyoncé ||| 47
+The Vamps ||| 42
+Lifehouse ||| 33
+Kansas ||| 29
+Sia ||| 29
+Sam Smith ||| 27
+Shakira ||| 25
+Selena Gomez ||| 21
+Charli XCX ||| 19
+AC/DC ||| 14
+Linkin Park ||| 14
+Hoobastank ||| 13
+Magic! ||| 13
+Bon Jovi ||| 12
+James Morrison ||| 12
+Nirvana ||| 12
+Alex Goot & Hannah Trigwell ||| 8
+Green Day ||| 8
+Arctic Monkeys ||| 7
+Boyce Avenue ||| 7
+Oasis ||| 7
+A Great Big World ||| 6
+Boys Like Girls ||| 6
+Maroon 5 ||| 5
+Mat Kearney ||| 5
+Regina Spektor ||| 5
+3 Doors Down ||| 4
+Hanson ||| 4
+Allstar Weekend ||| 3
+Backstreet Boys ||| 3
+Eminem ||| 3
+Envy ||| 3
+Sky Ferreira ||| 3
+System of a Down ||| 3
+Clean Bandit ||| 2
+Creed ||| 2
+## playcount: 6008

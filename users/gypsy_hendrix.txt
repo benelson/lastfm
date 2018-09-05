@@ -1,0 +1,33 @@
+Jimi Hendrix ||| 145
+ZZ Top ||| 38
+Neil Young ||| 36
+Bob Dylan ||| 33
+Guns N' Roses ||| 31
+The Rolling Stones ||| 30
+Lynyrd Skynyrd ||| 29
+Janis Joplin ||| 26
+The Allman Brothers Band ||| 25
+Eric Clapton ||| 22
+The Velvet Underground ||| 21
+The Jimi Hendrix Experience ||| 17
+Stevie Ray Vaughan ||| 13
+The Doors ||| 11
+Blind Guardian ||| 3
+Black Heaven ||| 2
+Saltatio Mortis ||| 2
+Sepia ||| 2
+Subway to Sally ||| 2
+Avantasia ||| 1
+Elis ||| 1
+Epica ||| 1
+Evanescence ||| 1
+Fiddler's Green ||| 1
+Letzte Instanz ||| 1
+Magica ||| 1
+Nightwish ||| 1
+R.E.M. ||| 1
+Schandmaul ||| 1
+Silk und Lute ||| 1
+Sirenia ||| 1
+Visions of Atlantis ||| 1
+## playcount: 501

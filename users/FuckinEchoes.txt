@@ -1,0 +1,51 @@
+Pink Floyd ||| 147109
+Rush ||| 14396
+Elliott Smith ||| 12043
+Miles Davis ||| 8511
+Can ||| 8207
+The Beatles ||| 8093
+Slint ||| 5891
+Joy Division ||| 5748
+The Band ||| 5352
+Galaxie 500 ||| 5278
+Led Zeppelin ||| 5248
+Neil Young ||| 5246
+Guided by Voices ||| 5071
+Arcade Fire ||| 5056
+Captain Beefheart & His Magic Band ||| 5046
+The Mothers of Invention ||| 5022
+Bad Religion ||| 4661
+Tom Waits ||| 4601
+Fugazi ||| 4407
+Faust ||| 4308
+The Replacements ||| 4066
+Frank Zappa ||| 4049
+John Coltrane ||| 3958
+Pixies ||| 3926
+King Crimson ||| 3804
+Jeff Buckley ||| 3739
+The Doors ||| 3679
+Soft Machine ||| 3632
+The Velvet Underground ||| 3543
+Gentle Giant ||| 3431
+Hüsker Dü ||| 3385
+Swans ||| 3269
+Bob Dylan ||| 3102
+Unwound ||| 3060
+Propagandhi ||| 2916
+Neutral Milk Hotel ||| 2906
+The Magnetic Fields ||| 2898
+My Bloody Valentine ||| 2871
+The Microphones ||| 2730
+Black Sabbath ||| 2642
+Stars of the Lid ||| 2585
+Tim Buckley ||| 2536
+Have a Nice Life ||| 2459
+Wire ||| 2455
+Minutemen ||| 2450
+Dead Kennedys ||| 2426
+The Smiths ||| 2423
+Yes ||| 2411
+Radiohead ||| 2322
+For Against ||| 2269
+## playcount: 361236

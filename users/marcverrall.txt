@@ -1,0 +1,51 @@
+Bruce Springsteen ||| 11030
+Rush ||| 5344
+Iron Maiden ||| 4038
+Miles Davis ||| 3546
+Manic Street Preachers ||| 3196
+Queen ||| 3035
+David Bowie ||| 2969
+Fleetwood Mac ||| 2665
+The Fall ||| 2625
+The Cure ||| 2218
+Thin Lizzy ||| 2206
+Primal Scream ||| 2195
+Douglas Adams ||| 2169
+The Rolling Stones ||| 2159
+Ryan Adams ||| 2109
+Neil Young ||| 2072
+Marillion ||| 2070
+Nirvana ||| 2069
+AC/DC ||| 2010
+R.E.M. ||| 1980
+The Clash ||| 1888
+Drive-By Truckers ||| 1802
+Pink Floyd ||| 1718
+The Replacements ||| 1689
+The Black Crowes ||| 1682
+The Flaming Lips ||| 1681
+Johnny Cash ||| 1623
+Grateful Dead ||| 1590
+U2 ||| 1582
+Blondie ||| 1535
+New Order ||| 1516
+Guns N' Roses ||| 1481
+The Who ||| 1477
+Led Zeppelin ||| 1472
+The Byrds ||| 1424
+Teenage Fanclub ||| 1420
+Black Sabbath ||| 1397
+Townes Van Zandt ||| 1395
+Frank Zappa ||| 1326
+Duke Ellington ||| 1323
+ZZ Top ||| 1306
+Nick Cave & The Bad Seeds ||| 1296
+Ryan Adams & The Cardinals ||| 1294
+The Beatles ||| 1261
+Pearl Jam ||| 1166
+Fairport Convention ||| 1162
+Charlie Parker ||| 1152
+John Martyn ||| 1129
+Dire Straits ||| 1120
+Elvis Presley ||| 1117
+## playcount: 104729

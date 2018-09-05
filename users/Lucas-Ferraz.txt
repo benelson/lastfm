@@ -1,0 +1,51 @@
+Rihanna ||| 5746
+Adam Lambert ||| 4874
+Katy Perry ||| 3907
+Lady Gaga ||| 2087
+Cheryl Cole ||| 1711
+Britney Spears ||| 1652
+Christina Aguilera ||| 1590
+David Guetta ||| 1315
+Miley Cyrus ||| 1216
+Selena Gomez & the Scene ||| 1141
+Nicki Minaj ||| 1125
+P!nk ||| 1055
+Cascada ||| 894
+Maroon 5 ||| 869
+Jennifer Lopez ||| 682
+Avril Lavigne ||| 680
+Adele ||| 674
+3OH!3 ||| 670
+Eric Saade ||| 668
+Demi Lovato ||| 547
+The Wanted ||| 539
+Black Eyed Peas ||| 358
+Jessie J ||| 356
+Emily Osment ||| 348
+Kelly Rowland ||| 324
+Taio Cruz ||| 288
+Imagine Dragons ||| 257
+Ke$ha ||| 248
+Lolene ||| 248
+Evanescence ||| 242
+Led Zeppelin ||| 226
+Nicole Scherzinger ||| 225
+Cobra Starship ||| 223
+Jesse McCartney ||| 192
+Shakira ||| 175
+Mike Posner ||| 173
+Natalia Kills ||| 172
+Pixie Lott ||| 155
+Panic! at the Disco ||| 152
+Coldplay ||| 148
+Eminem ||| 139
+Far East Movement ||| 134
+B.o.B ||| 126
+Linkin Park ||| 120
+James Morrison ||| 102
+Selena Gomez ||| 94
+Beyoncé ||| 72
+Kylie Minogue ||| 71
+Willow ||| 64
+Carrie Underwood ||| 62
+## playcount: 39136

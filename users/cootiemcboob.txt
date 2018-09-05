@@ -1,0 +1,51 @@
+Vincent Gallo ||| 323
+Alice in Chains ||| 185
+Pavement ||| 148
+Yes ||| 99
+Guns N' Roses ||| 87
+The Black Crowes ||| 85
+Mastodon ||| 79
+Rush ||| 77
+Led Zeppelin ||| 74
+P!nk ||| 74
+Silversun Pickups ||| 74
+Queens of the Stone Age ||| 69
+The Radio Dept. ||| 62
+Deftones ||| 59
+Lamb of God ||| 50
+Pantera ||| 48
+The Chemical Brothers ||| 48
+Ghostface Killah ||| 46
+Ke$ha ||| 46
+Boston ||| 45
+Slayer ||| 45
+Snowden ||| 45
+Spank Rock ||| 45
+Genesis ||| 44
+Quicksand ||| 44
+Soundgarden ||| 41
+The Mars Volta ||| 41
+Tool ||| 41
+Lady Gaga ||| 40
+Skid Row ||| 40
+Justin Timberlake ||| 39
+Queen ||| 39
+The Smashing Pumpkins ||| 39
+At the Drive-In ||| 38
+Black Sabbath ||| 38
+Prince ||| 36
+Depeche Mode ||| 35
+Air ||| 34
+Beastie Boys ||| 34
+Stephen Malkmus ||| 34
+The Rolling Stones ||| 34
+Steely Dan ||| 33
+Michael Jackson ||| 31
+Van Halen ||| 31
+Beck ||| 30
+System of a Down ||| 30
+Clipse ||| 29
+Jay-Z ||| 29
+Mötley Crüe ||| 29
+Extreme ||| 28
+## playcount: 2874

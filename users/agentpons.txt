@@ -1,0 +1,51 @@
+The Beatles ||| 2392
+Radiohead ||| 2345
+Ween ||| 1690
+Jimi Hendrix ||| 1489
+Tool ||| 1385
+Pantera ||| 1150
+Rage Against the Machine ||| 1147
+As Blood Runs Black ||| 1016
+Pink Floyd ||| 1006
+Modest Mouse ||| 999
+Boards of Canada ||| 975
+Pixies ||| 835
+Metallica ||| 753
+Sublime ||| 752
+Animal Collective ||| 669
+Led Zeppelin ||| 642
+Wolf Parade ||| 642
+Air ||| 593
+Alice in Chains ||| 576
+Aphex Twin ||| 576
+Red Hot Chili Peppers ||| 572
+The Clash ||| 541
+Kanye West ||| 526
+Clap Your Hands Say Yeah ||| 501
+The Smashing Pumpkins ||| 498
+of Montreal ||| 496
+Bob Marley ||| 484
+Nirvana ||| 468
+The Velvet Underground ||| 468
+The White Stripes ||| 464
+Black Sabbath ||| 458
+Grateful Dead ||| 444
+System of a Down ||| 437
+My Morning Jacket ||| 433
+Queens of the Stone Age ||| 410
+Soundgarden ||| 409
+Audioslave ||| 387
+The Black Keys ||| 387
+Death from Above 1979 ||| 364
+Thievery Corporation ||| 352
+Crosby, Stills, Nash & Young ||| 350
+Daft Punk ||| 349
+Megadeth ||| 346
+Dr. Dre ||| 345
+Interpol ||| 339
+The Strokes ||| 339
+Ozzy Osbourne ||| 337
+TV on the Radio ||| 336
+Prefuse 73 ||| 333
+Ghostface Killah ||| 329
+## playcount: 34134

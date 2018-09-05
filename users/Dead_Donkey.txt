@@ -1,0 +1,51 @@
+Interpol ||| 4801
+The Strokes ||| 4266
+Arctic Monkeys ||| 3566
+Kasabian ||| 2444
+Vampire Weekend ||| 2275
+Arcade Fire ||| 1744
+Foals ||| 1510
+Franz Ferdinand ||| 1407
+Editors ||| 1403
+Django Django ||| 1333
+Depeche Mode ||| 1332
+Joy Division ||| 1128
+Wolfmother ||| 1096
+Nine Inch Nails ||| 907
+Everything Everything ||| 770
+MGMT ||| 760
+Black Rebel Motorcycle Club ||| 710
+Tame Impala ||| 661
+Kaiser Chiefs ||| 611
+Sonic Youth ||| 536
+The Black Keys ||| 523
+The Maccabees ||| 486
+White Lies ||| 484
+The Hives ||| 470
+The Kooks ||| 460
+Placebo ||| 455
+The White Stripes ||| 445
+The Killers ||| 408
+Coldplay ||| 394
+Julian Casablancas ||| 371
+Late of the Pier ||| 370
+My Chemical Romance ||| 369
+Bombay Bicycle Club ||| 352
+Kings of Leon ||| 350
+Klaxons ||| 343
+The Horrors ||| 329
+The Last Shadow Puppets ||| 327
+Metronomy ||| 314
+Blur ||| 313
+Revolver ||| 312
+David Bowie ||| 303
+Mac DeMarco ||| 301
+Panic! at the Disco ||| 298
+Why? ||| 293
+Two Door Cinema Club ||| 271
+Woods ||| 270
+Queen ||| 266
+Big Black Delta ||| 249
+Radiohead ||| 247
+Queens of the Stone Age ||| 235
+## playcount: 43868

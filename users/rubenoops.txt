@@ -1,0 +1,51 @@
+Mariah Carey ||| 4535
+Shakira ||| 1538
+Laura Pausini ||| 1427
+Rihanna ||| 1062
+Christina Aguilera ||| 1006
+Kylie Minogue ||| 1001
+Malú ||| 986
+Jennifer Lopez ||| 969
+Leona Lewis ||| 958
+Lady Gaga ||| 775
+Merche ||| 750
+Beyoncé ||| 730
+Lana Del Rey ||| 669
+Madonna ||| 587
+Mónica Naranjo ||| 565
+Katy Perry ||| 549
+Isabel Pantoja ||| 538
+Avril Lavigne ||| 527
+Soraya Arnelas ||| 519
+Enrique Iglesias ||| 516
+Nelly Furtado ||| 516
+Julieta Venegas ||| 514
+Glee Cast ||| 496
+David Guetta ||| 490
+Britney Spears ||| 475
+Paulina Rubio ||| 470
+Sugababes ||| 442
+Cheryl Cole ||| 427
+Vega ||| 424
+Adele ||| 418
+Nicki Minaj ||| 413
+ABBA ||| 402
+Coldplay ||| 402
+Belinda ||| 399
+Natasha Bedingfield ||| 398
+Céline Dion ||| 382
+Chenoa ||| 381
+Ke$ha ||| 366
+Lily Allen ||| 361
+Marta Sánchez ||| 349
+Dido ||| 343
+Usher ||| 332
+Demi Lovato ||| 327
+Kelly Clarkson ||| 326
+Roxette ||| 316
+Girls Aloud ||| 297
+Alejandro Sanz ||| 293
+The Saturdays ||| 285
+The Killers ||| 278
+Pablo Alborán ||| 269
+## playcount: 31798

@@ -1,0 +1,51 @@
+Megadeth ||| 691
+Guns N' Roses ||| 495
+Pink Floyd ||| 327
+Ramones ||| 239
+Red Hot Chili Peppers ||| 220
+System of a Down ||| 181
+Black Sabbath ||| 175
+Charlie Brown JR. ||| 174
+Pitty ||| 165
+The Beatles ||| 165
+Led Zeppelin ||| 162
+AC/DC ||| 152
+Michael Jackson ||| 139
+The Rolling Stones ||| 131
+Matanza ||| 130
+Queen ||| 130
+Alex Turner ||| 122
+Skank ||| 115
+Alice Cooper ||| 113
+Bon Jovi ||| 110
+Nirvana ||| 108
+Legião Urbana ||| 106
+Ozzy Osbourne ||| 105
+Metallica ||| 102
+Aerosmith ||| 96
+Raul Seixas ||| 88
+Van Halen ||| 86
+Cássia Eller ||| 85
+ZZ Top ||| 85
+Kiss ||| 77
+Engenheiros Do Hawaii ||| 74
+Capital Inicial ||| 73
+Foo Fighters ||| 67
+Pearl Jam ||| 67
+Ana Carolina ||| 66
+Green Day ||| 59
+Raimundos ||| 59
+Iron Maiden ||| 55
+Mötley Crüe ||| 54
+The Pretty Reckless ||| 54
+Detonautas Roque Clube ||| 51
+Pantera ||| 51
+Kansas ||| 41
+Mr. Big ||| 40
+Muse ||| 38
+Lynyrd Skynyrd ||| 29
+Poison ||| 27
+Slipknot ||| 26
+Arctic Monkeys ||| 25
+blink-182 ||| 24
+## playcount: 6054

@@ -1,0 +1,51 @@
+The Courteeners ||| 6540
+Arctic Monkeys ||| 6097
+Oasis ||| 3814
+Good Charlotte ||| 3684
+The Stone Roses ||| 3372
+Foo Fighters ||| 2328
+Slipknot ||| 2326
+Kasabian ||| 1963
+Eminem ||| 1836
+The Libertines ||| 1547
+Linkin Park ||| 1360
+Paramore ||| 1282
+Beady Eye ||| 1066
+My Chemical Romance ||| 1002
+The Enemy ||| 1001
+Elvis Presley ||| 919
+Joy Division ||| 862
+Noel Gallagher's High Flying Birds ||| 778
+Coldplay ||| 757
+Green Day ||| 689
+Justin Bieber ||| 646
+Catfish and The Bottlemen ||| 632
+The Vaccines ||| 626
+blink-182 ||| 612
+You Me at Six ||| 541
+Biffy Clyro ||| 520
+Fall Out Boy ||| 493
+System of a Down ||| 482
+Lady Gaga ||| 461
+The Fratellis ||| 435
+The Blackout ||| 417
+Kaiser Chiefs ||| 407
+Red Hot Chili Peppers ||| 377
+The White Stripes ||| 365
+Lostprophets ||| 360
+Cher Lloyd ||| 354
+Carpenters ||| 334
+All Time Low ||| 327
+Franki Valli & The Four Seasons ||| 324
+Queen ||| 323
+Stereophonics ||| 314
+Limp Bizkit ||| 312
+Royal Blood ||| 266
+Panic! at the Disco ||| 264
+Pink Floyd ||| 251
+Alexisonfire ||| 243
+Liam Gallagher ||| 236
+Example ||| 224
+Status Quo ||| 210
+The Verve ||| 202
+## playcount: 54781

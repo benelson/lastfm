@@ -1,0 +1,51 @@
+Queen ||| 4057
+Robbie Williams ||| 3132
+Đorđe Balašević ||| 3021
+Hladno Pivo ||| 3010
+El Canto del Loco ||| 2446
+Muse ||| 1731
+Shakira ||| 1597
+Snow Patrol ||| 1565
+Coldplay ||| 1475
+Flogging Molly ||| 1424
+Pearl Jam ||| 1215
+Katy Perry ||| 1194
+Lady Gaga ||| 1119
+Ska-P ||| 1030
+TBF ||| 935
+Lily Allen ||| 894
+Overflow ||| 836
+Taylor Swift ||| 831
+James Blunt ||| 739
+Kings of Leon ||| 700
+Pereza ||| 687
+The Beatles ||| 675
+Manchester Orchestra ||| 667
+Elvis Presley ||| 658
+Crvena Jabuka ||| 647
+Siddharta ||| 633
+Rammstein ||| 617
+Vatra ||| 598
+The Who ||| 588
+System of a Down ||| 586
+Rihanna ||| 581
+Lady Antebellum ||| 571
+Linkin Park ||| 570
+Noah and the Whale ||| 563
+Luka Nižetić ||| 554
+Cheryl Cole ||| 544
+Adele ||| 537
+Red Hot Chili Peppers ||| 527
+Beyoncé ||| 526
+Evanescence ||| 519
+Prljavo Kazalište ||| 492
+Parni Valjak ||| 488
+Johnny Cash ||| 456
+Gibonni ||| 437
+The Killers ||| 431
+Gavin DeGraw ||| 420
+The Pogues ||| 401
+Arctic Monkeys ||| 398
+Noisettes ||| 392
+The Rolling Stones ||| 392
+## playcount: 49106

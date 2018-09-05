@@ -1,0 +1,51 @@
+Mariah Carey ||| 12756
+Britney Spears ||| 11201
+Ciara ||| 4579
+Beyoncé ||| 3760
+Janet Jackson ||| 3737
+Madonna ||| 3337
+Whitney Houston ||| 2030
+Michael Jackson ||| 2013
+Alicia Keys ||| 1871
+LeToya ||| 1869
+Lady Gaga ||| 1853
+Brandy ||| 1812
+Negative ||| 1773
+Cyndi Lauper ||| 1592
+Prince ||| 1503
+Mandy Moore ||| 1316
+Rihanna ||| 1298
+Destiny's Child ||| 1195
+Jennifer Lopez ||| 1103
+Usher ||| 1060
+Darren Hayes ||| 1058
+Michelle Williams ||| 1019
+Shakira ||| 982
+Kelly Rowland ||| 864
+Billie Piper ||| 846
+Black Eyed Peas ||| 799
+Christina Aguilera ||| 759
+Ashlee Simpson ||| 677
+Ne-Yo ||| 629
+Aaliyah ||| 598
+Solange ||| 592
+TLC ||| 578
+Cassius ||| 573
+Björk ||| 555
+The Jacksons ||| 520
+Kid Cudi ||| 510
+Mario ||| 468
+Mika ||| 447
+Chris Brown ||| 445
+Missy Elliott ||| 347
+Leona Lewis ||| 343
+Keri Hilson ||| 339
+All Saints ||| 313
+The Cranberries ||| 304
+The Chemical Brothers ||| 300
+No Doubt ||| 285
+Róisín Murphy ||| 284
+Girls Aloud ||| 277
+Kylie Minogue ||| 252
+P!nk ||| 252
+## playcount: 77873

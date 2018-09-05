@@ -1,0 +1,51 @@
+The Beatles ||| 20823
+Pink Floyd ||| 6234
+The Who ||| 5450
+John Lennon ||| 3120
+Simon & Garfunkel ||| 2289
+The Doors ||| 2066
+Buddy Holly ||| 1637
+The Zombies ||| 1356
+The Rolling Stones ||| 1324
+Queen ||| 1273
+The Kinks ||| 1231
+Bob Dylan ||| 1089
+Syd Barrett ||| 1017
+The Beach Boys ||| 999
+The Velvet Underground ||| 993
+The Jimi Hendrix Experience ||| 869
+Belle and Sebastian ||| 716
+Donovan ||| 645
+The Clash ||| 536
+Talking Heads ||| 451
+David Bowie ||| 431
+Neil Young ||| 379
+Jefferson Airplane ||| 375
+The Smiths ||| 357
+Carole King ||| 355
+The Hollies ||| 355
+Cream ||| 330
+The Police ||| 315
+Elvis Costello & The Attractions ||| 297
+Michael Jackson ||| 291
+Billy Joel ||| 266
+Chuck Berry ||| 264
+Fleetwood Mac ||| 260
+The Mamas & the Papas ||| 238
+T. Rex ||| 237
+Elvis Presley ||| 232
+Love ||| 222
+Tom Petty and The Heartbreakers ||| 211
+Creedence Clearwater Revival ||| 208
+Oasis ||| 204
+Nick Drake ||| 201
+of Montreal ||| 201
+Frank Zappa ||| 200
+Ramones ||| 199
+The New Pornographers ||| 199
+The White Stripes ||| 197
+Arctic Monkeys ||| 194
+The Verve ||| 193
+The World/Inferno Friendship Society ||| 193
+Buzzcocks ||| 192
+## playcount: 61914

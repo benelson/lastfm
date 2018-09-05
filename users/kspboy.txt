@@ -1,0 +1,51 @@
+Madonna ||| 21719
+Rihanna ||| 6135
+P!nk ||| 4770
+Britney Spears ||| 4191
+Justin Timberlake ||| 3856
+Lady Gaga ||| 3741
+Beyoncé ||| 3576
+Katy Perry ||| 3382
+Jennifer Lopez ||| 3189
+Keri Hilson ||| 2998
+Evanescence ||| 2891
+Shakira ||| 2691
+Chris Brown ||| 2514
+Mary J. Blige ||| 1939
+Timbaland ||| 1780
+Eminem ||| 1759
+Christina Aguilera ||| 1731
+Breaking Benjamin ||| 1608
+Kanye West ||| 1606
+Ke$ha ||| 1602
+Nicki Minaj ||| 1581
+Maroon 5 ||| 1580
+Ricky Martin ||| 1497
+Black Eyed Peas ||| 1325
+Adam Lambert ||| 1270
+Kelly Clarkson ||| 1248
+Kylie Minogue ||| 1228
+David Guetta ||| 1192
+Toni Braxton ||| 1191
+Flo Rida ||| 1184
+Leona Lewis ||| 1144
+Pitbull ||| 1127
+Usher ||| 1103
+Fergie ||| 1101
+Kat DeLuna ||| 1090
+T.I. ||| 1087
+Taylor Swift ||| 1034
+Cher ||| 1027
+Nickelback ||| 986
+Miley Cyrus ||| 980
+Ciara ||| 976
+Alicia Keys ||| 972
+Mariah Carey ||| 964
+Natalia Kills ||| 961
+Nicole Scherzinger ||| 953
+Ne-Yo ||| 906
+Adele ||| 873
+Mario ||| 867
+Lil' Wayne ||| 844
+Poets of the Fall ||| 843
+## playcount: 110812

@@ -1,0 +1,51 @@
+Foo Fighters ||| 728
+Jimmy Eat World ||| 683
+Nikka Costa ||| 679
+The Black Keys ||| 653
+Jack's Mannequin ||| 638
+The Doors ||| 588
+Bruce Springsteen ||| 567
+Grace Potter & The Nocturnals ||| 565
+Snow Patrol ||| 545
+AC/DC ||| 512
+Kings of Leon ||| 491
+The Cure ||| 477
+Augustana ||| 476
+Radiohead ||| 427
+MoZella ||| 402
+Cat Power ||| 364
+Amy Winehouse ||| 362
+Something Corporate ||| 351
+La Rocca ||| 348
+The National ||| 342
+Led Zeppelin ||| 341
+Band of Horses ||| 330
+Calla ||| 323
+Oasis ||| 323
+Doves ||| 310
+Cold War Kids ||| 306
+Anouk ||| 282
+The Veils ||| 277
+Belle and Sebastian ||| 276
+Bob Dylan ||| 276
+The Perishers ||| 276
+Tom Petty and The Heartbreakers ||| 275
+Yeah Yeah Yeahs ||| 270
+Death Cab for Cutie ||| 264
+Sheryl Crow ||| 254
+Janis Joplin ||| 251
+Athlete ||| 238
+NOFX ||| 238
+Creedence Clearwater Revival ||| 237
+The Trews ||| 234
+Megan McCauley ||| 231
+Elvis Costello ||| 228
+Arctic Monkeys ||| 224
+Interpol ||| 224
+Travis ||| 220
+Silversun Pickups ||| 219
+Ray LaMontagne ||| 217
+Regina Spektor ||| 216
+My Morning Jacket ||| 209
+Logh ||| 207
+## playcount: 17974

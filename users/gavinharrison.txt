@@ -1,0 +1,51 @@
+Jimi Hendrix ||| 1096
+King Crimson ||| 949
+Bob Dylan ||| 633
+Frank Zappa ||| 616
+Sun Ra ||| 483
+The Doors ||| 478
+Genesis ||| 459
+Gong ||| 442
+Joy Division ||| 417
+Yes ||| 410
+Tindersticks ||| 393
+Magma ||| 381
+Black Sabbath ||| 366
+Supertramp ||| 357
+Hawkwind ||| 353
+The Beatles ||| 311
+David Bowie ||| 304
+Sigur Rós ||| 304
+Leonard Cohen ||| 301
+Radiohead ||| 301
+PJ Harvey ||| 295
+Jethro Tull ||| 290
+Tom Waits ||| 276
+Pearl Jam ||| 270
+Kent ||| 269
+Arctic Monkeys ||| 264
+Tool ||| 264
+Morphine ||| 258
+The Cure ||| 253
+Mahavishnu Orchestra ||| 242
+Judas Priest ||| 229
+Rory Gallagher ||| 229
+Sonic Youth ||| 217
+John Coltrane ||| 216
+The Chameleons ||| 214
+Noir Désir ||| 212
+Neil Young ||| 201
+Daft Punk ||| 198
+Lowercase ||| 190
+Talking Heads ||| 186
+Ange ||| 185
+Miles Davis ||| 184
+Bauhaus ||| 183
+Iron Butterfly ||| 182
+Gentle Giant ||| 181
+Rage Against the Machine ||| 178
+Low ||| 177
+Nick Cave & The Bad Seeds ||| 177
+Focus ||| 176
+God Is An Astronaut ||| 175
+## playcount: 15925

@@ -1,0 +1,51 @@
+Taylor Swift ||| 17383
+Madonna ||| 8780
+Britney Spears ||| 6342
+Mariah Carey ||| 6027
+Lady Gaga ||| 5065
+Avril Lavigne ||| 3420
+Beyoncé ||| 3199
+Adele ||| 2709
+Selena Gomez ||| 1967
+P!nk ||| 1937
+Lana Del Rey ||| 1836
+Christina Aguilera ||| 1608
+Miley Cyrus ||| 1502
+David Bowie ||| 1309
+Rihanna ||| 1250
+Katy Perry ||| 1193
+Demi Lovato ||| 1107
+The Smiths ||| 996
+U2 ||| 980
+Kanye West ||| 969
+Pink Floyd ||| 898
+Frank Ocean ||| 749
+Kelly Clarkson ||| 740
+Grimes ||| 715
+Radiohead ||| 674
+Ed Sheeran ||| 672
+Lorde ||| 646
+The Cure ||| 644
+Janet Jackson ||| 630
+The Beatles ||| 512
+Ariana Grande ||| 458
+Ciara ||| 429
+Led Zeppelin ||| 415
+Evanescence ||| 409
+Kendrick Lamar ||| 382
+Queen ||| 373
+Nightwish ||| 363
+Zayn ||| 359
+Justin Bieber ||| 349
+Natalia Kills ||| 347
+Nicki Minaj ||| 320
+Iggy Azalea ||| 266
+Florence + the Machine ||| 259
+Bleachers ||| 257
+Sara Bareilles ||| 246
+The xx ||| 240
+Ellie Goulding ||| 231
+The Killers ||| 220
+Whitney Houston ||| 212
+Fergie ||| 209
+## playcount: 82803

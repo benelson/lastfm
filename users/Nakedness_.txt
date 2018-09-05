@@ -1,0 +1,51 @@
+Coldplay ||| 2939
+Red Hot Chili Peppers ||| 2294
+Hey ||| 2231
+Portishead ||| 1509
+Nouvelle Vague ||| 1197
+Radiohead ||| 975
+Nosowska ||| 960
+Iron & Wine ||| 750
+Calle 13 ||| 728
+Korn ||| 703
+Muse ||| 699
+Brodka ||| 697
+Pixies ||| 694
+Mumford & Sons ||| 600
+Nirvana ||| 590
+Emilíana Torrini ||| 586
+Lana Del Rey ||| 541
+Miss Li ||| 528
+Massive Attack ||| 522
+Portugal. The Man ||| 522
+Foo Fighters ||| 511
+SoKo ||| 498
+Pogodno ||| 475
+System of a Down ||| 421
+Eels ||| 418
+Manu Chao ||| 386
+Coma ||| 384
+Damien Rice ||| 377
+Myslovitz ||| 375
+Sonic Youth ||| 370
+Guns N' Roses ||| 364
+The Doors ||| 358
+Gorillaz ||| 344
+Akurat ||| 336
+Slipknot ||| 327
+The Prodigy ||| 324
+Amy Winehouse ||| 319
+Band of Horses ||| 319
+Daft Punk ||| 299
+Maria Peszek ||| 274
+Pidżama Porno ||| 272
+Glen Hansard & Markéta Irglová ||| 270
+Kings of Leon ||| 262
+Yann Tiersen ||| 262
+alt-J ||| 256
+Sean Lennon ||| 251
+John Frusciante ||| 247
+The White Stripes ||| 245
+Lily Allen ||| 233
+Bon Jovi ||| 227
+## playcount: 30269

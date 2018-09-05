@@ -1,0 +1,51 @@
+Coldplay ||| 410
+The Smiths ||| 340
+Legião Urbana ||| 335
+Keane ||| 332
+Kaiser Chiefs ||| 321
+The Futureheads ||| 290
+Interpol ||| 239
+The Hives ||| 213
+Nickelback ||| 211
+The Killers ||| 200
+The Strokes ||| 193
+Travis ||| 192
+Franz Ferdinand ||| 184
+Bloc Party ||| 175
+Cazuza ||| 175
+El Cuarteto De Nos ||| 169
+AC/DC ||| 156
+Oasis ||| 155
+The All-American Rejects ||| 154
+Foo Fighters ||| 153
+Blondie ||| 150
+KT Tunstall ||| 150
+Rita Lee ||| 148
+Maroon 5 ||| 142
+Shakira ||| 139
+Kylie Minogue ||| 137
+Shania Twain ||| 133
+Arctic Monkeys ||| 119
+Tim McGraw ||| 114
+Maxïmo Park ||| 105
+The OC ||| 105
+Michael Jackson ||| 97
+Art Brut ||| 96
+The Virgins ||| 96
+James Blunt ||| 94
+Zeca Baleiro ||| 81
+Bowling for Soup ||| 80
+Simply Red ||| 80
+The Cure ||| 79
+Audioslave ||| 78
+Destiny's Child ||| 77
+Cachorro Grande ||| 73
+Kanye West ||| 72
+System of a Down ||| 69
+Depeche Mode ||| 68
+Fall Out Boy ||| 63
+Death Cab for Cutie ||| 61
+Green Day ||| 59
+Vampire Weekend ||| 58
+Spice Girls ||| 57
+## playcount: 7477

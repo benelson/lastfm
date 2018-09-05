@@ -1,0 +1,51 @@
+Megadeth ||| 686
+Rory Gallagher ||| 563
+Slayer ||| 504
+Exodus ||| 491
+Toxic Holocaust ||| 420
+Iron Maiden ||| 387
+Tankard ||| 368
+Metallica ||| 340
+Kreator ||| 312
+Children of Bodom ||| 308
+Anthrax ||| 261
+Heathen ||| 254
+Onslaught ||| 197
+AC/DC ||| 183
+Nuclear Assault ||| 183
+Death Angel ||| 171
+Vio-Lence ||| 171
+Overkill ||| 169
+Judas Priest ||| 140
+Testament ||| 139
+Sepultura ||| 132
+Flotsam and Jetsam ||| 129
+Sodom ||| 121
+Creedence Clearwater Revival ||| 118
+Motörhead ||| 118
+Gama Bomb ||| 112
+Black Label Society ||| 110
+Pestilence ||| 110
+Evile ||| 103
+UFO ||| 98
+Venom ||| 94
+Exhorder ||| 93
+Destruction ||| 86
+Death ||| 82
+Led Zeppelin ||| 79
+Page & Plant ||| 75
+Forbidden ||| 74
+Sadus ||| 65
+Ozzy Osbourne ||| 61
+Razor ||| 46
+Dark Angel ||| 45
+Black Sabbath ||| 43
+Diamond Head ||| 39
+Zakk Wylde ||| 37
+Possessed ||| 35
+Artillery ||| 32
+Pantera ||| 29
+Bathory ||| 28
+Legion of the Damned ||| 27
+Coroner ||| 24
+## playcount: 8492

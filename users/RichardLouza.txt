@@ -1,0 +1,51 @@
+Mariah Carey ||| 22214
+Madonna ||| 13373
+Britney Spears ||| 7543
+Beyoncé ||| 5828
+Cyndi Lauper ||| 5113
+Adriana Calcanhotto ||| 4914
+Lily Allen ||| 4341
+Coldplay ||| 4259
+Florence + the Machine ||| 4063
+Taylor Swift ||| 3722
+Kylie Minogue ||| 3719
+Avril Lavigne ||| 3025
+Lana Del Rey ||| 3017
+Rihanna ||| 2764
+Amy Winehouse ||| 2617
+Maroon 5 ||| 2542
+Katy Perry ||| 2354
+Calvin Harris ||| 2106
+Adele ||| 2024
+Avicii ||| 1849
+Michael Jackson ||| 1622
+Christina Aguilera ||| 1595
+Gwen Stefani ||| 1593
+Eminem ||| 1577
+Céline Dion ||| 1532
+Shakira ||| 1500
+Jennifer Lopez ||| 1436
+Alanis Morissette ||| 1354
+Mika ||| 1339
+Sia ||| 1057
+Anastacia ||| 949
+Lady Gaga ||| 908
+RuPaul ||| 832
+Pink ||| 819
+Elis Regina ||| 794
+Cher ||| 755
+Thalía ||| 727
+Lorde ||| 625
+Imagine Dragons ||| 568
+Justin Bieber ||| 553
+Miley Cyrus ||| 528
+John Mayer ||| 485
+Nelly Furtado ||| 427
+Scissor Sisters ||| 427
+Chico Buarque ||| 388
+Ellie Goulding ||| 387
+The Pussycat Dolls ||| 387
+Whitney Houston ||| 360
+Laura Pausini ||| 356
+Jason Mraz ||| 342
+## playcount: 127609

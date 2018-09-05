@@ -1,0 +1,51 @@
+Patrick Wolf ||| 1034
+Bombay Bicycle Club ||| 861
+Foals ||| 751
+Florence + the Machine ||| 660
+The Horrors ||| 628
+Lana Del Rey ||| 620
+Two Door Cinema Club ||| 565
+Kings of Leon ||| 530
+Radiohead ||| 523
+The Cure ||| 486
+The Maccabees ||| 434
+Bat for Lashes ||| 406
+Arctic Monkeys ||| 398
+Bon Iver ||| 395
+Blondie ||| 384
+Bloc Party ||| 374
+Muse ||| 358
+Frank Turner ||| 350
+Bastille ||| 345
+Klaxons ||| 336
+Kasabian ||| 326
+Joy Division ||| 323
+Marina & the Diamonds ||| 318
+My Chemical Romance ||| 311
+Adele ||| 287
+David Bowie ||| 281
+Biffy Clyro ||| 270
+Tom Waits ||| 257
+Arcade Fire ||| 254
+Vampire Weekend ||| 242
+Noah and the Whale ||| 238
+The Drums ||| 225
+Nick Drake ||| 223
+The Black Keys ||| 220
+The xx ||| 216
+The View ||| 215
+The Strokes ||| 207
+The Kooks ||| 203
+The Vaccines ||| 197
+Mumford & Sons ||| 195
+The Rolling Stones ||| 193
+Born Ruffians ||| 192
+Mystery Jets ||| 190
+Phoenix ||| 182
+The Clash ||| 172
+Fleet Foxes ||| 165
+We Are Scientists ||| 162
+Kate Nash ||| 161
+The Rumble Strips ||| 156
+You Me at Six ||| 154
+## playcount: 17173

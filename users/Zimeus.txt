@@ -1,0 +1,51 @@
+Placebo ||| 20
+The Cure ||| 17
+Behemoth ||| 15
+The Killers ||| 15
+Marilyn Manson ||| 14
+Symphony X ||| 14
+Nine Inch Nails ||| 13
+System of a Down ||| 13
+The Sisters of Mercy ||| 13
+Alice in Chains ||| 12
+Children of Bodom ||| 12
+Deftones ||| 12
+Subway to Sally ||| 12
+Coldplay ||| 11
+Garbage ||| 11
+Korn ||| 11
+Moonspell ||| 11
+Oasis ||| 11
+Paradise Lost ||| 11
+Lumen ||| 10
+Slipknot ||| 10
+Static-X ||| 10
+Björk ||| 9
+The Cranberries ||| 9
+The Kills ||| 9
+Arch Enemy ||| 8
+Nirvana ||| 8
+Papa Roach ||| 8
+Sex Pistols ||| 8
+The 69 Eyes ||| 8
+The Cooper Temple Clause ||| 8
+Decapitated ||| 7
+Disturbed ||| 7
+Foo Fighters ||| 6
+Tiamat ||| 6
+Amon Amarth ||| 5
+Nightwish ||| 5
+Parliament ||| 5
+Stillborn ||| 5
+Within Temptation ||| 5
+Mudvayne ||| 4
+Red Hot Chili Peppers ||| 4
+The J.B.'s ||| 4
+Isaac Hayes ||| 3
+Kaiser Chiefs ||| 3
+Sonata Arctica ||| 3
+Tarja ||| 3
+Bill Withers ||| 2
+Bobby Byrd ||| 2
+Curtis Mayfield ||| 2
+## playcount: 434

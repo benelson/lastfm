@@ -1,0 +1,51 @@
+Maroon 5 ||| 5102
+Fall Out Boy ||| 4914
+Panic! at the Disco ||| 4212
+Foster the People ||| 2016
+Lana Del Rey ||| 1599
+The Neighbourhood ||| 1482
+Cage the Elephant ||| 1418
+Two Door Cinema Club ||| 1313
+The Black Keys ||| 1089
+The Kooks ||| 1024
+Glass Animals ||| 907
+Justin Timberlake ||| 840
+Muse ||| 771
+The Killers ||| 571
+Tame Impala ||| 514
+Jack White ||| 498
+Red Hot Chili Peppers ||| 486
+Miley Cyrus ||| 483
+Marina & the Diamonds ||| 447
+Bruno Mars ||| 422
+Arctic Monkeys ||| 405
+Walk the Moon ||| 383
+Twenty One Pilots ||| 335
+Tyler, the Creator ||| 318
+Imagine Dragons ||| 315
+Kali Uchis ||| 298
+Catfish and The Bottlemen ||| 290
+Unknown Mortal Orchestra ||| 266
+Demi Lovato ||| 255
+Camila Cabello ||| 249
+Cardi B ||| 246
+The White Stripes ||| 219
+Selena Gomez ||| 211
+Coldplay ||| 210
+Kanye West ||| 208
+Lorde ||| 205
+McFly ||| 191
+Justin Bieber ||| 184
+Bastille ||| 178
+Paramore ||| 169
+Shawn Mendes ||| 158
+Beyoncé ||| 152
+Florence + the Machine ||| 151
+My Chemical Romance ||| 133
+30 Seconds to Mars ||| 129
+Nicki Minaj ||| 129
+21 Savage ||| 124
+Sia ||| 111
+Halsey ||| 103
+Ariana Grande ||| 94
+## playcount: 36527

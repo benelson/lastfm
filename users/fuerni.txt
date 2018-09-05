@@ -1,0 +1,51 @@
+Foo Fighters ||| 1790
+blink-182 ||| 1484
+The White Stripes ||| 1259
+Paramore ||| 1012
+Eagles of Death Metal ||| 846
+Snow Patrol ||| 823
+The Killers ||| 723
+Bloc Party ||| 711
+Muse ||| 699
+Weezer ||| 697
+Queens of the Stone Age ||| 681
+Fall Out Boy ||| 652
+Angels & Airwaves ||| 592
+Franz Ferdinand ||| 555
+Jimmy Eat World ||| 544
+Jet ||| 495
+Kings of Leon ||| 493
+The Sounds ||| 478
+Editors ||| 471
+Wolfmother ||| 456
+The Subways ||| 421
+The Gaslight Anthem ||| 415
+Cobra Starship ||| 311
+Razorlight ||| 298
+Black Kids ||| 274
+The All-American Rejects ||| 270
+Rise Against ||| 258
+Them Crooked Vultures ||| 254
+Hey Monday ||| 237
++44 ||| 207
+Mando Diao ||| 197
+The Fray ||| 137
+The Academy Is... ||| 129
+Ke$ha ||| 127
+White Lies ||| 127
+Bonaparte ||| 115
+Cage the Elephant ||| 114
+Phoenix ||| 102
+All Time Low ||| 90
+Owl City ||| 84
+We the Kings ||| 81
+Gorillaz ||| 79
+Box Car Racer ||| 71
+Band of Horses ||| 67
+The Chemical Brothers ||| 58
+OK Go ||| 53
+Panic! at the Disco ||| 51
+The Ting Tings ||| 38
+MGMT ||| 30
+Linkin Park ||| 26
+## playcount: 20182

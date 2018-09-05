@@ -1,0 +1,51 @@
+Scorpions ||| 3941
+Rush ||| 2791
+Dream Theater ||| 2459
+Coheed and Cambria ||| 2334
+Iron Maiden ||| 1673
+Coldplay ||| 1666
+Black Sabbath ||| 1456
+Pink Floyd ||| 1450
+Sleeping with Sirens ||| 1368
+植松伸夫 ||| 1244
+Judas Priest ||| 1225
+Elton John ||| 1191
+Genesis ||| 1181
+Journey ||| 1133
+AC/DC ||| 1096
+Bruce Springsteen ||| 1050
+Van Halen ||| 1046
+Kiss ||| 1026
+Queen ||| 975
+Savatage ||| 974
+Symphony X ||| 958
+Aerosmith ||| 956
+Trans-Siberian Orchestra ||| 954
+The Mars Volta ||| 913
+The Who ||| 905
+Pearl Jam ||| 862
+Alice Cooper ||| 835
+Rammstein ||| 826
+Led Zeppelin ||| 753
+fun. ||| 748
+Queensrÿche ||| 746
+Rhapsody ||| 704
+Opeth ||| 692
+Thin Lizzy ||| 661
+Rainbow ||| 652
+Avenged Sevenfold ||| 650
+Kamelot ||| 642
+ZZ Top ||| 641
+Styx ||| 613
+Oasis ||| 611
+Triumph ||| 611
+John Mayer ||| 606
+Yes ||| 602
+Dave Matthews Band ||| 588
+Eagles ||| 580
+Steely Dan ||| 576
+Deep Purple ||| 557
+Nirvana ||| 557
+Whitesnake ||| 548
+Tool ||| 540
+## playcount: 52366

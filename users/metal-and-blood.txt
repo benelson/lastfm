@@ -1,0 +1,51 @@
+Exodus ||| 154
+Death ||| 134
+Metallica ||| 124
+Type O Negative ||| 111
+Kreator ||| 107
+[unknown] ||| 97
+Slayer ||| 96
+Arctic Monkeys ||| 73
+Pantera ||| 70
+Krisiun ||| 63
+Magic! ||| 62
+Warbringer ||| 61
+Black Label Society ||| 60
+Die Antwoord ||| 58
+Megadeth ||| 58
+Annihilator ||| 55
+Gama Bomb ||| 55
+Evile ||| 53
+Testament ||| 52
+Anthrax ||| 44
+Suicidal Tendencies ||| 44
+Korzus ||| 43
+Lana Del Rey ||| 41
+Alice in Chains ||| 39
+Misfits ||| 38
+Carcass ||| 34
+Havok ||| 33
+London Grammar ||| 33
+Oldspark ||| 32
+D.R.I. ||| 31
+Scorpions ||| 31
+Down ||| 29
+Koffin Kats ||| 29
+Dio ||| 28
+Nuclear Assault ||| 28
+Black Sabbath ||| 27
+Yanni ||| 27
+Venom ||| 26
+Judas Priest ||| 25
+Rammstein ||| 25
+City and Colour ||| 24
+Killswitch Engage ||| 23
+Lana ||| 23
+Blind Guardian ||| 22
+Destruction ||| 22
+Lazarus A.D. ||| 22
+Necrophagist ||| 22
+Sylosis ||| 22
+Tankard ||| 22
+Cypress Hill ||| 21
+## playcount: 2453

@@ -1,0 +1,51 @@
+Foo Fighters ||| 128
+Nirvana ||| 71
+Incubus ||| 61
+Stone Temple Pilots ||| 55
+Tool ||| 47
+Deftones ||| 45
+Silverchair ||| 45
+Dream Theater ||| 43
+Metallica ||| 42
+Alice in Chains ||| 41
+Earl Greyhound ||| 35
+Muse ||| 35
+A Perfect Circle ||| 28
+Queens of the Stone Age ||| 28
+Pearl Jam ||| 26
+Bush ||| 21
+Death Cab for Cutie ||| 21
+System of a Down ||| 20
+The Killers ||| 18
+Oasis ||| 17
+[unknown] ||| 17
+Audioslave ||| 16
+Them Crooked Vultures ||| 16
+Porcupine Tree ||| 14
+Team Sleep ||| 14
+Philosophische Vitamine ||| 13
+Hinder ||| 11
+Seether ||| 11
+Slash ||| 11
+Wolfmother ||| 11
+Beatsteaks ||| 10
+Black Stone Cherry ||| 10
+Nine Inch Nails ||| 10
+Cold Sweat ||| 9
+Placebo ||| 9
+Soundgarden ||| 9
+Green Day ||| 8
+Lunatic Soul ||| 8
+Rise Against ||| 8
+Bloc Party ||| 7
+Duman ||| 7
+Paul Kalkbrenner ||| 7
+Puddle of Mudd ||| 7
+Rage Against the Machine ||| 6
+The Offspring ||| 6
+The Prodigy ||| 6
+Alexandre Desplat ||| 5
+David Bowie ||| 5
+Gnarls Barkley ||| 5
+Limp Bizkit ||| 5
+## playcount: 1108

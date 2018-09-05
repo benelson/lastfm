@@ -1,0 +1,51 @@
+U2 ||| 1413
+Linkin Park ||| 1064
+Coldplay ||| 730
+Mumford & Sons ||| 429
+Red Hot Chili Peppers ||| 400
+Johnny Cash ||| 355
+Arcade Fire ||| 342
+R.E.M. ||| 312
+The Killers ||| 294
+Clint Mansell ||| 282
+The Rolling Stones ||| 267
+The White Stripes ||| 265
+The Cure ||| 261
+Foo Fighters ||| 256
+OK Go ||| 245
+The Strokes ||| 224
+Chico Buarque ||| 223
+Albert Hammond, Jr. ||| 221
+Black Rebel Motorcycle Club ||| 219
+The Corrs ||| 201
+Queen ||| 190
+Cage the Elephant ||| 189
+Kate Nash ||| 177
+Sigur Rós ||| 173
+Queens of the Stone Age ||| 172
+Radiohead ||| 169
+Depeche Mode ||| 153
+The Verve ||| 153
+Portishead ||| 150
+Nine Inch Nails ||| 149
+Muse ||| 116
+The Fray ||| 115
+The Afters ||| 114
+Band of Horses ||| 111
+Oasis ||| 108
+Silverchair ||| 107
+Celtic Woman ||| 105
+Anti-Flag ||| 100
+System of a Down ||| 98
+Limp Bizkit ||| 90
+The Beatles ||| 87
+Norah Jones ||| 85
+The Smashing Pumpkins ||| 85
+Bob Dylan ||| 77
+Joy Division ||| 67
+Blur ||| 65
+David Bowie ||| 56
+Scars on Broadway ||| 56
+Rage Against the Machine ||| 55
+B.B. King ||| 54
+## playcount: 11429

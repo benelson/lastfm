@@ -1,0 +1,43 @@
+Death ||| 214
+Acid Bath ||| 37
+The Provenance ||| 29
+Arch Enemy ||| 24
+Frantic Bleep ||| 18
+Pro-Pain ||| 18
+Atheist ||| 17
+Necrophagist ||| 17
+Primordial ||| 12
+Control Denied ||| 9
+Head Control System ||| 9
+Helstar ||| 9
+Candlemass ||| 7
+Napalm Death ||| 5
+Megadeth ||| 3
+Nina Simone ||| 3
+Biohazard ||| 2
+Borknagar ||| 2
+Judas Priest ||| 2
+Killswitch Engage ||| 2
+Sepultura ||| 2
+Absu ||| 1
+Alice Cooper ||| 1
+Anathema ||| 1
+Black Sabbath ||| 1
+Children of Bodom ||| 1
+Dark Angel ||| 1
+Dark Tranquillity ||| 1
+Deicide ||| 1
+Dismember ||| 1
+Doro ||| 1
+Eagles ||| 1
+Iced Earth ||| 1
+Iron Maiden ||| 1
+King Crimson ||| 1
+Metallica ||| 1
+Morbid Angel ||| 1
+Overkill ||| 1
+Queensrÿche ||| 1
+Satyricon ||| 1
+Vader ||| 1
+W.A.S.P. ||| 1
+## playcount: 462

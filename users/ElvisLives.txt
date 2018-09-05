@@ -1,0 +1,51 @@
+Elvis Presley ||| 6406
+Frank Sinatra ||| 1820
+Richard Cheese ||| 1624
+The Beatles ||| 1474
+Depeche Mode ||| 1175
+Bobby Darin ||| 1167
+Billy Joel ||| 1026
+Johnny Cash ||| 622
+Lionel Richie ||| 580
+George Michael ||| 564
+The Smiths ||| 553
+Roy Orbison ||| 508
+Sammy Davis, Jr. ||| 496
+Michael Jackson ||| 442
+Scala & Kolacny Brothers ||| 419
+Al Jolson ||| 395
+Ricky Nelson ||| 366
+Ray Charles ||| 364
+Paul Anka ||| 362
+Nat King Cole ||| 355
+Billy Idol ||| 351
+Louis Jordan ||| 347
+The Doors ||| 333
+The Ink Spots ||| 330
+Jerry Lee Lewis ||| 294
+Dean Martin ||| 289
+Max Raabe & Palast Orchester ||| 276
+Johnny Mathis ||| 273
+The Beach Boys ||| 263
+Cab Calloway ||| 262
+Elton John ||| 240
+"Weird Al" Yankovic ||| 233
+Phil Collins ||| 230
+Wham! ||| 220
+Tony Bennett ||| 193
+Marty Robbins ||| 183
+Prince ||| 181
+The Kingston Trio ||| 177
+Perry Como ||| 171
+Hall & Oates ||| 168
+Duke Ellington ||| 165
+The Police ||| 161
+The Puppini Sisters ||| 161
+Stevie Wonder ||| 154
+Charles Trenet ||| 149
+Bruce Springsteen ||| 145
+Orchestral Manoeuvres in the Dark ||| 145
+Disney ||| 144
+Coleman Hawkins ||| 141
+Andy Williams ||| 140
+## playcount: 27237

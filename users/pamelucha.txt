@@ -1,0 +1,51 @@
+Oasis ||| 4903
+Noel Gallagher ||| 3931
+Travis ||| 2563
+The Smiths ||| 1841
+Muse ||| 1629
+Foo Fighters ||| 1145
+Adele ||| 1117
+Gustavo Cerati ||| 788
+Alexandre Desplat ||| 722
+[unknown] ||| 556
+Soda Stereo ||| 536
+The Knife ||| 505
+Fito Páez ||| 288
+Teleradio Donoso ||| 273
+Morrissey ||| 271
+Queen ||| 261
+Andrés Calamaro ||| 252
+James Horner ||| 169
+Incubus ||| 160
+Faith No More ||| 115
+Keane ||| 95
+Regina Spektor ||| 81
+Feist ||| 78
+Hot Chip ||| 77
+Daft Punk ||| 70
+The Doors ||| 69
+Emmanuel Horvilleur ||| 60
+Héroes del Silencio ||| 60
+Richard Ashcroft ||| 54
+James ||| 49
+Pink Floyd ||| 47
+The Strokes ||| 47
+The Killers ||| 46
+Cat Stevens ||| 42
+Sean Lennon ||| 38
+La Rue Morgue ||| 37
+The Beatles ||| 37
+The Temper Trap ||| 37
+Arctic Monkeys ||| 36
+Scissor Sisters ||| 34
+Chris Cornell ||| 33
+John Lennon ||| 32
+The Cardigans ||| 32
+The Verve ||| 32
+Cat Power ||| 30
+Beto Cuevas ||| 28
+Starsailor ||| 27
+OneRepublic ||| 25
+Pearl Jam ||| 24
+Queensrÿche ||| 24
+## playcount: 23406

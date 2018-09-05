@@ -1,0 +1,51 @@
+Jeff Lorber ||| 35
+Journey ||| 20
+Larry Carlton ||| 19
+Peter White ||| 16
+Blues Saraceno ||| 12
+Foreigner ||| 11
+Giant ||| 11
+Toto ||| 11
+Robert Plant ||| 10
+Bad Company ||| 9
+The Allman Brothers Band ||| 9
+Chuck Loeb ||| 8
+Joe Satriani ||| 7
+Bachman-Turner Overdrive ||| 6
+Mountain ||| 6
+Triumph ||| 6
+Chickenfoot ||| 5
+Free ||| 5
+Michael Lee Firkins ||| 5
+Robert Palmer ||| 5
+Saga ||| 5
+.38 Special ||| 4
+Argent ||| 4
+Bad English ||| 4
+Danger Danger ||| 4
+Donald Fagen ||| 4
+Eagles ||| 4
+Eric Clapton ||| 4
+Firehouse ||| 4
+Foo Fighters ||| 4
+Lynyrd Skynyrd ||| 4
+Molly Hatchet ||| 4
+Steely Dan ||| 4
+Styx ||| 4
+The Black Crowes ||| 4
+The Doobie Brothers ||| 4
+The Edgar Winter Group ||| 4
+Thin Lizzy ||| 4
+Wishbone Ash ||| 4
+Andy Timmons ||| 3
+Atlanta Rhythm Section ||| 3
+Badlands ||| 3
+Creedence Clearwater Revival ||| 3
+Dare ||| 3
+Joe Walsh ||| 3
+Kings of Leon ||| 3
+Loverboy ||| 3
+Naked Eyes ||| 3
+Night Ranger ||| 3
+Paul Rodgers ||| 3
+## playcount: 326

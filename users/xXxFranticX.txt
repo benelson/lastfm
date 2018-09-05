@@ -1,0 +1,51 @@
+Metallica ||| 22545
+Nirvana ||| 9482
+Hunter ||| 3988
+The Doors ||| 620
+Red Hot Chili Peppers ||| 526
+Iron Maiden ||| 336
+Dio ||| 291
+Korn ||| 277
+Scavanger ||| 232
+Exodus ||| 229
+Queen ||| 222
+Sepultura ||| 214
+Venom ||| 197
+Black Sabbath ||| 190
+Mayhem ||| 190
+Paradise Lost ||| 186
+Opeth ||| 178
+Rammstein ||| 166
+Slayer ||| 163
+Megadeth ||| 161
+30 Seconds to Mars ||| 154
+Slipknot ||| 138
+Ozzy Osbourne ||| 136
+Behemoth ||| 132
+Mercyful Fate ||| 122
+Disturbed ||| 112
+Marilyn Manson ||| 110
+Guns N' Roses ||| 109
+TSA ||| 104
+Billy Talent ||| 98
+Turbo ||| 93
+Jimi Hendrix ||| 91
+Foo Fighters ||| 84
+Melvins ||| 80
+Scorpions ||| 78
+Misfits ||| 76
+White Zombie ||| 69
+The Who ||| 67
+Bob Seger ||| 63
+Bullet for My Valentine ||| 61
+Deep Purple ||| 55
+Iced Earth ||| 51
+Motörhead ||| 49
+Drowning Pool ||| 48
+System of a Down ||| 45
+Vader ||| 45
+Nickelback ||| 44
+Rob Zombie ||| 43
+Meshuggah ||| 42
+AC/DC ||| 40
+## playcount: 42832

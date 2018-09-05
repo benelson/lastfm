@@ -1,0 +1,51 @@
+Led Zeppelin ||| 1597
+Iron Maiden ||| 1049
+Nirvana ||| 770
+Guns N' Roses ||| 595
+Pink Floyd ||| 523
+AC/DC ||| 522
+The Doors ||| 478
+Bob Dylan ||| 444
+Marilyn Manson ||| 440
+Kaiser Chiefs ||| 386
+Metallica ||| 379
+Scorpions ||| 339
+The Beatles ||| 321
+Type O Negative ||| 314
+Black Sabbath ||| 308
+Slipknot ||| 243
+System of a Down ||| 234
+Jimi Hendrix ||| 216
+Machine Head ||| 204
+Ozzy Osbourne ||| 189
+The Hives ||| 186
+Queen ||| 168
+The Prodigy ||| 164
+The Raconteurs ||| 164
+Aerosmith ||| 162
+Slayer ||| 156
+SOJA ||| 150
+Nightwish ||| 147
+The Rolling Stones ||| 129
+Biffy Clyro ||| 128
+Muse ||| 126
+Foo Fighters ||| 125
+Xutos & Pontapés ||| 119
+Red Hot Chili Peppers ||| 116
+Frank Zappa ||| 103
+Ornatos Violeta ||| 99
+Chuck Berry ||| 97
+Guano Apes ||| 93
+R.E.M. ||| 90
+Lamb of God ||| 88
+Eric Clapton ||| 85
+Foster the People ||| 84
+MGMT ||| 83
+Michael Jackson ||| 83
+Florence + the Machine ||| 81
+Alice in Chains ||| 80
+Motörhead ||| 79
+Daft Punk ||| 78
+Bob Marley ||| 77
+Dio ||| 75
+## playcount: 12966

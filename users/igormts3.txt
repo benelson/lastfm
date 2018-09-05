@@ -1,0 +1,51 @@
+Lana Del Rey ||| 5656
+Beyoncé ||| 4049
+Jay-Z ||| 795
+Jessie J ||| 739
+Taylor Swift ||| 651
+Christina Aguilera ||| 622
+Iggy Azalea ||| 574
+Rihanna ||| 570
+Katy Perry ||| 507
+Lady Gaga ||| 455
+Ariana Grande ||| 373
+Demi Lovato ||| 359
+Britney Spears ||| 319
+Mariah Carey ||| 301
+Avril Lavigne ||| 280
+Marina & the Diamonds ||| 260
+Justin Timberlake ||| 245
+Lorde ||| 242
+Ke$ha ||| 241
+Paramore ||| 230
+Incubus ||| 224
+Lea Michele ||| 216
+Nicki Minaj ||| 188
+Alicia Keys ||| 176
+Nicole Scherzinger ||| 167
+Adele ||| 165
+Gwen Stefani ||| 150
+Glee Cast ||| 133
+Ellie Goulding ||| 124
+Nelly Furtado ||| 124
+Carly Rose Sonenclar ||| 122
+RBD ||| 121
+Sia ||| 119
+Fifth Harmony ||| 112
+Justin Bieber ||| 111
+t.A.T.u. ||| 107
+Bridgit Mendler ||| 105
+Macklemore & Ryan Lewis ||| 104
+Selena Gomez ||| 104
+P!nk ||| 101
+Foo Fighters ||| 95
+Karmin ||| 95
+Coldplay ||| 89
+Ed Sheeran ||| 88
+Wanessa ||| 84
+Black Eyed Peas ||| 78
+Ashley Tisdale ||| 68
+Christina Perri ||| 68
+Rita Ora ||| 68
+Florence + the Machine ||| 65
+## playcount: 21039

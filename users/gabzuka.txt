@@ -1,0 +1,51 @@
+John Mayer ||| 2684
+Pink Floyd ||| 2670
+Incubus ||| 2130
+Gustavo Cerati ||| 1813
+Nine Inch Nails ||| 1688
+Sigur Rós ||| 1589
+Soda Stereo ||| 1435
+Jorge Drexler ||| 1397
+Coldplay ||| 1384
+Hombres G ||| 1289
+Queen ||| 1278
+The Beatles ||| 1262
+Jack Johnson ||| 1182
+Silvio Rodríguez ||| 1098
+Air ||| 1028
+Red Hot Chili Peppers ||| 989
+Green Day ||| 983
+Matchbox Twenty ||| 970
+James Blake ||| 903
+Keane ||| 900
+Eels ||| 895
+Oasis ||| 885
+The Rolling Stones ||| 882
+Kevin Johansen ||| 862
+The Who ||| 858
+blink-182 ||| 854
+Smash Mouth ||| 854
+Foo Fighters ||| 845
+Pearl Jam ||| 835
+Café Tacvba ||| 827
+Eric Clapton ||| 819
+Kashmir ||| 766
+Muse ||| 733
+Desorden Público ||| 728
+Daft Punk ||| 678
+Dave Matthews Band ||| 662
+Save Ferris ||| 660
+Arctic Monkeys ||| 655
+Beck ||| 645
+Babasónicos ||| 603
+Ben Harper ||| 602
+Maroon 5 ||| 589
+Los Pericos ||| 579
+Aerosmith ||| 563
+Radiohead ||| 552
+The Smashing Pumpkins ||| 532
+Julieta Venegas ||| 527
+Placebo ||| 514
+David Gray ||| 488
+Los Amigos Invisibles ||| 488
+## playcount: 49652

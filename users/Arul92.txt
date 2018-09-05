@@ -1,0 +1,51 @@
+AC/DC ||| 2988
+The Rolling Stones ||| 1912
+The Beatles ||| 1453
+Mastodon ||| 1248
+Kult ||| 1195
+Motörhead ||| 1191
+Radiohead ||| 1104
+Iron Maiden ||| 1101
+Judas Priest ||| 945
+Slayer ||| 907
+Pink Floyd ||| 852
+Miles Davis ||| 840
+David Bowie ||| 732
+Black Sabbath ||| 688
+Gojira ||| 639
+Metallica ||| 625
+Kat ||| 560
+U2 ||| 552
+Led Zeppelin ||| 524
+Rush ||| 523
+Nick Cave & The Bad Seeds ||| 503
+King Crimson ||| 492
+Deep Purple ||| 481
+Volbeat ||| 473
+Machine Head ||| 450
+Alice in Chains ||| 437
+Nirvana ||| 396
+Ghost ||| 393
+Faith No More ||| 363
+Depeche Mode ||| 321
+The Doors ||| 320
+The Dillinger Escape Plan ||| 298
+Behemoth ||| 286
+Death ||| 284
+Queens of the Stone Age ||| 274
+John Zorn ||| 266
+Arctic Monkeys ||| 258
+Ozzy Osbourne ||| 255
+Queen ||| 254
+Siekiera ||| 228
+Megadeth ||| 221
+Bruce Springsteen ||| 220
+Thin Lizzy ||| 218
+Joy Division ||| 207
+Camel ||| 203
+Kamasi Washington ||| 200
+System of a Down ||| 198
+Jimi Hendrix ||| 185
+ZZ Top ||| 185
+Aphex Twin ||| 184
+## playcount: 29632

@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 756
+David Bowie ||| 755
+Muse ||| 752
+Django Django ||| 735
+The Vaccines ||| 714
+Arcade Fire ||| 681
+The National ||| 670
+The Black Keys ||| 658
+Editors ||| 656
+Foo Fighters ||| 627
+Radiohead ||| 607
+Anna Burch ||| 605
+Kings of Leon ||| 601
+Queens of the Stone Age ||| 598
+Foals ||| 586
+Pearl Jam ||| 525
+Jay Som ||| 518
+Beach House ||| 509
+Cold War Kids ||| 505
+Franz Ferdinand ||| 497
+Kasabian ||| 493
+Unknown Mortal Orchestra ||| 490
+Mumford & Sons ||| 489
+Parquet Courts ||| 486
+R.E.M. ||| 484
+Placebo ||| 482
+Tame Impala ||| 476
+alt-J ||| 455
+Bloc Party ||| 452
+Gorillaz ||| 451
+The Rolling Stones ||| 442
+Red Hot Chili Peppers ||| 432
+Eels ||| 429
+Miles Kane ||| 428
+Jake Bugg ||| 425
+U2 ||| 424
+Car Seat Headrest ||| 422
+Band of Skulls ||| 417
+The Strokes ||| 415
+Coldplay ||| 414
+Vampire Weekend ||| 411
+Blur ||| 408
+Shame ||| 404
+Courtney Barnett ||| 402
+Cage the Elephant ||| 391
+Moss ||| 391
+Balthazar ||| 385
+Frank Turner ||| 382
+The Beatles ||| 373
+Beck ||| 372
+## playcount: 25480

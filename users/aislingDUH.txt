@@ -1,0 +1,51 @@
+Paramore ||| 63
+Atreyu ||| 32
+Green Day ||| 28
+Foo Fighters ||| 24
+Stone Sour ||| 23
+Bullet for My Valentine ||| 22
+Nirvana ||| 22
+Nickelback ||| 21
+blink-182 ||| 20
+Weezer ||| 20
+Billy Talent ||| 19
+[unknown] ||| 19
+Rise Against ||| 18
+Papa Roach ||| 17
+Red Hot Chili Peppers ||| 16
+Sex Bob-Omb ||| 16
+Bruno Mars ||| 14
+Linkin Park ||| 14
+Breaking Benjamin ||| 13
+Slipknot ||| 13
+Avenged Sevenfold ||| 12
+Sum 41 ||| 12
+System of a Down ||| 11
+Muse ||| 10
+Alien Ant Farm ||| 9
+Korn ||| 9
+Madina Lake ||| 9
+Eminem ||| 8
+Lostprophets ||| 8
+Metallica ||| 8
+Pendulum ||| 8
+30 Seconds to Mars ||| 7
+Eagles ||| 7
+Queens of the Stone Age ||| 7
+The Script ||| 7
+Bloodhound Gang ||| 6
+Killswitch Engage ||| 6
+Shinedown ||| 6
+Wheatus ||| 6
+Finch ||| 5
+Hoobastank ||| 5
+Pearl Jam ||| 5
+Sam Hart ||| 5
+Skillet ||| 5
+B.o.B feat. Hayley Williams ||| 4
+Flobots ||| 4
+Guns N' Roses ||| 4
+The Rolling Stones ||| 4
+3 Doors Down ||| 3
+Biffy Clyro ||| 3
+## playcount: 637

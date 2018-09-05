@@ -1,0 +1,51 @@
+Enter Shikari ||| 3004
+Lana Del Rey ||| 2289
+Foals ||| 1575
+Arcade Fire ||| 1172
+Hurts ||| 1159
+Arctic Monkeys ||| 1116
+Miike Snow ||| 1096
+Marina & the Diamonds ||| 1087
+Motorama ||| 995
+The Neighbourhood ||| 988
+Hadouken! ||| 918
+30 Seconds to Mars ||| 881
+Imagine Dragons ||| 842
+Daft Punk ||| 811
+Dua Lipa ||| 758
+Kaiser Chiefs ||| 755
+Gorillaz ||| 735
+The Strokes ||| 726
+The Killers ||| 717
+Kasabian ||| 705
+Placebo ||| 684
+Foster the People ||| 673
+Radiohead ||| 651
+Snow Patrol ||| 644
+Alex Clare ||| 617
+The Drums ||| 615
+IAMX ||| 586
+Die Antwoord ||| 564
+Muse ||| 561
+Kings of Leon ||| 557
+The Subways ||| 546
+Melanie Martinez ||| 545
+Bonobo ||| 522
+Tesla Boy ||| 519
+Bring Me the Horizon ||| 516
+Klaxons ||| 506
+alt-J ||| 488
+Hot Chip ||| 464
+The xx ||| 460
+Bloc Party ||| 450
+The Kooks ||| 447
+Lykke Li ||| 435
+Linkin Park ||| 428
+Coldplay ||| 425
+Fall Out Boy ||| 422
+The Ghosts ||| 421
+Brandy Kills ||| 417
+The Rapture ||| 409
+Maroon 5 ||| 400
+Beach Fossils ||| 399
+## playcount: 37700

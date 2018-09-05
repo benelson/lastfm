@@ -1,0 +1,51 @@
+Slash ||| 3432
+Queens of the Stone Age ||| 3013
+Shinedown ||| 2992
+Billy Talent ||| 2855
+Alter Bridge ||| 2475
+Disturbed ||| 2397
+Arctic Monkeys ||| 2253
+Slipknot ||| 1638
+Stone Sour ||| 1579
+Franz Ferdinand ||| 1488
+The Black Keys ||| 1399
+Nickelback ||| 1274
+Soil ||| 1190
+Velvet Revolver ||| 1031
+Guns N' Roses ||| 1020
+Soundgarden ||| 827
+Slash's Snakepit ||| 798
+AC/DC ||| 769
+Evanescence ||| 761
+Foo Fighters ||| 748
+Metallica ||| 742
+3 Doors Down ||| 722
+Sabaton ||| 701
+The Hot Melts ||| 685
+The Hellacopters ||| 678
+The Offspring ||| 670
+Iron Maiden ||| 642
+Faith No More ||| 635
+Linkin Park ||| 632
+Eagles of Death Metal ||| 617
+Black Stone Cherry ||| 612
+Red Hot Chili Peppers ||| 606
+Aerosmith ||| 602
+Muse ||| 598
+Scorpions ||| 560
+Pearl Jam ||| 535
+Łąki Łan ||| 515
+Stereophonics ||| 503
+Limp Bizkit ||| 487
+Jet ||| 483
+Kings of Leon ||| 482
+Disclosure ||| 477
+Nirvana ||| 450
+Buckcherry ||| 449
+Adrenaline Mob ||| 444
+Airbourne ||| 437
+Black Rebel Motorcycle Club ||| 435
+Creed ||| 410
+Audioslave ||| 388
+The Pretty Reckless ||| 379
+## playcount: 50515

@@ -1,0 +1,51 @@
+Tool ||| 13767
+Deftones ||| 6890
+Pink Floyd ||| 5885
+A Perfect Circle ||| 4621
+Led Zeppelin ||| 4146
+The Mars Volta ||| 3952
+Motorpsycho ||| 3646
+At the Drive-In ||| 3602
+Bonobo ||| 3573
+Isis ||| 3116
+Arctic Monkeys ||| 2493
+Opeth ||| 2490
+Rush ||| 2214
+Jimi Hendrix ||| 2125
+...And You Will Know Us by the Trail of Dead ||| 2055
+Modest Mouse ||| 1942
+dredg ||| 1902
+Emancipator ||| 1712
+Dungen ||| 1612
+De La Soul ||| 1583
+Tøyen ||| 1578
+Kyuss ||| 1577
+Seigmen ||| 1495
+Radiohead ||| 1465
+Muse ||| 1395
+Bliss ||| 1343
+Sparta ||| 1300
+Shigeto ||| 1243
+Matisyahu ||| 1186
+Blur ||| 1169
+The Beatles ||| 1089
+Teebs ||| 1046
+Tycho ||| 1044
+Shpongle ||| 1042
+The Dandy Warhols ||| 1037
+Sigur Rós ||| 1028
+Dakota/Dakota ||| 1020
+Red Hot Chili Peppers ||| 1000
+Boards of Canada ||| 984
+Thievery Corporation ||| 972
+Kent ||| 935
+Raga Rockers ||| 912
+Massive Attack ||| 907
+Queens of the Stone Age ||| 870
+Team Sleep ||| 849
+Locomotives ||| 790
+Frank Zappa ||| 780
+Thulsa Doom ||| 767
+In Flames ||| 756
+Eric Clapton ||| 717
+## playcount: 105622

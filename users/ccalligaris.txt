@@ -1,0 +1,51 @@
+Wire ||| 5
+Boards of Canada ||| 4
+Public Image Ltd. ||| 4
+The Cure ||| 4
+Autechre ||| 3
+Bonobo ||| 3
+Echo & the Bunnymen ||| 3
+Gang of Four ||| 3
+Interpol ||| 3
+Joy Division ||| 3
+The Comsat Angels ||| 3
+AFX ||| 2
+Antonio Vivaldi ||| 2
+Aphex Twin ||| 2
+Bauhaus ||| 2
+Buzzcocks ||| 2
+Coldplay ||| 2
+Franz Ferdinand ||| 2
+Glenn Gould ||| 2
+Gorillaz ||| 2
+Hooverphonic ||| 2
+Kaiser Chiefs ||| 2
+Killing Joke ||| 2
+Kings of Leon ||| 2
+Lamb ||| 2
+Massive Attack ||| 2
+Maurizio Pollini ||| 2
+Portishead ||| 2
+Red Lorry Yellow Lorry ||| 2
+Rumpistol ||| 2
+Siouxsie and the Banshees ||| 2
+Sonic Youth ||| 2
+Talking Heads ||| 2
+The National ||| 2
+The Postal Service ||| 2
+The Psychedelic Furs ||| 2
+The Rapture ||| 2
+Thievery Corporation ||| 2
+Tones on Tail ||| 2
+Tricky ||| 2
+UNKLE ||| 2
+Vladimir Ashkenazy ||| 2
+Warsaw ||| 2
+Zero 7 ||| 2
+A Certain Ratio ||| 1
+Adam and the Ants ||| 1
+Albert Hammond, Jr. ||| 1
+Alien Sex Fiend ||| 1
+Amon Tobin ||| 1
+Andrew Lloyd Webber ||| 1
+## playcount: 110

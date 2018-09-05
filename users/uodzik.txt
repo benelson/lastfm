@@ -1,0 +1,51 @@
+Death ||| 1180
+Kat ||| 1006
+Judas Priest ||| 718
+Slayer ||| 706
+Bathory ||| 643
+Kreator ||| 633
+Cancer ||| 632
+Venom ||| 577
+Sodom ||| 516
+Sarcófago ||| 480
+Megadeth ||| 444
+Vader ||| 434
+Iron Maiden ||| 423
+Gontyna Kry ||| 406
+Sepultura ||| 406
+Manowar ||| 402
+Mayhem ||| 389
+Mercyful Fate ||| 374
+Marduk ||| 354
+Motörhead ||| 349
+Behemoth ||| 344
+Morbid Angel ||| 328
+Burzum ||| 307
+Sabbat ||| 273
+Carnage ||| 261
+Darkthrone ||| 256
+Running Wild ||| 256
+Dark Fury ||| 254
+King Diamond ||| 251
+Metallica ||| 242
+Destruction ||| 235
+Possessed ||| 218
+Nifelheim ||| 212
+Celtic Frost ||| 202
+Exodus ||| 200
+Obituary ||| 198
+Ghost ||| 189
+Gorgoroth ||| 188
+Satanic Warmaster ||| 187
+Bulldozer ||| 183
+Brüdny Skürwiel ||| 181
+Nocturnal ||| 180
+Dismember ||| 175
+Infernal War ||| 171
+Thy Light ||| 171
+Testament ||| 157
+Sortilège ||| 145
+Desaster ||| 142
+Dokken ||| 138
+Overkill ||| 138
+## playcount: 17454

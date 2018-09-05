@@ -1,0 +1,51 @@
+Frank Sinatra ||| 516
+Miles Davis ||| 330
+Diana Krall ||| 276
+Nat King Cole ||| 263
+Erykah Badu ||| 222
+Django Reinhardt ||| 203
+Michael Jackson ||| 188
+The Brand New Heavies ||| 184
+Sarah Vaughan ||| 149
+Anna Maria Jopek ||| 147
+Sade ||| 144
+Frédéric Chopin ||| 143
+Émilie Simon ||| 140
+Alicia Keys ||| 138
+D'Angelo ||| 134
+Françoise Hardy ||| 131
+Nicola Conte ||| 119
+Coralie Clément ||| 117
+Squirrel Nut Zippers ||| 113
+Jamiroquai ||| 111
+Incognito ||| 109
+Astrud Gilberto ||| 108
+Pink Martini ||| 103
+Billie Holiday ||| 101
+Olivia Ruiz ||| 99
+Stacey Kent ||| 99
+Michel Camilo ||| 95
+Prince ||| 94
+Big Bad Voodoo Daddy ||| 93
+John Coltrane ||| 93
+Harry Connick, Jr. ||| 91
+Katie Melua ||| 91
+Nina Simone ||| 91
+The Andrews Sisters ||| 87
+Bobby Darin ||| 86
+Louis Armstrong ||| 85
+Michael Bublé ||| 85
+Count Basie ||| 83
+Glenn Gould ||| 81
+Brigitte Bardot ||| 79
+Paco de Lucía ||| 79
+Jack Teagarden ||| 76
+Benny Goodman With Helen Forrest ||| 75
+Charles Mingus ||| 73
+Chet Baker ||| 70
+Duke Ellington ||| 70
+Janusz Radek ||| 70
+Nouvelle Vague ||| 70
+Beady Belle ||| 68
+Madonna ||| 68
+## playcount: 6340

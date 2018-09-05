@@ -1,0 +1,45 @@
+Lady Gaga ||| 13611
+Katy Perry ||| 1839
+Christina Aguilera ||| 1626
+Rihanna ||| 1084
+Taylor Swift ||| 715
+Ke$ha ||| 596
+Avril Lavigne ||| 592
+Britney Spears ||| 508
+Kylie Minogue ||| 484
+Selena Gomez & the Scene ||| 329
+Beyoncé ||| 290
+Madonna ||| 266
+Natalia Kills ||| 251
+Jennifer Lopez ||| 220
+P!nk ||| 178
+Miley Cyrus ||| 160
+Jessie J ||| 134
+The Pretty Reckless ||| 86
+Stefani Germanotta ||| 75
+Nicole Scherzinger ||| 71
+Paramore ||| 63
+Willow Smith ||| 59
+Black Eyed Peas ||| 52
+Nicki Minaj ||| 43
+Emily Osment ||| 41
+Panic! at the Disco ||| 36
+Taio Cruz ||| 32
+Bruno Mars ||| 30
+Cher ||| 30
+Florence + the Machine ||| 25
+Selena Gomez ||| 22
+Adam Lambert ||| 20
+30 Seconds to Mars ||| 16
+Kerli ||| 16
+Fergie ||| 15
+Mariah Carey ||| 12
+Shakira ||| 12
+Alicia Keys ||| 9
+Kelly Rowland ||| 9
+Usher ||| 9
+Miranda Cosgrove ||| 5
+Pink ||| 4
+Far East Movement ||| 3
+Adele ||| 1
+## playcount: 23679

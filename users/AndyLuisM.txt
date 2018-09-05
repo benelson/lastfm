@@ -1,0 +1,51 @@
+Pearl Jam ||| 3712
+Alice in Chains ||| 1882
+The Beatles ||| 1400
+Led Zeppelin ||| 1024
+AC/DC ||| 1005
+Queen ||| 991
+The Who ||| 962
+Kiss ||| 905
+Foo Fighters ||| 835
+Oasis ||| 800
+Red Hot Chili Peppers ||| 761
+The Doors ||| 739
+Stone Temple Pilots ||| 718
+Arctic Monkeys ||| 703
+Tom Waits ||| 694
+Guns N' Roses ||| 616
+Bob Dylan ||| 612
+Creedence Clearwater Revival ||| 559
+Eddie Vedder ||| 520
+Eric Clapton ||| 519
+Lynyrd Skynyrd ||| 518
+The Killers ||| 442
+Bon Jovi ||| 439
+Aerosmith ||| 416
+Black Sabbath ||| 416
+Van Halen ||| 395
+Nirvana ||| 388
+R.E.M. ||| 382
+Bruce Springsteen ||| 378
+Kings of Leon ||| 365
+Engenheiros Do Hawaii ||| 356
+The Cure ||| 348
+Johnny Cash ||| 346
+Soundgarden ||| 326
+Temple of the Dog ||| 324
+The Rolling Stones ||| 322
+Rush ||| 317
+The Black Keys ||| 303
+Green Day ||| 298
+The Cult ||| 294
+The Clash ||| 293
+Coldplay ||| 291
+Los Hermanos ||| 285
+The Smiths ||| 279
+Neil Young ||| 273
+Jimi Hendrix ||| 270
+Pink Floyd ||| 268
+Amy Winehouse ||| 263
+Mad Season ||| 256
+David Bowie ||| 245
+## playcount: 30053

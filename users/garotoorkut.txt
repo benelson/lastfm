@@ -1,0 +1,51 @@
+Oasis ||| 57027
+The Beatles ||| 16527
+Coldplay ||| 13829
+Foo Fighters ||| 12325
+Radiohead ||| 11954
+Muse ||| 9857
+Red Hot Chili Peppers ||| 9799
+Arctic Monkeys ||| 8761
+Travis ||| 8295
+Nada Surf ||| 7740
+Los Hermanos ||| 6975
+Jack Johnson ||| 6704
+The Strokes ||| 6449
+Weezer ||| 5861
+Supergrass ||| 5219
+John Frusciante ||| 5130
+Tommy Emmanuel ||| 5115
+James Morrison ||| 4841
+Franz Ferdinand ||| 4831
+The Kooks ||| 4698
+KT Tunstall ||| 4603
+Silversun Pickups ||| 4566
+Noel Gallagher ||| 4534
+Queen ||| 4285
+Keane ||| 4257
+Goldfinger ||| 4231
+Death Cab for Cutie ||| 3786
+Incubus ||| 3670
+The Smashing Pumpkins ||| 3437
+South ||| 3297
+Pixies ||| 3269
+The xx ||| 3084
+Green Day ||| 2955
+Graham Coxon ||| 2853
+Blur ||| 2848
+Cake ||| 2804
+Panic! at the Disco ||| 2440
+Jethro Tull ||| 2333
+Noel Gallagher's High Flying Birds ||| 2320
+The Libertines ||| 2320
+Silverchair ||| 2273
+Sum 41 ||| 2264
+Carla Bruni ||| 2078
+The Hives ||| 2016
+Stereophonics ||| 1997
+Tomte ||| 1982
+Milburn ||| 1894
+R.E.M. ||| 1749
+The Offspring ||| 1653
+Bidê ou Balde ||| 1641
+## playcount: 299376

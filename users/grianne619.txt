@@ -1,0 +1,51 @@
+Slipknot ||| 1098
+Red Hot Chili Peppers ||| 969
+Oasis ||| 452
+Linkin Park ||| 448
+Metallica ||| 428
+Radiohead ||| 394
+Trivium ||| 380
+Muse ||| 368
+Nine Inch Nails ||| 366
+Foo Fighters ||| 357
+Marilyn Manson ||| 356
+Green Day ||| 342
+System of a Down ||| 335
+The Mars Volta ||| 333
+Weezer ||| 289
+Mando Diao ||| 285
+Stone Sour ||| 256
+Korn ||| 255
+Hoobastank ||| 242
+Primal Scream ||| 240
+Franz Ferdinand ||| 231
+King Crimson ||| 227
+Rage Against the Machine ||| 227
+Colour of Fire ||| 218
+At the Drive-In ||| 202
+Megadeth ||| 202
+The Offspring ||| 202
+The Mad Capsule Markets ||| 197
+Kasabian ||| 187
+Anthrax ||| 184
+Caesars ||| 182
+Nirvana ||| 177
+NOFX ||| 172
+Ash ||| 171
+David Bowie ||| 171
+The Subways ||| 168
+Bullet for My Valentine ||| 163
+Deep Purple ||| 163
+John Frusciante ||| 160
+Iggy Pop ||| 159
+Incubus ||| 159
+Mötley Crüe ||| 156
+Slayer ||| 156
+The Beatles ||| 154
+Tool ||| 150
+Neil Young ||| 148
+Van Halen ||| 148
+Judas Priest ||| 147
+Limp Bizkit ||| 140
+Joni Mitchell ||| 137
+## playcount: 13451

@@ -1,0 +1,51 @@
+The Beatles ||| 4048
+Megadeth ||| 1208
+Iron Maiden ||| 1182
+Kiss ||| 965
+Journey ||| 722
+Dream Theater ||| 654
+Judas Priest ||| 651
+Muse ||| 514
+Kings of Leon ||| 415
+Bon Jovi ||| 390
+Rob Zombie ||| 307
+George Harrison ||| 304
+Children of Bodom ||| 289
+Mötley Crüe ||| 274
+Plastiko ||| 270
+AC/DC ||| 252
+Chetes ||| 243
+Los Auténticos Decadentes ||| 242
+Fito Páez ||| 219
+Stratovarius ||| 218
+Brujeria ||| 193
+Korn ||| 191
+Los Caligaris ||| 190
+Metallica ||| 187
+White Zombie ||| 177
+Lamb of God ||| 172
+Cannibal Corpse ||| 167
+Sean Lennon ||| 164
+Opeth ||| 151
+The Magic Numbers ||| 148
+The Doors ||| 147
+Tool ||| 139
+Kreator ||| 137
+Whitesnake ||| 137
+Andrés Calamaro ||| 135
+Orphaned Land ||| 135
+Death ||| 101
+Velvet Revolver ||| 93
+Rata Blanca ||| 85
+Pantera ||| 84
+Carcass ||| 82
+Amy Winehouse ||| 80
+The Cure ||| 80
+Pink Floyd ||| 75
+Jumbo ||| 73
+Anthrax ||| 72
+Arch Enemy ||| 70
+Paul McCartney ||| 70
+The Who ||| 69
+Yeah Yeah Yeahs ||| 69
+## playcount: 17040

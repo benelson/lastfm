@@ -1,0 +1,51 @@
+Adele ||| 1344
+Taylor Swift ||| 1335
+Avril Lavigne ||| 676
+Katy Perry ||| 557
+Ellie Goulding ||| 362
+Rihanna ||| 359
+Ariana Grande ||| 357
+Kelly Clarkson ||| 312
+Leona Lewis ||| 303
+Ed Sheeran ||| 266
+Lana Del Rey ||| 231
+Lady Gaga ||| 187
+P!nk ||| 185
+Mariah Carey ||| 172
+Sia ||| 171
+Imagine Dragons ||| 149
+Justin Timberlake ||| 147
+Carly Rae Jepsen ||| 142
+Phillip Phillips ||| 125
+Nicki Minaj ||| 124
+Lorde ||| 121
+Bruno Mars ||| 101
+You Me at Six ||| 100
+Drake ||| 99
+Jess Glynne ||| 90
+Major Lazer ||| 89
+Keane ||| 86
+Justin Bieber ||| 85
+Meghan Trainor ||| 85
+Calvin Harris ||| 83
+Foxes ||| 82
+Olly Murs ||| 82
+Usher ||| 82
+Nick Jonas ||| 80
+Demi Lovato ||| 76
+Coldplay ||| 74
+Birdy ||| 72
+Jessie J ||| 71
+Hozier ||| 68
+Iggy Azalea ||| 67
+Maroon 5 ||| 64
+The Weeknd ||| 62
+Sam Smith ||| 61
+Rita Ora ||| 58
+Britney Spears ||| 57
+Ella Henderson ||| 57
+OneRepublic ||| 54
+The Chainsmokers ||| 52
+M.I.A. ||| 50
+Jason Derülo ||| 49
+## playcount: 9761

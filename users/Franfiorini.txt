@@ -1,0 +1,51 @@
+Muse ||| 6170
+Editors ||| 2753
+Ours ||| 2467
+R.E.M. ||| 1240
+Andrew Bird ||| 1016
+Interpol ||| 904
+Jimmy Gnecco ||| 877
+Noir Désir ||| 691
+Placebo ||| 657
+Franz Ferdinand ||| 577
+Depeche Mode ||| 455
+Maxïmo Park ||| 422
+Bloc Party ||| 411
+Alanis Morissette ||| 359
+Baustelle ||| 343
+Kasabian ||| 337
+Coldplay ||| 328
+Paolo Benvegnù ||| 299
+Arctic Monkeys ||| 269
+Travis ||| 269
+Paolo Nutini ||| 258
+The National ||| 257
+Radiohead ||| 256
+Florence + the Machine ||| 251
+Julian Plenti ||| 241
+Gaia Riva ||| 227
+Morrissey ||| 199
+Goran Bregović ||| 174
+The Zutons ||| 174
+The Maccabees ||| 164
+White Lies ||| 158
+Green Day ||| 148
+Guano Apes ||| 148
+The Walkmen ||| 146
+Belle and Sebastian ||| 145
+Scissor Sisters ||| 140
+Keane ||| 128
+Blur ||| 125
+The Gaslight Anthem ||| 124
+Serj Tankian ||| 123
+The White Stripes ||| 122
+Stereophonics ||| 115
+Foo Fighters ||| 114
+Nelly Furtado ||| 114
+Amy Winehouse ||| 112
+Biffy Clyro ||| 112
+Wolfgang Amadeus Mozart ||| 112
+Panic! at the Disco ||| 111
+Thom Yorke ||| 110
+We Are Scientists ||| 110
+## playcount: 25562

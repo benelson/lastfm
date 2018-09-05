@@ -1,0 +1,51 @@
+Tool ||| 2114
+Queens of the Stone Age ||| 2085
+Iron Maiden ||| 2065
+Guns N' Roses ||| 1828
+Alice in Chains ||| 1351
+Green Day ||| 1022
+The Smashing Pumpkins ||| 818
+Nirvana ||| 741
+Kyuss ||| 734
+Electric Wizard ||| 731
+Pearl Jam ||| 728
+Arctic Monkeys ||| 718
+Pink Floyd ||| 673
+Avenged Sevenfold ||| 658
+Black Sabbath ||| 656
+Rough Beauty ||| 647
+The Hives ||| 627
+Metallica ||| 596
+A Perfect Circle ||| 540
+Slash ||| 509
+Megadeth ||| 506
+System of a Down ||| 444
+Judas Priest ||| 443
+Ozzy Osbourne ||| 441
+Soundgarden ||| 423
+Muse ||| 416
+Nine Inch Nails ||| 413
+Led Zeppelin ||| 399
+Black Label Society ||| 375
+Dream Theater ||| 358
+Alec Holowka ||| 356
+Bring Me the Horizon ||| 354
+Faith No More ||| 352
+AC/DC ||| 351
+Scorpions ||| 343
+maudlin of the Well ||| 316
+Franz Ferdinand ||| 301
+The Cat Empire ||| 281
+Matanza ||| 276
+Linkin Park ||| 273
+Ghost ||| 270
+The Beatles ||| 244
+Wolfmother ||| 243
+Slipknot ||| 238
+Skid Row ||| 226
+Mastodon ||| 219
+Trivium ||| 218
+Motörhead ||| 213
+Aerosmith ||| 200
+The Black Keys ||| 199
+## playcount: 29532

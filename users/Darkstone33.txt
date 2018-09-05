@@ -1,0 +1,51 @@
+Bruce Springsteen ||| 2139
+Johnny Cash ||| 1594
+Bob Dylan ||| 1578
+Creedence Clearwater Revival ||| 1238
+Paolo Nutini ||| 1223
+Bee Gees ||| 1205
+Elvis Presley ||| 1162
+David Arkenstone ||| 1140
+Dio ||| 1104
+Jethro Tull ||| 1084
+The Doors ||| 871
+Arctic Monkeys ||| 812
+Iron Maiden ||| 785
+The Tallest Man on Earth ||| 775
+Van Morrison ||| 738
+The Rolling Stones ||| 713
+Robbie Williams ||| 704
+Fleetwood Mac ||| 686
+Guns N' Roses ||| 681
+The Beatles ||| 647
+Dire Straits ||| 637
+Buffalo Springfield ||| 615
+The Dubliners ||| 604
+The Mamas & the Papas ||| 594
+Tenacious D ||| 590
+Led Zeppelin ||| 553
+Pink Floyd ||| 531
+Bad Company ||| 523
+Jefferson Airplane ||| 519
+David Bowie ||| 518
+Metallica ||| 517
+Queen ||| 506
+Živo Blato ||| 501
+Joshua James ||| 488
+Rush ||| 487
+Uriah Heep ||| 473
+Flogging Molly ||| 465
+Elton John ||| 454
+Mötley Crüe ||| 450
+Pearl Jam ||| 449
+Nazareth ||| 446
+Jimi Hendrix ||| 439
+Genesis ||| 436
+Neil Young ||| 429
+Hozier ||| 428
+Joan Baez ||| 426
+Rainbow ||| 425
+Luke Kelly ||| 412
+Simon & Garfunkel ||| 412
+Ramones ||| 410
+## playcount: 35616

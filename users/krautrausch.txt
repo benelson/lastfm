@@ -1,0 +1,51 @@
+Neil Young ||| 9150
+The Beatles ||| 7629
+The Rolling Stones ||| 6847
+Radiohead ||| 6484
+Bob Dylan ||| 6008
+David Bowie ||| 4823
+Neko Case ||| 4609
+Tom Petty and The Heartbreakers ||| 4340
+Elvis Presley ||| 4152
+Mark Lanegan ||| 3478
+The Black Keys ||| 3301
+Bruce Springsteen ||| 2996
+Tom Waits ||| 2907
+Pink Floyd ||| 2519
+Bob Marley ||| 2490
+Oasis ||| 2338
+Johnny Cash ||| 2256
+George Harrison ||| 2248
+She & Him ||| 2178
+Buffalo Springfield ||| 2112
+Beck ||| 2111
+Paul Weller ||| 2039
+The Black Crowes ||| 1672
+Soulsavers ||| 1626
+Chris Robinson Brotherhood ||| 1592
+Creedence Clearwater Revival ||| 1515
+Eric Clapton ||| 1510
+The Band ||| 1436
+The Clash ||| 1429
+The Beach Boys ||| 1359
+Martha Wainwright ||| 1345
+Glen Campbell ||| 1343
+Willie Nelson ||| 1341
+TV on the Radio ||| 1331
+George Jones ||| 1317
+Arcade Fire ||| 1280
+Harry Nilsson ||| 1273
+ZZ Top ||| 1271
+Nick Cave & The Bad Seeds ||| 1235
+Luka Bloom ||| 1188
+Dennis Wilson ||| 1186
+Love ||| 1171
+Bonnie 'Prince' Billy ||| 1165
+The Jam ||| 1162
+Tom Petty ||| 1151
+Noel Gallagher's High Flying Birds ||| 1109
+Paul McCartney ||| 1106
+Townes Van Zandt ||| 1105
+Talking Heads ||| 1072
+Led Zeppelin ||| 1059
+## playcount: 123364

@@ -1,0 +1,51 @@
+Wolfmother ||| 60
+Aerosmith ||| 57
+Kiss ||| 49
+Van Halen ||| 44
+Bon Jovi ||| 43
+Red Hot Chili Peppers ||| 42
+Def Leppard ||| 40
+Guns N' Roses ||| 40
+The Killers ||| 36
+Thin Lizzy ||| 36
+Mötley Crüe ||| 35
+Extreme ||| 32
+Nirvana ||| 29
+Eagles ||| 28
+Goo Goo Dolls ||| 26
+Papa Roach ||| 26
+Scorpions ||| 26
+Weezer ||| 26
+Dire Straits ||| 25
+The Cardigans ||| 24
+Hinder ||| 23
+David Lee Roth ||| 22
+Dream Theater ||| 22
+Black Sabbath ||| 21
+Poets of the Fall ||| 21
+Rainbow ||| 21
+The Hives ||| 20
+ZZ Top ||| 20
+Florence + the Machine ||| 19
+In This Moment ||| 19
+L.A. Guns ||| 19
+Autograph ||| 18
+3 Doors Down ||| 17
+Collective Soul ||| 17
+Skid Row ||| 17
+The Rolling Stones ||| 17
+W.A.S.P. ||| 17
+Counting Crows ||| 16
+Lynyrd Skynyrd ||| 16
+White Lion ||| 16
+Fall Out Boy ||| 15
+Rob Zombie ||| 15
+The Doors ||| 15
+The Who ||| 15
+Winger ||| 15
+Creedence Clearwater Revival ||| 14
+Kings of Leon ||| 14
+Rush ||| 14
+U2 ||| 14
+Ugly Kid Joe ||| 14
+## playcount: 1247

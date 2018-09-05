@@ -1,0 +1,51 @@
+Kent ||| 9762
+Tame Impala ||| 3671
+Håkan Hellström ||| 3254
+The Beatles ||| 3049
+Bon Iver ||| 1916
+M83 ||| 1596
+Flume ||| 1369
+Beach House ||| 1349
+Bombay Bicycle Club ||| 1280
+Two Door Cinema Club ||| 1109
+Fleet Foxes ||| 945
+Solen ||| 936
+Placebo ||| 863
+The Weeknd ||| 792
+Blank Banshee ||| 756
+The Smiths ||| 664
+Childish Gambino ||| 593
+Bob Dylan ||| 579
+Panda da Panda ||| 563
+Pond ||| 543
+Coldplay ||| 507
+alt-J ||| 492
+Local Natives ||| 485
+Veronica Maggio ||| 476
+Temples ||| 469
+Crystal Castles ||| 463
+Ásgeir ||| 456
+MGMT ||| 447
+Neon Indian ||| 444
+Arctic Monkeys ||| 399
+Passion Pit ||| 391
+Calvin Harris ||| 368
+The Beach Boys ||| 356
+Daft Punk ||| 354
+Depeche Mode ||| 343
+Miike Snow ||| 334
+Ben Howard ||| 320
+Phoenix ||| 318
+deadmau5 ||| 315
+The Shins ||| 306
+Belle and Sebastian ||| 281
+Sigur Rós ||| 280
+Pendulum ||| 278
+Unknown Mortal Orchestra ||| 266
+Oasis ||| 246
+John Lennon ||| 244
+Dungen ||| 221
+Avicii ||| 215
+Mumford & Sons ||| 197
+Band of Horses ||| 193
+## playcount: 46053

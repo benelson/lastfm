@@ -1,0 +1,51 @@
+Lifehouse ||| 2998
+Daughtry ||| 2385
+Dead by April ||| 2077
+Foo Fighters ||| 2075
+Shinedown ||| 1979
+Alter Bridge ||| 1603
+Pearl Jam ||| 1345
+Muse ||| 1342
+Audioslave ||| 1245
+Breaking Benjamin ||| 1231
+The Kooks ||| 1178
+Stereophonics ||| 1088
+Default ||| 1044
+Elvis Presley ||| 983
+Hinder ||| 967
+Goo Goo Dolls ||| 955
+Paramore ||| 913
+Staind ||| 910
+Blind Pilot ||| 852
+Red Hot Chili Peppers ||| 831
+Coheed and Cambria ||| 723
+The Kinks ||| 672
+Guns N' Roses ||| 648
+Kiss ||| 614
+3 Doors Down ||| 602
+Bon Jovi ||| 591
+Florence + the Machine ||| 590
+Linkin Park ||| 573
+The Fray ||| 533
+Survivor ||| 496
+The Beatles ||| 490
+Seether ||| 471
+Augustana ||| 457
+Creed ||| 454
+I Blame Coco ||| 454
+Saving Abel ||| 426
+Lykke Li ||| 422
+Arctic Monkeys ||| 419
+Johnny Cash ||| 408
+Live ||| 390
+Matchbox Twenty ||| 390
+Howie Day ||| 383
+Poets of the Fall ||| 380
+Flyleaf ||| 376
+Biffy Clyro ||| 373
+David Bowie ||| 368
+Journey ||| 368
+The Pretty Reckless ||| 368
+Young the Giant ||| 366
+Halestorm ||| 363
+## playcount: 42169

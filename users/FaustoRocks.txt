@@ -1,0 +1,51 @@
+The Beatles ||| 9622
+The Strokes ||| 4127
+John Lennon ||| 2487
+Bob Dylan ||| 2379
+Paul McCartney ||| 2178
+George Harrison ||| 2135
+The Rolling Stones ||| 1731
+David Bowie ||| 1425
+Julian Casablancas ||| 1188
+Led Zeppelin ||| 1119
+Nick Drake ||| 1053
+The Dandy Warhols ||| 938
+Paul McCartney & Wings ||| 884
+Elvis Presley ||| 800
+Oasis ||| 775
+Badfinger ||| 761
+Scott Walker ||| 701
+Frank Zappa ||| 600
+Ramones ||| 591
+Kings of Leon ||| 575
+Morrissey ||| 568
+Pescado Rabioso ||| 566
+The Brian Jonestown Massacre ||| 558
+Pink Floyd ||| 541
+Ringo Starr ||| 523
+The Stone Roses ||| 518
+Arctic Monkeys ||| 503
+Love ||| 502
+The Kooks ||| 477
+Electric Light Orchestra ||| 471
+The Jimi Hendrix Experience ||| 471
+Luis Alberto Spinetta ||| 463
+Small Faces ||| 458
+Sam Cooke ||| 456
+Eric Clapton ||| 441
+Blur ||| 431
+T. Rex ||| 429
+Seiji Yokoyama ||| 416
+Donovan ||| 413
+Queen ||| 412
+Travis ||| 411
+Leonard Cohen ||| 395
+Sui Generis ||| 388
+ABBA ||| 387
+Paul & Linda McCartney ||| 379
+Lenny Kravitz ||| 376
+Robbie Williams ||| 375
+The Cure ||| 375
+The Killers ||| 375
+Creedence Clearwater Revival ||| 374
+## playcount: 49521

@@ -1,0 +1,39 @@
+Evolocity ||| 339
+Cellout ||| 338
+Iron Maiden ||| 10
+April Wine ||| 7
+Jethro Tull ||| 7
+Michael Lee Firkins ||| 7
+Steely Dan ||| 7
+Accept ||| 6
+Rush ||| 5
+Thelonious Monk ||| 5
+Charles Mingus ||| 4
+Judas Priest ||| 4
+Jettison Eddy ||| 3
+Joe Jackson ||| 3
+Kansas ||| 3
+Saxon ||| 3
+Styx ||| 3
+Cab Calloway ||| 2
+Duke Ellington ||| 2
+John Coltrane ||| 2
+Miles Davis ||| 2
+UFO ||| 2
+W.A.S.P. ||| 2
+Aggressive Sound Painters ||| 1
+Benny Goodman ||| 1
+Charlie Parker ||| 1
+Coleman Hawkins ||| 1
+Count Basie ||| 1
+Deep Purple ||| 1
+Dio ||| 1
+Dizzy Gillespie ||| 1
+Felix Mendelssohn ||| 1
+Glenn Miller ||| 1
+Jim Croce ||| 1
+Lionel Hampton ||| 1
+Oscar Peterson ||| 1
+Robert Plant ||| 1
+Tenacious D ||| 1
+## playcount: 781

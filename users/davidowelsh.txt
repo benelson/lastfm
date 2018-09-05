@@ -1,0 +1,51 @@
+U2 ||| 3801
+Coldplay ||| 2784
+The Alarm ||| 2409
+Dire Straits ||| 2312
+Sarah McLachlan ||| 2304
+Pink Floyd ||| 2294
+The Beatles ||| 1965
+Paul McCartney ||| 1723
+William Fitzsimmons ||| 1708
+Kings of Convenience ||| 1665
+Frank Sinatra ||| 1638
+The Doors ||| 1638
+Dan Gibson ||| 1620
+Keane ||| 1602
+Mark Knopfler ||| 1559
+Miguel Bosé ||| 1559
+Diana Krall ||| 1533
+John Lennon ||| 1500
+Chris Botti ||| 1488
+Nat King Cole ||| 1467
+Bob Dylan ||| 1465
+Michael Bublé ||| 1462
+Andrea Bocelli ||| 1445
+Mikel Erentxun ||| 1407
+The Cure ||| 1398
+Tracy Chapman ||| 1395
+George Harrison ||| 1386
+Bruce Springsteen ||| 1382
+Luis Miguel ||| 1377
+Ottmar Liebert ||| 1351
+Maná ||| 1341
+The xx ||| 1316
+Bryan Adams ||| 1294
+Brad Mehldau ||| 1275
+Sting ||| 1267
+Peter Gabriel ||| 1237
+Caifanes ||| 1204
+Bobby McFerrin ||| 1202
+Thievery Corporation ||| 1198
+Mecano ||| 1192
+Herbie Hancock ||| 1188
+Jumbo ||| 1187
+Eric Clapton ||| 1182
+Elton John ||| 1144
+Jaguares ||| 1136
+Luciano Pavarotti ||| 1125
+Eagles ||| 1104
+Queen ||| 1098
+Nils ||| 1082
+Billy Joel ||| 1078
+## playcount: 76487

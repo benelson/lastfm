@@ -1,0 +1,51 @@
+Alice in Chains ||| 6577
+Jerry Cantrell ||| 3817
+Foo Fighters ||| 3363
+Bad Religion ||| 2766
+Pearl Jam ||| 2123
+Soundgarden ||| 1524
+Nirvana ||| 1451
+Oasis ||| 1141
+Mark Lanegan ||| 1079
+Ultraje A Rigor ||| 1049
+Beastie Boys ||| 1030
+Stone Temple Pilots ||| 966
+Mad Season ||| 844
+Screaming Trees ||| 697
+Hole ||| 655
+Pixies ||| 620
+Audioslave ||| 590
+Queens of the Stone Age ||| 579
+Melanie Martinez ||| 508
+The Donnas ||| 503
+Temple of the Dog ||| 479
+The Offspring ||| 469
+Isobel Campbell & Mark Lanegan ||| 433
+Ramones ||| 407
+David Bowie ||| 394
+Avril Lavigne ||| 372
+Lily Allen ||| 346
+Evanescence ||| 344
+Incubus ||| 317
+Red Hot Chili Peppers ||| 316
+Bush ||| 290
+L7 ||| 260
+Raimundos ||| 257
+The Libertines ||| 249
+Men at Work ||| 246
+Goo Goo Dolls ||| 236
+The Killers ||| 236
+Gorillaz ||| 222
+Depeche Mode ||| 221
+Jimi Hendrix ||| 203
+Aerosmith ||| 197
+The Smiths ||| 195
+Keira Knightley ||| 194
+Eddie Vedder ||| 191
+The Cranberries ||| 184
+R.E.M. ||| 183
+Daft Punk ||| 177
+Norah Jones ||| 177
+Mother Love Bone ||| 171
+Sixpence None the Richer ||| 165
+## playcount: 40013

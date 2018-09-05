@@ -1,0 +1,51 @@
+Iron Maiden ||| 1248
+B.B. King ||| 1216
+Powerwolf ||| 1185
+Ella Fitzgerald ||| 1172
+Rainbow ||| 1108
+Judas Priest ||| 1105
+Dio ||| 1067
+Saxon ||| 1016
+Black Sabbath ||| 976
+Manowar ||| 878
+Jeremy Soule ||| 840
+Rage ||| 816
+Accept ||| 713
+Alestorm ||| 656
+Pink Floyd ||| 648
+Heaven & Hell ||| 645
+Nazareth ||| 596
+W.A.S.P. ||| 580
+Led Zeppelin ||| 493
+Bruce Dickinson ||| 485
+Eminem ||| 470
+Deep Purple ||| 468
+Silly Wizard ||| 407
+UFO ||| 378
+Muse ||| 352
+Dokken ||| 336
+Jimi Hendrix ||| 335
+Motörhead ||| 327
+Ozzy Osbourne ||| 320
+Joe Satriani ||| 305
+Kiss ||| 290
+Uriah Heep ||| 286
+Hubert Sumlin ||| 282
+Running Wild ||| 273
+Van Halen ||| 270
+HammerFall ||| 267
+Yngwie Malmsteen ||| 263
+Eric Clapton ||| 257
+Jorn ||| 254
+Scorpions ||| 251
+Thin Lizzy ||| 243
+Queen ||| 240
+Gary Moore ||| 211
+Whitesnake ||| 203
+Robert Cray ||| 196
+U.D.O. ||| 195
+The Red Army Choir ||| 191
+Helloween ||| 190
+The Doors ||| 169
+The Jimi Hendrix Experience ||| 169
+## playcount: 25841

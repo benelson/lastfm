@@ -1,0 +1,51 @@
+blink-182 ||| 1347
+Elliott Smith ||| 1292
+Muse ||| 1203
+Arctic Monkeys ||| 1090
+Verdena ||| 1043
+Yann Tiersen ||| 974
+Glee Cast ||| 863
+Band of Horses ||| 772
+Coldplay ||| 752
+The Beatles ||| 710
+Bon Iver ||| 694
+Death Cab for Cutie ||| 663
+Metallica ||| 614
+Caparezza ||| 593
+The Black Keys ||| 585
+Blood Red Shoes ||| 582
+Florence + the Machine ||| 580
+Dustin O'Halloran ||| 570
+Damien Rice ||| 546
+The Smiths ||| 546
+Lucio Battisti ||| 458
+I Blame Coco ||| 442
+Regina Spektor ||| 437
+System of a Down ||| 426
+Kasabian ||| 422
+The Killers ||| 422
+Azealia Banks ||| 421
+Gogol Bordello ||| 419
+Nirvana ||| 393
+Crystal Castles ||| 367
+The Temper Trap ||| 355
+Radiohead ||| 350
+Green Day ||| 337
+Eddie Vedder ||| 318
+Dente ||| 298
+The Subways ||| 297
+Noah and the Whale ||| 294
+David Bowie ||| 292
+Does It Offend You, Yeah? ||| 288
+Fabrizio De André ||| 287
+Jimi Hendrix ||| 276
+Beach House ||| 275
+Lady Gaga ||| 274
+Arcade Fire ||| 262
+alt-J ||| 253
+Simon & Garfunkel ||| 246
+Belle and Sebastian ||| 245
+Paramore ||| 242
+Grizzly Bear ||| 238
+Air ||| 231
+## playcount: 25884

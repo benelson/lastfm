@@ -1,0 +1,51 @@
+The Beatles ||| 23165
+Paul McCartney ||| 6829
+Elvis Presley ||| 6035
+The Rolling Stones ||| 5881
+Queen ||| 4796
+The Ventures ||| 4555
+Jethro Tull ||| 4129
+Pink Floyd ||| 3419
+Cliff Richard ||| 3120
+Машина времени ||| 3080
+James Last ||| 2968
+Paul Mauriat ||| 2817
+Led Zeppelin ||| 2693
+James Brown ||| 2480
+Tom Jones ||| 2295
+Yes ||| 2294
+The Who ||| 2134
+The Monkees ||| 2073
+Ray Conniff ||| 1908
+The Everly Brothers ||| 1901
+The Shadows ||| 1899
+Deep Purple ||| 1741
+The Beach Boys ||| 1725
+Bee Gees ||| 1723
+John Lennon ||| 1719
+The Hollies ||| 1712
+Elton John ||| 1697
+Eric Clapton ||| 1636
+Fairport Convention ||| 1612
+Manfred Mann ||| 1530
+Roy Orbison ||| 1441
+Chuck Berry ||| 1408
+The Doors ||| 1407
+The Byrds ||| 1399
+Marvin Gaye ||| 1350
+Perry Como ||| 1304
+Gene Vincent ||| 1294
+Fleetwood Mac ||| 1251
+Emerson, Lake & Palmer ||| 1196
+Genesis ||| 1190
+The Tremeloes ||| 1190
+Andy Williams ||| 1119
+Black Sabbath ||| 1111
+The Kingston Trio ||| 1095
+Henry Mancini ||| 1070
+Petula Clark ||| 1045
+George Harrison ||| 1042
+Slade ||| 1015
+Jan & Dean ||| 993
+The Kinks ||| 959
+## playcount: 129445

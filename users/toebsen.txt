@@ -1,0 +1,51 @@
+John Frusciante ||| 1370
+Coheed and Cambria ||| 1149
+Creedence Clearwater Revival ||| 880
+Black Sabbath ||| 879
+Pink Floyd ||| 847
+Tool ||| 806
+The Beatles ||| 667
+Red Hot Chili Peppers ||| 594
+Metallica ||| 551
+The Smashing Pumpkins ||| 539
+Oceansize ||| 513
+Led Zeppelin ||| 509
+The Streets ||| 421
+Muse ||| 406
+Graveyard ||| 390
+Thrice ||| 386
+Kyuss ||| 361
+Mastodon ||| 354
+Imogen Heap ||| 342
+Nirvana ||| 339
+Monster Magnet ||| 310
+Bob Marley & The Wailers ||| 300
+Porcupine Tree ||| 292
+Jethro Tull ||| 264
+Bob Dylan ||| 258
+Ratatat ||| 255
+Baby Woodrose ||| 245
+Daft Punk ||| 240
+Dire Straits ||| 237
+Common ||| 216
+The Doors ||| 212
+Digitalism ||| 188
+Jefferson Airplane ||| 187
+Mogwai ||| 187
+God Is An Astronaut ||| 181
+Wishbone Ash ||| 179
+Iron Maiden ||| 167
+Camel ||| 160
+Pure Reason Revolution ||| 157
+Clutch ||| 155
+King Crimson ||| 152
+Rage Against the Machine ||| 150
+UFO ||| 148
+Hawkwind ||| 143
+Ozzy Osbourne ||| 142
+Neil Young ||| 140
+Stevie Ray Vaughan ||| 132
+Explosions in the Sky ||| 129
+John Lee Hooker ||| 129
+Frank Zappa ||| 124
+## playcount: 18082

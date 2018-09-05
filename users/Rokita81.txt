@@ -1,0 +1,51 @@
+Iron Maiden ||| 14542
+Metallica ||| 3243
+Judas Priest ||| 2435
+HammerFall ||| 785
+Wilki ||| 762
+Perfect ||| 760
+Helloween ||| 755
+Queen ||| 740
+Dżem ||| 702
+Black Sabbath ||| 688
+Budka Suflera ||| 663
+Stratovarius ||| 659
+Roxette ||| 632
+Lady Pank ||| 601
+Dio ||| 591
+CETI ||| 561
+Scorpions ||| 541
+Bruce Dickinson ||| 537
+Accept ||| 531
+Helix ||| 500
+Kat ||| 496
+Creedence Clearwater Revival ||| 489
+AC/DC ||| 468
+Blind Guardian ||| 467
+Bonfire ||| 463
+Dokken ||| 429
+Coma ||| 428
+Monstrum ||| 417
+Aerosmith ||| 415
+Edguy ||| 410
+Deep Purple ||| 408
+Saxon ||| 403
+TSA ||| 394
+Dream Theater ||| 393
+Def Leppard ||| 389
+Ozzy Osbourne ||| 389
+Avantasia ||| 370
+Edenbridge ||| 367
+Axel Rudi Pell ||| 357
+Nightwish ||| 356
+Paradise Lost ||| 342
+Virgin Steele ||| 338
+Alice Cooper ||| 315
+Ария ||| 313
+At Vance ||| 312
+Manowar ||| 305
+Therion ||| 303
+Slayer ||| 301
+Queensrÿche ||| 300
+O.N.A. ||| 285
+## playcount: 42650

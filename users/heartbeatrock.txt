@@ -1,0 +1,51 @@
+Mariah Carey ||| 8132
+Taylor Swift ||| 7266
+Kylie Minogue ||| 5870
+Britney Spears ||| 5107
+Janet Jackson ||| 3232
+Björk ||| 2545
+Madonna ||| 1960
+TLC ||| 1813
+Katy Perry ||| 1601
+Lana Del Rey ||| 1502
+Charli XCX ||| 1493
+Beyoncé ||| 1471
+Ariana Grande ||| 1370
+Miley Cyrus ||| 1332
+Christina Aguilera ||| 1248
+Rihanna ||| 986
+Lady Gaga ||| 889
+P!nk ||| 844
+Alanis Morissette ||| 718
+Azealia Banks ||| 628
+Kali Uchis ||| 626
+Lil' Kim ||| 622
+Rina Sawayama ||| 589
+Ke$ha ||| 588
+Gwen Stefani ||| 572
+Shakira ||| 510
+Selena Gomez ||| 501
+Nicki Minaj ||| 440
+Spice Girls ||| 411
+Carly Rae Jepsen ||| 381
+Iggy Azalea ||| 379
+M.I.A. ||| 345
+FKA twigs ||| 321
+Avril Lavigne ||| 317
+Tinashe ||| 295
+Geri Halliwell ||| 290
+Hannah Montana ||| 288
+Jennifer Lopez ||| 284
+Lorde ||| 280
+Lily Allen ||| 273
+Jessica Simpson ||| 268
+Kacey Musgraves ||| 265
+Paris Hilton ||| 264
+Cardi B ||| 260
+Camila Cabello ||| 254
+Destiny's Child ||| 250
+Fergie ||| 246
+Grimes ||| 244
+Marina & the Diamonds ||| 238
+Amy Winehouse ||| 225
+## playcount: 60833

@@ -1,0 +1,51 @@
+Ivete Sangalo ||| 3134
+Rihanna ||| 2732
+Nirvana ||| 2619
+Caetano Veloso ||| 2227
+AC/DC ||| 1723
+The Beatles ||| 1643
+Christina Aguilera ||| 1640
+Guns N' Roses ||| 1629
+Foo Fighters ||| 1597
+Queens of the Stone Age ||| 1534
+The Rolling Stones ||| 1501
+The Killers ||| 1361
+Metallica ||| 1348
+Bob Marley ||| 1279
+Emicida ||| 1278
+Marisa Monte ||| 1257
+Os Mutantes ||| 1251
+P!nk ||| 1211
+Johnny Hooker ||| 1206
+Scalene ||| 1141
+Slash ||| 1132
+Amy Winehouse ||| 908
+Cícero ||| 810
+Coldplay ||| 795
+Maroon 5 ||| 762
+R.E.M. ||| 755
+Lana Del Rey ||| 727
+Los Hermanos ||| 723
+Linkin Park ||| 711
+Jack Johnson ||| 684
+Bruno Mars ||| 655
+Joss Stone ||| 646
+Vanessa da Mata ||| 623
+Paul McCartney ||| 613
+Shakira ||| 599
+Led Zeppelin ||| 576
+Chico Buarque ||| 563
+Criolo ||| 533
+Kelly Clarkson ||| 531
+Adele ||| 515
+Novos Baianos ||| 513
+Marcelo D2 ||| 511
+Queen ||| 506
+Red Hot Chili Peppers ||| 500
+Cássia Eller ||| 497
+Arctic Monkeys ||| 487
+Dia Frampton ||| 457
+Michael Jackson ||| 449
+Filipe Catto ||| 444
+Kings of Leon ||| 436
+## playcount: 51972

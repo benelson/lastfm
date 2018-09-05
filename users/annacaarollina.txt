@@ -1,0 +1,51 @@
+Lady Gaga ||| 3456
+Lana Del Rey ||| 2557
+Marina & the Diamonds ||| 1531
+Demi Lovato ||| 1304
+Katy Perry ||| 1170
+Beyoncé ||| 1022
+Melanie Martinez ||| 801
+Ariana Grande ||| 609
+Rihanna ||| 596
+Little Mix ||| 542
+RBD ||| 467
+Miley Cyrus ||| 452
+Selena Gomez ||| 309
+Taylor Swift ||| 308
+Aurora ||| 288
+Lily Allen ||| 224
+Linkin Park ||| 224
+Muse ||| 216
+Maroon 5 ||| 211
+Christina Aguilera ||| 209
+Jessie J ||| 209
+Coldplay ||| 205
+Lorde ||| 203
+Madonna ||| 174
+OneRepublic ||| 158
+Paramore ||| 155
+Britney Spears ||| 147
+Bruno Mars ||| 147
+Iggy Azalea ||| 146
+Natalia Kills ||| 146
+Anahí ||| 133
+Sia ||| 131
+Drake ||| 126
+Avril Lavigne ||| 124
+Justin Timberlake ||| 118
+Camila Cabello ||| 104
+Nicki Minaj ||| 100
+Red Hot Chili Peppers ||| 96
+Anitta ||| 95
+Adele ||| 91
+Ke$ha ||| 88
+Bebe Rexha ||| 83
+Janelle Monáe ||| 80
+Fifth Harmony ||| 70
+Ferrugem ||| 69
+Selena Gomez & the Scene ||| 67
+Bridgit Mendler ||| 66
+Avenged Sevenfold ||| 57
+RuPaul ||| 57
+Amy Winehouse ||| 55
+## playcount: 19996

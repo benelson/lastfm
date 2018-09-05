@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 5625
+The Strokes ||| 4452
+Franz Ferdinand ||| 3864
+The Doors ||| 3257
+Lana Del Rey ||| 2529
+Coldplay ||| 1967
+Pink Floyd ||| 1947
+AC/DC ||| 1424
+Maroon 5 ||| 1335
+The Kooks ||| 1178
+Legião Urbana ||| 1106
+Anitta ||| 1015
+Selena Gomez ||| 824
+Demi Lovato ||| 757
+Two Door Cinema Club ||| 745
+Britney Spears ||| 743
+Drake ||| 699
+Lorde ||| 695
+The Pretty Reckless ||| 633
+Los Hermanos ||| 621
+Kraftwerk ||| 610
+Amy Winehouse ||| 595
+BROODS ||| 590
+The Beatles ||| 588
+Rihanna ||| 528
+Red Hot Chili Peppers ||| 513
+Fall Out Boy ||| 497
+Nirvana ||| 489
+Calvin Harris ||| 470
+Beyoncé ||| 464
+30 Seconds to Mars ||| 460
+Justin Bieber ||| 449
+The Black Keys ||| 449
+The Killers ||| 410
+Capital Inicial ||| 405
+Creedence Clearwater Revival ||| 396
+Daft Punk ||| 374
+Oasis ||| 366
+Miley Cyrus ||| 350
+Justin Timberlake ||| 340
+Fifth Harmony ||| 332
+Ratatat ||| 312
+Jefferson Airplane ||| 309
+Tame Impala ||| 299
+MGMT ||| 292
+Marina & the Diamonds ||| 290
+The Cranberries ||| 287
+Katy Perry ||| 281
+The Weeknd ||| 279
+Paramore ||| 278
+## playcount: 47718

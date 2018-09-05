@@ -1,0 +1,51 @@
+Katatonia ||| 3503
+Amorphis ||| 3141
+Megadeth ||| 2089
+Sentenced ||| 1964
+Paradise Lost ||| 1634
+Annihilator ||| 1264
+Amon Amarth ||| 1211
+In Flames ||| 1200
+Saturnus ||| 1093
+Opeth ||| 1021
+Anathema ||| 984
+Death ||| 971
+Sepultura ||| 963
+Motörhead ||| 895
+Ghost ||| 877
+Judas Priest ||| 871
+Exodus ||| 847
+Ghost Brigade ||| 825
+Accept ||| 815
+Antimatter ||| 788
+Insomnium ||| 783
+Anthrax ||| 765
+Soilwork ||| 728
+Black Label Society ||| 687
+Draconian ||| 667
+Lamb of God ||| 661
+Testament ||| 642
+Death Angel ||| 631
+Down ||| 628
+Iced Earth ||| 604
+Dio ||| 584
+Children of Bodom ||| 550
+Slayer ||| 547
+Metallica ||| 546
+Pantera ||| 531
+Cannibal Corpse ||| 515
+Mastodon ||| 506
+Red Fang ||| 471
+Overkill ||| 468
+Rage ||| 443
+Black Sabbath ||| 437
+Helloween ||| 432
+Airbourne ||| 423
+Raimundos ||| 415
+Alice in Chains ||| 410
+Disturbed ||| 399
+Foo Fighters ||| 390
+Machine Head ||| 384
+Witchcraft ||| 380
+Destruction ||| 378
+## playcount: 42961

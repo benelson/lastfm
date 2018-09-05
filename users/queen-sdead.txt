@@ -1,0 +1,51 @@
+Cícero ||| 542
+Vanguart ||| 304
+Los Hermanos ||| 285
+The Doors ||| 274
+Cazuza ||| 253
+Nirvana ||| 224
+The Smiths ||| 215
+Arctic Monkeys ||| 193
+Pink Floyd ||| 183
+Panic! at the Disco ||| 180
+The Black Keys ||| 180
+The Velvet Underground ||| 166
+Muse ||| 154
+Amy Winehouse ||| 123
+Kasabian ||| 123
+Apanhador Só ||| 120
+Barão Vermelho ||| 102
+System of a Down ||| 101
+Fall Out Boy ||| 100
+The White Stripes ||| 100
+Engenheiros Do Hawaii ||| 96
+The Beatles ||| 86
+Cake ||| 79
+Zeca Baleiro ||| 78
+Marina & the Diamonds ||| 76
+The xx ||| 76
+Chico Buarque ||| 75
+Criolo ||| 73
+The Kills ||| 71
+Porcupine Tree ||| 66
+Joy Division ||| 65
+The Young Veins ||| 65
+Of Monsters and Men ||| 64
+Oswaldo Montenegro ||| 61
+Damien Rice ||| 58
+Iron & Wine ||| 58
+Bloc Party ||| 57
+Queen ||| 55
+Kings of Leon ||| 54
+Led Zeppelin ||| 54
+Marcelo Camelo ||| 53
+Marilyn Manson ||| 53
+David Bowie ||| 52
+Bob Dylan ||| 51
+The Libertines ||| 50
+Pixies ||| 45
+The Strokes ||| 45
+The Dead Weather ||| 42
+Lenine ||| 41
+The Raveonettes ||| 41
+## playcount: 5762

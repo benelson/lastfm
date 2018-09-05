@@ -1,0 +1,51 @@
+Joe Dassin ||| 57
+Louise Attaque ||| 35
+Gérald de Palmas ||| 31
+Lana Del Rey ||| 15
+Maroon 5 ||| 11
+Phil Collins ||| 11
+René Grolier Et Gérard Addat ||| 8
+U2 ||| 8
+Barcella ||| 7
+Bruno Coulais ||| 7
+C. Jérôme ||| 7
+Grégory Lemarchal ||| 7
+Claude François ||| 6
+Sexion d'Assaut ||| 6
+Téléphone ||| 5
+James Blunt ||| 4
+Noir Désir ||| 4
+The Cranberries ||| 4
+Christophe ||| 3
+Daniel Balavoine ||| 3
+David Bisbal ||| 3
+David Guetta ||| 3
+Labi Siffre ||| 3
+Makano ||| 3
+Mika ||| 3
+Nostalgie 80 ||| 3
+Renaud ||| 3
+Shy'm ||| 3
+Yannick Noah ||| 3
+Aretha Franklin ||| 2
+Bob Sinclar ||| 2
+Flo Rida ||| 2
+Gusttavo Lima ||| 2
+Jean-Jacques Goldman ||| 2
+Lucenzo ||| 2
+Marc Lavoine ||| 2
+Michel Teló ||| 2
+Musica Arabe Oriental Ensemble ||| 2
+Taio Cruz ||| 2
+Amel Bent ||| 1
+Andrea Bocelli ||| 1
+Avicii ||| 1
+Black Eyed Peas ||| 1
+Bob Marley & The Wailers ||| 1
+Bright Eyes ||| 1
+Calogero ||| 1
+Cani Sciolti ||| 1
+Coldplay ||| 1
+Collectif Paris-Africa ||| 1
+Cream ||| 1
+## playcount: 297

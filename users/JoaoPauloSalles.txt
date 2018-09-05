@@ -1,0 +1,51 @@
+Björk ||| 12324
+Lana Del Rey ||| 5567
+Lorde ||| 5140
+The xx ||| 3428
+Rihanna ||| 2334
+FKA twigs ||| 1700
+Frank Ocean ||| 1692
+The Weeknd ||| 1190
+Taylor Swift ||| 1021
+Beyoncé ||| 1016
+Azealia Banks ||| 946
+Drake ||| 902
+Childish Gambino ||| 572
+Nicki Minaj ||| 528
+xxxtentacion ||| 405
+OneRepublic ||| 396
+Adele ||| 382
+Arca ||| 369
+Kanye West ||| 352
+Lady Gaga ||| 350
+Grimes ||| 310
+Harry Styles ||| 289
+Sufjan Stevens ||| 264
+M.I.A. ||| 251
+[unknown] ||| 231
+RBD ||| 206
+Troye Sivan ||| 204
+Pabllo Vittar ||| 197
+Jeff Buckley ||| 191
+Silva ||| 187
+Janelle Monáe ||| 184
+Camila Cabello ||| 178
+Post Malone ||| 177
+Disclosure ||| 173
+Selena Gomez ||| 171
+Calvin Harris ||| 169
+Arcade Fire ||| 167
+Clarice Falcão ||| 165
+Anitta ||| 156
+Ariana Grande ||| 155
+P!nk ||| 153
+Arctic Monkeys ||| 149
+Ed Sheeran ||| 140
+Sia ||| 132
+Coldplay ||| 128
+Katy Perry ||| 128
+Bruno Mars ||| 127
+Stromae ||| 121
+DJ Khaled ||| 116
+Liniker e os Caramelows ||| 113
+## playcount: 45946

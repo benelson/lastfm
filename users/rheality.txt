@@ -1,0 +1,51 @@
+Travis ||| 62
+Snow Patrol ||| 61
+Andrew Bird ||| 60
+The Stills ||| 60
+Cat Power ||| 54
+Sufjan Stevens ||| 48
+The Hold Steady ||| 47
+Bright Eyes ||| 45
+Radiohead ||| 44
+PJ Harvey ||| 35
+Mogwai ||| 34
+Indigo Girls ||| 32
+Kings of Leon ||| 31
+Arcade Fire ||| 30
+Andrew Bird's Bowl of Fire ||| 28
+Clap Your Hands Say Yeah ||| 28
+Hot Hot Heat ||| 26
+Mates of State ||| 26
+Regina Spektor ||| 24
+The Polyphonic Spree ||| 24
+Lucinda Williams ||| 23
+The Sugarcubes ||| 23
+The White Stripes ||| 23
+P!nk ||| 22
+The Shins ||| 21
+LCD Soundsystem ||| 20
+Camera Obscura ||| 19
+Explosions in the Sky ||| 19
+Tegan and Sara ||| 19
+Halloween, Alaska ||| 18
+Spoon ||| 16
+Ani DiFranco ||| 15
+The Black Keys ||| 14
+Tristan Prettyman ||| 14
+Aqualung ||| 13
+HorrorPops ||| 13
+The Little Willies ||| 13
+Sonic Youth ||| 12
+The Ashtray Hearts ||| 12
+Mazzy Star ||| 11
+Sia ||| 11
+The Faint ||| 11
+Ben Taylor Band ||| 10
+Bishop ||| 10
+Death Cab for Cutie ||| 10
+Neutral Milk Hotel ||| 10
+The Postal Service ||| 10
+Beth Orton ||| 9
+Dixie Chicks ||| 9
+Liz Phair ||| 9
+## playcount: 1238

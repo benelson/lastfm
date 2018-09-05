@@ -1,0 +1,51 @@
+Carpenters ||| 77531
+Karen Carpenter ||| 41541
+ABBA ||| 9119
+*NSYNC ||| 7101
+Céline Dion ||| 5625
+Elton John ||| 5267
+Ariana Grande ||| 4711
+Frank Sinatra ||| 4563
+Vanessa Williams ||| 4469
+Cher ||| 4372
+Mariah Carey ||| 3336
+Diana Ross ||| 3138
+The Beatles ||| 2927
+Backstreet Boys ||| 2845
+blink-182 ||| 2635
+Breaking Benjamin ||| 2523
+Toni Braxton ||| 2214
+Cheryl Cole ||| 2017
+Nat King Cole ||| 1967
+Jonas Brothers ||| 1908
+Paramore ||| 1885
+Idina Menzel ||| 1874
+Elvis Presley ||| 1827
+Sam Cooke ||| 1804
+Britney Spears ||| 1792
+Spice Girls ||| 1786
+One Direction ||| 1749
+Lana Del Rey ||| 1659
+Audrey Hepburn ||| 1642
+Mr. Big ||| 1589
+Emmelie de Forest ||| 1525
+Michael Jackson ||| 1516
+Lights ||| 1485
+Whitney Houston ||| 1484
+Boyz II Men ||| 1452
+Green Day ||| 1443
+Ella Fitzgerald ||| 1412
+Zendaya ||| 1376
+Rihanna ||| 1353
+Lorde ||| 1350
+Bruce Springsteen ||| 1341
+Kylie Minogue ||| 1330
+Justin Timberlake ||| 1322
+Judy Garland ||| 1303
+IM5 ||| 1259
+Carly Rae Jepsen ||| 1248
+Girls Aloud ||| 1213
+Madonna ||| 1161
+Agnetha Fältskog ||| 1132
+Belinda Carlisle ||| 1057
+## playcount: 234178

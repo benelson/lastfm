@@ -1,0 +1,51 @@
+Pehr Henrik Nordgren ||| 429
+Benjamin Britten ||| 381
+Arnold Schönberg ||| 353
+Anton Webern ||| 264
+Joonas Kokkonen ||| 232
+Witold Lutosławski ||| 181
+György Ligeti ||| 177
+Kaija Saariaho ||| 166
+Alban Berg ||| 154
+Olga Neuwirth ||| 131
+Arvo Pärt ||| 105
+Ludwig van Beethoven ||| 100
+Aulis Sallinen ||| 92
+Eero Hämeenniemi ||| 91
+Per Nørgård ||| 91
+Béla Bartók ||| 88
+Johannes Brahms ||| 88
+Einojuhani Rautavaara ||| 85
+Kalevi Aho ||| 78
+Philip Glass ||| 70
+Krzysztof Penderecki ||| 67
+Bohuslav Martinů ||| 65
+Frank Martin ||| 65
+Olivier Messiaen ||| 65
+Pavel Haas ||| 62
+John Adams ||| 55
+James MacMillan ||| 52
+Frank Zappa ||| 44
+Jean-Baptiste Lully ||| 43
+Antonín Dvořák ||| 42
+Edgard Varèse ||| 42
+Erkki-Sven Tüür ||| 40
+Karol Szymanowski ||| 40
+Giovanni Battista Pergolesi ||| 38
+Leoš Janáček ||| 38
+Charles Wuorinen ||| 37
+Alan Hovhaness ||| 36
+Sally Beamish ||| 36
+Morton Feldman ||| 35
+Peter Sculthorpe ||| 35
+European Chaos String Quintet ||| 34
+Luc Ferrari ||| 34
+Jukka Tiensuu ||| 32
+Marin Marais ||| 31
+Michael Tippett ||| 31
+Giacinto Scelsi ||| 30
+Darius Milhaud ||| 29
+Heinrich Ignaz Franz von Biber ||| 26
+Ernst Krenek ||| 24
+Karlheinz Stockhausen ||| 23
+## playcount: 4587

@@ -1,0 +1,51 @@
+Foo Fighters ||| 4521
+Nirvana ||| 1818
+Crashdïet ||| 1694
+Led Zeppelin ||| 1498
+Red Hot Chili Peppers ||| 1387
+Metallica ||| 1314
+AC/DC ||| 1114
+The Runaways ||| 1063
+Alice in Chains ||| 1004
+Pearl Jam ||| 995
+Black Sabbath ||| 905
+Oasis ||| 858
+Kiss ||| 854
+Vains of Jenna ||| 821
+Jack Johnson ||| 742
+Joan Jett and the Blackhearts ||| 722
+Aerosmith ||| 643
+Adele ||| 636
+Ozzy Osbourne ||| 617
+McFly ||| 553
+Bon Jovi ||| 530
+Queen ||| 508
+Queens of the Stone Age ||| 494
+Green Day ||| 472
+Audioslave ||| 471
+The Beatles ||| 467
+Guns N' Roses ||| 465
+Lady Gaga ||| 461
+The Rolling Stones ||| 433
+Whitesnake ||| 432
+The Strokes ||| 414
+Scorpions ||| 394
+Engenheiros Do Hawaii ||| 356
+Muse ||| 356
+The Smiths ||| 353
+David Bowie ||| 341
+Joy Division ||| 326
+Ramones ||| 322
+Pink Floyd ||| 313
+Soundgarden ||| 312
+Vespas Mandarinas ||| 312
+Johnny Cash ||| 302
+Avenged Sevenfold ||| 286
+Legião Urbana ||| 286
+Sex Pistols ||| 284
+Paramore ||| 275
+Chris Shiflett & The Dead Peasants ||| 274
+Them Crooked Vultures ||| 272
+Coldplay ||| 268
+Eddie Vedder ||| 241
+## playcount: 34779

@@ -1,0 +1,51 @@
+Van Halen ||| 536
+The Monkees ||| 307
+John Lennon ||| 239
+Usher ||| 211
+Aerosmith ||| 154
+Stevie Nicks ||| 139
+Julian Lennon ||| 138
+Matchbox Twenty ||| 135
+Fleetwood Mac ||| 130
+Def Leppard ||| 128
+The Beatles ||| 109
+Michael Jackson ||| 102
+Tom Petty and The Heartbreakers ||| 98
+David Lee Roth ||| 96
+Mariah Carey ||| 96
+Sammy Hagar ||| 95
+Billy Squier ||| 90
+Journey ||| 82
+Nick Lachey ||| 82
+Bread ||| 73
+Traveling Wilburys ||| 72
+Bay City Rollers ||| 71
+Carpenters ||| 68
+Cher ||| 68
+Wild Cherry ||| 67
+.38 Special ||| 66
+Louis Armstrong ||| 65
+Bon Jovi ||| 64
+Edison Lighthouse ||| 60
+Third Eye Blind ||| 57
+Bee Gees ||| 56
+KC and The Sunshine Band ||| 55
+Seals & Crofts ||| 55
+ABBA ||| 52
+Sonny & Cher ||| 52
+The Cars ||| 51
+The Jackson 5 ||| 51
+U2 ||| 51
+Paula Abdul ||| 49
+Savage Garden ||| 48
+The Wallflowers ||| 48
+Guns N' Roses ||| 47
+Lionel Richie ||| 47
+Steve Perry ||| 47
+Amy Winehouse ||| 46
+Christina Aguilera ||| 46
+The Bangles ||| 46
+George Harrison ||| 45
+Nazareth ||| 45
+Simple Minds ||| 45
+## playcount: 4680

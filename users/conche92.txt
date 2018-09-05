@@ -1,0 +1,51 @@
+Metallica ||| 4916
+Foo Fighters ||| 2181
+Radiohead ||| 1517
+Opeth ||| 1420
+Megadeth ||| 1255
+Nirvana ||| 1216
+Pearl Jam ||| 1112
+Alice in Chains ||| 1088
+Dream Theater ||| 1076
+Iron Maiden ||| 1019
+Pink Floyd ||| 824
+Avenged Sevenfold ||| 766
+Anathema ||| 729
+Testament ||| 711
+Pantera ||| 696
+Días de Septiembre ||| 692
+Coldplay ||| 644
+Maná ||| 640
+Soda Stereo ||| 609
+Incubus ||| 598
+Slipknot ||| 593
+Caramelos de Cianuro ||| 586
+Staind ||| 575
+Slayer ||| 568
+Lamb of God ||| 563
+Led Zeppelin ||| 559
+Porcupine Tree ||| 558
+Anthrax ||| 557
+Moby ||| 542
+Daughtry ||| 539
+Muse ||| 527
+VINILOVERSUS ||| 525
+Alter Bridge ||| 521
+AC/DC ||| 505
+Linkin Park ||| 486
+Black Sabbath ||| 473
+blink-182 ||| 466
+System of a Down ||| 457
+[unknown] ||| 456
+Judas Priest ||| 418
+The Beatles ||| 418
+Red Hot Chili Peppers ||| 407
+Animas Negras ||| 395
+Apocalyptica ||| 365
+Arctic Monkeys ||| 365
+Trivium ||| 364
+Scorpions ||| 358
+Arcade Fire ||| 327
+The National ||| 325
+resaca ||| 310
+## playcount: 37817

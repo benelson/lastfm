@@ -1,0 +1,51 @@
+Rihanna ||| 21888
+Britney Spears ||| 10173
+Beyoncé ||| 9208
+Marina & the Diamonds ||| 7741
+Lady Gaga ||| 6512
+Nicki Minaj ||| 6434
+Madonna ||| 6306
+Ariana Grande ||| 6282
+Katy Perry ||| 6243
+Taylor Swift ||| 5584
+Charli XCX ||| 5501
+Tove Lo ||| 5429
+Fifth Harmony ||| 5272
+Azealia Banks ||| 4887
+Major Lazer ||| 4883
+Lana Del Rey ||| 4560
+Banks ||| 4506
+Avril Lavigne ||| 4493
+Ellie Goulding ||| 4138
+M.I.A. ||| 3625
+Sia ||| 3575
+Anitta ||| 3567
+Foxes ||| 3451
+Halsey ||| 3399
+Tinashe ||| 3263
+Jessie J ||| 3063
+Sky Ferreira ||| 2946
+Florence + the Machine ||| 2895
+Natalia Kills ||| 2861
+Kylie Minogue ||| 2857
+AlunaGeorge ||| 2843
+Selena Gomez ||| 2784
+Grimes ||| 2724
+Melanie Martinez ||| 2691
+Iggy Azalea ||| 2648
+Christina Aguilera ||| 2621
+Miley Cyrus ||| 2583
+Ludmilla ||| 2551
+Little Mix ||| 2523
+Calvin Harris ||| 2408
+Allie X ||| 2332
+Pabllo Vittar ||| 2288
+Ke$ha ||| 2178
+Elliphant ||| 2084
+Dua Lipa ||| 2075
+Lorde ||| 2030
+Fergie ||| 1925
+MØ ||| 1849
+Demi Lovato ||| 1822
+Jennifer Lopez ||| 1719
+## playcount: 212220

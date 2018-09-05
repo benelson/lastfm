@@ -1,0 +1,51 @@
+Bob Dylan ||| 7006
+The Beatles ||| 1410
+The Rolling Stones ||| 1343
+Devendra Banhart ||| 897
+The Brian Jonestown Massacre ||| 801
+The Who ||| 721
+Johnny Cash ||| 693
+Jack Kerouac ||| 674
+Grateful Dead ||| 561
+Cat Stevens ||| 534
+Simon & Garfunkel ||| 515
+Jimi Hendrix ||| 487
+Pink Floyd ||| 473
+Jack Kerouac & Steve Allen ||| 379
+Led Zeppelin ||| 368
+Sufjan Stevens ||| 329
+Sonic Youth ||| 319
+Radiohead ||| 312
+Creedence Clearwater Revival ||| 276
+The Doors ||| 266
+David Bowie ||| 230
+Islands ||| 228
+Pyotr Ilyich Tchaikovsky ||| 226
+The Jimi Hendrix Experience ||| 221
+Air ||| 214
+The Velvet Underground ||| 207
+Miles Davis ||| 202
+Bright Eyes ||| 195
+Phish ||| 184
+Indochine ||| 161
+Neil Young ||| 157
+Pavement ||| 144
+Elliott Smith ||| 135
+Joan Baez ||| 126
+Mark Mothersbaugh ||| 121
+Beck ||| 120
+The Books ||| 117
+Pixies ||| 107
+Black Rebel Motorcycle Club ||| 101
+Leonard Cohen ||| 92
+Belle and Sebastian ||| 83
+Peter, Paul & Mary ||| 83
+Neutral Milk Hotel ||| 78
+Nirvana ||| 78
+The Flaming Lips ||| 76
+Donovan ||| 73
+Two Gallants ||| 72
+Nine Inch Nails ||| 71
+Metric ||| 70
+The White Stripes ||| 68
+## playcount: 22404

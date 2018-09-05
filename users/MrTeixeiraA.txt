@@ -1,0 +1,51 @@
+Iron Maiden ||| 939
+ZZ Top ||| 920
+AC/DC ||| 845
+Megadeth ||| 676
+Metallica ||| 505
+Savatage ||| 435
+Dio ||| 423
+Slayer ||| 344
+Bon Jovi ||| 335
+Scorpions ||| 308
+Eluveitie ||| 256
+Van Halen ||| 255
+Disturbed ||| 216
+ASIAN KUNG-FU GENERATION ||| 213
+Dream Theater ||| 196
+Pantera ||| 188
+Twisted Sister ||| 174
+Nazareth ||| 141
+Tenacious D ||| 130
+Joe Satriani ||| 109
+Shadows Fall ||| 101
+David Bowie & Stevie Ray Vaughan ||| 87
+Jimi Hendrix ||| 87
+Rotting Christ ||| 72
+Led Zeppelin ||| 60
+Killswitch Engage ||| 58
+Cacophony ||| 57
+Northern Kings ||| 57
+Aerosmith ||| 51
+Raul Seixas ||| 47
+The Jimi Hendrix Experience ||| 46
+Gregory and the Hawk ||| 43
+Massacration ||| 33
+Black Sabbath ||| 27
+The Scorpions ||| 27
+Arch Enemy ||| 25
+Nevermore ||| 22
+Red Hot Chili Peppers ||| 19
+Legião Urbana ||| 18
+Nirvana ||| 14
+War ||| 11
+Alice Cooper ||| 10
+Bob Dylan ||| 9
+Rick Derringer ||| 7
+Sinergy ||| 7
+Guns N' Roses ||| 6
+Ozzy Osbourne ||| 6
+Deep Purple ||| 5
+Kiss ||| 5
+Ünloco ||| 5
+## playcount: 8630

@@ -1,0 +1,51 @@
+System of a Down ||| 27886
+Queens of the Stone Age ||| 20710
+Slayer ||| 18236
+Black Sabbath ||| 17639
+Weezer ||| 7642
+Desert Sessions ||| 6558
+Sepultura ||| 6437
+Metallica ||| 6123
+Deicide ||| 5877
+Pantera ||| 5599
+Rage Against the Machine ||| 5547
+Deftones ||| 5494
+Nine Inch Nails ||| 4960
+Every Time I Die ||| 4911
+Eagles of Death Metal ||| 4597
+Nirvana ||| 4176
+Motörhead ||| 4120
+Refused ||| 3803
+Beastie Boys ||| 3619
+Goldie Lookin' Chain ||| 3515
+Skindred ||| 3370
+Plan B ||| 3237
+Alkaline Trio ||| 3058
+Dizzee Rascal ||| 2932
+Lamb of God ||| 2560
+Gojira ||| 2555
+The White Stripes ||| 2518
+Bronx ||| 2207
+The Streets ||| 2205
+Faith No More ||| 2170
+"Weird Al" Yankovic ||| 2143
+Kyuss ||| 2126
+The Bronx ||| 1813
+Scars on Broadway ||| 1806
+Muse ||| 1793
+Tyler, the Creator ||| 1740
+The Dillinger Escape Plan ||| 1672
+The Offspring ||| 1591
+Nine Black Alps ||| 1572
+Probot ||| 1558
+Korn ||| 1536
+Fun Lovin' Criminals ||| 1465
+Jethro Tull ||| 1421
+Mastodon ||| 1331
+Cancer Bats ||| 1293
+Street Sweeper Social Club ||| 1090
+Them Crooked Vultures ||| 1039
+The Beatles ||| 1013
+Green Day ||| 907
+The Lonely Island ||| 879
+## playcount: 224049

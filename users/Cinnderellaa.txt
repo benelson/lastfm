@@ -1,0 +1,51 @@
+Johann Sebastian Bach ||| 2201
+Wolfgang Amadeus Mozart ||| 2121
+The Beatles ||| 2094
+Björk ||| 1419
+Bob Dylan ||| 1285
+João Gilberto ||| 1060
+Sufjan Stevens ||| 1023
+Erik Satie ||| 1005
+Mac DeMarco ||| 976
+Kendrick Lamar ||| 907
+Drake ||| 897
+Radiohead ||| 760
+Blood Orange ||| 719
+The Smiths ||| 662
+Grimes ||| 594
+Aphex Twin ||| 573
+The Weeknd ||| 540
+Antônio Carlos Jobim ||| 522
+Ludwig van Beethoven ||| 485
+FKA twigs ||| 439
+Cat Power ||| 428
+Frédéric Chopin ||| 404
+Miles Davis ||| 387
+Elysian Fields ||| 385
+Ludovico Einaudi ||| 377
+Ariel Pink ||| 363
+Depeche Mode ||| 341
+Pixies ||| 323
+久石譲 ||| 304
+Antonio Vivaldi ||| 296
+Lana Del Rey ||| 296
+The xx ||| 288
+Solange ||| 276
+Edvard Grieg ||| 261
+Stevie Wonder ||| 253
+Visible Cloaks ||| 248
+Grouper ||| 240
+Daft Punk ||| 230
+Kelela ||| 230
+Fiona Apple ||| 224
+Vashti Bunyan ||| 222
+SZA ||| 217
+Frank Ocean ||| 214
+The Dave Brubeck Quartet ||| 210
+Megadeth ||| 205
+Kali Uchis ||| 200
+Philip Glass ||| 199
+The Cure ||| 194
+Marvin Gaye ||| 192
+PJ Harvey ||| 191
+## playcount: 28480

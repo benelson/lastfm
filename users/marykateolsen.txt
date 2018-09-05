@@ -1,0 +1,51 @@
+Maroon 5 ||| 2048
+John Mayer ||| 2002
+Hanson ||| 1353
+The Fray ||| 736
+Panic! at the Disco ||| 720
+Justin Timberlake ||| 496
+Sheryl Crow ||| 385
+Jason Mraz ||| 293
+The All-American Rejects ||| 293
+John Legend ||| 288
+Rascal Flatts ||| 286
+Rob Thomas ||| 243
+Big & Rich ||| 220
+Nelly Furtado ||| 211
+Cobra Starship ||| 196
+Keith Urban ||| 192
+The Veronicas ||| 190
+KT Tunstall ||| 181
+Hellogoodbye ||| 180
+Fergie ||| 178
+Boy Kill Boy ||| 176
+Ashlee Simpson ||| 175
+Fall Out Boy ||| 174
+Gwen Stefani ||| 174
+The Pipettes ||| 163
+Taylor Hicks ||| 162
+Styx ||| 153
+Cartel ||| 138
+Kelly Clarkson ||| 138
+Britney Spears ||| 134
+JoJo ||| 129
+OK Go ||| 128
+Ben Lee ||| 127
+No Doubt ||| 123
+The Wreckers ||| 122
+The Pillows ||| 119
+The Pussycat Dolls ||| 116
+Beyoncé ||| 110
+Regina Spektor ||| 107
+The Hush Sound ||| 106
+Green Day ||| 103
+Snow Patrol ||| 101
+OutKast ||| 98
+Muse ||| 92
+John Mayer Trio ||| 91
+Keane ||| 91
+Paolo Nutini ||| 90
+Destiny's Child ||| 89
+Paris Hilton ||| 89
+Michelle Branch ||| 88
+## playcount: 14397

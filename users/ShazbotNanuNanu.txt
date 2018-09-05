@@ -1,0 +1,51 @@
+AC/DC ||| 12500
+Metallica ||| 8871
+Megadeth ||| 7926
+Buckethead ||| 4487
+Kiss ||| 2916
+Alice Cooper ||| 2294
+Slayer ||| 1787
+Airbourne ||| 1514
+Def Leppard ||| 1499
+Exodus ||| 1482
+Tenacious D ||| 1441
+Ozzy Osbourne ||| 1354
+Iron Maiden ||| 1323
+Judas Priest ||| 1304
+Manowar ||| 1167
+Anthrax ||| 1119
+Howard Shore ||| 1039
+Vazelina Bilopphøggers ||| 1004
+Elvis Presley ||| 984
+Aerosmith ||| 974
+Cornbugs ||| 964
+System of a Down ||| 961
+Black Sabbath ||| 948
+Queen ||| 766
+Twisted Sister ||| 757
+Bjørn Hellfuck ||| 694
+Yngwie Malmsteen ||| 694
+Tim Minchin ||| 660
+Avenged Sevenfold ||| 599
+Glittertind ||| 534
+Ghost ||| 525
+Finntroll ||| 507
+Five Finger Death Punch ||| 470
+Lordi ||| 461
+"Weird Al" Yankovic ||| 456
+Rainbow ||| 433
+HammerFall ||| 419
+Geordie ||| 410
+Tommy Emmanuel ||| 406
+Motörhead ||| 384
+Jon Lajoie ||| 370
+The Answer ||| 362
+Jimi Hendrix ||| 342
+Guns N' Roses ||| 334
+Backstreet Girls ||| 325
+Ole Ivars ||| 319
+Brian Johnson & Geordie ||| 306
+Jimquisition ||| 301
+Slipknot ||| 290
+Black Label Society ||| 281
+## playcount: 72263

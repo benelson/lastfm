@@ -1,0 +1,51 @@
+Louis Armstrong ||| 1465
+Elvis Presley ||| 1201
+Frank Sinatra ||| 724
+Don Williams ||| 628
+Judas Priest ||| 508
+Hawkwind ||| 439
+The Clash ||| 388
+The Hollies ||| 384
+Joni Mitchell ||| 368
+Journey ||| 332
+Blue Öyster Cult ||| 330
+Mike Oldfield ||| 287
+Elton John ||| 255
+Luther Vandross ||| 251
+AC/DC ||| 223
+Gary Moore ||| 221
+David Bowie ||| 211
+Aaron Neville ||| 193
+Cypress Hill ||| 192
+Cliff Richard ||| 184
+Dusty Springfield ||| 183
+Ben Folds ||| 180
+Diana Krall ||| 179
+ABBA ||| 164
+Eric Clapton ||| 153
+Glee Cast ||| 149
+Dixie Chicks ||| 148
+Aerosmith ||| 147
+Chris Rea ||| 145
+Curtis Mayfield ||| 142
+10cc ||| 131
+Eva Cassidy ||| 127
+ABC ||| 126
+Iron Maiden ||| 121
+Motörhead ||| 121
+James Last ||| 118
+Depeche Mode ||| 117
+Mary J. Blige ||| 114
+Eels ||| 113
+3 Doors Down ||| 111
+Pet Shop Boys ||| 110
+The Manhattan Transfer ||| 110
+The Beatles ||| 109
+Earth, Wind & Fire ||| 107
+Madonna ||| 107
+Dolly Parton ||| 106
+The Four Tops ||| 105
+Coldplay ||| 103
+Dr. Feelgood ||| 102
+Frank Zappa ||| 102
+## playcount: 12634

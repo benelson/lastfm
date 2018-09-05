@@ -1,0 +1,51 @@
+Red ||| 5471
+A Day to Remember ||| 3672
+Foo Fighters ||| 2711
+Saving Abel ||| 1862
+Paramore ||| 1622
+Sick Puppies ||| 1336
+Francesca Battistelli ||| 1297
+3 Doors Down ||| 1200
+Oasis ||| 1111
+Red Hot Chili Peppers ||| 1088
+The Strokes ||| 1088
+Evanescence ||| 1079
+The Fray ||| 1027
+Skillet ||| 1008
+Shinedown ||| 959
+Coldplay ||| 874
+Creed ||| 868
+Muse ||| 763
+The Beatles ||| 736
+Avenged Sevenfold ||| 687
+Daughtry ||| 685
+The Killers ||| 683
+Theory of a Deadman ||| 682
+Papa Roach ||| 663
+Kings of Leon ||| 639
+Thousand Foot Krutch ||| 624
+Arctic Monkeys ||| 615
+Audioslave ||| 615
+Rise Against ||| 590
+30 Seconds to Mars ||| 555
+Lifehouse ||| 544
+Chevelle ||| 528
+Death Cab for Cutie ||| 526
+Stereophonics ||| 515
+Bullet for My Valentine ||| 507
+AC/DC ||| 496
+Lostprophets ||| 484
+Three Days Grace ||| 482
+Sum 41 ||| 456
+Breaking Benjamin ||| 448
+Switchfoot ||| 429
+Finger Eleven ||| 420
+Building 429 ||| 411
+OneRepublic ||| 410
+Escape the Fate ||| 403
+Crossfade ||| 397
+The Pretty Reckless ||| 394
+John Mayer ||| 387
+Nickelback ||| 387
+Metallica ||| 381
+## playcount: 45815

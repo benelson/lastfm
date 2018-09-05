@@ -1,0 +1,51 @@
+Joni Mitchell ||| 5005
+The Beatles ||| 4000
+Frank Sinatra ||| 3557
+Weather Report ||| 3438
+Gustav Leonhardt ||| 3432
+Miles Davis ||| 3371
+Robert Wyatt ||| 3350
+Led Zeppelin ||| 2980
+Genesis ||| 2979
+Pink Floyd ||| 2694
+Chick Corea ||| 2611
+Frank Zappa ||| 2526
+Deep Purple ||| 2515
+Talking Heads ||| 2495
+Field Music ||| 2445
+Gentle Giant ||| 2380
+Oregon ||| 2378
+The Rolling Stones ||| 2171
+The Beach Boys ||| 2132
+Magma ||| 2126
+The Blue Nile ||| 1999
+Yes ||| 1993
+Eagles ||| 1990
+King Crimson ||| 1945
+10cc ||| 1766
+Pierre Hantaï ||| 1753
+David Byrne ||| 1740
+Soft Machine ||| 1674
+Ars Nova Ensemble ||| 1604
+Jaco Pastorius ||| 1584
+John Coltrane ||| 1580
+Philip Glass ||| 1524
+Hopkinson Smith ||| 1514
+Fleet Foxes ||| 1500
+Sarah Vaughan ||| 1461
+John Cale ||| 1429
+The Who ||| 1418
+Ensemble Ambrosius ||| 1402
+The Police ||| 1379
+Bob Dylan ||| 1364
+Herbie Hancock ||| 1363
+Van Halen ||| 1298
+Thelonious Monk ||| 1266
+Bach-Collegium Stuttgart ||| 1247
+Queen ||| 1239
+Rush ||| 1230
+The Mothers of Invention ||| 1198
+Ahmad Jamal ||| 1181
+Townes Van Zandt ||| 1172
+Steely Dan ||| 1158
+## playcount: 103556

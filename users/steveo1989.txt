@@ -1,0 +1,51 @@
+The Beatles ||| 6942
+Led Zeppelin ||| 1638
+Paul McCartney & Wings ||| 1026
+The Doors ||| 1005
+The Jimi Hendrix Experience ||| 851
+Red Hot Chili Peppers ||| 800
+Paul McCartney ||| 792
+Creedence Clearwater Revival ||| 638
+Electric Light Orchestra ||| 572
+T. Rex ||| 540
+The Presidents of the United States of America ||| 533
+Pink Floyd ||| 449
+Paul & Linda McCartney ||| 442
+The Rolling Stones ||| 438
+Weezer ||| 385
+The Clash ||| 364
+The Kinks ||| 356
+Queen ||| 342
+AC/DC ||| 341
+The Who ||| 304
+The Black Keys ||| 290
+Stone Temple Pilots ||| 282
+Foo Fighters ||| 276
+Cake ||| 272
+The Animals ||| 269
+ZZ Top ||| 268
+Toadies ||| 241
+Black Sabbath ||| 229
+Otis Redding ||| 218
+Nirvana ||| 206
+John Lennon ||| 202
+Rage Against the Machine ||| 191
+Wolfgang Amadeus Mozart ||| 182
+OutKast ||| 178
+Third Eye Blind ||| 176
+Incubus ||| 171
+Jimi Hendrix ||| 167
+Pearl Jam ||| 164
+The Offspring ||| 159
+Deep Purple ||| 156
+Soundgarden ||| 153
+Alice in Chains ||| 151
+Boston ||| 148
+The Smashing Pumpkins ||| 146
+Beastie Boys ||| 145
+Elvis Presley ||| 139
+Green Day ||| 137
+Van Halen ||| 136
+Bob Marley & The Wailers ||| 134
+Rush ||| 130
+## playcount: 24474

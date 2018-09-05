@@ -1,0 +1,51 @@
+The Beatles ||| 142
+Queen ||| 109
+The Rolling Stones ||| 102
+Oasis ||| 82
+Aerosmith ||| 67
+Led Zeppelin ||| 63
+Fall Out Boy ||| 50
+Muse ||| 42
+Linkin Park ||| 38
+Arctic Monkeys ||| 27
+Guns N' Roses ||| 27
+Keane ||| 25
+blink-182 ||| 24
+Bloc Party ||| 23
+The Subways ||| 22
+30 Seconds to Mars ||| 17
+Foo Fighters ||| 15
+Silverchair ||| 14
+The Cure ||| 14
+AC/DC ||| 12
+Red Hot Chili Peppers ||| 12
+The Hives ||| 12
+My Chemical Romance ||| 11
+Wolfmother ||| 10
+The Killers ||| 9
+The Red Jumpsuit Apparatus ||| 9
+Captain Oats ||| 8
+John Mayer ||| 8
+The Fray ||| 8
+Avenged Sevenfold ||| 7
+Snow Patrol ||| 7
+The Strokes ||| 7
+Nirvana ||| 6
+Michael Jackson ||| 5
+The Crowns ||| 5
+The Shadows of Knight ||| 3
+The Sonics ||| 3
+The Standells ||| 3
+3OH3 Feat Katy Perry ||| 2
+Francesca - Toff - Franky ||| 2
+Miley Cyrus ||| 2
+The Amboy Dukes ||| 2
+The Barbarians ||| 2
+The Leaves ||| 2
+The Mojo Men ||| 2
+The Strangeloves ||| 2
+We the People ||| 2
+13th Floor Elevators ||| 1
+Black Eyed Peas ||| 1
+Captain Beefheart & His Magic Band ||| 1
+## playcount: 1069

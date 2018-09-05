@@ -1,0 +1,51 @@
+Bob Dylan ||| 444
+David Bowie ||| 390
+Aerosmith ||| 378
+Raul Seixas ||| 374
+B.B. King ||| 372
+Titãs ||| 371
+Miles Davis ||| 369
+The Rolling Stones ||| 354
+Arctic Monkeys ||| 340
+Gilberto Gil ||| 334
+The Strokes ||| 328
+Pink Floyd ||| 322
+John Mayer ||| 321
+Mac DeMarco ||| 318
+Serú Girán ||| 314
+Grand Funk Railroad ||| 311
+Queens of the Stone Age ||| 308
+Milton Nascimento ||| 303
+Elvis Presley ||| 302
+Fito Páez ||| 293
+Stevie Wonder ||| 285
+Steely Dan ||| 281
+Julieta Venegas ||| 280
+Oasis ||| 278
+Martinho Da Vila ||| 274
+Matanza ||| 270
+Joaquín Sabina ||| 268
+Los Iracundos ||| 267
+Frank Sinatra ||| 266
+Chitãozinho & Xororó ||| 265
+Frank Zappa ||| 264
+Los Hermanos ||| 260
+Led Zeppelin ||| 248
+Dorival Caymmi ||| 247
+The Smiths ||| 245
+Alceu Valença ||| 239
+Antônio Carlos Jobim ||| 226
+RAÇA NEGRA ||| 226
+O Terno ||| 221
+Patricio Rey y sus Redonditos de Ricota ||| 219
+The Police ||| 210
+Pappo's Blues ||| 208
+Gal Costa ||| 205
+Johnny Cash ||| 204
+Radiohead ||| 198
+Lana Del Rey ||| 188
+Fernanda Abreu ||| 186
+Arcade Fire ||| 183
+Rionegro & Solimões ||| 183
+Dave Matthews Band ||| 181
+## playcount: 13921

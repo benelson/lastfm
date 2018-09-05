@@ -1,0 +1,51 @@
+Coldplay ||| 5954
+Led Zeppelin ||| 2296
+The National ||| 1845
+Muse ||| 1732
+The Killers ||| 1724
+Travis ||| 1692
+The Doors ||| 1441
+The Beatles ||| 1408
+Arctic Monkeys ||| 1200
+Pink Floyd ||| 1151
+Nirvana ||| 1132
+Mando Diao ||| 1012
+Jimi Hendrix ||| 1010
+MGMT ||| 924
+Pearl Jam ||| 879
+Faith No More ||| 874
+Morphine ||| 855
+Pulp ||| 827
+Leonard Cohen ||| 696
+Jack Johnson ||| 681
+Air ||| 673
+Kasabian ||| 662
+Kings of Convenience ||| 653
+The Stone Roses ||| 633
+Alice in Chains ||| 601
+John Frusciante ||| 589
+Oasis ||| 588
+Arcade Fire ||| 587
+Belle and Sebastian ||| 583
+Placebo ||| 568
+The Raconteurs ||| 567
+Grateful Dead ||| 556
+Perper ||| 555
+2Pac ||| 553
+Keane ||| 547
+Darko Rundek ||| 541
+Darkwood Dub ||| 534
+Tame Impala ||| 523
+The Black Keys ||| 516
+Kings of Leon ||| 468
+Block Out ||| 460
+Foo Fighters ||| 455
+Blue October ||| 447
+Jeff Buckley ||| 444
+Gorillaz ||| 431
+Red Hot Chili Peppers ||| 411
+Radiohead ||| 405
+The Smiths ||| 403
+The Kooks ||| 402
+Cat Power ||| 400
+## playcount: 45088

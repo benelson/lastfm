@@ -1,0 +1,51 @@
+Chuck Berry ||| 9
+Bill Haley & His Comets ||| 5
+Eddie Cochran ||| 4
+Fats Domino ||| 4
+Jerry Lee Lewis ||| 4
+Bill Haley ||| 3
+Buddy Holly ||| 3
+Elvis Presley ||| 3
+Gogol Bordello ||| 3
+The Rolling Stones ||| 3
+Bo Diddley ||| 2
+Carl Perkins ||| 2
+Emir Kusturica & The No Smoking Orchestra ||| 2
+Gene Vincent ||| 2
+Little Richard ||| 2
+Placebo ||| 2
+Roy Orbison ||| 2
+The Animals ||| 2
+The Everly Brothers ||| 2
+Wanda Jackson ||| 2
+Arcade Fire ||| 1
+Balkan Beat Box ||| 1
+Beck ||| 1
+Billy Lee Riley ||| 1
+Blur ||| 1
+Carl Mann ||| 1
+Chubby Checker ||| 1
+Creedence Clearwater Revival ||| 1
+Duane Eddy ||| 1
+Elbow ||| 1
+Eric Clapton ||| 1
+Gene Vincent & His Blue Caps ||| 1
+George Thorogood ||| 1
+Godsmack ||| 1
+J.U.F. ||| 1
+Janis Martin ||| 1
+Johnny Burnette ||| 1
+Johnny Kidd & The Pirates ||| 1
+Kasabian ||| 1
+Kultur Shock ||| 1
+Muse ||| 1
+Pixies ||| 1
+PJ Harvey ||| 1
+R.E.M. ||| 1
+Radiohead ||| 1
+Ricky Nelson ||| 1
+Roy Orbison & Teen Kings ||| 1
+Scars on Broadway ||| 1
+Slipknot ||| 1
+Sonic Youth ||| 1
+## playcount: 91

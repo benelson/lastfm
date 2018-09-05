@@ -1,0 +1,51 @@
+BT ||| 5737
+Bright Eyes ||| 4961
+Death Cab for Cutie ||| 3975
+The Beatles ||| 2404
+Jack Johnson ||| 1637
+Elliott Smith ||| 1478
+Kanye West ||| 1462
+Jay-Z ||| 1227
+Coldplay ||| 1076
+Bon Iver ||| 1039
+Gramatik ||| 1002
+Eminem ||| 925
+Tiësto ||| 871
+Keith and The Girl ||| 815
+Conor Oberst ||| 733
+Moby ||| 666
+Lil' Wayne ||| 652
+deadmau5 ||| 645
+Dashboard Confessional ||| 638
+Ben Folds ||| 614
+Daft Punk ||| 593
+Rick Ross ||| 575
+The Killers ||| 549
+The Chemical Brothers ||| 534
+Sublime ||| 522
+Gorillaz ||| 504
+Ludacris ||| 480
+Phoenix ||| 456
+Armin van Buuren ||| 452
+Justice ||| 451
+Snow Patrol ||| 411
+Kaskade ||| 383
+Taking Back Sunday ||| 379
+Bassnectar ||| 343
+Conor Oberst and the Mystic Valley Band ||| 332
+Skrillex ||| 328
+Band of Horses ||| 293
+Creedence Clearwater Revival ||| 285
+David Bowie ||| 279
+Guns N' Roses ||| 278
+Red Hot Chili Peppers ||| 276
+The Notorious B.I.G. ||| 275
+Foo Fighters ||| 270
+The Lonely Island ||| 259
+Bob Dylan ||| 257
+MGMT ||| 257
+Modest Mouse ||| 254
+Damien Rice ||| 252
+Common ||| 245
+The Prodigy ||| 240
+## playcount: 43569

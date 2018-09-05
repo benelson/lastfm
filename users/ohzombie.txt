@@ -1,0 +1,51 @@
+RBD ||| 4431
+Dulce María ||| 1900
+Anahí ||| 1095
+Christian Chávez ||| 1018
+Maite Perroni ||| 993
+Charlie Brown JR. ||| 939
+Christopher von Uckermann ||| 706
+A Day to Remember ||| 698
+The Pretty Reckless ||| 698
+Guns N' Roses ||| 592
+Red Hot Chili Peppers ||| 424
+Skank ||| 410
+Avenged Sevenfold ||| 285
+Arctic Monkeys ||| 250
+Evanescence ||| 224
+Ramirez ||| 196
+Foster the People ||| 137
+Drake ||| 99
+Beyoncé ||| 96
+Fleetwood Mac ||| 86
+Nirvana ||| 80
+Rihanna ||| 77
+3 Doors Down ||| 60
+AC/DC ||| 57
+Four Year Strong ||| 57
+Belinda ||| 55
+Charli XCX ||| 54
+The Strokes ||| 51
+Kudai ||| 43
+Clarice Falcão ||| 42
+Halsey ||| 42
+<Artista Desconhecido> ||| 41
+Lorde ||| 41
+Raimundos ||| 41
+Maroon 5 ||| 38
+Calvin Harris ||| 36
+Linkin Park ||| 34
+Iggy Azalea ||| 32
+Major Lazer ||| 32
+Joy Division ||| 31
+Los Hermanos ||| 29
+Anitta ||| 28
+Led Zeppelin ||| 27
+Projota ||| 27
+Alok ||| 26
+Ed Sheeran ||| 26
+Nando Reis ||| 26
+Pollo ||| 26
+Criolo ||| 25
+Kelvyn Defoe ||| 25
+## playcount: 16486

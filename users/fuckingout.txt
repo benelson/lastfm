@@ -1,0 +1,10 @@
+Lady Gaga ||| 20
+Beyoncé ||| 2
+Britney Spears ||| 1
+Iggy Azalea ||| 1
+Katy Perry ||| 1
+Madonna ||| 1
+Meghan Trainor ||| 1
+Nicki Minaj ||| 1
+Rihanna ||| 1
+## playcount: 29

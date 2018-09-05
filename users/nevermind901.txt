@@ -1,0 +1,51 @@
+Nirvana ||| 2797
+Marilyn Manson ||| 2277
+Megadeth ||| 1823
+Alice in Chains ||| 1327
+Pantera ||| 1277
+Black Sabbath ||| 932
+Radiohead ||| 794
+Red Hot Chili Peppers ||| 733
+Korn ||| 617
+Metallica ||| 614
+The Smashing Pumpkins ||| 613
+Guns N' Roses ||| 595
+Nine Inch Nails ||| 561
+Bush ||| 465
+Deftones ||| 464
+Hole ||| 383
+Stone Temple Pilots ||| 382
+Weezer ||| 304
+Mother Love Bone ||| 277
+Skrillex ||| 258
+David Bowie ||| 256
+Slayer ||| 255
+Anthrax ||| 252
+The Doors ||| 224
+Aerosmith ||| 220
+Courtney Love ||| 218
+The Beatles ||| 214
+Skid Row ||| 206
+Incubus ||| 202
+Sonic Youth ||| 196
+Green Day ||| 191
+Dio ||| 184
+Queen ||| 177
+Linkin Park ||| 175
+The Smiths ||| 170
+Pearl Jam ||| 168
+Foo Fighters ||| 167
+Babes in Toyland ||| 162
+Machine Head ||| 162
+Soundgarden ||| 160
+Muse ||| 157
+The Offspring ||| 154
+Creedence Clearwater Revival ||| 151
+The Cure ||| 148
+Breaking Benjamin ||| 144
+The Jimi Hendrix Experience ||| 142
+Elton John ||| 120
+Ozzy Osbourne ||| 115
+Finger Eleven ||| 111
+The Cranberries ||| 111
+## playcount: 22805

@@ -1,0 +1,51 @@
+The Rolling Stones ||| 107
+The Doors ||| 58
+Jimi Hendrix ||| 51
+Lou Reed ||| 49
+The Who ||| 39
+David Bowie ||| 35
+Led Zeppelin ||| 33
+Deep Purple ||| 28
+The Jimi Hendrix Experience ||| 27
+The Velvet Underground ||| 27
+Alice Cooper ||| 25
+The Clash ||| 24
+Eric Clapton ||| 23
+John Lennon ||| 21
+The Kinks ||| 21
+Bruce Springsteen ||| 20
+The Stooges ||| 18
+AC/DC ||| 15
+Iggy Pop ||| 15
+Janis Joplin ||| 15
+The Yardbirds ||| 14
+Chuck Berry ||| 13
+Patti Smith ||| 13
+Creedence Clearwater Revival ||| 11
+Jefferson Airplane ||| 11
+Kiss ||| 11
+Cream ||| 10
+Leonard Cohen ||| 8
+The Animals ||| 8
+The Byrds ||| 8
+Bob Marley ||| 7
+Keith Richards ||| 7
+Lynyrd Skynyrd ||| 7
+Aerosmith ||| 6
+Bob Dylan ||| 6
+Derek and the Dominos ||| 6
+Green Day ||| 6
+The Beatles ||| 6
+Jeff Beck ||| 5
+Ramones ||| 5
+Red Hot Chili Peppers ||| 5
+Johnny Thunders ||| 4
+MC5 ||| 4
+New York Dolls ||| 4
+Pink Floyd ||| 4
+Small Faces ||| 4
+Black Sabbath ||| 3
+Bo Diddley ||| 3
+Buffalo Springfield ||| 3
+Eagles ||| 3
+## playcount: 856

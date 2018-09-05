@@ -1,0 +1,51 @@
+U2 ||| 10710
+Florence + the Machine ||| 8851
+Muse ||| 7385
+Lady Gaga ||| 5648
+Coldplay ||| 5552
+Keane ||| 4575
+Beyoncé ||| 4084
+Katy Perry ||| 3995
+Kylie Minogue ||| 3913
+The Killers ||| 2966
+Radiohead ||| 2914
+Rihanna ||| 2274
+Placebo ||| 2164
+Arctic Monkeys ||| 2129
+Adele ||| 2128
+Nelly Furtado ||| 2115
+Christina Aguilera ||| 2074
+Maroon 5 ||| 2007
+Pixie Lott ||| 1912
+Britney Spears ||| 1892
+Arcade Fire ||| 1868
+Kings of Leon ||| 1836
+Garbage ||| 1822
+Kelly Clarkson ||| 1737
+Madonna ||| 1711
+CHVRCHES ||| 1657
+Paramore ||| 1594
+The xx ||| 1544
+Bloc Party ||| 1354
+Jordin Sparks ||| 1349
+Two Door Cinema Club ||| 1340
+David Guetta ||| 1338
+Lana Del Rey ||| 1331
+Cícero ||| 1325
+The Black Keys ||| 1311
+Sia ||| 1309
+The Fray ||| 1263
+Natalia Kills ||| 1234
+Foo Fighters ||| 1231
+30 Seconds to Mars ||| 1229
+Crystal Castles ||| 1195
+Shakira ||| 1176
+P!nk ||| 1169
+Moby ||| 1159
+The Smashing Pumpkins ||| 1149
+Tove Lo ||| 1145
+Gossip ||| 1141
+Leona Lewis ||| 1140
+Silva ||| 1086
+White Lies ||| 1084
+## playcount: 120115

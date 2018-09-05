@@ -1,0 +1,51 @@
+Annihilator ||| 204
+Deep Purple ||| 194
+Led Zeppelin ||| 189
+W.A.S.P. ||| 189
+Def Leppard ||| 184
+Van Halen ||| 177
+Bon Jovi ||| 157
+Journey ||| 152
+Iron Maiden ||| 150
+U2 ||| 148
+Dire Straits ||| 147
+Whitesnake ||| 147
+The Rolling Stones ||| 134
+Dokken ||| 121
+Judas Priest ||| 121
+Bruce Springsteen ||| 117
+Scorpions ||| 114
+Divlje Jagode ||| 112
+Gary Moore ||| 112
+Aerosmith ||| 111
+Mötley Crüe ||| 111
+Genesis ||| 109
+Metallica ||| 109
+The Beatles ||| 107
+Megadeth ||| 106
+Pink Floyd ||| 101
+Europe ||| 100
+Kyuss ||| 100
+Motörhead ||| 99
+Down ||| 93
+Jimi Hendrix ||| 93
+Queensrÿche ||| 91
+Rainbow ||| 91
+Nuclear Assault ||| 88
+Muse ||| 87
+Pantera ||| 85
+Ozzy Osbourne ||| 84
+XYZ ||| 81
+Dio ||| 78
+Poison ||| 76
+Alice in Chains ||| 75
+Cinderella ||| 75
+Queen ||| 75
+Guns N' Roses ||| 74
+Giant ||| 71
+Skid Row ||| 71
+Creedence Clearwater Revival ||| 68
+Eric Clapton ||| 68
+Opeth ||| 68
+Alice Cooper ||| 67
+## playcount: 5581

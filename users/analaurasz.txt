@@ -1,0 +1,51 @@
+U2 ||| 2292
+Muse ||| 545
+Arctic Monkeys ||| 541
+Charlie Brown JR. ||| 397
+Beyoncé ||| 296
+Nando Reis ||| 287
+Pitty ||| 286
+Coldplay ||| 283
+Moptop ||| 276
+The Killers ||| 271
+Skank ||| 255
+Rihanna ||| 253
+Pearl Jam ||| 239
+Maroon 5 ||| 181
+Bruno Mars ||| 154
+Ana Carolina ||| 151
+Paramore ||| 142
+Vanguart ||| 136
+Led Zeppelin ||| 128
+The Black Keys ||| 124
+Kings of Leon ||| 108
+<Artista Desconhecido> ||| 105
+Kiss ||| 102
+Florence + the Machine ||| 101
+Katy Perry ||| 99
+Charlie Puth ||| 95
+John Mayer ||| 93
+Queens of the Stone Age ||| 92
+Scalene ||| 91
+Natiruts ||| 90
+Titãs ||| 90
+Suricato ||| 89
+Supercombo ||| 88
+Foo Fighters ||| 85
+Rubel ||| 85
+Rita Lee ||| 84
+The Rolling Stones ||| 83
+O Rappa ||| 81
+Marcelo D2 ||| 79
+Red Hot Chili Peppers ||| 75
+Ultraje A Rigor ||| 75
+Wolfmother ||| 74
+The Pretty Reckless ||| 72
+Oasis ||| 71
+The Corrs ||| 71
+Sia ||| 69
+Amy Winehouse ||| 68
+Cachorro Grande ||| 63
+Lenine ||| 61
+No Doubt ||| 60
+## playcount: 9736

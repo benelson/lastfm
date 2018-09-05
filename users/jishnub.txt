@@ -1,0 +1,51 @@
+The Beatles ||| 958
+Pearl Jam ||| 412
+Pink Floyd ||| 285
+Radiohead ||| 257
+Jethro Tull ||| 243
+The Allman Brothers Band ||| 241
+Queen ||| 208
+Bob Dylan ||| 194
+The Black Crowes ||| 178
+Led Zeppelin ||| 167
+Simon & Garfunkel ||| 155
+Iron & Wine ||| 143
+Nick Drake ||| 111
+Cream ||| 103
+System of a Down ||| 89
+Nirvana ||| 85
+Buckethead ||| 82
+The Velvet Underground ||| 80
+Lynyrd Skynyrd ||| 75
+100 Greatest Rock Instrumentals ||| 71
+Neil Young ||| 68
+Guns N' Roses ||| 66
+Outlaws ||| 66
+Wolfgang Amadeus Mozart ||| 63
+Alice in Chains ||| 62
+Creedence Clearwater Revival ||| 62
+Coke Studio ||| 49
+Ennio Morricone ||| 48
+Coldplay ||| 46
+R.E.M. ||| 40
+Chandrabindoo ||| 37
+George Harrison ||| 36
+Explosions in the Sky ||| 33
+Dire Straits ||| 31
+Mohiner Ghoraguli ||| 31
+Cat Stevens ||| 28
+Grateful Dead ||| 28
+Motherjane ||| 28
+A.R. Rahman ||| 27
+Cactus ||| 27
+Deep Purple ||| 27
+Green Day ||| 27
+Metallica ||| 27
+Ozzy Osbourne ||| 26
+Oasis ||| 25
+[unknown] ||| 25
+Iron & Wine & Calexico ||| 24
+Eluveitie ||| 22
+Peter, Paul & Mary ||| 21
+Eric Clapton ||| 19
+## playcount: 5256

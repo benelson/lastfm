@@ -1,0 +1,51 @@
+Muse ||| 13276
+Keane ||| 8096
+Radiohead ||| 7773
+The Killers ||| 4892
+Arctic Monkeys ||| 4664
+Coldplay ||| 4422
+Franz Ferdinand ||| 3797
+Rage Against the Machine ||| 2383
+Snow Patrol ||| 1481
+Foo Fighters ||| 1449
+Red Hot Chili Peppers ||| 1104
+Editors ||| 1092
+Oasis ||| 1077
+System of a Down ||| 949
+Nirvana ||| 948
+Arcade Fire ||| 860
+Two Door Cinema Club ||| 834
+Queen ||| 826
+Depeche Mode ||| 811
+Green Day ||| 759
+Gorillaz ||| 749
+Blur ||| 745
+Royal Blood ||| 742
+Queens of the Stone Age ||| 678
+FFS ||| 658
+White Lies ||| 554
+Linkin Park ||| 553
+Interpol ||| 522
+Eminem ||| 507
+30 Seconds to Mars ||| 488
+Pink Floyd ||| 449
+Pearl Jam ||| 440
+U2 ||| 415
+Bastille ||| 396
+Foster the People ||| 396
+Nothing But Thieves ||| 360
+The All-American Rejects ||| 344
+The National ||| 343
+Acda en de Munnik ||| 342
+Michael Jackson ||| 306
+The Offspring ||| 288
+Rammstein ||| 283
+The Police ||| 278
+Genesis ||| 275
+Madness ||| 271
+Metallica ||| 267
+Lorde ||| 257
+Brandon Flowers ||| 247
+Justice ||| 245
+The Last Shadow Puppets ||| 237
+## playcount: 74128

@@ -1,0 +1,51 @@
+Hladno Pivo ||| 1199
+Rise Against ||| 1139
+Faith No More ||| 619
+Arctic Monkeys ||| 469
+Kings of Leon ||| 344
+Rammstein ||| 320
+Randy Crawford ||| 252
+Jamiroquai ||| 213
+Đorđe Balašević ||| 201
+Erykah Badu ||| 187
+Rage Against the Machine ||| 172
+Metallica ||| 142
+Annie Lennox ||| 125
+Dido ||| 121
+Mary J. Blige ||| 100
+The Kooks ||| 99
+Lily Allen ||| 96
+System of a Down ||| 85
+S.A.R.S. ||| 77
+The Killers ||| 76
+Alanis Morissette ||| 60
+Zaz ||| 56
+Alice in Chains ||| 54
+The Cardigans ||| 51
+The Cranberries ||| 43
+Santana ||| 33
+Sonique ||| 32
+Evanescence ||| 30
+The Rasmus ||| 28
+Sting ||| 26
+Céline Dion ||| 24
+The Offspring ||| 24
+Barry White ||| 23
+Gentleman ||| 23
+The Cure ||| 23
+Cher ||| 22
+Simply Red ||| 21
+Great Expectations ||| 19
+Cyndi Lauper ||| 18
+Faithless ||| 18
+Mike Oldfield ||| 17
+Pastora Soler ||| 17
+Madness ||| 16
+Manu Chao ||| 16
+The Doors ||| 16
+Garbage ||| 14
+Jennifer Paige ||| 14
+No Doubt ||| 14
+Billy Idol ||| 13
+Franz Ferdinand ||| 13
+## playcount: 6814

@@ -1,0 +1,51 @@
+Johnny Cash ||| 1827
+Pantera ||| 1553
+AC/DC ||| 1241
+Matanza ||| 1035
+Motörhead ||| 1003
+Metallica ||| 991
+Slayer ||| 851
+The Doors ||| 809
+Nuclear Assault ||| 730
+Black Sabbath ||| 644
+Rammstein ||| 636
+Megadeth ||| 602
+Velhas Virgens ||| 515
+Black Label Society ||| 454
+Kreator ||| 437
+Led Zeppelin ||| 432
+Testament ||| 367
+Anthrax ||| 346
+Claustrofobia ||| 339
+Sodom ||| 316
+Sepultura ||| 297
+Bob Dylan ||| 283
+Exodus ||| 244
+Raimundos ||| 239
+Chuck Berry ||| 229
+Death ||| 223
+The Beatles ||| 217
+Amy Winehouse ||| 185
+Los Hermanos ||| 183
+Venom ||| 176
+System of a Down ||| 169
+Endstufe ||| 164
+D.R.I. ||| 160
+Down ||| 156
+Pink Floyd ||| 143
+U.D.R. ||| 139
+Overkill ||| 133
+Deep Purple ||| 129
+Janis Joplin ||| 121
+Muqueta Na Oreia ||| 118
+Violator ||| 118
+Bob Marley & The Wailers ||| 117
+Godsmack ||| 112
+Whitesnake ||| 100
+Tankard ||| 92
+Raul Seixas ||| 91
+Sarcófago ||| 86
+Howlin' Wolf ||| 83
+Skull Fist ||| 71
+Zurzir ||| 63
+## playcount: 19769

@@ -1,0 +1,51 @@
+Turisas ||| 11
+Iron Maiden ||| 7
+Motörhead ||| 7
+Blind Guardian ||| 6
+Black Label Society ||| 5
+Slayer ||| 5
+Whitesnake ||| 5
+Aerosmith ||| 4
+Angra ||| 4
+Black Sabbath ||| 4
+Dio ||| 4
+Skid Row ||| 4
+Alice Cooper ||| 3
+Anthrax ||| 3
+Europe ||| 3
+Kiss ||| 3
+Manowar ||| 3
+Megadeth ||| 3
+Poison ||| 3
+Raimundos ||| 3
+Ramones ||| 3
+Sonata Arctica ||| 3
+Tankard ||| 3
+Type O Negative ||| 3
+AC/DC ||| 2
+Dream Theater ||| 2
+Eluveitie ||| 2
+Exodus ||| 2
+Jack White ||| 2
+Matanza ||| 2
+Mr. Big ||| 2
+Mötley Crüe ||| 2
+Ozzy Osbourne ||| 2
+Queen ||| 2
+Rainbow ||| 2
+Sepultura ||| 2
+TYR ||| 2
+Venom ||| 2
+Azul Limão ||| 1
+Dorsal Atlantica - Dividir E Conquistar ||| 1
+Dorsal Atlântica ||| 1
+Freddie Mercury ||| 1
+Joan Jett ||| 1
+Judas Priest ||| 1
+Misfits ||| 1
+NOFX ||| 1
+Pantera ||| 1
+Shaman ||| 1
+Sodom ||| 1
+Stratovarius ||| 1
+## playcount: 142

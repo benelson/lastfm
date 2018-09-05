@@ -1,0 +1,51 @@
+Foo Fighters ||| 1527
+Pink Floyd ||| 1516
+Nightwish ||| 1221
+Extremoduro ||| 1100
+Zambayonny ||| 984
+Radiohead ||| 924
+Metallica ||| 851
+Iron Maiden ||| 800
+Queen ||| 749
+Megadeth ||| 732
+X Japan ||| 708
+Nirvana ||| 704
+Gorillaz ||| 697
+Die Toten Hosen ||| 687
+Marea ||| 625
+Sui Generis ||| 608
+Charly García ||| 605
+Los Tipitos ||| 539
+Maximum the Hormone ||| 525
+Alejandro Dolina ||| 507
+Joaquín Sabina ||| 482
+Diablo Swing Orchestra ||| 470
+Serú Girán ||| 456
+La Renga ||| 446
+Tool ||| 388
+Placebo ||| 380
+Led Zeppelin ||| 375
+The Beatles ||| 375
+Muse ||| 342
+Les Luthiers ||| 331
+Los Caballeros De La Quema ||| 318
+Soda Stereo ||| 318
+Attaque 77 ||| 288
+Red Hot Chili Peppers ||| 278
+Bill Hicks ||| 268
+Aerosmith ||| 259
+Mujercitas Terror ||| 250
+Astor Piazzolla ||| 249
+The Strokes ||| 243
+Rainbow ||| 240
+System of a Down ||| 238
+Archive ||| 234
+Serrat & Sabina ||| 232
+Green Day ||| 231
+The Offspring ||| 230
+Tim Minchin ||| 223
+Coldplay ||| 218
+Tenacious D ||| 217
+AC/DC ||| 216
+Blur ||| 213
+## playcount: 25617

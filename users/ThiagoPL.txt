@@ -1,0 +1,51 @@
+Britney Spears ||| 32049
+Justin Bieber ||| 10191
+Mariah Carey ||| 9394
+Taylor Swift ||| 8303
+Madonna ||| 5609
+Carly Rae Jepsen ||| 4705
+Ariana Grande ||| 3919
+Glee Cast ||| 3766
+Rihanna ||| 3657
+Avril Lavigne ||| 3591
+Anitta ||| 3477
+Kylie Minogue ||| 3083
+Paramore ||| 2659
+Beyoncé ||| 2628
+Selena Gomez ||| 2528
+Ivete Sangalo ||| 2386
+Florence + the Machine ||| 2295
+Pitty ||| 2295
+Lady Gaga ||| 2192
+Alicia Keys ||| 2056
+Katy Perry ||| 2017
+Janet Jackson ||| 1920
+Adele ||| 1782
+M.I.A. ||| 1716
+Azealia Banks ||| 1485
+Lily Allen ||| 1432
+Luan Santana ||| 1153
+Tinashe ||| 1103
+Robyn ||| 1022
+Christina Perri ||| 972
+Charli XCX ||| 961
+Troye Sivan ||| 959
+Little Mix ||| 926
+Frank Ocean ||| 912
+P!nk ||| 841
+Melanie Martinez ||| 824
+Miley Cyrus ||| 813
+Ciara ||| 758
+Shakira ||| 730
+Kacey Musgraves ||| 726
+Amy Winehouse ||| 721
+Demi Lovato ||| 704
+Lorde ||| 661
+Ke$ha ||| 637
+Christina Aguilera ||| 603
+Banda UÓ ||| 598
+Tove Lo ||| 538
+Clean Bandit ||| 526
+Céline Dion ||| 513
+Kelly Clarkson ||| 491
+## playcount: 139827

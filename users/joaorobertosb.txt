@@ -1,0 +1,51 @@
+Coldplay ||| 7742
+Linkin Park ||| 5725
+Saosin ||| 4829
+Pink Floyd ||| 4581
+Anberlin ||| 4563
+Hawthorne Heights ||| 4345
+Sigur Rós ||| 4218
+Copeland ||| 3951
+Audioslave ||| 3910
+The Beatles ||| 3536
+Foo Fighters ||| 3026
+Circa Survive ||| 3004
+Ludovico Einaudi ||| 2902
+City and Colour ||| 2836
+Sum 41 ||| 2835
+Iron Maiden ||| 2834
+30 Seconds to Mars ||| 2588
+Never Shout Never ||| 2481
+Antonio Vivaldi ||| 2467
+Emarosa ||| 2338
+MAE ||| 2167
+Eminem ||| 2125
+Snow Patrol ||| 1921
+Emery ||| 1905
+Red Hot Chili Peppers ||| 1811
+Andre Matos ||| 1777
+David Gilmour ||| 1756
+blink-182 ||| 1689
+You Me at Six ||| 1671
+Beirut ||| 1645
+Iced Earth ||| 1638
+3OH!3 ||| 1599
+Chiodos ||| 1536
+Avenged Sevenfold ||| 1521
+Deas Vail ||| 1404
+John Mayer ||| 1369
+Oasis ||| 1365
+All Time Low ||| 1275
+Paramore ||| 1194
+Secondhand Serenade ||| 1177
+Franz Joseph Haydn ||| 1106
+Dance Gavin Dance ||| 1091
+Lydia ||| 1086
+Wolfgang Amadeus Mozart ||| 1031
+Family Force 5 ||| 1024
+Stone Sour ||| 1021
+Philip Glass ||| 975
+Oficina G3 ||| 956
+Anthony Green ||| 955
+Underoath ||| 947
+## playcount: 117448

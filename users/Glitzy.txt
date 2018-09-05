@@ -1,0 +1,51 @@
+Foo Fighters ||| 2402
+They Might Be Giants ||| 2243
+Arctic Monkeys ||| 2049
+The Cure ||| 1346
+David Bowie ||| 1244
+The Beatles ||| 1087
+The Monkees ||| 1081
+Garbage ||| 974
+Juanes ||| 962
+ABBA ||| 960
+The Smiths ||| 894
+Rush ||| 830
+The Rolling Stones ||| 812
+The Police ||| 799
+Talking Heads ||| 762
+My Bloody Valentine ||| 714
+Depeche Mode ||| 704
+Pearl Jam ||| 699
+Beastie Boys ||| 686
+Squeeze ||| 671
+U2 ||| 664
+INXS ||| 659
+Goldfrapp ||| 657
+鷺巣詩郎 ||| 637
+The Who ||| 633
+Metric ||| 622
+The Clash ||| 586
+Gang of Four ||| 574
+XTC ||| 565
+Nigel Godrich ||| 550
+Fleetwood Mac ||| 541
+Florence + the Machine ||| 528
+The New Pornographers ||| 522
+The Black Crowes ||| 520
+New Order ||| 514
+Prince ||| 491
+10,000 Maniacs ||| 484
+The B-52's ||| 475
+Common Rotation ||| 453
+The Fall ||| 450
+Annie Lennox ||| 438
+Genesis ||| 426
+Missy Elliott ||| 419
+R.E.M. ||| 419
+OutKast ||| 412
+Morrissey ||| 404
+Eagles ||| 394
+Kate Nash ||| 393
+[unknown] ||| 380
+Queen ||| 368
+## playcount: 37097

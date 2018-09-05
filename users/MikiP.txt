@@ -1,0 +1,51 @@
+U2 ||| 2642
+Death Cab for Cutie ||| 2521
+Sigur Rós ||| 2367
+Coldplay ||| 2282
+Muse ||| 2197
+Foo Fighters ||| 2097
+Pink Floyd ||| 1973
+Queen ||| 1820
+Kate Bush ||| 1551
+CMX ||| 1514
+Paul Simon ||| 1514
+The Police ||| 1451
+Pariisin Kevät ||| 1434
+Kashmir ||| 1322
+Norah Jones ||| 1279
+Dave Matthews Band ||| 1236
+System of a Down ||| 1120
+Röyksopp ||| 1072
+Queens of the Stone Age ||| 1037
+Radiohead ||| 1023
+Sting ||| 928
+Def Leppard ||| 907
+The Beatles ||| 890
+J. Karjalainen ||| 889
+Egotrippi ||| 870
+Stevie Wonder ||| 867
+Manboy ||| 861
+Sister Flo ||| 841
+Mew ||| 744
+Porcupine Tree ||| 734
+Peter Gabriel ||| 732
+Kent ||| 722
+Michael Jackson ||| 680
+YUP ||| 669
+Blur ||| 638
+Faith No More ||| 632
+Biffy Clyro ||| 604
+Fun Lovin' Criminals ||| 583
+Air ||| 578
+Kings of Convenience ||| 576
+Jamiroquai ||| 559
+Red Hot Chili Peppers ||| 557
+Husky Rescue ||| 553
+Green Day ||| 550
+Kolmas Nainen ||| 549
+Daft Punk ||| 534
+The Crash ||| 530
+Giant Robot ||| 512
+Kemopetrol ||| 510
+Eppu Normaali ||| 509
+## playcount: 53760

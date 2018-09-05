@@ -1,0 +1,51 @@
+Pink Floyd ||| 3809
+System of a Down ||| 3761
+Alice in Chains ||| 3678
+John Mayer ||| 3592
+Linkin Park ||| 3077
+Oasis ||| 2640
+Guns N' Roses ||| 2540
+Nirvana ||| 2531
+Red Hot Chili Peppers ||| 2414
+Pearl Jam ||| 2239
+Arctic Monkeys ||| 2098
+Green Day ||| 2086
+Aerosmith ||| 1801
+AC/DC ||| 1696
+Foo Fighters ||| 1325
+Marilyn Manson ||| 1305
+Coldplay ||| 1163
+Metallica ||| 1098
+Evanescence ||| 1090
+Franz Ferdinand ||| 1085
+Bush ||| 819
+The Cure ||| 800
+Capital Inicial ||| 799
+Three Days Grace ||| 673
+Audioslave ||| 649
+Skid Row ||| 644
+blink-182 ||| 555
+The Kooks ||| 539
+Legião Urbana ||| 538
+Good Charlotte ||| 513
+The Strokes ||| 494
+Amy Winehouse ||| 479
+Kings of Leon ||| 470
+Bon Jovi ||| 469
+Jet ||| 467
+The Pretty Reckless ||| 426
+Led Zeppelin ||| 399
+Third Eye Blind ||| 374
+Skank ||| 373
+P!nk ||| 367
+Panic! at the Disco ||| 361
+Megadeth ||| 359
+Pantera ||| 353
+Lady Gaga ||| 349
+Scorpions ||| 340
+Dream Theater ||| 325
+Tokio Hotel ||| 320
+Stone Temple Pilots ||| 315
+Avenged Sevenfold ||| 311
+Cazuza ||| 299
+## playcount: 59207

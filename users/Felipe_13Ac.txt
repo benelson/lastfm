@@ -1,0 +1,51 @@
+AC/DC ||| 5662
+Raul Seixas ||| 2492
+Black Sabbath ||| 1682
+Blue Öyster Cult ||| 1435
+Megadeth ||| 1397
+Engenheiros Do Hawaii ||| 1219
+Amon Amarth ||| 1066
+Barão Vermelho ||| 1061
+Pink Floyd ||| 791
+Agalloch ||| 660
+Pantera ||| 648
+Metallica ||| 643
+Raimundos ||| 637
+Motörhead ||| 590
+Ghost ||| 542
+Alestorm ||| 520
+Lynyrd Skynyrd ||| 518
+Creedence Clearwater Revival ||| 508
+The Who ||| 500
+Os Cascavelletes ||| 491
+Slayer ||| 455
+Sepultura ||| 453
+System of a Down ||| 439
+John Lennon ||| 410
+Matanza ||| 379
+Cavalera Conspiracy ||| 362
+Angra ||| 349
+Australian Crawl ||| 349
+Eluveitie ||| 338
+Bon Jovi ||| 327
+Status Quo ||| 326
+Vivendo do Ócio ||| 323
+Misfits ||| 311
+The Strokes ||| 296
+Led Zeppelin ||| 287
+The Rolling Stones ||| 285
+A Pale Horse Named Death ||| 275
+Rush ||| 262
+Children of Bodom ||| 250
+Thin Lizzy ||| 249
+Bathory ||| 240
+Made In Brazil ||| 240
+Buckethead ||| 224
+Ramones ||| 223
+Celso Blues Boy ||| 217
+Behemoth ||| 206
+Queen ||| 205
+U2 ||| 195
+Sabaton ||| 184
+The Police ||| 184
+## playcount: 31905

@@ -1,0 +1,51 @@
+Madonna ||| 17930
+Lana Del Rey ||| 3323
+Marina & the Diamonds ||| 3081
+Britney Spears ||| 2151
+Katy Perry ||| 2127
+Christina Aguilera ||| 1702
+Lady Gaga ||| 1646
+Gwen Stefani ||| 1586
+Ariana Grande ||| 1439
+Beyoncé ||| 1424
+Taylor Swift ||| 1318
+Adele ||| 1183
+Kylie Minogue ||| 1146
+Sia ||| 1088
+Joss Stone ||| 924
+Rihanna ||| 815
+Florence + the Machine ||| 804
+P!nk ||| 761
+Miley Cyrus ||| 687
+Hilary Duff ||| 631
+Ellie Goulding ||| 604
+Meghan Trainor ||| 571
+Amy Winehouse ||| 563
+Lily Allen ||| 545
+ABBA ||| 544
+Avril Lavigne ||| 517
+Ke$ha ||| 455
+Bandana ||| 445
+Alicia Keys ||| 399
+Jennifer Lopez ||| 375
+Iggy Azalea ||| 355
+Cher ||| 307
+Nicki Minaj ||| 284
+Shakira ||| 276
+Cyndi Lauper ||| 251
+Lorde ||| 248
+Demi Lovato ||| 247
+Imagine Dragons ||| 239
+Carly Rae Jepsen ||| 238
+Leona Lewis ||| 218
+Norah Jones ||| 216
+Mariah Carey ||| 204
+Hana ||| 192
+Fergie ||| 176
+Dua Lipa ||| 175
+Zara Larsson ||| 168
+Fabiana Cantilo ||| 163
+Spice Girls ||| 156
+Daniela Herrero ||| 155
+Nelly Furtado ||| 150
+## playcount: 55202

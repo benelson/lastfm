@@ -1,0 +1,51 @@
+Sviatoslav Richter ||| 302
+Emil Gilels ||| 263
+Glenn Gould ||| 231
+Evgeny Kissin ||| 219
+Angela Hewitt ||| 193
+Johann Sebastian Bach ||| 187
+Jörg Demus ||| 177
+Alfred Brendel ||| 174
+Arthur Rubinstein ||| 173
+Vladimir Horowitz ||| 172
+Martha Argerich ||| 169
+Georg Friedrich Händel ||| 159
+Andrés Segovia ||| 157
+Robert Schumann ||| 154
+Sergei Rachmaninoff ||| 144
+Domenico Scarlatti ||| 142
+Claudio Arrau ||| 138
+Nikolai Demidenko ||| 138
+Alfred Cortot ||| 130
+Gabriela Imreh ||| 125
+Antonio Vivaldi ||| 124
+Arturo Benedetti Michelangeli ||| 121
+Vladimir Ashkenazy ||| 118
+Alicia de Larrocha ||| 117
+Franz Schubert ||| 116
+Fou Ts'ong ||| 115
+Rafał Blechacz ||| 114
+Frédéric Chopin ||| 113
+Marc-André Hamelin ||| 113
+Wilhelm Kempff ||| 111
+Felix Mendelssohn ||| 103
+Johannes Brahms ||| 103
+Carlos Montoya ||| 100
+Ludwig van Beethoven ||| 100
+Edvard Grieg ||| 99
+Claude Debussy ||| 98
+Ian Hobson ||| 98
+Jean-Philippe Rameau ||| 98
+Frederic Chiu ||| 93
+Vladimir Sofronitsky ||| 91
+Walter Gieseking ||| 89
+Artur Schnabel ||| 85
+Mordecai Shehori ||| 85
+Sergei Prokofiev ||| 85
+Murray Perahia ||| 84
+Wilhelm Backhaus ||| 84
+Ivo Pogorelich ||| 83
+Shura Cherkassky ||| 83
+Francisco Tárrega ||| 81
+London Symphony Orchestra ||| 80
+## playcount: 6531

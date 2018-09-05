@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 352
+Radiohead ||| 319
+Lana Del Rey ||| 289
+Pink Floyd ||| 279
+Tori Amos ||| 211
+Madonna ||| 208
+Red Hot Chili Peppers ||| 208
+Foo Fighters ||| 191
+Muse ||| 188
+Florence + the Machine ||| 180
+Nirvana ||| 180
+The xx ||| 171
+Ed Sheeran ||| 168
+Imagine Dragons ||| 162
+Sia ||| 155
+Metallica ||| 153
+David Bowie ||| 150
+Taylor Swift ||| 150
+Queen ||| 146
+Beyoncé ||| 137
+Lorde ||| 136
+The Black Keys ||| 136
+Katy Perry ||| 133
+The Rolling Stones ||| 131
+The Smashing Pumpkins ||| 126
+Daft Punk ||| 123
+Lady Gaga ||| 122
+System of a Down ||| 121
+The Strokes ||| 120
+The Killers ||| 119
+Green Day ||| 118
+Gorillaz ||| 115
+The Cure ||| 115
+Led Zeppelin ||| 113
+Eminem ||| 112
+Michael Jackson ||| 107
+Interpol ||| 106
+Weezer ||| 105
+Queens of the Stone Age ||| 102
+The Smiths ||| 102
+Frank Sinatra ||| 100
+Death Cab for Cutie ||| 97
+Marilyn Manson ||| 97
+Pixies ||| 97
+Massive Attack ||| 94
+Paramore ||| 94
+Bob Dylan ||| 93
+Elvis Presley ||| 92
+Oasis ||| 92
+Pearl Jam ||| 90
+## playcount: 7305

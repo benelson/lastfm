@@ -1,0 +1,51 @@
+The Rolling Stones ||| 3789
+Jimi Hendrix ||| 2215
+Atahualpa Yupanqui ||| 2064
+Deep Purple ||| 2036
+Black Sabbath ||| 1827
+Iron Maiden ||| 1740
+Riff ||| 1382
+Led Zeppelin ||| 1300
+Pappo ||| 1280
+Kiss ||| 1211
+ZZ Top ||| 1104
+Stevie Ray Vaughan ||| 1054
+Divididos ||| 1049
+George Harrison ||| 1034
+Creedence Clearwater Revival ||| 972
+Chuck Berry ||| 942
+Radiohead ||| 927
+Nirvana ||| 905
+Ratones Paranoicos ||| 840
+Keith Richards ||| 748
+Violeta Parra ||| 734
+Albert King ||| 730
+Patricio Rey y sus Redonditos de Ricota ||| 723
+Megadeth ||| 714
+Cat Power ||| 701
+Rainbow ||| 688
+Paul McCartney ||| 680
+Hermética ||| 638
+Dio ||| 636
+The Jimi Hendrix Experience ||| 619
+AC/DC ||| 616
+Bo Diddley ||| 581
+Buddy Holly ||| 576
+Toots and The Maytals ||| 564
+Howlin' Wolf ||| 524
+The Fabulous Thunderbirds ||| 488
+Pappo's Blues ||| 480
+Sean Costello ||| 478
+Tropelia ||| 475
+Brendan Benson ||| 464
+Stevie Ray Vaughan and Double Trouble ||| 462
+Leadbelly ||| 458
+Ron Wood ||| 455
+The Beatles ||| 454
+Ramones ||| 449
+Roberto Grela ||| 415
+Judas Priest ||| 408
+Albert Collins ||| 396
+The Raconteurs ||| 386
+Muddy Waters ||| 376
+## playcount: 44787

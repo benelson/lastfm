@@ -1,0 +1,51 @@
+Foo Fighters ||| 3930
+Pink Floyd ||| 2476
+The Smashing Pumpkins ||| 1846
+Pearl Jam ||| 1759
+Bon Iver ||| 1688
+Fleet Foxes ||| 1394
+Baroness ||| 1369
+Nirvana ||| 1280
+Weezer ||| 1110
+Black Sabbath ||| 1069
+Sebadoh ||| 1000
+Mayer Hawthorne ||| 953
+Band of Horses ||| 948
+Melvins ||| 901
+Soundgarden ||| 876
+David Gilmour ||| 863
+George Harrison ||| 848
+Sonic Youth ||| 834
+Loop ||| 774
+Benjamin Francis Leftwich ||| 770
+Blind Melon ||| 770
+Clutch ||| 766
+The Cranberries ||| 724
+Carpenters ||| 705
+Dinosaur Jr. ||| 692
+alt-J ||| 685
+Ben Howard ||| 683
+The Alan Parsons Project ||| 683
+The Beatles ||| 675
+City and Colour ||| 664
+Copeland ||| 628
+Lower Than Atlantis ||| 622
+Motörhead ||| 620
+Disclosure ||| 601
+Chapterhouse ||| 591
+Chet Faker ||| 567
+A Perfect Circle ||| 561
+Akira Kosemura ||| 555
+Cynic ||| 535
+Graveyard ||| 533
+Zwan ||| 528
+Blueboy ||| 511
+Ride ||| 497
+Genesis ||| 465
+Oasis ||| 434
+Local Natives ||| 431
+Camel ||| 416
+Coldplay ||| 416
+Iron & Wine ||| 413
+Teenage Fanclub ||| 395
+## playcount: 44054

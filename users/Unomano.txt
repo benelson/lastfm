@@ -1,0 +1,51 @@
+Queen ||| 454
+ZZ Top ||| 348
+Rob Zombie ||| 156
+Pink Floyd ||| 97
+Ozzy Osbourne ||| 93
+Eminem ||| 88
+Marilyn Manson ||| 87
+Slayer ||| 83
+The Doors ||| 81
+Avril Lavigne ||| 73
+Linkin Park ||| 59
+Anthrax ||| 55
+Guano Apes ||| 54
+Whitesnake ||| 52
+Ляпис Трубецкой ||| 49
+The Cure ||| 48
+Аквариум ||| 46
+Garbage ||| 45
+Bloodhound Gang ||| 44
+Depeche Mode ||| 44
+Pennywise ||| 44
+Buddy Guy ||| 43
+N.R.M. ||| 42
+Paradise Lost ||| 40
+Pink ||| 39
+Dead Kennedys ||| 37
+Nick Cave & The Bad Seeds ||| 37
+Stevie Ray Vaughan ||| 37
+Krama ||| 35
+Rihanna ||| 35
+Robert Plant & Alison Krauss ||| 32
+White Zombie ||| 32
+Portishead ||| 31
+Rainbow ||| 31
+The Blues Brothers ||| 31
+Лявон Вольскі ||| 30
+System of a Down ||| 29
+Black Label Society ||| 28
+30 Seconds to Mars ||| 27
+Judas Priest ||| 27
+Led Zeppelin ||| 26
+Metallica ||| 26
+Franz Ferdinand ||| 25
+Ray Charles ||| 25
+Static-X ||| 25
+Катя Чехова ||| 25
+The Offspring ||| 24
+Powerman 5000 ||| 22
+Sigur Rós ||| 22
+Freddie Mercury ||| 21
+## playcount: 2984

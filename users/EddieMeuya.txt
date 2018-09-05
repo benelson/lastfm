@@ -1,0 +1,51 @@
+Iron Maiden ||| 455
+AC/DC ||| 298
+Scorpions ||| 288
+Led Zeppelin ||| 280
+Pearl Jam ||| 263
+Megadeth ||| 236
+Slayer ||| 226
+Alice in Chains ||| 225
+Black Sabbath ||| 155
+Matanza ||| 146
+Aerosmith ||| 135
+The Cure ||| 133
+The Doors ||| 128
+3 Doors Down ||| 113
+Jimi Hendrix ||| 112
+Black Label Society ||| 108
+Pink Floyd ||| 99
+Running Wild ||| 96
+Frédéric Chopin ||| 91
+Motörhead ||| 88
+Whitesnake ||| 88
+Destruction ||| 77
+Freddie King ||| 77
+Richie Kotzen ||| 76
+Bruce Dickinson ||| 74
+Judas Priest ||| 69
+Nirvana ||| 67
+Albert King ||| 63
+Anthrax ||| 63
+Bob Dylan ||| 57
+Cradle of Filth ||| 57
+Kiss ||| 56
+The Smiths ||| 56
+Obituary ||| 55
+Jeff Beck ||| 54
+Ramones ||| 53
+Europe ||| 52
+R.E.M. ||| 49
+Janis Joplin ||| 45
+Deep Purple ||| 44
+Eagles ||| 43
+Dio ||| 42
+U2 ||| 41
+Lynyrd Skynyrd ||| 39
+Whiplash ||| 39
+Sepultura ||| 36
+Eric Clapton ||| 34
+Bob Marley & The Wailers ||| 31
+Blind Guardian ||| 28
+Exodus ||| 27
+## playcount: 5267

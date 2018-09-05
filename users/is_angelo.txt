@@ -1,0 +1,51 @@
+Judas Priest ||| 3083
+Death ||| 3017
+Helloween ||| 2841
+Bathory ||| 2799
+Gamma Ray ||| 2495
+Sabaton ||| 2420
+Thin Lizzy ||| 2271
+Van Halen ||| 2170
+Iron Maiden ||| 2152
+Black Sabbath ||| 2091
+Slayer ||| 1930
+Arch Enemy ||| 1929
+Accept ||| 1920
+Motörhead ||| 1907
+King Diamond ||| 1830
+Megadeth ||| 1785
+Metallica ||| 1699
+Blind Guardian ||| 1478
+DragonForce ||| 1463
+Kreator ||| 1454
+Edguy ||| 1445
+Mercyful Fate ||| 1423
+Exodus ||| 1401
+Nile ||| 1400
+Venom ||| 1390
+Krisiun ||| 1361
+Black Label Society ||| 1360
+Cannibal Corpse ||| 1316
+AC/DC ||| 1303
+Testament ||| 1295
+ZZ Top ||| 1281
+Carcass ||| 1259
+HammerFall ||| 1224
+Amon Amarth ||| 1194
+Korzus ||| 1140
+Pantera ||| 1117
+Dio ||| 1115
+Primal Fear ||| 1082
+Pentagram ||| 1081
+Saxon ||| 1059
+Matanza ||| 1052
+Ramones ||| 1046
+U.D.O. ||| 1010
+Behemoth ||| 991
+Halford ||| 976
+Satyricon ||| 952
+Grave Digger ||| 929
+Stratovarius ||| 900
+Mötley Crüe ||| 842
+Dark Tranquillity ||| 821
+## playcount: 77499

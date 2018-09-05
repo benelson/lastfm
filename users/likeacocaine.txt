@@ -1,0 +1,51 @@
+Paramore ||| 1125
+Nirvana ||| 317
+Metallica ||| 307
+The Pretty Reckless ||| 292
+System of a Down ||| 285
+Fresno ||| 276
+Breaking Benjamin ||| 198
+Iron Maiden ||| 189
+A Day to Remember ||| 185
+Esteban ||| 184
+Slipknot ||| 171
+Of Mice & Men ||| 169
+Foo Fighters ||| 165
+Gloria ||| 136
+Legião Urbana ||| 123
+Pitty ||| 122
+Arctic Monkeys ||| 112
+Bad Religion ||| 96
+Cazuza ||| 85
+Capital Inicial ||| 84
+Aerosmith ||| 83
+Bon Jovi ||| 80
+Matanza ||| 80
+Led Zeppelin ||| 69
+Los Hermanos ||| 68
+3 Doors Down ||| 67
+Arch Enemy ||| 65
+Misfits ||| 65
+The Beatles ||| 65
+Green Day ||| 62
+Black Sabbath ||| 58
+Bullet for My Valentine ||| 57
+Stone Sour ||| 55
+City and Colour ||| 54
+Judas Priest ||| 54
+Ramones ||| 54
+Red Hot Chili Peppers ||| 53
+Silverstein ||| 48
+Pink Floyd ||| 46
+Bring Me the Horizon ||| 44
+Visconde ||| 43
+Radiohead ||| 42
+Engenheiros Do Hawaii ||| 37
+Silverchair ||| 37
+Vulcano ||| 36
+AC/DC ||| 35
+Alice in Chains ||| 35
+Scorpions ||| 33
+Dope ||| 31
+Black Label Society ||| 30
+## playcount: 6207

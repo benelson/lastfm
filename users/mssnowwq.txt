@@ -1,0 +1,51 @@
+Paramore ||| 1598
+Foo Fighters ||| 1203
+My Chemical Romance ||| 1095
+Green Day ||| 1053
+Dead Sara ||| 1026
+System of a Down ||| 919
+The Killers ||| 803
+Slipknot ||| 790
+Stone Sour ||| 704
+Nirvana ||| 563
+Seether ||| 510
+Pearl Jam ||| 470
+Linkin Park ||| 401
+Metallica ||| 384
+Regina Spektor ||| 377
+The Kills ||| 376
+Tonight Alive ||| 255
+The Pretty Reckless ||| 244
+Kerli ||| 241
+The Kooks ||| 237
+AC/DC ||| 234
+Apocalyptica ||| 228
+The Cure ||| 223
+The Strokes ||| 211
+Blood Red Shoes ||| 210
+Within Temptation ||| 207
+Cherri Bomb ||| 202
+Sky Ferreira ||| 166
+Panic! at the Disco ||| 162
+Joy Division ||| 155
+Flёur ||| 150
+Pixie Lott ||| 143
+Black Veil Brides ||| 141
+Rooney ||| 135
+Bon Jovi ||| 134
+Legião Urbana ||| 132
+The Beatles ||| 130
+blink-182 ||| 127
+Miley Cyrus ||| 120
+Halestorm ||| 118
+Red Hot Chili Peppers ||| 117
+Oasis ||| 110
+Arctic Monkeys ||| 107
+Brandon Flowers ||| 96
+Kate Nash ||| 96
+Weezer ||| 96
+Ozzy Osbourne ||| 93
+Serj Tankian ||| 89
+Rod Stewart ||| 83
+Lamb of God ||| 81
+## playcount: 17545

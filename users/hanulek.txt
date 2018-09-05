@@ -1,0 +1,51 @@
+Kiri Te Kanawa ||| 4984
+Nana Mouskouri ||| 3333
+Julie London ||| 1848
+Dusty Springfield ||| 1784
+Petula Clark ||| 1706
+Diana Krall ||| 1359
+Peggy Lee ||| 1334
+Maria Callas ||| 1298
+Barbra Streisand ||| 1291
+Joni Mitchell ||| 1262
+The Beatles ||| 1107
+ABBA ||| 1030
+Joan Baez ||| 1022
+Shirley Bassey ||| 989
+Simon & Garfunkel ||| 872
+Doris Day ||| 831
+L'Arpeggiata ||| 824
+Pink Martini ||| 812
+Wolfgang Amadeus Mozart ||| 760
+Dame Kiri Te Kanawa ||| 757
+Nouvelle Vague ||| 750
+Grzegorz Turnau ||| 700
+Eva Cassidy ||| 685
+Julie Andrews ||| 674
+Ella Fitzgerald ||| 642
+Ludwig van Beethoven ||| 637
+Rosemary Clooney ||| 597
+Elvis Presley ||| 587
+Jefferson Airplane ||| 572
+Andreas Vollenweider ||| 559
+Fairport Convention ||| 551
+Anita O'Day ||| 549
+Frank Sinatra ||| 546
+Tori Amos ||| 537
+Kate Bush ||| 527
+Johann Sebastian Bach ||| 519
+Agnes Obel ||| 508
+Marek Grechuta ||| 503
+Sade ||| 495
+Sérgio Mendes ||| 485
+Anna German ||| 473
+Norah Jones ||| 473
+Antonio Vivaldi ||| 470
+Frédéric Chopin ||| 465
+Jean-Baptiste Lully ||| 460
+Maria Farantouri ||| 456
+Bruce Springsteen ||| 436
+Astrud Gilberto ||| 429
+Piwnica pod Baranami ||| 427
+Johannes Brahms ||| 422
+## playcount: 45337

@@ -1,0 +1,51 @@
+Tool ||| 23390
+A Perfect Circle ||| 7460
+Toni ||| 6411
+Puscifer ||| 4769
+Deftones ||| 4477
+Radiohead ||| 3011
+Sufjan Stevens ||| 2991
+Arctic Monkeys ||| 2797
+Mastodon ||| 2613
+David Bowie ||| 2522
+R.E.M. ||| 2517
+Kanye West ||| 2382
+My Bloody Valentine ||| 2235
+Nine Inch Nails ||| 2213
+Motörhead ||| 2084
+Red Hot Chili Peppers ||| 2053
+Burial ||| 1925
+Wilco ||| 1881
+Aphex Twin ||| 1794
+Drake ||| 1755
+Anathema ||| 1699
+Metallica ||| 1663
+The Cure ||| 1617
+Kendrick Lamar ||| 1582
+Death Grips ||| 1574
+The Smiths ||| 1574
+Cynic ||| 1562
+The National ||| 1518
+Frank Ocean ||| 1488
+The Weeknd ||| 1418
+Blur ||| 1404
+Iron Maiden ||| 1404
+The Horrors ||| 1357
+Nirvana ||| 1356
+TV on the Radio ||| 1295
+The xx ||| 1261
+Animal Collective ||| 1233
+Arcade Fire ||| 1232
+The Beatles ||| 1197
+Dream Theater ||| 1168
+Flying Lotus ||| 1159
+t0Ni ||| 1147
+The Smashing Pumpkins ||| 1132
+Bon Iver ||| 1118
+Beach House ||| 1068
+Annihilator ||| 1063
+System of a Down ||| 1051
+Pantera ||| 1050
+Slipknot ||| 1018
+Kyuss ||| 1007
+## playcount: 120695

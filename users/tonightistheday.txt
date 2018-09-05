@@ -1,0 +1,51 @@
+Simple Plan ||| 14250
+Arctic Monkeys ||| 5462
+Rihanna ||| 3958
+Daughtry ||| 3880
+The Beatles ||| 3828
+Maroon 5 ||| 3441
+The Script ||| 3237
+The Fray ||| 3122
+McFly ||| 2698
+O Rappa ||| 2269
+Florence + the Machine ||| 2261
+Colbie Caillat ||| 2234
+Queens of the Stone Age ||| 2190
+Ellie Goulding ||| 2158
+Mariah Carey ||| 2139
+Good Charlotte ||| 2106
+Lianne La Havas ||| 2011
+Lana Del Rey ||| 2004
+Christina Aguilera ||| 1909
+Beyoncé ||| 1879
+Vanessa da Mata ||| 1828
+John Mayer ||| 1823
+Marina & the Diamonds ||| 1810
+Ed Sheeran ||| 1751
+John Legend ||| 1720
+Kid Abelha ||| 1694
+The Black Keys ||| 1644
+Adele ||| 1624
+Paramore ||| 1561
+Boys Like Girls ||| 1537
+Maria Rita ||| 1515
+Coldplay ||| 1481
+Avril Lavigne ||| 1474
+The Kooks ||| 1464
+Fresno ||| 1456
+The Veronicas ||| 1373
+Miley Cyrus ||| 1363
+Jason Mraz ||| 1349
+Kelly Clarkson ||| 1312
+The Maine ||| 1263
+All Time Low ||| 1150
+The Strokes ||| 1133
+The Weeknd ||| 1131
+Britney Spears ||| 1129
+OneRepublic ||| 1103
+Foster the People ||| 1095
+Lifehouse ||| 1075
+Jessie J ||| 1074
+Busted ||| 1029
+Josh Kumra ||| 1018
+## playcount: 109015

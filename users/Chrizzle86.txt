@@ -1,0 +1,51 @@
+Guns N' Roses ||| 18345
+NOFX ||| 10927
+The Used ||| 6500
+Escape the Fate ||| 6227
+Foo Fighters ||| 5097
+Kiss ||| 4159
+Queens of the Stone Age ||| 3013
+The Offspring ||| 2475
+AFI ||| 2233
+blink-182 ||| 2072
+Oasis ||| 2058
+Millencolin ||| 2023
+Linkin Park ||| 1843
+Tenacious D ||| 1838
+Nas ||| 1715
+Lynyrd Skynyrd ||| 1657
+Papa Roach ||| 1624
+Nickelback ||| 1367
+Fall Out Boy ||| 1356
+Good Charlotte ||| 1350
+The Strokes ||| 1343
+Sum 41 ||| 1308
+Aerosmith ||| 1225
+Ash ||| 1195
+Kid Rock ||| 1144
+Tommy Stinson ||| 1103
+A Day to Remember ||| 1080
+The Prodigy ||| 1067
+August Burns Red ||| 1026
+Ozzy Osbourne ||| 938
+Rancid ||| 917
+Daft Punk ||| 914
+Hollywood Rose ||| 904
+Trivium ||| 873
+AC/DC ||| 847
+Mötley Crüe ||| 828
+Thin Lizzy ||| 826
+Motörhead ||| 816
+Creedence Clearwater Revival ||| 801
+Coldplay ||| 798
+Karpe Diem ||| 785
+Bring Me the Horizon ||| 771
+Bloodhound Gang ||| 769
+Electric Six ||| 765
+Turbonegro ||| 752
+MGMT ||| 749
+Klovner i Kamp ||| 691
+Pantera ||| 623
+Necro ||| 603
+Dire Straits ||| 592
+## playcount: 104932

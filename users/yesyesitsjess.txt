@@ -1,0 +1,51 @@
+The Beatles ||| 3776
+The Libertines ||| 710
+Oasis ||| 579
+Green Day ||| 565
+David Bowie ||| 514
+Arctic Monkeys ||| 452
+The Killers ||| 343
+Fall Out Boy ||| 289
+Paul McCartney ||| 278
+The Smiths ||| 246
+The Beach Boys ||| 243
+Muse ||| 210
+Little Mix ||| 197
+Elvis Presley ||| 195
+Queen ||| 193
+The Kinks ||| 187
+The Jam ||| 178
+Biffy Clyro ||| 176
+John Lennon ||| 163
+T. Rex ||| 155
+Madness ||| 153
+The Clash ||| 143
+Calvin Harris ||| 142
+The Who ||| 141
+Duran Duran ||| 139
+The Cure ||| 133
+Blondie ||| 132
+The Monkees ||| 128
+Take That ||| 117
+Michael Bublé ||| 110
+Jessie J ||| 109
+blink-182 ||| 101
+Blur ||| 101
+Noel Gallagher's High Flying Birds ||| 95
+Panic! at the Disco ||| 95
+The Human League ||| 95
+The Chainsmokers ||| 93
+Red Hot Chili Peppers ||| 92
+The Jackson 5 ||| 92
+Justin Bieber ||| 90
+Dirty Pretty Things ||| 89
+Pulp ||| 86
+David Guetta ||| 85
+Maroon 5 ||| 82
+Klaxons ||| 80
+The White Stripes ||| 80
+Rihanna ||| 79
+The Rolling Stones ||| 79
+Example ||| 77
+Fleetwood Mac ||| 77
+## playcount: 12764

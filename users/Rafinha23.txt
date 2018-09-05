@@ -1,0 +1,51 @@
+Madonna ||| 124
+Lady Gaga ||| 113
+Sia ||| 95
+Cyndi Lauper ||| 84
+Nirvana ||| 82
+Garbage ||| 70
+Amy Winehouse ||| 62
+Blondie ||| 61
+Lily Allen ||| 50
+The Runaways ||| 49
+Rihanna ||| 45
+Aerosmith ||| 39
+Alanis Morissette ||| 39
+Kylie Minogue ||| 39
+Yeah Yeah Yeahs ||| 37
+Britney Spears ||| 35
+Katy Perry ||| 35
+U2 ||| 33
+David Guetta ||| 32
+Mudhoney ||| 31
+A Flock of Seagulls ||| 30
+Shakira ||| 29
+Pitty ||| 27
+Gabriella Cilmi ||| 26
+Red Hot Chili Peppers ||| 26
+Norah Jones ||| 25
+Eric Prydz ||| 24
+John Legend ||| 23
+Colbie Caillat ||| 22
+Kate Nash ||| 22
+Pet Shop Boys ||| 22
+The Strokes ||| 22
+The White Stripes ||| 22
+MGMT ||| 21
+The Cranberries ||| 21
+Booty Luv ||| 20
+Corinne Bailey Rae ||| 20
+The 5.6.7.8's ||| 20
+Oasis ||| 19
+Feist ||| 18
+Regina Spektor ||| 18
+The Breeders ||| 18
+Fiona Apple ||| 17
+Amy Macdonald ||| 16
+Bob Sinclar ||| 16
+Gabriel O Pensador ||| 16
+Hole ||| 16
+Metallica ||| 16
+Beyoncé ||| 15
+Black Eyed Peas ||| 15
+## playcount: 1777

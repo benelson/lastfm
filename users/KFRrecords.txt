@@ -1,0 +1,12 @@
+Paul McCartney ||| 22
+Moscillate ||| 13
+a-ha ||| 12
+Stevie Ray Vaughan and Double Trouble ||| 4
+high hills ||| 3
+Charles Mingus ||| 2
+Metallica ||| 2
+ABBA ||| 1
+Alkotrio ||| 1
+Black Sabbath ||| 1
+Ozzy Osbourne ||| 1
+## playcount: 62

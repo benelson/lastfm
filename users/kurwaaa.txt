@@ -1,0 +1,51 @@
+Metallica ||| 9309
+Tori Amos ||| 4210
+Oomph! ||| 3654
+A Perfect Circle ||| 3088
+Tool ||| 2403
+Opeth ||| 1618
+Skid Row ||| 1600
+Cult of Luna ||| 1496
+Wednesday 13 ||| 1403
+Pantera ||| 1231
+In Flames ||| 1079
+Black River ||| 804
+Testament ||| 756
+Machine Head ||| 742
+Helloween ||| 719
+Rishloo ||| 700
+Siouxsie and the Banshees ||| 663
+Exodus ||| 558
+Iron Maiden ||| 510
+Xmal Deutschland ||| 475
+Enya ||| 456
+Rihanna ||| 432
+Mudvayne ||| 425
+Korn ||| 391
+Oasis ||| 379
+Die Apokalyptischen Reiter ||| 376
+Depeche Mode ||| 372
+Alien Sex Fiend ||| 360
+Bloodbath ||| 359
+Pitbull ||| 351
+Rootwater ||| 338
+Kings of Leon ||| 333
+Adele ||| 332
+Rammstein ||| 316
+Slayer ||| 296
+DevilDriver ||| 284
+Murderdolls ||| 282
+Slipknot ||| 264
+Stone Sour ||| 263
+ASHES dIVIDE ||| 259
+Example ||| 251
+Cinema Strange ||| 250
+Alice Cooper ||| 249
+Kiss ||| 248
+Lamb of God ||| 248
+The Beatles ||| 248
+Keane ||| 241
+Muse ||| 236
+Synapsa ||| 222
+Destruction ||| 208
+## playcount: 46287

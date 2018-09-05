@@ -1,0 +1,51 @@
+Bob Dylan ||| 28214
+The Beatles ||| 16146
+David Bowie ||| 14451
+Radiohead ||| 10923
+The Strokes ||| 9315
+The White Stripes ||| 9265
+Red Hot Chili Peppers ||| 8968
+The Kills ||| 6604
+Café Tacvba ||| 6063
+Arctic Monkeys ||| 5623
+St. Vincent ||| 5572
+Nirvana ||| 4318
+Foo Fighters ||| 4255
+Grimes ||| 4146
+Pearl Jam ||| 4137
+Paul McCartney ||| 4085
+Warpaint ||| 4057
+John Frusciante ||| 4006
+The Rolling Stones ||| 3519
+The Dead Weather ||| 3425
+Jack White ||| 3384
+Led Zeppelin ||| 3053
+Guns N' Roses ||| 2969
+The Black Keys ||| 2764
+Morrissey ||| 2505
+Paul McCartney & Wings ||| 2344
+Katy Perry ||| 2277
+The Libertines ||| 2201
+The Raconteurs ||| 1945
+Interpol ||| 1915
+Cat Power ||| 1899
+Daft Punk ||| 1777
+George Harrison ||| 1671
+MGMT ||| 1649
+Caifanes ||| 1591
+The Doors ||| 1580
+Aphex Twin ||| 1461
+Feist ||| 1460
+Amy Winehouse ||| 1443
+PJ Harvey ||| 1440
+Florence + the Machine ||| 1393
+John Lennon ||| 1382
+Angel Olsen ||| 1379
+Kings of Leon ||| 1313
+Molotov ||| 1289
+Lana Del Rey ||| 1254
+Manu Chao ||| 1238
+Pink Floyd ||| 1095
+Fiona Apple ||| 1053
+Soundgarden ||| 987
+## playcount: 210803

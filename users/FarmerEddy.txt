@@ -1,0 +1,51 @@
+Cypress Hill ||| 443
+Bob Marley ||| 354
+Foo Fighters ||| 337
+Creedence Clearwater Revival ||| 319
+Nirvana ||| 285
+Them Crooked Vultures ||| 240
+AC/DC ||| 232
+Paramore ||| 210
+Tenacious D ||| 194
+Queens of the Stone Age ||| 171
+Revolution Mother ||| 165
+Johnny Cash ||| 163
+El Michels Affair ||| 156
+Desert Sessions ||| 152
+The Rolling Stones ||| 149
+Crosby, Stills & Nash ||| 148
+Jimi Hendrix ||| 139
+The Doors ||| 123
+Böhse Onkelz ||| 105
+Lynyrd Skynyrd ||| 104
+N.W.A ||| 90
+Snoop Dogg ||| 83
+Canned Heat ||| 81
+Rage Against the Machine ||| 81
+The Jimi Hendrix Experience ||| 81
+Green Day ||| 80
+Arctic Monkeys ||| 78
+Jefferson Airplane ||| 78
+Grateful Dead ||| 68
+Metallica ||| 63
+Pink Floyd ||| 63
+The Fray ||| 63
+The Who ||| 60
+Red Hot Chili Peppers ||| 57
+Steppenwolf ||| 57
+Dire Straits ||| 56
+Rise Against ||| 52
+Sondaschule ||| 52
+The White Stripes ||| 51
+Frei.Wild ||| 48
+AFI ||| 47
+a3 ||| 46
+Breaking Benjamin ||| 46
+Flogging Molly ||| 44
+Neil Young ||| 44
+Wolfmother ||| 43
+Katzenjammer ||| 42
+Santana ||| 42
+Eels ||| 41
+Dr. Dre ||| 40
+## playcount: 5966

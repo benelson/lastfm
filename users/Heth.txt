@@ -1,0 +1,51 @@
+Enya ||| 6376
+Metallica ||| 2568
+Rammstein ||| 2278
+Helloween ||| 2165
+Nightwish ||| 1815
+U2 ||| 1383
+Schiller ||| 1284
+Loreena McKennitt ||| 896
+Creed ||| 604
+Battlelore ||| 595
+Tangra ||| 595
+Enigma ||| 546
+Darkseed ||| 532
+Обратен Ефект ||| 531
+Crematory ||| 518
+Leaves' Eyes ||| 501
+System of a Down ||| 471
+Nine Inch Nails ||| 469
+Depeche Mode ||| 447
+Nickelback ||| 433
+Judas Priest ||| 410
+Evereve ||| 386
+Linkin Park ||| 385
+Sting ||| 367
+Irfan ||| 366
+Café Del Mar ||| 348
+AC/DC ||| 333
+Faun ||| 330
+Pain ||| 329
+Yello ||| 318
+Within Temptation ||| 298
+Sarah Brightman ||| 295
+Bon Jovi ||| 267
+Conjure One ||| 267
+Godsmack ||| 254
+Amorphis ||| 240
+Red Hot Chili Peppers ||| 232
+Blind Guardian ||| 231
+Blackmore's Night ||| 228
+Clawfinger ||| 226
+Queen ||| 217
+Pantera ||| 203
+Snatam Kaur ||| 201
+Placebo ||| 191
+Spineshank ||| 189
+Deep Forest ||| 185
+Valravn ||| 183
+Laibach ||| 179
+Era ||| 175
+Manowar ||| 173
+## playcount: 33013

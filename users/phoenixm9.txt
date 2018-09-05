@@ -1,0 +1,51 @@
+Alice Cooper ||| 1562
+Pink Floyd ||| 1333
+Blondie ||| 890
+Fleetwood Mac ||| 873
+AC/DC ||| 826
+Black Sabbath ||| 770
+Bad Company ||| 521
+Nirvana ||| 511
+Electric Boys ||| 500
+Lita Ford ||| 473
+Don Francisco ||| 443
+Whitesnake ||| 414
+Hawkwind ||| 374
+Jean Michel Jarre ||| 366
+Demented Are Go! ||| 342
+Demon ||| 341
+Jimmy Nail ||| 300
+Meat Loaf ||| 292
+Ozzy Osbourne ||| 288
+Red Hot Chili Peppers ||| 279
+Quiet Riot ||| 244
+Rainbow ||| 235
+Thin Lizzy ||| 223
+Garbage ||| 213
+Deep Purple ||| 192
+Blue Öyster Cult ||| 190
+Louise Hoffsten ||| 175
+Bee Gees ||| 173
+Coverdale/Page ||| 169
+Accept ||| 164
+D-A-D ||| 153
+Leonard Cohen ||| 147
+Dio ||| 140
+Black Ingvars ||| 139
+Glenn Hughes ||| 136
+Placebo ||| 131
+Poets of the Fall ||| 121
+Jethro Tull ||| 116
+Y&T ||| 114
+Rush ||| 113
+Sky High ||| 113
+Infected Mushroom ||| 102
+The Doors ||| 97
+Rammstein ||| 92
+Foreigner ||| 87
+Gregorian ||| 87
+Warmen ||| 85
+Blandat ||| 82
+David Coverdale ||| 81
+Illnath ||| 75
+## playcount: 15887

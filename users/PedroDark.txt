@@ -1,0 +1,51 @@
+Beyoncé ||| 37238
+Adam Lambert ||| 19768
+Ariana Grande ||| 15143
+Demi Lovato ||| 12296
+Dulce María ||| 11132
+Rihanna ||| 10625
+Fifth Harmony ||| 10561
+Lana Del Rey ||| 9633
+Nicki Minaj ||| 8971
+One Direction ||| 8780
+Taylor Swift ||| 7229
+Paramore ||| 6626
+Phillip Phillips ||| 6090
+Selena Gomez ||| 6075
+Ke$ha ||| 5965
+Britney Spears ||| 5923
+Kelly Clarkson ||| 5738
+Nick Jonas ||| 5637
+Lady Gaga ||| 5628
+Katy Perry ||| 5190
+Bastille ||| 5151
+Coldplay ||| 5019
+Imagine Dragons ||| 5014
+Carly Rae Jepsen ||| 5006
+Troye Sivan ||| 4816
+Calvin Harris ||| 4794
+Arctic Monkeys ||| 4489
+Justin Bieber ||| 4418
+David Guetta ||| 4197
+30 Seconds to Mars ||| 4075
+Shawn Mendes ||| 3977
+The Killers ||| 3808
+Miley Cyrus ||| 3750
+Adele ||| 3706
+Bruno Mars ||| 3617
+Maroon 5 ||| 3547
+Linkin Park ||| 3531
+Shakira ||| 3256
+RBD ||| 3237
+Fall Out Boy ||| 3234
+Christina Aguilera ||| 3177
+Havana Brown ||| 3049
+Jessie J ||| 2941
+Conor Maynard ||| 2812
+OneRepublic ||| 2799
+Avril Lavigne ||| 2727
+P!nk ||| 2648
+The Weeknd ||| 2579
+Colton Dixon ||| 2458
+Ellie Goulding ||| 2411
+## playcount: 314491

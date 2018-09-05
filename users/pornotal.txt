@@ -1,0 +1,51 @@
+Elvis Presley ||| 85
+[unknown] ||| 64
+Gentleman ||| 51
+Babasónicos ||| 50
+David Bowie ||| 50
+The Knife ||| 47
+Manu Chao ||| 42
+Ladytron ||| 41
+Nawal ||| 36
+Arcade Fire ||| 33
+Leftfield ||| 24
+The Cure ||| 23
+Alerta Kamarada ||| 19
+Asilo 38 ||| 19
+Fidel Nadal ||| 19
+New Order ||| 19
+Emir Kusturica & The No Smoking Orchestra ||| 18
+Bloc Party ||| 17
+Primal Scream ||| 16
+The Strokes ||| 16
+Nueva Alianza ||| 14
+Johnny Cash ||| 13
+Bob Marley & The Wailers ||| 12
+Finley Quaye ||| 12
+Franz Ferdinand ||| 12
+Aterciopelados ||| 11
+Bob Marley ||| 10
+Eddie Cochran ||| 10
+Kevin Yost ||| 10
+Los Fabulosos Cadillacs ||| 10
+Mano Negra ||| 10
+Moloko ||| 10
+Amon Tobin ||| 9
+Bill Haley & His Comets ||| 9
+Chuck Berry ||| 9
+Red Hot Chili Peppers ||| 9
+Roy Orbison ||| 9
+Buddy Holly ||| 8
+Depeche Mode ||| 8
+Gustavo Cerati ||| 8
+Jerry Lee Lewis ||| 8
+Little Richard ||| 8
+Miss Kittin & The Hacker ||| 8
+Pink Floyd ||| 8
+Ricky Nelson ||| 8
+The White Stripes ||| 8
+Todos Tus Muertos ||| 8
+UNKLE ||| 8
+Wanda Jackson ||| 8
+Carl Perkins ||| 7
+## playcount: 971

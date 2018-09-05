@@ -1,0 +1,51 @@
+John Mayer ||| 6259
+Maroon 5 ||| 5038
+Arctic Monkeys ||| 3433
+Paramore ||| 2696
+Placebo ||| 2358
+Muse ||| 2352
+Sublime ||| 1836
+Sum 41 ||| 1827
+Avril Lavigne ||| 1762
+Yellowcard ||| 1536
+Justin Timberlake ||| 1441
+Three Days Grace ||| 1271
+Pearl Jam ||| 1238
+Red Hot Chili Peppers ||| 1204
+Franz Ferdinand ||| 1077
+Linkin Park ||| 1077
+Bruno Mars ||| 1026
+Flo Rida ||| 995
+AC/DC ||| 970
+Incubus ||| 955
+David Guetta ||| 954
+Rihanna ||| 933
+Rise Against ||| 913
+Boys Like Girls ||| 859
+McFly ||| 852
+Queen ||| 779
+Katy Perry ||| 737
+Rage Against the Machine ||| 722
+Eminem ||| 718
+Keane ||| 716
+Beyoncé ||| 712
+Boyce Avenue ||| 698
+The Offspring ||| 695
+The Kooks ||| 687
+The Strokes ||| 681
+Avicii ||| 663
+Chris Brown ||| 636
+Skank ||| 625
+Britney Spears ||| 601
+Cansei de Ser Sexy ||| 596
+Calvin Harris ||| 580
+Colbie Caillat ||| 571
+The Beatles ||| 549
+Coldplay ||| 545
+Ed Sheeran ||| 504
+Cássia Eller ||| 499
+Simple Plan ||| 494
+Green Day ||| 490
+Panic! at the Disco ||| 488
+Lady Gaga ||| 482
+## playcount: 60330

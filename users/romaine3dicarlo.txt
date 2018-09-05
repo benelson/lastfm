@@ -1,0 +1,51 @@
+Mike Peralta ||| 234
+John Mayer ||| 43
+Iron & Wine ||| 42
+James Blunt ||| 41
+Jason Mraz ||| 41
+Mumford & Sons ||| 40
+Simon & Garfunkel ||| 39
+Bob Dylan ||| 37
+Jack Johnson ||| 33
+Ed Sheeran ||| 32
+Howie Day ||| 25
+Passenger ||| 25
+Boyce Avenue ||| 23
+Taylor Swift ||| 13
+Run the Jewels ||| 10
+One Direction ||| 8
+Ariel Pink ||| 6
+Lana Del Rey ||| 6
+Lorde ||| 6
+alt-J ||| 5
+Azealia Banks ||| 5
+Death Grips ||| 5
+Flying Lotus ||| 5
+Nicki Minaj ||| 5
+Radiohead ||| 5
+Slipknot ||| 5
+Arctic Monkeys ||| 4
+Banks ||| 4
+Clean Bandit ||| 4
+D'Angelo ||| 4
+FKA twigs ||| 4
+Led Zeppelin ||| 4
+Meghan Trainor ||| 4
+The Doors ||| 4
+Tove Lo ||| 4
+Caribou ||| 3
+Charli XCX ||| 3
+Iceage ||| 3
+J. Cole ||| 3
+Pink Floyd ||| 3
+Sam Smith ||| 3
+Devin Townsend Project ||| 2
+Fall Out Boy ||| 2
+Foo Fighters ||| 2
+Gorillaz ||| 2
+Grouper ||| 2
+Kendrick Lamar ||| 2
+Mac DeMarco ||| 2
+Marina & the Diamonds ||| 2
+Modest Mouse ||| 2
+## playcount: 811

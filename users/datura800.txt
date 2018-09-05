@@ -1,0 +1,51 @@
+Madonna ||| 23434
+David Bowie ||| 16042
+Prince ||| 8691
+Bruce Springsteen ||| 8124
+Manic Street Preachers ||| 7627
+Kylie Minogue ||| 6786
+Taylor Swift ||| 5633
+Mariah Carey ||| 5025
+Morrissey ||| 5002
+U2 ||| 4571
+Leonard Cohen ||| 4533
+Christina Aguilera ||| 4256
+Pet Shop Boys ||| 4056
+Katy Perry ||| 3728
+Michael Jackson ||| 3724
+George Michael ||| 3704
+Janet Jackson ||| 3689
+Beyoncé ||| 3307
+Sugababes ||| 3155
+R.E.M. ||| 3104
+Rihanna ||| 3031
+Tori Amos ||| 2891
+P!nk ||| 2838
+Elbow ||| 2806
+Eels ||| 2753
+Leona Lewis ||| 2663
+The Smiths ||| 2581
+Kate Bush ||| 2567
+Stars ||| 2525
+Elton John ||| 2523
+Girls Aloud ||| 2422
+Alanis Morissette ||| 2394
+Sheryl Crow ||| 2363
+Coldplay ||| 2356
+Glee Cast ||| 2083
+Britney Spears ||| 2044
+Barbra Streisand ||| 1965
+Carly Rae Jepsen ||| 1887
+Tom Waits ||| 1865
+Suede ||| 1693
+Joni Mitchell ||| 1690
+Arcade Fire ||| 1674
+Cher ||| 1670
+Rufus Wainwright ||| 1468
+Alicia Keys ||| 1462
+Whitney Houston ||| 1431
+Annie Lennox ||| 1322
+Adele ||| 1283
+The Smashing Pumpkins ||| 1264
+Garbage ||| 1216
+## playcount: 190921

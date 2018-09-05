@@ -1,0 +1,51 @@
+The Killers ||| 14041
+The Beatles ||| 12369
+Coldplay ||| 10951
+Green Day ||| 8741
+Lana Del Rey ||| 6666
+Radiohead ||| 4714
+Arctic Monkeys ||| 3791
+The Strokes ||| 3500
+Amy Winehouse ||| 3464
+Kings of Leon ||| 3451
+MGMT ||| 3197
+Brandon Flowers ||| 2957
+Muse ||| 2882
+Panic! at the Disco ||| 2852
+Regina Spektor ||| 2584
+Nirvana ||| 2430
+Pink Floyd ||| 2427
+Vampire Weekend ||| 2344
+Snow Patrol ||| 2217
+Ramones ||| 1983
+Björk ||| 1944
+Lily Allen ||| 1818
+David Bowie ||| 1814
+Mika ||| 1785
+Kate Nash ||| 1783
+She & Him ||| 1750
+Bob Dylan ||| 1713
+Led Zeppelin ||| 1627
+Arcade Fire ||| 1581
+Florence + the Machine ||| 1473
+Elvis Presley ||| 1439
+Gossip ||| 1419
+Kasabian ||| 1334
+Norah Jones ||| 1300
+Queen ||| 1275
+Bon Iver ||| 1254
+Avril Lavigne ||| 1228
+Rihanna ||| 1206
+John Mayer ||| 1172
+Birdy ||| 1151
+John Lennon ||| 1146
+Linkin Park ||| 1066
+Ellie Goulding ||| 1050
+No Doubt ||| 1045
+The xx ||| 972
+The Ting Tings ||| 952
+Paul McCartney ||| 934
+Marina & the Diamonds ||| 929
+Lady Gaga ||| 911
+Pet Shop Boys ||| 911
+## playcount: 137543

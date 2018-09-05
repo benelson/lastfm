@@ -1,0 +1,51 @@
+The Beatles ||| 4342
+Pink Floyd ||| 3912
+Tame Impala ||| 2909
+Mac DeMarco ||| 2482
+Arctic Monkeys ||| 2313
+Radiohead ||| 2214
+Led Zeppelin ||| 1614
+Molotov ||| 1509
+Unknown Mortal Orchestra ||| 1367
+King Gizzard & The Lizard Wizard ||| 1105
+The Beach Boys ||| 1089
+Mild High Club ||| 1084
+Psychedelic Porn Crumpets ||| 1026
+Michael Jackson ||| 966
+The Strokes ||| 820
+The Avalanches ||| 811
+Homeshake ||| 797
+The Holydrug Couple ||| 782
+The Kooks ||| 737
+Blur ||| 718
+Franz Ferdinand ||| 643
+The Velvet Underground ||| 608
+Metronomy ||| 559
+The Last Shadow Puppets ||| 546
+TomppaBeats ||| 544
+Daft Punk ||| 532
+Temples ||| 509
+Pond ||| 492
+Queen ||| 491
+Nirvana ||| 484
+Glee Cast ||| 431
+Melody's Echo Chamber ||| 423
+The Doors ||| 406
+Sergei Prokofiev ||| 402
+Jamiroquai ||| 374
+America ||| 368
+Burzum ||| 355
+Adolphe Adam ||| 317
+Phoenix ||| 317
+Dirt Farmer ||| 314
+Bee Gees ||| 310
+Moses Gunn Collective ||| 309
+King Crimson ||| 294
+Pyotr Ilyich Tchaikovsky ||| 284
+Opeth ||| 283
+Grizzly Bear ||| 269
+Childish Gambino ||| 259
+Little Jesus ||| 257
+Paul McCartney ||| 255
+Estelle ||| 243
+## playcount: 44475

@@ -1,0 +1,51 @@
+The Cribs ||| 14341
+Green Day ||| 3880
+Oasis ||| 3051
+Kasabian ||| 2409
+Los Campesinos! ||| 1986
+Beady Eye ||| 1078
+The Beatles ||| 1006
+Biffy Clyro ||| 884
+AC/DC ||| 847
+The Rifles ||| 732
+Paul Weller ||| 585
+1990s ||| 529
+The Darkness ||| 515
+The View ||| 472
+The Courteeners ||| 395
+The Stone Roses ||| 366
+The Killers ||| 345
+Kings of Leon ||| 324
+Stereophonics ||| 251
+David Guetta ||| 229
+The Police ||| 225
+Madness ||| 213
+Sergeant ||| 192
+30 Seconds to Mars ||| 183
+Supergrass ||| 174
+The Enemy ||| 168
+Rage Against the Machine ||| 164
+The Smiths ||| 160
+Foo Fighters ||| 157
+The Twang ||| 154
+The Jam ||| 132
+The Who ||| 132
+Paul McCartney ||| 129
+Manic Street Preachers ||| 124
+We Are Scientists ||| 112
+Ian Brown ||| 106
+Feeder ||| 101
+Arctic Monkeys ||| 97
+The Smashing Pumpkins ||| 96
+Blur ||| 95
+Queens of the Stone Age ||| 93
+Red Hot Chili Peppers ||| 93
+Modest Mouse ||| 91
+Robbie Williams ||| 90
+Ocean Colour Scene ||| 89
+Coldplay ||| 82
+Weezer ||| 79
+James ||| 78
+blink-182 ||| 77
+Troubadours ||| 77
+## playcount: 37988

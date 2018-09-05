@@ -1,0 +1,51 @@
+Queen ||| 8981
+Leonard Cohen ||| 6162
+Dire Straits ||| 3818
+Robbie Williams ||| 3538
+Nightwish ||| 3028
+Tina Turner ||| 2878
+Elvis Presley ||| 2862
+Rod Stewart ||| 2351
+Vaya Con Dios ||| 2146
+U2 ||| 2067
+Florence + the Machine ||| 1667
+Gossip ||| 1535
+Pink Floyd ||| 1535
+Elton John ||| 1511
+Oasis ||| 1486
+Budka Suflera ||| 1454
+Aerosmith ||| 1447
+Püdelsi ||| 1411
+Freddie Mercury ||| 1410
+Michael Jackson ||| 1379
+Phil Collins ||| 1334
+Roxette ||| 1318
+ATB ||| 1306
+Joe Cocker ||| 1288
+INXS ||| 1198
+Brodka ||| 1178
+Bonnie Tyler ||| 1171
+Bon Jovi ||| 1156
+Roy Orbison ||| 1118
+Peter Gabriel ||| 1095
+Maciej Maleńczuk ||| 1073
+Chris Rea ||| 1050
+Justyna Steczkowska ||| 1035
+Amy Winehouse ||| 1030
+The Rolling Stones ||| 1019
+David Bowie ||| 1010
+Lana Del Rey ||| 1008
+Shakira ||| 999
+P!nk ||| 994
+Bryan Adams ||| 952
+Norah Jones ||| 942
+[unknown] ||| 941
+Adele ||| 888
+Bruce Springsteen ||| 886
+Tom Waits ||| 868
+Anwar ||| 862
+Coldplay ||| 862
+Sting ||| 859
+Deep Purple ||| 846
+Red Hot Chili Peppers ||| 844
+## playcount: 83796

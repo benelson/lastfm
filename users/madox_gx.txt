@@ -1,0 +1,51 @@
+Foo Fighters ||| 1825
+Pearl Jam ||| 1016
+Nirvana ||| 1006
+The Smashing Pumpkins ||| 894
+Wolfgang Amadeus Mozart ||| 768
+Oasis ||| 745
+The Vines ||| 729
+The Hives ||| 663
+Bloc Party ||| 625
+Arctic Monkeys ||| 622
+Queens of the Stone Age ||| 586
+Cage the Elephant ||| 580
+Babyshambles ||| 576
+Blur ||| 573
+Black Rebel Motorcycle Club ||| 560
+Maxïmo Park ||| 557
+Interpol ||| 548
+Limp Bizkit ||| 542
+Radiohead ||| 538
+The Charlatans ||| 533
+The Strokes ||| 515
+Ramones ||| 507
+Them Crooked Vultures ||| 490
+Stone Temple Pilots ||| 485
+Audioslave ||| 481
+Kasabian ||| 478
+Stereophonics ||| 458
+The Subways ||| 455
+Led Zeppelin ||| 451
+Arcade Fire ||| 444
+Soundgarden ||| 416
+The White Stripes ||| 404
+The Libertines ||| 398
+Hole ||| 387
+Alice in Chains ||| 382
+The Rolling Stones ||| 379
+Lights & Motion ||| 372
+The Raconteurs ||| 372
+Supergrass ||| 370
+Violent Soho ||| 369
+Kings of Leon ||| 365
+The Fratellis ||| 363
+Noel Gallagher's High Flying Birds ||| 358
+Garbage ||| 351
+Ocean Colour Scene ||| 328
+Johann Sebastian Bach ||| 325
+Pixies ||| 323
+The Kooks ||| 322
+London Philharmonic Orchestra ||| 320
+The Verve ||| 311
+## playcount: 26465

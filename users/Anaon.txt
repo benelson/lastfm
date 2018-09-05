@@ -1,0 +1,51 @@
+Genesis ||| 1277
+Yes ||| 1032
+Pink Floyd ||| 1018
+The Beatles ||| 839
+Marillion ||| 835
+Mike Oldfield ||| 734
+Camel ||| 733
+Von Hertzen Brothers ||| 566
+Magma ||| 537
+Jethro Tull ||| 529
+Deep Purple ||| 525
+Neal Morse ||| 499
+Rush ||| 497
+Santana ||| 443
+Opeth ||| 439
+Dougie MacLean ||| 433
+Ayreon ||| 427
+Iron Maiden ||| 427
+The Decemberists ||| 406
+Steven Wilson ||| 402
+Van der Graaf Generator ||| 400
+Spock's Beard ||| 360
+King Crimson ||| 354
+Queen ||| 350
+Astra ||| 344
+Goblin ||| 336
+ZZ Top ||| 323
+Black Mountain ||| 322
+Gentle Giant ||| 318
+Neil Young ||| 310
+Tenhi ||| 301
+Black Bonzo ||| 298
+Tangerine Dream ||| 290
+Wobbler ||| 281
+Bigelf ||| 276
+Arena ||| 273
+Led Zeppelin ||| 262
+Transatlantic ||| 255
+Peter Hammill ||| 245
+Porcupine Tree ||| 245
+Anathema ||| 242
+Grobschnitt ||| 236
+Steve Hackett ||| 235
+Anekdoten ||| 230
+Judas Priest ||| 230
+Black Country Communion ||| 225
+Lunatic Soul ||| 219
+Pain of Salvation ||| 219
+Premiata Forneria Marconi ||| 219
+The Gathering ||| 213
+## playcount: 21009

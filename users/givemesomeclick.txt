@@ -1,0 +1,51 @@
+Seether ||| 4800
+Slipknot ||| 1813
+Frontside ||| 1164
+Drowning Pool ||| 1076
+Soil ||| 1067
+Stone Sour ||| 1058
+Godsmack ||| 1034
+Machine Head ||| 1018
+Burzum ||| 957
+Mudvayne ||| 881
+Behemoth ||| 602
+Killswitch Engage ||| 574
+DevilDriver ||| 506
+In Flames ||| 481
+Three Days Grace ||| 391
+Disturbed ||| 387
+Korn ||| 369
+Good Charlotte ||| 328
+Shinedown ||| 304
+Skillet ||| 298
+Apocalyptica ||| 224
+Therion ||| 223
+Kalmah ||| 208
+Papa Roach ||| 207
+Dope ||| 205
+Breaking Benjamin ||| 198
+Meshuggah ||| 186
+Korpiklaani ||| 185
+Absu ||| 170
+Rise Against ||| 170
+Agalloch ||| 165
+Gojira ||| 164
+Metallica ||| 161
+Deftones ||| 150
+Belphegor ||| 149
+Evanescence ||| 144
+Saliva ||| 130
+Bloodbath ||| 114
+Rob Zombie ||| 109
+Obscura ||| 108
+P.O.D. ||| 105
+Lamb of God ||| 104
+Staind ||| 102
+System of a Down ||| 100
+Five Finger Death Punch ||| 99
+Pantera ||| 95
+Lifehouse ||| 82
+Hinder ||| 75
+Immortal ||| 75
+Tool ||| 74
+## playcount: 23389

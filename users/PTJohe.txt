@@ -1,0 +1,51 @@
+Led Zeppelin ||| 4904
+Iron Maiden ||| 3634
+Jimi Hendrix ||| 2640
+Pink Floyd ||| 2526
+Megadeth ||| 2372
+The Beatles ||| 2113
+Metallica ||| 1459
+Black Sabbath ||| 1458
+Lynyrd Skynyrd ||| 1253
+Nirvana ||| 1021
+Deep Purple ||| 918
+Guns N' Roses ||| 729
+Thin Lizzy ||| 696
+Queen ||| 676
+Stevie Ray Vaughan ||| 514
+Dire Straits ||| 481
+Creedence Clearwater Revival ||| 470
+Pantera ||| 420
+Scorpions ||| 384
+AC/DC ||| 369
+The Rolling Stones ||| 309
+Diamond Head ||| 296
+The Allman Brothers Band ||| 277
+Blackfoot ||| 266
+Jason Becker ||| 266
+Rory Gallagher ||| 260
+Jethro Tull ||| 253
+Portugal. The Man ||| 246
+The Who ||| 246
+Free ||| 245
+Guthrie Govan ||| 237
+The Doors ||| 182
+Uriah Heep ||| 178
+The Yardbirds ||| 159
+Mötley Crüe ||| 157
+Marty Friedman ||| 136
+Emerson, Lake & Palmer ||| 130
+Zakk Wylde ||| 117
+Eric Clapton ||| 115
+Pride & Glory ||| 109
+Annihilator ||| 103
+Bob Marley ||| 96
+Al Di Meola ||| 90
+The Aristocrats ||| 82
+The Jimi Hendrix Experience ||| 76
+Nothing But Thieves ||| 75
+Avicii ||| 74
+Pearl Jam ||| 73
+Aerosmith ||| 71
+The Offspring ||| 70
+## playcount: 34031

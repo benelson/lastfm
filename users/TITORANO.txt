@@ -1,0 +1,51 @@
+Muse ||| 4456
+Nirvana ||| 1442
+The Beatles ||| 1102
+Pink Floyd ||| 984
+Queen ||| 835
+Foo Fighters ||| 578
+The Strokes ||| 512
+Daft Punk ||| 471
+Queens of the Stone Age ||| 452
+Cícero ||| 402
+Radiohead ||| 382
+Pearl Jam ||| 291
+Apanhador Só ||| 282
+Kasabian ||| 239
+Arctic Monkeys ||| 209
+Primal Scream ||| 199
+Linkin Park ||| 191
+Beirut ||| 186
+Mudhoney ||| 176
+Justice ||| 169
+Os Mutantes ||| 151
+Alice in Chains ||| 150
+Ratatat ||| 133
+Julian Casablancas ||| 123
+La Roux ||| 110
+Red Hot Chili Peppers ||| 109
+Banda do Mar ||| 103
+Led Zeppelin ||| 101
+Ramones ||| 98
+Atoms for Peace ||| 96
+Beady Eye ||| 92
+The White Stripes ||| 92
+Silverchair ||| 91
+CHVRCHES ||| 88
+Coldplay ||| 88
+Amy Winehouse ||| 87
+Cachorro Grande ||| 74
+Tame Impala ||| 72
+Agridoce ||| 66
+Oasis ||| 60
+Wolfmother ||| 60
+David Gilmour ||| 52
+Black Drawing Chalks ||| 50
+Rage Against the Machine ||| 49
+Jamiroquai ||| 47
+The Black Keys ||| 47
+Marcelo Camelo ||| 44
+The Last Shadow Puppets ||| 43
+Stone Temple Pilots ||| 35
+HAIM ||| 34
+## playcount: 16003

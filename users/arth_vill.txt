@@ -1,0 +1,51 @@
+Madonna ||| 91267
+Michael Jackson ||| 39237
+Christina Aguilera ||| 33574
+Nelly Furtado ||| 12942
+Katy Perry ||| 9242
+Rihanna ||| 8839
+Beyoncé ||| 7635
+Lady Gaga ||| 7365
+Shakira ||| 5930
+La Roux ||| 5758
+Justin Timberlake ||| 5572
+P!nk ||| 4615
+Pitty ||| 4468
+Ana Carolina ||| 4375
+Era ||| 4261
+Kylie Minogue ||| 4193
+Mika ||| 3659
+Florence + the Machine ||| 3500
+Evanescence ||| 3377
+Alanis Morissette ||| 3292
+Gwen Stefani ||| 3169
+Jennifer Lopez ||| 2999
+The Pussycat Dolls ||| 2930
+Jessie J ||| 2716
+Janelle Monáe ||| 2625
+M.I.A. ||| 2574
+Sia ||| 2494
+Robyn ||| 2481
+Janet Jackson ||| 2416
+No Doubt ||| 2388
+Timbaland ||| 2379
+Legião Urbana ||| 2377
+Avril Lavigne ||| 1765
+Black Eyed Peas ||| 1724
+Britney Spears ||| 1702
+Kelly Clarkson ||| 1542
+t.A.T.u. ||| 1539
+Ciara ||| 1467
+Maroon 5 ||| 1404
+Taylor Swift ||| 1194
+Destiny's Child ||| 1171
+Enrique Iglesias ||| 1151
+Nicki Minaj ||| 1125
+David Guetta ||| 1124
+Woodkid ||| 1052
+Fergie ||| 1049
+Ke$ha ||| 1039
+ABBA ||| 995
+Everything But the Girl ||| 962
+Skrillex ||| 905
+## playcount: 317559

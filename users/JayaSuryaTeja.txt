@@ -1,0 +1,51 @@
+Radiohead ||| 747
+Nirvana ||| 644
+Tom Waits ||| 627
+Sonic Youth ||| 595
+Neil Young ||| 567
+Led Zeppelin ||| 532
+The Rolling Stones ||| 504
+Gorillaz ||| 481
+The Beatles ||| 479
+Pink Floyd ||| 422
+The Smashing Pumpkins ||| 412
+U2 ||| 410
+Bob Dylan ||| 403
+Manic Street Preachers ||| 389
+David Bowie ||| 388
+Kraftwerk ||| 369
+Kanye West ||| 357
+BROCKHAMPTON ||| 341
+2Pac ||| 338
+Drake ||| 335
+The Who ||| 332
+Carly Simon ||| 313
+My Bloody Valentine ||| 311
+Eminem ||| 308
+OutKast ||| 307
+The Beach Boys ||| 301
+Talib Kweli ||| 298
+Ty Segall ||| 293
+Metallica ||| 289
+The Cranberries ||| 285
+Pulp ||| 284
+Richard Clayderman ||| 282
+Arctic Monkeys ||| 273
+Air Supply ||| 271
+Green Day ||| 271
+Johann Sebastian Bach ||| 271
+Max Richter ||| 269
+Queens of the Stone Age ||| 269
+Belle and Sebastian ||| 261
+Red Hot Chili Peppers ||| 260
+Black Sabbath ||| 258
+Coldplay ||| 239
+Fats Domino ||| 238
+Jimi Hendrix ||| 236
+Rihanna ||| 235
+The Doors ||| 230
+Elvis Presley ||| 229
+John Frusciante ||| 227
+Captain Beefheart & His Magic Band ||| 223
+Beck ||| 222
+## playcount: 17425

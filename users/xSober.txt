@@ -1,0 +1,51 @@
+Tool ||| 10555
+The Gathering ||| 3308
+A Perfect Circle ||| 2097
+Cradle of Filth ||| 1923
+Type O Negative ||| 1843
+dredg ||| 1795
+Placebo ||| 1593
+Within Temptation ||| 1501
+Guns N' Roses ||| 1498
+Epica ||| 1460
+Alice in Chains ||| 1382
+Lacuna Coil ||| 1357
+Tristania ||| 1328
+Katatonia ||| 1294
+The Smiths ||| 1278
+Rishloo ||| 1221
+Yngwie Malmsteen ||| 1214
+Stratovarius ||| 1203
+Portishead ||| 1096
+Anathema ||| 1083
+Bear McCreary ||| 1079
+Children of Bodom ||| 1061
+Haggard ||| 1024
+Riverside ||| 1004
+Nine Inch Nails ||| 961
+Morrissey ||| 954
+Aesma Daeva ||| 924
+Nightwish ||| 875
+Kamelot ||| 856
+Amplifier ||| 849
+Iced Earth ||| 845
+Xandria ||| 827
+Arcturus ||| 802
+Lucybell ||| 791
+Lacrimosa ||| 784
+Symphony X ||| 776
+Virgin Black ||| 739
+Deftones ||| 725
+Dimmu Borgir ||| 723
+John Williams ||| 723
+Jimi Hendrix ||| 710
+Janis Joplin ||| 708
+Beseech ||| 691
+Elfonía ||| 690
+Massive Attack ||| 675
+Theatre of Tragedy ||| 671
+After Forever ||| 646
+The Mars Volta ||| 637
+Tenacious D ||| 635
+Howard Shore ||| 628
+## playcount: 64042

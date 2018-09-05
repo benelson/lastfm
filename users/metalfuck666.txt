@@ -1,0 +1,51 @@
+Overkill ||| 300
+Megadeth ||| 198
+DevilDriver ||| 197
+AC/DC ||| 175
+Pantera ||| 152
+In Flames ||| 126
+Corrosion of Conformity ||| 119
+Strapping Young Lad ||| 109
+Dimmu Borgir ||| 108
+Soilwork ||| 99
+Down ||| 90
+Artillery ||| 83
+Machine Head ||| 82
+Iron Maiden ||| 80
+Annihilator ||| 75
+Exodus ||| 74
+Testament ||| 73
+Devin Townsend Project ||| 72
+Sepultura ||| 72
+Napalm Death ||| 61
+Chrome Division ||| 60
+Morbid Angel ||| 59
+Novembers Doom ||| 55
+Arch Enemy ||| 52
+Keep of Kalessin ||| 52
+Grave ||| 51
+Deathwitch ||| 49
+Devin Townsend ||| 49
+Decadence ||| 48
+Obituary ||| 46
+Black Label Society ||| 38
+Iced Earth ||| 38
+Samael ||| 38
+Alice in Chains ||| 37
+Static-X ||| 37
+Tool ||| 37
+Death ||| 35
+Hypocrisy ||| 34
+Skid Row ||| 34
+Terror 2000 ||| 34
+Myrath ||| 33
+Metal Church ||| 32
+Unleashed ||| 32
+Rage ||| 31
+Airbourne ||| 30
+Cage ||| 30
+Septicflesh ||| 29
+Powerwolf ||| 28
+Lamb of God ||| 27
+Zimmers Hole ||| 27
+## playcount: 3527

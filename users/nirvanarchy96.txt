@@ -1,0 +1,51 @@
+Nirvana ||| 831
+Pantera ||| 297
+Seether ||| 223
+Paramore ||| 192
+Pierce The Veil ||| 183
+R.E.M. ||| 171
+Ramones ||| 159
+Circa Survive ||| 152
+Black Veil Brides ||| 140
+Escape the Fate ||| 140
+Foo Fighters ||| 133
+Red Hot Chili Peppers ||| 128
+System of a Down ||| 116
+The Beatles ||| 101
+Sonic Youth ||| 98
+Pink Floyd ||| 87
+The Velvet Underground ||| 82
+Dance Gavin Dance ||| 76
+Babes in Toyland ||| 74
+Rise Against ||| 68
+Adolescents ||| 63
+Modest Mouse ||| 60
+Mudhoney ||| 60
+The Vaselines ||| 55
+Misfits ||| 53
+The Doors ||| 52
+Alice in Chains ||| 49
+Black Flag ||| 48
+Goo Goo Dolls ||| 48
+David Bowie ||| 47
+Pearl Jam ||| 47
+The Killers ||| 47
+Cannibal Corpse ||| 45
+Coldplay ||| 45
+Johnny Cash ||| 45
+Iron Maiden ||| 44
+Neutral Milk Hotel ||| 42
+The Cure ||| 40
+Alesana ||| 39
+Bob Dylan ||| 33
+Gorillaz ||| 33
+Jimi Hendrix ||| 29
+Smile Empty Soul ||| 29
+The Stooges ||| 29
+Dinosaur Jr. ||| 28
+Eminem ||| 27
+Five Finger Death Punch ||| 26
+Arcade Fire ||| 25
+Metallica ||| 23
+All That Remains ||| 22
+## playcount: 4684

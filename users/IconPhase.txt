@@ -1,0 +1,51 @@
+Textures ||| 2949
+Mnemic ||| 2602
+Korn ||| 2436
+Nine Inch Nails ||| 2246
+Gojira ||| 2124
+Tool ||| 2027
+The Contortionist ||| 1861
+Oceansize ||| 1829
+Deftones ||| 1661
+Meshuggah ||| 1652
+Opeth ||| 1391
+Fear Factory ||| 1377
+Mastodon ||| 1271
+Metallica ||| 1260
+Alice in Chains ||| 1258
+Slipknot ||| 1225
+Static-X ||| 1163
+Chimaira ||| 1121
+Queens of the Stone Age ||| 1109
+Lamb of God ||| 1099
+Sybreed ||| 1086
+Architects ||| 1037
+Foo Fighters ||| 1017
+Machine Head ||| 1004
+In Flames ||| 970
+A Perfect Circle ||| 957
+The Acacia Strain ||| 928
+Dagoba ||| 924
+Muse ||| 924
+Sepultura ||| 901
+Killswitch Engage ||| 899
+System of a Down ||| 897
+Mudvayne ||| 884
+Primus ||| 884
+DevilDriver ||| 883
+Hacride ||| 880
+Glassjaw ||| 879
+Porcupine Tree ||| 851
+Benea Reach ||| 822
+Shadows Fall ||| 804
+Structures ||| 800
+Faith No More ||| 795
+Raunchy ||| 790
+The Smashing Pumpkins ||| 786
+Synthetic Breed ||| 780
+Trivium ||| 780
+Guns N' Roses ||| 768
+Soundgarden ||| 760
+Down ||| 759
+The Dillinger Escape Plan ||| 725
+## playcount: 59835

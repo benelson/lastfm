@@ -1,0 +1,51 @@
+Elvis Presley ||| 1020
+Arctic Monkeys ||| 679
+The Beatles ||| 640
+Franz Ferdinand ||| 471
+The Killers ||| 466
+The Kooks ||| 407
+Jet ||| 389
+MGMT ||| 292
+Babyshambles ||| 289
+The Used ||| 266
+The Subways ||| 262
+Placebo ||| 218
+Avril Lavigne ||| 215
+Oasis ||| 201
+Nickelback ||| 199
+Zемфира ||| 196
+ABBA ||| 195
+Fall Out Boy ||| 185
+Lenny Kravitz ||| 182
+Touch and Go ||| 174
+Bob Marley & The Wailers ||| 162
+Aerosmith ||| 160
+The Kinks ||| 159
+Brainstorm ||| 152
+Roxette ||| 142
+Muse ||| 141
+Frank Sinatra ||| 136
+JMFH ||| 116
+Nine Inch Nails ||| 115
+Tricky ||| 115
+U2 ||| 113
+Red Hot Chili Peppers ||| 107
+Ace of Base ||| 105
+Стиляги ||| 104
+Black Eyed Peas ||| 101
+The Hives ||| 101
+Creedence Clearwater Revival ||| 98
+Chuck Berry ||| 96
+Звери ||| 94
+Clockwork Times ||| 93
+Мумий Тролль ||| 92
+Элизиум ||| 88
+Bonobo ||| 87
+Christina Aguilera ||| 83
+[unknown] ||| 79
+Louis Armstrong ||| 78
+The Cure ||| 78
+Ber-linn ||| 77
+Ray Charles ||| 74
+AC/DC ||| 72
+## playcount: 10164

@@ -1,0 +1,51 @@
+Coldplay ||| 7659
+Taylor Swift ||| 3532
+Bombay Bicycle Club ||| 2817
+Vanguart ||| 2125
+Kings of Leon ||| 1880
+The Killers ||| 1683
+The Strokes ||| 1526
+Arctic Monkeys ||| 1435
+Two Door Cinema Club ||| 1328
+She & Him ||| 1134
+Snow Patrol ||| 1075
+Death Cab for Cutie ||| 1036
+Arcade Fire ||| 990
+Radiohead ||| 954
+Keane ||| 937
+The Kooks ||| 789
+The Smiths ||| 767
+Silva ||| 747
+Aqualung ||| 732
+Clarice Falcão ||| 701
+Phoenix ||| 659
+Phill Veras ||| 655
+Owl City ||| 577
+Paramore ||| 577
+Birdy ||| 564
+Capital Inicial ||| 553
+Bob Dylan ||| 547
+Moptop ||| 530
+Young the Giant ||| 501
+Beirut ||| 494
+Florence + the Machine ||| 480
+Alabama Shakes ||| 478
+OneRepublic ||| 415
+Frank Sinatra ||| 410
+Vampire Weekend ||| 377
+Augustana ||| 356
+Morrissey ||| 345
+Maroon 5 ||| 337
+Cage the Elephant ||| 315
+<Artista Desconhecido> ||| 312
+Katy Perry ||| 309
+Muse ||| 286
+The Temper Trap ||| 283
+Karen O and the Kids ||| 280
+The Fratellis ||| 274
+Alex Turner ||| 269
+Noah and the Whale ||| 249
+Adele ||| 233
+Natasha Bedingfield ||| 232
+Skank ||| 221
+## playcount: 45965

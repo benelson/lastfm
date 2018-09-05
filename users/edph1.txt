@@ -1,0 +1,51 @@
+Mariah Carey ||| 21084
+Carrie Underwood ||| 13126
+Beyoncé ||| 12436
+Kelly Clarkson ||| 9215
+Rihanna ||| 9004
+Christina Aguilera ||| 8372
+Lady Gaga ||| 8258
+Taylor Swift ||| 6330
+Miranda Lambert ||| 6313
+Madonna ||| 6104
+Britney Spears ||| 5708
+Leona Lewis ||| 5694
+Reba McEntire ||| 5588
+P!nk ||| 5367
+Lady Antebellum ||| 5320
+Avril Lavigne ||| 5093
+Evanescence ||| 4447
+Alicia Keys ||| 4154
+Shakira ||| 4054
+Kacey Musgraves ||| 3906
+Kylie Minogue ||| 3843
+Ariana Grande ||| 3737
+Anastacia ||| 3717
+Whitney Houston ||| 3329
+Paramore ||| 3190
+Florence + the Machine ||| 3013
+The Band Perry ||| 2998
+Ciara ||| 2871
+Dixie Chicks ||| 2859
+Destiny's Child ||| 2850
+Shania Twain ||| 2781
+Katy Perry ||| 2774
+The Pussycat Dolls ||| 2731
+Zac Brown Band ||| 2682
+Adele ||| 2669
+Toni Braxton ||| 2584
+Nelly Furtado ||| 2449
+Little Big Town ||| 2430
+Céline Dion ||| 2347
+Nicki Minaj ||| 2316
+Jennifer Lopez ||| 2238
+Alexandra Burke ||| 2183
+Miley Cyrus ||| 2172
+Jessie J ||| 2117
+Kelly Rowland ||| 2067
+Ashley Monroe ||| 2044
+Brad Paisley ||| 2042
+Jennifer Hudson ||| 1776
+Hayden Panettiere ||| 1758
+Maren Morris ||| 1703
+## playcount: 227843

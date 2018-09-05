@@ -1,0 +1,51 @@
+Jay-Z ||| 3696
+The Beatles ||| 1428
+Frank Sinatra ||| 661
+Eric Clapton ||| 578
+Duran Duran ||| 554
+Robbie Williams ||| 501
+David Bowie ||| 496
+Elvis Presley ||| 484
+Pink Floyd ||| 437
+Kanye West ||| 435
+The Beach Boys ||| 422
+Miles Davis ||| 418
+The Notorious B.I.G. ||| 376
+The Rolling Stones ||| 362
+Guns N' Roses ||| 308
+Michael Jackson ||| 280
+The Last Shadow Puppets ||| 248
+The Cars ||| 241
+Arctic Monkeys ||| 238
+Nathaniel Rateliff & the Night Sweats ||| 233
+Billy Idol ||| 225
+Ibrahim Ferrer ||| 211
+Genesis ||| 210
+Moby ||| 208
+Queen ||| 207
+Dire Straits ||| 206
+Led Zeppelin ||| 202
+Fugees ||| 193
+Chris Rea ||| 183
+Bryan Ferry ||| 172
+Tears for Fears ||| 170
+The Strokes ||| 159
+Roxy Music ||| 158
+Eagles ||| 150
+Massive Attack ||| 149
+Young Gunz ||| 149
+John Barry ||| 143
+David Holmes ||| 141
+DMX ||| 139
+Amy Winehouse ||| 138
+Prefab Sprout ||| 138
+U2 ||| 138
+Buena Vista Social Club ||| 136
+Marvin Gaye ||| 134
+Talk Talk ||| 133
+Madonna ||| 131
+Isaac Hayes ||| 127
+New Order ||| 126
+Pixies ||| 126
+Phil Collins ||| 125
+## playcount: 17223

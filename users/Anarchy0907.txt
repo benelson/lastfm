@@ -1,0 +1,51 @@
+Metallica ||| 614
+Opeth ||| 600
+Iron Maiden ||| 457
+Megadeth ||| 456
+Mastodon ||| 412
+Moonspell ||| 403
+Katatonia ||| 391
+Paradise Lost ||| 390
+In Flames ||| 362
+Testament ||| 346
+Anathema ||| 324
+Death ||| 311
+Amorphis ||| 302
+Slayer ||| 296
+Nile ||| 278
+Deftones ||| 273
+System of a Down ||| 273
+Marilyn Manson ||| 250
+Amon Amarth ||| 245
+Royal Blood ||| 240
+Trivium ||| 231
+Bloodbath ||| 224
+Gojira ||| 219
+Machine Head ||| 218
+A Perfect Circle ||| 217
+Swallow the Sun ||| 211
+Cannibal Corpse ||| 209
+Arch Enemy ||| 199
+Sepultura ||| 187
+Foo Fighters ||| 183
+Exodus ||| 181
+My Dying Bride ||| 181
+Lamb of God ||| 178
+Behemoth ||| 173
+Kreator ||| 173
+Children of Bodom ||| 169
+Guns N' Roses ||| 167
+Epica ||| 166
+Cradle of Filth ||| 165
+Dark Tranquillity ||| 148
+Nirvana ||| 148
+Dream Theater ||| 134
+Draconian ||| 133
+Muse ||| 130
+Arctic Monkeys ||| 128
+Annihilator ||| 126
+Pink Floyd ||| 121
+Morbid Angel ||| 114
+Alice in Chains ||| 113
+Lacuna Coil ||| 110
+## playcount: 12279

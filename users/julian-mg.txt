@@ -1,0 +1,32 @@
+dustbox ||| 2
+Los Cafres ||| 2
+Mad Caddies ||| 2
+Nirvana ||| 2
+Rufio ||| 2
+The Suicide Machines ||| 2
+Babasónicos ||| 1
+Bad Astronaut ||| 1
+Foo Fighters ||| 1
+Goldfinger ||| 1
+Kapanga ||| 1
+La Oreja de Van Gogh ||| 1
+Lagwagon ||| 1
+Less Than Jake ||| 1
+Los Abuelos de la Nada ||| 1
+Los Pericos ||| 1
+Los Piojos ||| 1
+Millencolin ||| 1
+Mojiganga ||| 1
+MxPx ||| 1
+New Found Glory ||| 1
+No Use for a Name ||| 1
+NOFX ||| 1
+Nonpalidece ||| 1
+Pearl Jam ||| 1
+Red Hot Chili Peppers ||| 1
+Strung Out ||| 1
+Sublime ||| 1
+The Offspring ||| 1
+This Is A Standoff ||| 1
+Vicentico ||| 1
+## playcount: 37

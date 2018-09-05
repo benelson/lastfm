@@ -1,0 +1,51 @@
+Pink Floyd ||| 4619
+Led Zeppelin ||| 3620
+UFO ||| 2425
+Whitesnake ||| 1742
+Deep Purple ||| 1717
+Black Sabbath ||| 1330
+Eric Clapton ||| 1265
+Rory Gallagher ||| 1199
+Emerson, Lake & Palmer ||| 1176
+Rush ||| 1077
+Rainbow ||| 1067
+Creedence Clearwater Revival ||| 1038
+Camel ||| 1008
+Jethro Tull ||| 948
+Scorpions ||| 893
+Engenheiros Do Hawaii ||| 858
+Thin Lizzy ||| 762
+The Jimi Hendrix Experience ||| 758
+Metallica ||| 571
+Grand Funk Railroad ||| 561
+Uriah Heep ||| 530
+Neil Young ||| 523
+Bad Company ||| 495
+Elvis Presley ||| 484
+Kansas ||| 476
+Accept ||| 463
+Bob Dylan ||| 446
+Chuck Berry ||| 440
+Cream ||| 430
+King Crimson ||| 422
+The Yardbirds ||| 420
+Nazareth ||| 411
+Eagles ||| 405
+The Doors ||| 401
+The Who ||| 401
+Johnny Cash ||| 396
+Saxon ||| 359
+Kiss ||| 352
+Wishbone Ash ||| 329
+Lynyrd Skynyrd ||| 316
+Journey ||| 315
+Boston ||| 288
+Free ||| 285
+Dire Straits ||| 281
+Queen ||| 270
+John Fogerty ||| 255
+AC/DC ||| 248
+Foghat ||| 245
+The Beatles ||| 245
+Bachman-Turner Overdrive ||| 244
+## playcount: 39809

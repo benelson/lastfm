@@ -1,0 +1,51 @@
+Green Day ||| 80
+Little Dragon ||| 64
+Queen ||| 59
+Foals ||| 42
+Portishead ||| 39
+Skaters ||| 31
+White Lung ||| 30
+Motörhead ||| 27
+Кино ||| 23
+The Soft Moon ||| 22
+blink-182 ||| 19
+Elvis Presley ||| 19
+Type O Negative ||| 19
+Bikini Kill ||| 18
+ABBA ||| 16
+Sonic Youth ||| 16
+Devendra Banhart ||| 15
+Kings of Leon ||| 14
+Wu-Tang Clan ||| 13
+Die Antwoord ||| 12
+Led Zeppelin ||| 12
+Mac DeMarco ||| 12
+Warpaint ||| 12
+Kurt Vile ||| 11
+Nils Frahm ||| 11
+Pulp ||| 11
+Silversun Pickups ||| 11
+Nirvana ||| 10
+Danzig ||| 9
+Domantas Razauskas ||| 8
+The Doors ||| 8
+Tom Waits ||| 8
+Beach House ||| 7
+King Krule ||| 7
+The Dead Weather ||| 7
+Dead Skeletons ||| 6
+Explosions in the Sky ||| 6
+Jimi Hendrix ||| 6
+Metallica ||| 6
+The xx ||| 6
+Billie Holiday ||| 5
+Black Marble ||| 5
+Bob Marley & The Wailers ||| 5
+Cloud Nothings ||| 5
+Cream ||| 5
+Pixies ||| 5
+The Jesus and Mary Chain ||| 5
+The Smiths ||| 5
+Unknown Mortal Orchestra ||| 5
+AC/DC ||| 4
+## playcount: 801

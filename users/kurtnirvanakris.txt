@@ -1,0 +1,51 @@
+Nirvana ||| 56033
+Foo Fighters ||| 48169
+Alice in Chains ||| 26218
+The Smashing Pumpkins ||| 25380
+Green Day ||| 19698
+The Beatles ||| 19508
+Big Time Rush ||| 18055
+Soundgarden ||| 14095
+Pearl Jam ||| 12050
+Red Hot Chili Peppers ||| 6826
+Michael Jackson ||| 5810
+One Direction ||| 5381
+Muse ||| 4415
+Coldplay ||| 4377
+Meat Puppets ||| 4262
+Justin Timberlake ||| 4259
+Mudhoney ||| 3993
+Queens of the Stone Age ||| 3393
+The Killers ||| 3350
+Arctic Monkeys ||| 2933
+Stone Temple Pilots ||| 2885
+The Strokes ||| 2643
+The Cure ||| 2619
+Beastie Boys ||| 2447
+Bob Marley & The Wailers ||| 2348
+Melvins ||| 2276
+The Rolling Stones ||| 2228
+Ne-Yo ||| 2221
+Oasis ||| 1955
+Incubus ||| 1939
+Anberlin ||| 1820
+MGMT ||| 1676
+Maroon 5 ||| 1656
+Kings of Leon ||| 1468
+Cage the Elephant ||| 1358
+Sonic Youth ||| 1329
+Weezer ||| 1316
+Imagine Dragons ||| 1293
+Stevie Wonder ||| 1190
+The Beach Boys ||| 1097
+Usher ||| 1097
+Aerosmith ||| 1081
+Bad Religion ||| 1080
+Audioslave ||| 1078
+Bruno Mars ||| 1077
+The Bravery ||| 1074
+R.E.M. ||| 1055
+Radiohead ||| 1035
+John Lennon ||| 996
+Jane's Addiction ||| 984
+## playcount: 336526

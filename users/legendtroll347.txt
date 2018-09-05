@@ -1,0 +1,51 @@
+Lights ||| 2955
+Sum 41 ||| 974
+Death Cab for Cutie ||| 900
+Eminem ||| 793
+Johnny Cash ||| 752
+Bright Eyes ||| 747
+Big Deal ||| 735
+Nico Stai ||| 676
+The Head and the Heart ||| 633
+Green Day ||| 628
+Armin van Buuren ||| 602
+Roger Waters ||| 565
+Bloodhound Gang ||| 559
+Lykke Li ||| 557
+Above & Beyond ||| 536
+The Killers ||| 483
+The Cinematic Orchestra ||| 450
+Taylor Swift ||| 447
+Silversun Pickups ||| 430
+Cake ||| 425
+blink-182 ||| 399
+The xx ||| 394
+Cypress Hill ||| 385
+Santigold ||| 380
+Yeah Yeah Yeahs ||| 373
+CKY ||| 360
+Tiësto ||| 352
+Arctic Monkeys ||| 341
+Example ||| 331
+The Echo-Friendly ||| 327
+Grouplove ||| 323
+Crywank ||| 320
+Frank Sinatra ||| 320
+Blind Pilot ||| 295
+José González ||| 295
+Shiny Toy Guns ||| 295
+Alexander Popov ||| 288
+Edward Sharpe & The Magnetic Zeros ||| 286
+Belle and Sebastian ||| 264
+Ice Cube ||| 251
+Markus Schulz ||| 245
+Just Jack ||| 242
+Caught a Ghost ||| 238
+Dash Berlin ||| 237
+Kasabian ||| 236
+Ludovico Einaudi ||| 236
+High Highs ||| 235
+Imaginary Friend ||| 231
+Hans Zimmer ||| 225
+Imagine Dragons ||| 225
+## playcount: 23776

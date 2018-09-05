@@ -1,0 +1,51 @@
+NOFX ||| 1345
+Green Day ||| 966
+Nick Cave & The Bad Seeds ||| 936
+Bad Religion ||| 857
+Nine Inch Nails ||| 805
+Pearl Jam ||| 770
+Pink Floyd ||| 744
+Misfits ||| 720
+Radiohead ||| 702
+Eels ||| 696
+CMX ||| 636
+Rancid ||| 606
+Frank Zappa ||| 591
+Oasis ||| 586
+David Bowie ||| 582
+Arctic Monkeys ||| 575
+Foo Fighters ||| 557
+Beastie Boys ||| 548
+Rush ||| 534
+Mokoma ||| 523
+Red Hot Chili Peppers ||| 519
+Primus ||| 517
+The Dandy Warhols ||| 505
+Against Me! ||| 501
+Ramones ||| 495
+System of a Down ||| 493
+Pixies ||| 477
+Descendents ||| 452
+Weezer ||| 441
+Kauko Röyhkä ||| 396
+Absoluuttinen nollapiste ||| 386
+Turbonegro ||| 350
+PJ Harvey ||| 345
+Queens of the Stone Age ||| 345
+Alice in Chains ||| 342
+blink-182 ||| 342
+Soundgarden ||| 342
+A Perfect Circle ||| 333
+The Beatles ||| 324
+Jane's Addiction ||| 322
+Faith No More ||| 320
+Beck ||| 312
+YUP ||| 311
+Guns N' Roses ||| 307
+Nirvana ||| 307
+Korn ||| 295
+Neil Young ||| 293
+Placebo ||| 291
+TV on the Radio ||| 272
+Type O Negative ||| 268
+## playcount: 25482

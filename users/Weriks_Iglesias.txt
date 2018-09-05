@@ -1,0 +1,51 @@
+Motörhead ||| 2760
+Aerosmith ||| 2563
+Black Sabbath ||| 1838
+The Doors ||| 1804
+Helloween ||| 1648
+Van Halen ||| 1403
+Kiss ||| 1298
+Guns N' Roses ||| 1231
+Mötley Crüe ||| 1178
+Whitesnake ||| 1131
+Ozzy Osbourne ||| 1100
+Pink Floyd ||| 1097
+Raul Seixas ||| 1067
+Joy Division ||| 1060
+Iron Maiden ||| 1032
+Os Paralamas Do Sucesso ||| 986
+Judas Priest ||| 926
+Ramones ||| 909
+Ratt ||| 894
+Bon Jovi ||| 845
+Wrathchild ||| 821
+David Bowie ||| 726
+AC/DC ||| 708
+Led Zeppelin ||| 641
+Accept ||| 603
+Extreme ||| 594
+Angra ||| 570
+Deep Purple ||| 561
+Eric Clapton ||| 554
+Metallica ||| 530
+Queen ||| 496
+Megadeth ||| 491
+Velhas Virgens ||| 488
+Dokken ||| 486
+Kid Abelha ||| 427
+The Beatles ||| 424
+The Darkness ||| 414
+Legião Urbana ||| 410
+Warrant ||| 410
+Titãs ||| 393
+Engenheiros Do Hawaii ||| 387
+Poison ||| 384
+Sepultura ||| 370
+Raimundos ||| 365
+Zé Geraldo ||| 365
+Barão Vermelho ||| 348
+U2 ||| 346
+King Kobra ||| 339
+Cazuza ||| 324
+Warlock ||| 317
+## playcount: 41062

@@ -1,0 +1,51 @@
+Metallica ||| 164
+Misfits ||| 110
+Accept ||| 88
+Yann Tiersen ||| 56
+Opeth ||| 45
+Foo Fighters ||| 41
+Iron Maiden ||| 35
+Megadeth ||| 26
+Barón Rojo ||| 25
+Artillery ||| 24
+Manowar ||| 24
+Dio ||| 20
+Incubus ||| 19
+Angel Witch ||| 18
+Anthrax ||| 18
+The Offspring ||| 16
+Ramones ||| 15
+Testament ||| 15
+AC/DC ||| 14
+Coldplay ||| 14
+Slayer ||| 13
+Armored Saint ||| 10
+Motörhead ||| 10
+D.R.I. ||| 8
+Grim Reaper ||| 8
+Yngwie Malmsteen ||| 8
+Demon ||| 7
+Indestroy ||| 7
+Queen ||| 6
+[unknown] ||| 6
+Aterciopelados ||| 5
+Aerosmith ||| 4
+Jorge Drexler ||| 4
+Led Zeppelin ||| 4
+Robbie Williams ||| 4
+Stevie Ray Vaughan ||| 4
+Stevie Ray Vaughan and Double Trouble ||| 4
+Bon Jovi ||| 3
+Havok ||| 3
+John Wetton ||| 3
+Nickelback ||| 3
+Raven ||| 3
+3 Doors Down ||| 2
+Al Bowlly ||| 2
+Audioslave ||| 2
+Bloodhound Gang ||| 2
+Cake ||| 2
+Cheap Trick ||| 2
+Coroner ||| 2
+Def Leppard ||| 2
+## playcount: 930

@@ -1,0 +1,51 @@
+Hello Seahorse! ||| 456
+Morrissey ||| 359
+Marina & the Diamonds ||| 312
+Adanowsky ||| 233
+Pet Shop Boys ||| 215
+Antony and the Johnsons ||| 201
+Scissor Sisters ||| 188
+Gorillaz ||| 183
+Gossip ||| 166
+Goldfrapp ||| 148
+Placebo ||| 126
+Rihanna ||| 117
+Röyksopp ||| 108
+Thievery Corporation ||| 103
+The Mars Volta ||| 102
+Yeah Yeah Yeahs ||| 92
+The Presets ||| 89
+Empire of the Sun ||| 78
+Air ||| 75
+Kings of Leon ||| 73
+La Roux ||| 72
+Arcade Fire ||| 70
+Klaxons ||| 67
+Bat for Lashes ||| 66
+Sébastien Tellier ||| 58
+Florence + the Machine ||| 57
+Radiohead ||| 54
+Nirvana ||| 53
+Clinic ||| 52
+Zoé ||| 52
+The Flaming Lips ||| 50
+Juliette Lewis ||| 49
+MGMT ||| 48
+Muse ||| 48
+Weezer ||| 47
+The Coral ||| 46
+Hurts ||| 45
+Miami Horror ||| 45
+Juliette and the Licks ||| 44
+Kid Cudi ||| 43
+Buika ||| 42
+Interpol ||| 42
+Band of Horses ||| 41
+Russian Red ||| 41
+Nortec Collective ||| 40
+Two Door Cinema Club ||| 40
+Cher ||| 38
+Daft Punk ||| 36
+Hot Chip ||| 36
+Matisyahu ||| 36
+## playcount: 4882

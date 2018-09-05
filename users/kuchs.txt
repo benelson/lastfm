@@ -1,0 +1,51 @@
+Gorillaz ||| 1071
+Arctic Monkeys ||| 952
+Pink Floyd ||| 910
+Portishead ||| 626
+Aphex Twin ||| 464
+Moby ||| 454
+CHVRCHES ||| 406
+Massive Attack ||| 369
+Kasabian ||| 344
+Phantogram ||| 337
+Röyksopp ||| 328
+Die Antwoord ||| 322
+Royal Blood ||| 305
+Daft Punk ||| 298
+The Last Shadow Puppets ||| 290
+Florence + the Machine ||| 289
+Lana Del Rey ||| 286
+Imagine Dragons ||| 275
+RJD2 ||| 268
+Patterns ||| 262
+Placebo ||| 260
+The Heavy ||| 260
+Robbie Williams ||| 247
+The xx ||| 233
+Radiohead ||| 208
+Joy Division ||| 203
+Nirvana ||| 198
+Led Zeppelin ||| 185
+[unknown] ||| 176
+The Strokes ||| 171
+The White Stripes ||| 167
+Tricky ||| 153
+Son Lux ||| 147
+The Dead Weather ||| 144
+Гречка ||| 142
+Sevdaliza ||| 136
+The Black Keys ||| 133
+Depeche Mode ||| 132
+Сальто Назад ||| 132
+David Bowie ||| 131
+Iggy Pop ||| 129
+The Weeknd ||| 127
+Антоха МС ||| 127
+Emika ||| 124
+Bonaparte ||| 123
+Грибы ||| 118
+Oasis ||| 115
+Muse ||| 111
+Foals ||| 110
+Moderat ||| 109
+## playcount: 13607

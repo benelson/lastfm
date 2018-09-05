@@ -1,0 +1,51 @@
+Cage ||| 516
+Incubus ||| 485
+Army of the Pharaohs ||| 483
+Jedi Mind Tricks ||| 470
+Eagles ||| 428
+311 ||| 320
+Steve Miller Band ||| 306
+Slipknot ||| 290
+Sage Francis ||| 263
+Creedence Clearwater Revival ||| 230
+Aesop Rock ||| 214
+Sublime ||| 214
+Cake ||| 199
+1 Ton ||| 187
+Three Days Grace ||| 182
+Stone Temple Pilots ||| 175
+Jay-Z ||| 144
+Primer 55 ||| 129
+Bob Marley & The Wailers ||| 116
+Bone Thugs-N-Harmony ||| 116
+The Weathermen ||| 112
+Wu-Tang Clan ||| 112
+Nappy Roots ||| 101
+Kanye West ||| 100
+A Fine Frenzy ||| 94
+Squeeze ||| 94
+The Rolling Stones ||| 94
+Bon Jovi ||| 87
+Placebo ||| 87
+Rage Against the Machine ||| 82
+Linkin Park ||| 78
+Timbaland ||| 78
+Flobots ||| 77
+Simon & Garfunkel ||| 76
+Soundgarden ||| 76
+Journey ||| 71
+Mudvayne ||| 69
+Atmosphere ||| 67
+Dry Kill Logic ||| 67
+Guns N' Roses ||| 65
+Limp Bizkit ||| 65
+Rise Against ||| 65
+Jason Mraz ||| 64
+Lynyrd Skynyrd ||| 63
+Beck ||| 62
+Blackalicious ||| 62
+Red Hot Chili Peppers ||| 61
+50 Cent ||| 60
+Dispatch ||| 59
+Disturbed ||| 59
+## playcount: 7774

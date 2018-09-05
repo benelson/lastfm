@@ -1,0 +1,51 @@
+Britney Spears ||| 32093
+Rihanna ||| 8684
+Lady Gaga ||| 5936
+Madonna ||| 4958
+Christina Aguilera ||| 4818
+Katy Perry ||| 4543
+Marina & the Diamonds ||| 3953
+Taylor Swift ||| 3665
+Beyoncé ||| 3450
+Kylie Minogue ||| 2950
+Ke$ha ||| 2674
+Demi Lovato ||| 2586
+Avril Lavigne ||| 2360
+Lana Del Rey ||| 2336
+Ariana Grande ||| 2277
+Mariah Carey ||| 1865
+Miley Cyrus ||| 1846
+Hilary Duff ||| 1597
+Ashley Tisdale ||| 1424
+Shakira ||| 1412
+Selena Gomez & the Scene ||| 1396
+Kelly Clarkson ||| 1251
+Florence + the Machine ||| 1216
+Selena Gomez ||| 1106
+Fifth Harmony ||| 1064
+Nicki Minaj ||| 1062
+Cheryl Cole ||| 1037
+Lily Allen ||| 1026
+Ellie Goulding ||| 1024
+Adele ||| 994
+P!nk ||| 979
+Jennifer Lopez ||| 939
+Iggy Azalea ||| 855
+The Pussycat Dolls ||| 825
+Cher Lloyd ||| 788
+Anahí ||| 753
+Carly Rae Jepsen ||| 752
+Glee Cast ||| 747
+Clarice Falcão ||| 733
+Wonkavision ||| 707
+Anitta ||| 685
+Leona Lewis ||| 683
+Charli XCX ||| 673
+Alanis Morissette ||| 671
+Jessie J ||| 629
+Spice Girls ||| 601
+Paramore ||| 569
+Tove Lo ||| 569
+Girls Aloud ||| 510
+Gwen Stefani ||| 500
+## playcount: 120771

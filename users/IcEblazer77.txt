@@ -1,0 +1,51 @@
+X-Patriate (Alan J. Lipman) ||| 442
+Cat Stevens ||| 230
+Simon & Garfunkel ||| 26
+Jim Croce ||| 22
+James Taylor ||| 21
+Bob Dylan ||| 20
+Don McLean ||| 20
+George Harrison ||| 16
+Elton John ||| 15
+Joan Baez ||| 15
+John Denver ||| 14
+Donovan ||| 13
+Paul McCartney ||| 13
+Paul Simon ||| 13
+John Lennon ||| 12
+Van Morrison ||| 12
+America ||| 9
+Billy Joel ||| 9
+Carole King ||| 9
+The Beatles ||| 9
+Eric Clapton ||| 8
+Crosby, Stills, Nash & Young ||| 7
+Dire Straits ||| 7
+Fleetwood Mac ||| 7
+Nick Drake ||| 7
+The Kinks ||| 7
+The Rolling Stones ||| 7
+David Gray ||| 6
+Eagles ||| 6
+Phil Collins ||| 6
+Sufjan Stevens ||| 6
+Yusuf ||| 6
+Electric Light Orchestra ||| 5
+Harry Nilsson ||| 5
+Jackson Browne ||| 5
+Jethro Tull ||| 5
+Joni Mitchell ||| 5
+Lenny Kravitz ||| 5
+Leonard Cohen ||| 5
+U2 ||| 5
+Ben Lee ||| 4
+Carly Simon ||| 4
+Coldplay ||| 4
+Manfred Mann ||| 4
+Marianne Faithfull ||| 4
+Mary J. Blige ||| 4
+Radiohead ||| 4
+Richard Wagner ||| 4
+The Band ||| 4
+The Guess Who ||| 4
+## playcount: 1100

@@ -1,0 +1,51 @@
+Placebo ||| 4326
+Blackfield ||| 2927
+Massive Attack ||| 2584
+Rishloo ||| 2409
+Muse ||| 2321
+Enya ||| 1859
+Coldplay ||| 1706
+Gazpacho ||| 1670
+Café Del Mar ||| 1658
+Riverside ||| 1616
+Wolverine ||| 1522
+Editors ||| 1444
+Archive ||| 1366
+Amethystium ||| 1274
+The Pineapple Thief ||| 1190
+The Killers ||| 1174
+UNKLE ||| 1173
+The xx ||| 1118
+A Perfect Circle ||| 1114
+Demians ||| 996
+30 Seconds to Mars ||| 954
+dredg ||| 890
+Enigma ||| 871
+Travis ||| 864
+IAMX ||| 840
+Anekdoten ||| 828
+The Mayan Factor ||| 818
+Keane ||| 789
+Schiller ||| 789
+Three Days Grace ||| 784
+Kasabian ||| 777
+The Classic Crime ||| 766
+Antimatter ||| 747
+Conjure One ||| 740
+Porcupine Tree ||| 656
+Radiohead ||| 640
+Red Hot Chili Peppers ||| 628
+Delerium ||| 623
+Lunatic Soul ||| 611
+Abigail's Ghost ||| 598
+RPWL ||| 565
+Indukti ||| 535
+Röyksopp ||| 521
+Arcade Fire ||| 508
+Snow Patrol ||| 500
+Peach ||| 488
+Depeche Mode ||| 459
+Dark Suns ||| 427
+Interpol ||| 417
+The Verve ||| 405
+## playcount: 55485

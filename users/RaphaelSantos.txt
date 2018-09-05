@@ -1,0 +1,51 @@
+Cannibal Corpse ||| 4882
+Metallica ||| 4263
+Megadeth ||| 2160
+Guns N' Roses ||| 1774
+Angra ||| 1702
+Opeth ||| 1688
+Slayer ||| 1668
+Slipknot ||| 1659
+Dream Theater ||| 1585
+Epica ||| 1478
+System of a Down ||| 1465
+Black Sabbath ||| 1398
+Maximum the Hormone ||| 1146
+Sepultura ||| 1108
+Korn ||| 1075
+Blind Guardian ||| 1072
+Iron Maiden ||| 1057
+Led Zeppelin ||| 897
+Planet Hemp ||| 822
+Nirvana ||| 804
+The Prodigy ||| 758
+U2 ||| 733
+Symphony X ||| 703
+Judas Priest ||| 665
+Pearl Jam ||| 663
+Rage Against the Machine ||| 637
+Nightwish ||| 624
+Pantera ||| 613
+Anthrax ||| 596
+Ozzy Osbourne ||| 593
+Whitesnake ||| 582
+Bon Jovi ||| 573
+Radiohead ||| 551
+Vader ||| 537
+Gabriel O Pensador ||| 519
+Muse ||| 514
+Death ||| 497
+Arch Enemy ||| 494
+Testament ||| 488
+ナイトメア ||| 472
+Incubus ||| 469
+Legião Urbana ||| 461
+Carcass ||| 460
+Rise Against ||| 444
+AC/DC ||| 433
+Aerosmith ||| 433
+Red Hot Chili Peppers ||| 430
+Paramore ||| 417
+Children of Bodom ||| 401
+The Rolling Stones ||| 391
+## playcount: 49854

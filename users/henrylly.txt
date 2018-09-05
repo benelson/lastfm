@@ -1,0 +1,51 @@
+Madonna ||| 22145
+Britney Spears ||| 15603
+Christina Aguilera ||| 12093
+Mariah Carey ||| 10428
+Kylie Minogue ||| 8645
+Beyoncé ||| 5946
+Hilary Duff ||| 5393
+Girls Aloud ||| 3257
+Jennifer Lopez ||| 2872
+Cheryl Cole ||| 2359
+Janet Jackson ||| 1808
+Shakira ||| 1743
+The Saturdays ||| 1686
+Cyndi Lauper ||| 1577
+Ellie Goulding ||| 1547
+Céline Dion ||| 1545
+Cher ||| 1464
+Lana Del Rey ||| 1280
+Demi Lovato ||| 1255
+Lindsay Lohan ||| 1207
+Rihanna ||| 1194
+Stevie Nicks ||| 1191
+Whitney Houston ||| 1165
+Lady Gaga ||| 1050
+Miley Cyrus ||| 1048
+Selena Gomez ||| 994
+David Bowie ||| 923
+Avril Lavigne ||| 782
+Marina & the Diamonds ||| 750
+Cheryl ||| 703
+Sophie Ellis-Bextor ||| 689
+Nicole Scherzinger ||| 672
+Gwen Stefani ||| 629
+The Pussycat Dolls ||| 629
+Selena Gomez & the Scene ||| 620
+安室奈美恵 ||| 620
+Ariana Grande ||| 613
+Taylor Swift ||| 544
+McFly ||| 534
+Girlicious ||| 505
+Azealia Banks ||| 494
+Destiny's Child ||| 486
+Paris Hilton ||| 484
+Faith Hill ||| 455
+Alan Menken ||| 413
+Dangerous Muse ||| 393
+Kelis ||| 387
+Ciara ||| 383
+One Direction ||| 369
+Rouge ||| 364
+## playcount: 123936

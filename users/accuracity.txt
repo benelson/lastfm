@@ -1,0 +1,51 @@
+Bright Eyes ||| 3838
+Iron & Wine ||| 3012
+Radiohead ||| 2169
+Bon Iver ||| 1450
+Sufjan Stevens ||| 1417
+The Smiths ||| 1357
+Nirvana ||| 851
+The xx ||| 804
+The Beatles ||| 683
+Crystal Castles ||| 662
+Metric ||| 645
+Belle and Sebastian ||| 627
+Elliott Smith ||| 626
+Beach House ||| 519
+Vampire Weekend ||| 519
+Pink Floyd ||| 509
+John Mayer ||| 419
+Camera Obscura ||| 416
+Tegan and Sara ||| 404
+CocoRosie ||| 398
+Dashboard Confessional ||| 370
+Great Lake Swimmers ||| 366
+The National ||| 340
+Kings of Leon ||| 337
+Sigur Rós ||| 312
+Black Moth Super Rainbow ||| 294
+Emily Haines & The Soft Skeleton ||| 291
+Animal Collective ||| 286
+Fall Out Boy ||| 285
+Led Zeppelin ||| 284
+The Weepies ||| 270
+Drake ||| 265
+jj ||| 257
+Patrick Wolf ||| 247
+The Shins ||| 245
+The Cure ||| 235
+Joy Division ||| 229
+Andrew Bird ||| 226
+Björk ||| 226
+Arcade Fire ||| 220
+Bloc Party ||| 218
+Simon & Garfunkel ||| 218
+My Chemical Romance ||| 212
+Bob Dylan ||| 210
+Fleet Foxes ||| 205
+The Killers ||| 195
+Broken Social Scene ||| 194
+The Decemberists ||| 192
+Daft Punk ||| 188
+The Antlers ||| 184
+## playcount: 28926

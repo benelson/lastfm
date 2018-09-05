@@ -1,0 +1,51 @@
+AREA 27 ||| 120
+Massive Attack ||| 102
+Goldfrapp ||| 100
+Portishead ||| 99
+Björk ||| 90
+Hooverphonic ||| 89
+Moloko ||| 84
+Lamb ||| 83
+Air ||| 81
+Pink Floyd ||| 79
+Radiohead ||| 79
+Tricky ||| 71
+Sneaker Pimps ||| 68
+The Author ||| 64
+Sigur Rós ||| 60
+Coldplay ||| 59
+Sia ||| 54
+Róisín Murphy ||| 49
+Röyksopp ||| 49
+Morcheeba ||| 48
+Télépopmusik ||| 48
+UNKLE ||| 48
+Zero 7 ||| 48
+The Beatles ||| 43
+Faithless ||| 42
+Beck ||| 41
+Flunk ||| 40
+Groove Armada ||| 40
+Cut Copy ||| 39
+Gorillaz ||| 39
+MGMT ||| 38
+Thievery Corporation ||| 38
+Ladytron ||| 37
+Blue Tofu ||| 36
+Emilíana Torrini ||| 36
+Mandalay ||| 36
+Blur ||| 35
+Everything But the Girl ||| 35
+Rodriguez ||| 35
+PJ Harvey ||| 33
+Hot Chip ||| 32
+The Chemical Brothers ||| 32
+Kandinsky Opera ||| 31
+Smoke City ||| 31
+Kosheen ||| 30
+Moby ||| 30
+Fischerspooner ||| 29
+Martina Topley-Bird ||| 29
+Placebo ||| 29
+Émilie Simon ||| 29
+## playcount: 2617

@@ -1,0 +1,51 @@
+[unknown] ||| 578
+Metallica ||| 475
+Therion ||| 456
+Scorpions ||| 428
+Cypress Hill ||| 285
+Habakuk ||| 262
+Rhapsody ||| 258
+Vavamuffin ||| 257
+Dropkick Murphys ||| 242
+Nirvana ||| 220
+U2 ||| 206
+T.Love ||| 176
+Panic! at the Disco ||| 166
+Varius Manx ||| 159
+Lady Pank ||| 153
+System of a Down ||| 148
+Behemoth ||| 147
+Natural Dread Killaz ||| 146
+Myslovitz ||| 145
+Sonata Arctica ||| 145
+Enya ||| 138
+Within Temptation ||| 136
+Big Cyc ||| 131
+THC-X ||| 126
+The Analogs ||| 126
+Lucie Silvas ||| 115
+O.N.A. ||| 115
+Coldplay ||| 110
+Pink Floyd ||| 107
+Infected Mushroom ||| 105
+Nickelback ||| 105
+Rhapsody of Fire ||| 101
+P.O.D. ||| 88
+James Blunt ||| 79
+Korn ||| 79
+Billy Talent ||| 77
+Bob Marley ||| 76
+Gnarls Barkley ||| 74
+The Prodigy ||| 73
+Evanescence ||| 72
+Jean Michel Jarre ||| 71
+Queen ||| 65
+happysad ||| 59
+Johann Sebastian Bach ||| 59
+O.S.T.R. ||| 59
+Tiësto ||| 57
+Linkin Park ||| 53
+The Crystal Method ||| 53
+Wolfgang Amadeus Mozart ||| 51
+3 Doors Down ||| 50
+## playcount: 7662

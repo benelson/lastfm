@@ -1,0 +1,51 @@
+Coldplay ||| 384
+The National ||| 377
+The Kooks ||| 369
+Kings of Leon ||| 312
+Sigur Rós ||| 294
+Modest Mouse ||| 166
+Oasis ||| 164
+Arctic Monkeys ||| 139
+Peter Bjorn and John ||| 128
+Yeah Yeah Yeahs ||| 117
+The Smiths ||| 107
+Arcade Fire ||| 103
+The Verve ||| 103
+Muse ||| 96
+The Killers ||| 94
+We Are Scientists ||| 94
+Snow Patrol ||| 88
+Florence + the Machine ||| 84
+Kasabian ||| 81
+The Temper Trap ||| 80
+The Kinks ||| 78
+Frightened Rabbit ||| 77
+Radiohead ||| 77
+The Kills ||| 76
+Bloc Party ||| 75
+Editors ||| 75
+Franz Ferdinand ||| 75
+Interpol ||| 75
+Blur ||| 69
+U2 ||| 68
+The Stone Roses ||| 67
+TV on the Radio ||| 63
+The Shins ||| 61
+MGMT ||| 60
+The Velvet Underground ||| 60
+White Lies ||| 60
+Portishead ||| 57
+Friendly Fires ||| 54
+Joy Division ||| 53
+Phoenix ||| 51
+The Sunshine Underground ||| 51
+Death Cab for Cutie ||| 50
+Elbow ||| 50
+Red Light Company ||| 49
+The Walkmen ||| 45
+Kaiser Chiefs ||| 43
+Dear and the Headlights ||| 40
+Eagles ||| 40
+Bright Eyes ||| 39
+Feist ||| 38
+## playcount: 5156

@@ -1,0 +1,51 @@
+Madonna ||| 3323
+Lady Gaga ||| 1847
+Avril Lavigne ||| 1829
+Linkin Park ||| 1689
+Michael Bublé ||| 1668
+Alicia Keys ||| 1523
+Evanescence ||| 1470
+ABBA ||| 1215
+Whitney Houston ||| 1119
+The Black Keys ||| 1068
+Kylie Minogue ||| 1005
+Arctic Monkeys ||| 871
+Justin Timberlake ||| 641
+The Beatles ||| 641
+Guns N' Roses ||| 589
+John Lennon ||| 505
+The xx ||| 486
+The Vaccines ||| 453
+Queen ||| 450
+Adele ||| 438
+Bruce Springsteen ||| 428
+Mumford & Sons ||| 405
+Backstreet Boys ||| 364
+Katy Perry ||| 346
+Aaliyah ||| 345
+The Killers ||| 322
+Natalia Kills ||| 282
+Shania Twain ||| 254
+Avicii ||| 227
+Beyoncé ||| 164
+Drake ||| 160
+Christina Aguilera ||| 155
+Lorde ||| 120
+Amy Winehouse ||| 118
+Frank Ocean ||| 109
+David Bowie ||| 106
+The Wanted ||| 106
+Rihanna ||| 104
+The Pretty Reckless ||| 99
+Bruno Mars ||| 94
+Calvin Harris ||| 93
+P!nk ||| 84
+Taylor Swift ||| 77
+Ellie Goulding ||| 68
+Daft Punk ||| 59
+Macklemore & Ryan Lewis ||| 58
+Maroon 5 ||| 56
+Lana Del Rey ||| 51
+Nickelback ||| 45
+Red Hot Chili Peppers ||| 40
+## playcount: 27769

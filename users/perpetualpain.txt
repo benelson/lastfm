@@ -1,0 +1,51 @@
+Iron Maiden ||| 6476
+Dream Theater ||| 5891
+Judas Priest ||| 3985
+Megadeth ||| 2351
+Manowar ||| 2265
+Blackmore's Night ||| 1599
+Yngwie Malmsteen ||| 1253
+Scorpions ||| 1213
+Porcupine Tree ||| 1009
+Pain of Salvation ||| 887
+Motörhead ||| 755
+Annihilator ||| 735
+Joe Satriani ||| 638
+Slayer ||| 634
+Mötley Crüe ||| 622
+Metallica ||| 585
+Rush ||| 523
+Queensrÿche ||| 492
+Pink Floyd ||| 480
+Steve Vai ||| 475
+Kreator ||| 465
+TesseracT ||| 465
+Buckethead ||| 452
+Exodus ||| 449
+King Crimson ||| 449
+W.A.S.P. ||| 436
+Savatage ||| 435
+Paul Gilbert ||| 408
+The Who ||| 405
+Skid Row ||| 355
+Rammstein ||| 354
+Black Sabbath ||| 353
+Pantera ||| 352
+Red Hot Chili Peppers ||| 338
+Genesis ||| 335
+Jordan Rudess ||| 312
+Louis Armstrong ||| 312
+Deep Purple ||| 305
+Aerosmith ||| 298
+Alice in Chains ||| 297
+Jon Lajoie ||| 295
+Ozzy Osbourne ||| 291
+Transatlantic ||| 289
+Foreigner ||| 276
+Pearl Jam ||| 275
+Symphony X ||| 264
+Michael Angelo Batio ||| 263
+Queen ||| 262
+Sodom ||| 262
+Helloween ||| 260
+## playcount: 43180

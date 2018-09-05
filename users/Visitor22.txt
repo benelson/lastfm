@@ -1,0 +1,51 @@
+Red Hot Chili Peppers ||| 265
+Şebnem Ferah ||| 236
+Goodnight Nurse ||| 198
+Queen ||| 191
+Coldplay ||| 186
+Nirvana ||| 152
+Bon Jovi ||| 124
+James Blunt ||| 102
+Travis ||| 101
+Placebo ||| 97
+Avril Lavigne ||| 88
+blink-182 ||| 80
+The Cure ||| 80
+Maroon 5 ||| 78
+Oasis ||| 74
+Green Day ||| 64
+Radiohead ||| 60
+Snow Patrol ||| 55
+Teoman ||| 53
+Blur ||| 52
+Hoobastank ||| 51
+Simple Plan ||| 48
+Evanescence ||| 42
+The Clash ||| 42
+The Offspring ||| 40
+U2 ||| 39
+Sum 41 ||| 36
+Kurban ||| 34
+John Lennon ||| 33
+Franz Ferdinand ||| 32
+Katy Perry ||| 32
+Keane ||| 25
+Kiss ||| 24
+Duman ||| 22
+Korn ||| 21
+Deep Purple ||| 19
+Muse ||| 19
+The Beatles ||| 19
+The Smashing Pumpkins ||| 19
+Billy Talent ||| 17
+Pinhani ||| 17
+David Bowie ||| 16
+Him ||| 16
+Pink Floyd ||| 14
+Rainbow ||| 14
+The Rasmus ||| 14
+Ozzy Osbourne ||| 13
+Alanis Morissette ||| 12
+Amy Winehouse ||| 12
+Jon Bon Jovi ||| 12
+## playcount: 3090

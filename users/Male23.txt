@@ -1,0 +1,51 @@
+Suede ||| 1265
+Blur ||| 1222
+The Strokes ||| 854
+Franz Ferdinand ||| 829
+Talking Heads ||| 797
+Muse ||| 634
+The Smiths ||| 469
+The Stone Roses ||| 388
+David Bowie ||| 373
+Gorillaz ||| 372
+Pulp ||| 371
+New Order ||| 317
+Vampire Weekend ||| 214
+Kasabian ||| 211
+Graham Coxon ||| 185
+Garbage ||| 172
+Joy Division ||| 164
+The Black Keys ||| 159
+Pixies ||| 154
+Morrissey ||| 136
+Elastica ||| 131
+Led Zeppelin ||| 114
+Depeche Mode ||| 106
+The Who ||| 104
+Pink Floyd ||| 100
+Scissor Sisters ||| 91
+The Cure ||| 85
+Julian Casablancas ||| 80
+The Jam ||| 80
+Damon Albarn ||| 76
+The Clash ||| 76
+Interpol ||| 72
+Soda Stereo ||| 64
+Weezer ||| 64
+T. Rex ||| 58
+Bernard Butler ||| 53
+Radiohead ||| 52
+The Breeders ||| 52
+The Kinks ||| 49
+Oasis ||| 47
+Caetano Veloso ||| 45
+Françoise Hardy ||| 44
+The Beatles ||| 44
+The Killers ||| 43
+The Hives ||| 38
+Cream ||| 37
+Paul Weller ||| 36
+Supergrass ||| 36
+Björk ||| 35
+Blondie ||| 35
+## playcount: 11233

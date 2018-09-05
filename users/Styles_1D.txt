@@ -1,0 +1,51 @@
+Britney Spears ||| 12354
+Lady Gaga ||| 8001
+Coldplay ||| 6635
+Avril Lavigne ||| 6122
+Nelly Furtado ||| 3726
+Shakira ||| 3565
+Lily Allen ||| 2802
+Evanescence ||| 2153
+Taylor Swift ||| 2019
+The Killers ||| 1860
+One Direction ||| 1760
+Justin Timberlake ||| 1722
+Lana Del Rey ||| 1638
+Madonna ||| 1570
+No Doubt ||| 1503
+Eminem ||| 1484
+Amy Winehouse ||| 1483
+Gwen Stefani ||| 1481
+P!nk ||| 1407
+Glee Cast ||| 1173
+John Mayer ||| 1119
+Black Eyed Peas ||| 1073
+Beyoncé ||| 1068
+Marina & the Diamonds ||| 1048
+Foster the People ||| 931
+The xx ||| 931
+Simple Plan ||| 880
+My Chemical Romance ||| 829
+Lorde ||| 803
+Arctic Monkeys ||| 766
+Paramore ||| 733
+Christina Aguilera ||| 708
+Kylie Minogue ||| 706
+The Wanted ||| 680
+Jesse & Joy ||| 637
+Ariana Grande ||| 568
+Leighton Meester ||| 552
+Ed Sheeran ||| 551
+Ke$ha ||| 543
+Macklemore & Ryan Lewis ||| 534
+Adele ||| 494
+Katy Perry ||| 479
+Kelly Clarkson ||| 468
+Ellie Goulding ||| 465
+Bruno Mars ||| 464
+Azealia Banks ||| 450
+Linkin Park ||| 450
+Alanis Morissette ||| 449
+Green Day ||| 441
+Ricky Martin ||| 405
+## playcount: 84683

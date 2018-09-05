@@ -1,0 +1,51 @@
+The Beatles ||| 10444
+Bob Dylan ||| 3852
+Arctic Monkeys ||| 2787
+Jethro Tull ||| 2454
+The Killers ||| 2290
+Queen ||| 2053
+The Rolling Stones ||| 1951
+The Zutons ||| 1740
+Simon & Garfunkel ||| 1532
+MGMT ||| 1459
+The Last Shadow Puppets ||| 1327
+Angra ||| 1216
+Pink Floyd ||| 1083
+Ryan Adams & The Cardinals ||| 975
+Fleet Foxes ||| 965
+Red Hot Chili Peppers ||| 962
+The Cure ||| 937
+Dire Straits ||| 919
+Sonata Arctica ||| 908
+Ryan Adams ||| 829
+The Strokes ||| 807
+Nirvana ||| 803
+David Bowie ||| 791
+Avantasia ||| 784
+George Harrison ||| 783
+Mando Diao ||| 732
+Matanza ||| 729
+John Lennon ||| 714
+Mumford & Sons ||| 684
+Nightwish ||| 637
+Iron Maiden ||| 616
+Traveling Wilburys ||| 609
+Viper ||| 607
+Jericho Jones ||| 591
+Titãs ||| 548
+Eddie Vedder ||| 540
+Led Zeppelin ||| 536
+The Kooks ||| 528
+Ringo Starr ||| 522
+Foo Fighters ||| 516
+The Who ||| 510
+Rush ||| 500
+Amy Winehouse ||| 482
+The Police ||| 460
+Johnny Cash ||| 447
+Radiohead ||| 445
+Os Paralamas Do Sucesso ||| 427
+The Band ||| 423
+Urge Overkill ||| 411
+Kansas ||| 408
+## playcount: 58273

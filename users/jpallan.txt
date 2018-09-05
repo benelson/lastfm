@@ -1,0 +1,51 @@
+Guns N' Roses ||| 50
+Nine Inch Nails ||| 46
+Johnny Cash ||| 30
+Arthur Fiedler ||| 28
+The Smashing Pumpkins ||| 26
+Counting Crows ||| 25
+Everlast ||| 22
+The Kinks ||| 22
+The Kingston Trio ||| 21
+Journey ||| 18
+Sublime ||| 18
+Charlie Daniels Band ||| 17
+Everclear ||| 17
+Lenny Kravitz ||| 17
+Bobby Womack & Peace ||| 16
+The Statler Brothers ||| 16
+Aerosmith ||| 15
+Mötley Crüe ||| 15
+Tracy Chapman ||| 15
+Divinyls ||| 14
+Goo Goo Dolls ||| 14
+Live ||| 14
+Smash Mouth ||| 14
+Chris Rock ||| 13
+John Cale ||| 13
+Madonna ||| 13
+The Offspring ||| 13
+Alanis Morissette ||| 12
+Bloodhound Gang ||| 12
+Bowling for Soup ||| 12
+Pulp ||| 12
+Regina Spektor ||| 12
+Chris Cornell ||| 11
+Green Day ||| 11
+Meat Loaf ||| 11
+Moxy Früvous ||| 11
+Paul Simon ||| 11
+The Rolling Stones ||| 11
+Wings ||| 11
+"Weird Al" Yankovic ||| 10
+Beck ||| 10
+Eagles ||| 10
+EVE 6 ||| 10
+Natalie Merchant ||| 10
+Temple of the Dog ||| 10
+Train ||| 10
+Annie Lennox ||| 9
+Barry Louis Polisar ||| 9
+Evanescence ||| 9
+Fountains of Wayne ||| 9
+## playcount: 785

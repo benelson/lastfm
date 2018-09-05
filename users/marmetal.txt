@@ -1,0 +1,51 @@
+Metallica ||| 3418
+Mötley Crüe ||| 2049
+Guns N' Roses ||| 1738
+Alice Cooper ||| 1572
+Slipknot ||| 1251
+Godsmack ||| 1176
+Iron Maiden ||| 1153
+Anthrax ||| 1011
+Black Sabbath ||| 934
+Megadeth ||| 821
+Pantera ||| 801
+Van Halen ||| 784
+AC/DC ||| 687
+Suicidal Tendencies ||| 681
+Rammstein ||| 677
+Avenged Sevenfold ||| 652
+Bullet for My Valentine ||| 593
+Poison ||| 587
+Def Leppard ||| 559
+Diamond Head ||| 551
+Echobrain ||| 548
+Velvet Revolver ||| 535
+Aerosmith ||| 485
+Corrosion of Conformity ||| 485
+Skid Row ||| 462
+Apocalyptica ||| 449
+Trivium ||| 442
+Ratt ||| 439
+Kiss ||| 432
+L.A. Guns ||| 404
+Faith No More ||| 395
+ZZ Top ||| 384
+Dokken ||| 367
+Whitesnake ||| 341
+Venom ||| 295
+Warrant ||| 295
+Motörhead ||| 292
+Stone Temple Pilots ||| 282
+Vince Neil ||| 276
+Sebastian Bach ||| 265
+Tesla ||| 265
+The Jimi Hendrix Experience ||| 262
+Cinderella ||| 259
+Wolfmother ||| 258
+Twisted Sister ||| 246
+Buckcherry ||| 243
+Ozzy Osbourne ||| 225
+Misfits ||| 222
+Alice in Chains ||| 205
+Sixx:A.M. ||| 204
+## playcount: 31957

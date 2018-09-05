@@ -1,0 +1,51 @@
+The Smiths ||| 3083
+Muse ||| 2490
+dEUS ||| 1495
+Radiohead ||| 1484
+Beirut ||| 1097
+Damien Rice ||| 997
+Editors ||| 954
+Bloc Party ||| 902
+The Smashing Pumpkins ||| 702
+The Cinematics ||| 590
+Duran Duran ||| 554
+Arcade Fire ||| 550
+Morrissey ||| 488
+Dave Matthews Band ||| 482
+The Cinematic Orchestra ||| 442
+David Bowie ||| 437
+Joy Division ||| 430
+A Perfect Circle ||| 394
+The National ||| 389
+Coldplay ||| 378
+Cold War Kids ||| 373
+Metric ||| 369
+Yann Tiersen ||| 355
+Elbow ||| 340
+Azure Ray ||| 332
+Billy Corgan ||| 331
+Ella Fitzgerald ||| 324
+Placebo ||| 313
+Cut Copy ||| 307
+Kings of Leon ||| 297
+The Cure ||| 293
+She Wants Revenge ||| 284
+INXS ||| 263
+Air ||| 254
+The Dresden Dolls ||| 247
+The Killers ||| 236
+Zita Swoon ||| 215
+Bauhaus ||| 209
+Interpol ||| 207
+Bernardo Sassetti ||| 193
+LCD Soundsystem ||| 192
+Dave Matthews ||| 176
+The Beatles ||| 163
+Sonic Youth ||| 160
+Soundtrack ||| 154
+Absynthe Minded ||| 138
+Belle and Sebastian ||| 136
+Sigur Rós ||| 127
+The Clash ||| 125
+The Velvet Underground ||| 122
+## playcount: 25573

@@ -1,0 +1,51 @@
+Queen ||| 1056
+Pink Floyd ||| 894
+David Bowie ||| 556
+Mr. Big ||| 493
+Extreme ||| 460
+Aerosmith ||| 345
+Skid Row ||| 297
+Guns N' Roses ||| 290
+Slash ||| 270
+Whitesnake ||| 243
+Adam Lambert ||| 213
+Van Halen ||| 168
+Kiss ||| 154
+Angra ||| 120
+Poison ||| 93
+Oasis ||| 91
+Enigma ||| 89
+Mamonas Assassinas ||| 83
+AC/DC ||| 71
+30 Seconds to Mars ||| 70
+Nicole Scherzinger ||| 67
+Take That ||| 61
+P!nk ||| 56
+The Beatles ||| 55
+Chicago ||| 48
+Lana Del Rey ||| 48
+Creedence Clearwater Revival ||| 47
+Legião Urbana ||| 47
+Deep Purple ||| 45
+Maroon 5 ||| 44
+Kansas ||| 37
+Malta ||| 37
+Roxette ||| 37
+Buckcherry ||| 36
+Led Zeppelin ||| 35
+Metallica ||| 35
+Bryan Adams ||| 34
+JoJo ||| 34
+Lady Gaga ||| 33
+Ne-Yo ||| 33
+Dire Straits ||| 32
+Whitney Houston ||| 32
+Beyoncé ||| 28
+Kelly Clarkson ||| 28
+Queensrÿche ||| 28
+Baby Animals ||| 27
+Michael Jackson ||| 26
+Dança do Ventre ||| 24
+Talking Heads ||| 23
+The Runaways ||| 23
+## playcount: 7196

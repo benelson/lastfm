@@ -1,0 +1,51 @@
+Porcupine Tree ||| 7481
+Mono ||| 3701
+Pink Floyd ||| 3501
+Nine Inch Nails ||| 3408
+Sigur Rós ||| 2783
+Anathema ||| 2727
+Steven Wilson ||| 2544
+Placebo ||| 2040
+Metallica ||| 2030
+Mastodon ||| 2002
+Muse ||| 1826
+Riverside ||| 1807
+Rammstein ||| 1791
+Toundra ||| 1770
+Tool ||| 1588
+The Pineapple Thief ||| 1491
+Opeth ||| 1475
+Led Zeppelin ||| 1411
+Oceansize ||| 1377
+Alice in Chains ||| 1327
+Radiohead ||| 1222
+Foo Fighters ||| 1197
+Héroes del Silencio ||| 1164
+Katatonia ||| 1085
+Grails ||| 1055
+Ghost ||| 1010
+Mogwai ||| 1000
+Deftones ||| 979
+Crippled Black Phoenix ||| 929
+Massive Attack ||| 929
+The Cure ||| 904
+Audioslave ||| 834
+Pure Reason Revolution ||| 825
+Lunatic Soul ||| 816
+A Perfect Circle ||| 806
+UNKLE ||| 772
+Gazpacho ||| 764
+30 Seconds to Mars ||| 746
+Amplifier ||| 703
+Apocalyptica ||| 702
+Demians ||| 664
+Interpol ||| 658
+Kent ||| 626
+Cult of Luna ||| 621
+Havalina ||| 587
+Soundgarden ||| 548
+Pearl Jam ||| 544
+Caspian ||| 531
+Guadalupe Plata ||| 524
+Queens of the Stone Age ||| 509
+## playcount: 72334

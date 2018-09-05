@@ -1,0 +1,51 @@
+Hurt ||| 54
+Glen Hansard and Markéta Irglová ||| 32
+Modest Mouse ||| 32
+Barzin ||| 29
+Coldplay ||| 24
+Creed ||| 24
+Damien Rice ||| 23
+The Smiths ||| 23
+Verdena ||| 23
+The Shins ||| 22
+Arcade Fire ||| 21
+Placebo ||| 21
+Oasis ||| 18
+Radiohead ||| 18
+Paolo Nutini ||| 17
+Blur ||| 16
+Brand New ||| 16
+My Morning Jacket ||| 15
+Remy Zero ||| 15
+Arctic Monkeys ||| 14
+Mogwai ||| 14
+Muse ||| 14
+Pearl Jam ||| 14
+At the Drive-In ||| 13
+Supergrass ||| 13
+Alkaline Trio ||| 12
+Beck ||| 12
+Dave Matthews Band ||| 12
+Interpol ||| 11
+Pink Floyd ||| 11
+Portishead ||| 11
+The Flaming Lips ||| 11
+The Mars Volta ||| 11
+Snow Patrol ||| 10
+Spoon ||| 10
+Afterhours ||| 9
+Band of Horses ||| 9
+Bloc Party ||| 9
+Nirvana ||| 9
+The Cure ||| 9
+The Walkmen ||| 9
+Travis ||| 9
+Counting Crows ||| 8
+Daughtry ||| 8
+Death Cab for Cutie ||| 8
+Explosions in the Sky ||| 8
+Franz Ferdinand ||| 8
+Kasabian ||| 8
+Manic Street Preachers ||| 8
+The Killers ||| 8
+## playcount: 763

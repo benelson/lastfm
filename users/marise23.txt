@@ -1,0 +1,51 @@
+Glee Cast ||| 1189
+John Mayer ||| 1132
+Dave Matthews Band ||| 1025
+Jason Mraz ||| 1008
+Taylor Swift ||| 796
+Adele ||| 614
+Backstreet Boys ||| 497
+Georgina ||| 452
+Our Lady Peace ||| 418
+Paramore ||| 413
+Thrice ||| 404
+Norah Jones ||| 382
+Muse ||| 327
+Juan Luis Guerra ||| 282
+Foo Fighters ||| 272
+Incubus ||| 270
+The Kooks ||| 269
+James Morrison ||| 264
+Bon Iver ||| 239
+Placebo ||| 238
+Katy Perry ||| 228
+Jack Johnson ||| 224
+Alejandro Sanz ||| 203
+Britney Spears ||| 199
+Atreyu ||| 198
+Alanis Morissette ||| 197
+Pearl Jam ||| 187
+Ed Sheeran ||| 183
+Linkin Park ||| 176
+Mumford & Sons ||| 176
+Passenger ||| 170
+Lifehouse ||| 160
+Ashlee Simpson ||| 153
+A Day to Remember ||| 150
+Guaco ||| 148
+Michael Bublé ||| 142
+Radiohead ||| 137
+Kings of Leon ||| 131
+The Lumineers ||| 129
+Christina Aguilera ||| 126
+Eric Clapton ||| 124
+Maldita Nerea ||| 122
+Avenged Sevenfold ||| 112
+Shakira ||| 112
+Foster the People ||| 108
+Goo Goo Dolls ||| 107
+Anberlin ||| 103
+Avril Lavigne ||| 103
+Christina Perri ||| 101
+The Beatles ||| 100
+## playcount: 15000

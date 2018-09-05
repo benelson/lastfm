@@ -1,0 +1,51 @@
+Jack Johnson ||| 2672
+Arcade Fire ||| 1978
+Dead Letter Circus ||| 1943
+Vampire Weekend ||| 1935
+Cog ||| 1882
+Birds of Tokyo ||| 1701
+Modest Mouse ||| 1612
+Train ||| 1586
+Of Monsters and Men ||| 1572
+Joe Satriani ||| 1542
+Norah Jones ||| 1515
+Maroon 5 ||| 1472
+The Beatles ||| 1360
+Lorde ||| 1353
+Michael Zgliniecki ||| 1249
+Angels & Airwaves ||| 1236
+Avalanche City ||| 1221
+Florence + the Machine ||| 1167
+Kings of Leon ||| 1132
+Ryan Adams ||| 1103
+Children Collide ||| 1095
+Filter ||| 1095
+Coldplay ||| 1081
+Foster the People ||| 1048
+Ed Sheeran ||| 1016
+Tame Impala ||| 963
+John Mayer ||| 950
+Lifehouse ||| 908
+Phoenix ||| 893
+Jason Mraz ||| 846
+Radiohead ||| 830
+The Kooks ||| 809
+New Empire ||| 770
+dredg ||| 709
+The Butterfly Effect ||| 670
+Carmen Warrington ||| 638
+My Morning Jacket ||| 622
+The Killers ||| 612
+The Offspring ||| 594
+Nine Inch Nails ||| 586
+Snow Patrol ||| 586
+Gotye ||| 581
+The Black Keys ||| 573
+Linkin Park ||| 563
+Neon Trees ||| 539
+Red Hot Chili Peppers ||| 503
+OneRepublic ||| 494
+The Shins ||| 484
+Kasabian ||| 475
+Bon Iver ||| 460
+## playcount: 53224

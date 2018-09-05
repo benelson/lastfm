@@ -1,0 +1,51 @@
+Pulp ||| 6987
+The Smiths ||| 6533
+Nick Cave & The Bad Seeds ||| 4498
+Bauhaus ||| 3670
+Morrissey ||| 3446
+Mark Lanegan ||| 2312
+The National ||| 1803
+Peter Murphy ||| 1710
+Grinderman ||| 1517
+Bob Dylan ||| 1331
+The Jam ||| 1310
+Einstürzende Neubauten ||| 1145
+Joy Division ||| 1095
+Jeff Buckley ||| 1075
+Nick Cave & Warren Ellis ||| 1014
+Radiohead ||| 940
+Suede ||| 873
+T. Rex ||| 854
+Dave Matthews Band ||| 810
+Jake Bugg ||| 670
+Isobel Campbell & Mark Lanegan ||| 664
+Nick Cave ||| 641
+Oasis ||| 605
+Noel Gallagher ||| 561
+The Stone Roses ||| 558
+New Order ||| 549
+Arctic Monkeys ||| 537
+Mick Harvey ||| 531
+Brendan Perry ||| 526
+Dave Matthews ||| 516
+Dead Can Dance ||| 472
+Bruce Springsteen ||| 471
+Faun ||| 438
+Jarvis Cocker ||| 433
+Omnia ||| 431
+Lana Del Rey ||| 423
+Rufus Wainwright ||| 362
+David Bowie ||| 349
+Blur ||| 344
+Johnny Cash ||| 342
+Current 93 ||| 340
+Echo & the Bunnymen ||| 337
+The Rolling Stones ||| 319
+Brett Anderson ||| 318
+Nacho Vegas ||| 308
+Les Petits Chanteurs de Saint-Marc ||| 303
+Bruce Springsteen & The E Street Band ||| 298
+The Tallest Man on Earth ||| 286
+The Doors ||| 268
+Rowland S. Howard ||| 258
+## playcount: 56381

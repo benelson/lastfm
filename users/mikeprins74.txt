@@ -1,0 +1,51 @@
+INXS ||| 76
+Crowded House ||| 67
+Neil Finn ||| 60
+Doves ||| 42
+Coldplay ||| 37
+Starsailor ||| 31
+Simple Minds ||| 30
+Foo Fighters ||| 27
+Amy Macdonald ||| 25
+Duran Duran ||| 24
+R.E.M. ||| 24
+Split Enz ||| 24
+Stereophonics ||| 23
+Finn Brothers ||| 22
+The Lightning Seeds ||| 22
+Kevin Bloody Wilson ||| 20
+Muse ||| 20
+Liam Finn ||| 19
+Orchestral Manoeuvres in the Dark ||| 19
+Tim Finn ||| 18
+Bic Runga ||| 17
+Men at Work ||| 17
+AC/DC ||| 16
+Feeder ||| 16
+U2 ||| 16
+Deacon Blue ||| 15
+Depeche Mode ||| 15
+Robert Palmer ||| 15
+Blondie ||| 14
+Elbow ||| 14
+James ||| 14
+Jimmy Barnes ||| 13
+Kirsty MacColl ||| 13
+Simon & Garfunkel ||| 13
+Counting Crows ||| 12
+Midnight Oil ||| 12
+Creed ||| 11
+Keane ||| 11
+Live ||| 11
+Manic Street Preachers ||| 11
+Prince ||| 11
+Suzie McNeil ||| 11
+Ultravox ||| 11
+Weezer ||| 11
+Big Country ||| 10
+Electronic ||| 10
+Snow Patrol ||| 10
+Bruce Springsteen ||| 9
+Garbage ||| 9
+KT Tunstall ||| 9
+## playcount: 1007

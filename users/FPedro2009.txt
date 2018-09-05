@@ -1,0 +1,51 @@
+Jack Johnson ||| 215
+Pink Floyd ||| 174
+Toquinho ||| 111
+Dido ||| 109
+The Cure ||| 103
+The Smiths ||| 99
+New Order ||| 83
+Sarah McLachlan ||| 63
+Skank ||| 62
+Tim Maia ||| 53
+Chico Buarque ||| 52
+Natalie Imbruglia ||| 50
+Vanessa da Mata ||| 50
+Engenheiros Do Hawaii ||| 47
+Nelly Furtado ||| 46
+Jem ||| 45
+Jewel ||| 45
+Duffy ||| 36
+Amy Macdonald ||| 35
+Natasha Bedingfield ||| 35
+Philip Glass ||| 35
+Anastacia ||| 32
+Anna Nalick ||| 32
+Adriana Calcanhotto ||| 31
+Beto Guedes ||| 31
+P!nk ||| 31
+Annie Lennox ||| 30
+Imogen Heap ||| 30
+The Cranberries ||| 29
+Zeca Baleiro ||| 29
+KT Tunstall ||| 28
+Sheryl Crow ||| 28
+Sophie Ellis-Bextor ||| 28
+Texas ||| 28
+David Gilmour ||| 27
+Maria Bethânia ||| 27
+Sia ||| 27
+Lily Allen ||| 26
+Bob Marley & The Wailers ||| 25
+14 Bis ||| 24
+Amy Winehouse ||| 24
+Elis Regina ||| 24
+Katie Melua ||| 24
+The Corrs ||| 24
+Vielliard ||| 24
+Ana Carolina ||| 23
+Caetano Veloso ||| 23
+Fagner ||| 23
+Lenine ||| 23
+Norah Jones ||| 23
+## playcount: 2326

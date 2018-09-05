@@ -1,0 +1,51 @@
+Jack Johnson ||| 1234
+Bon Iver ||| 1233
+Sufjan Stevens ||| 1128
+Guided by Voices ||| 1006
+Noah and the Whale ||| 901
+Yo La Tengo ||| 862
+Beach House ||| 819
+MGMT ||| 740
+Bob Dylan ||| 697
+Lupe Fiasco ||| 642
+The Magnetic Fields ||| 623
+Arcade Fire ||| 605
+Elliott Smith ||| 605
+Mount Eerie ||| 597
+Songs: Ohia ||| 585
+Smak Bang! ||| 570
+Sharon Van Etten ||| 561
+Band of Horses ||| 549
+Johnny Flynn ||| 534
+Modest Mouse ||| 526
+Matt Costa ||| 519
+Damien Jurado ||| 508
+Grizzly Bear ||| 505
+The xx ||| 500
+Cat Power ||| 475
+Deerhunter ||| 473
+Local Natives ||| 471
+Kid Cudi ||| 470
+A Tribe Called Quest ||| 456
+The Velvet Underground ||| 447
+Kanye West ||| 440
+Kings of Convenience ||| 438
+The National ||| 433
+Karen O and the Kids ||| 424
+Neko Case ||| 411
+Magnolia Electric Co. ||| 410
+Broken Bells ||| 391
+Bright Eyes ||| 376
+James Blake ||| 375
+The Smiths ||| 363
+Lambchop ||| 359
+Blue Scholars ||| 356
+Little Joy ||| 350
+Silver Jews ||| 343
+St. Vincent ||| 336
+Iron & Wine ||| 334
+The Black Keys ||| 327
+Sleigh Bells ||| 326
+Mumford & Sons ||| 314
+Beirut ||| 311
+## playcount: 27258

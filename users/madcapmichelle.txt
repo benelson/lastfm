@@ -1,0 +1,51 @@
+Animal Collective ||| 2124
+Pink Floyd ||| 1174
+Led Zeppelin ||| 1146
+The Beatles ||| 1098
+Bob Dylan ||| 953
+Devendra Banhart ||| 691
+Django Reinhardt ||| 567
+Fleet Foxes ||| 546
+The Doors ||| 425
+The Rolling Stones ||| 379
+Syd Barrett ||| 356
+Black Sabbath ||| 305
+The Tallest Man on Earth ||| 278
+System of a Down ||| 235
+Radiohead ||| 194
+The Velvet Underground ||| 192
+Arcade Fire ||| 184
+Nirvana ||| 180
+Leadbelly ||| 175
+Sex Pistols ||| 175
+The Almanac Singers ||| 142
+AC/DC ||| 138
+Born of Osiris ||| 123
+The Who ||| 118
+Robert Johnson ||| 117
+A Perfect Circle ||| 109
+Donovan ||| 105
+Neil Young ||| 103
+Memphis Minnie ||| 101
+John Lennon ||| 97
+Paul McCartney & Wings ||| 95
+Flogging Molly ||| 88
+Grizzly Bear ||| 87
+Joanna Newsom ||| 84
+Beirut ||| 82
+Interpol ||| 82
+Jimi Hendrix ||| 69
+The Strokes ||| 69
+Passion Pit ||| 68
+[unknown] ||| 67
+George Harrison ||| 66
+Janis Joplin ||| 63
+Cage the Elephant ||| 62
+Volumes ||| 62
+Pavement ||| 61
+Stan Getz & Astrud Gilberto ||| 60
+The Animals ||| 60
+Rage Against the Machine ||| 58
+Miles Davis ||| 57
+Cream ||| 55
+## playcount: 13925

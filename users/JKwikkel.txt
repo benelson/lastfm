@@ -1,0 +1,51 @@
+Sum 41 ||| 8880
+Relient K ||| 5393
+Bayside ||| 2468
+Yellowcard ||| 2067
+Bloodhound Gang ||| 1418
+Dashboard Confessional ||| 1298
+Hawk Nelson ||| 1274
+MxPx ||| 1220
+Senses Fail ||| 1164
+Fall Out Boy ||| 1144
+Motion City Soundtrack ||| 1098
+Brand New ||| 1080
+Hawthorne Heights ||| 1078
+Armor for Sleep ||| 1061
+June ||| 1057
+Funeral for a Friend ||| 1046
+Rise Against ||| 981
+AC/DC ||| 973
+MAE ||| 952
+The Used ||| 904
+Marilyn Manson ||| 899
+Good Charlotte ||| 893
+Aiden ||| 807
+Paramore ||| 785
+Goldfinger ||| 765
+blink-182 ||| 760
+Weezer ||| 727
+Silverstein ||| 705
+Zao ||| 690
+The Offspring ||| 682
+Amber Pacific ||| 669
+Haste the Day ||| 668
+Boys Night Out ||| 665
+Zebrahead ||| 649
+Avril Lavigne ||| 632
+Breaking Benjamin ||| 631
+Nodes Of Ranvier ||| 627
+Foo Fighters ||| 616
+Cauterize ||| 615
+Billy Idol ||| 606
+Cartel ||| 603
+Plain White T's ||| 603
+Slipknot ||| 599
+The Junior Varsity ||| 572
+Nirvana ||| 563
+Strata ||| 557
+Tokyo Rose ||| 545
+Green Day ||| 535
+The Early November ||| 532
+Coheed and Cambria ||| 512
+## playcount: 56268

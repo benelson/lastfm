@@ -1,0 +1,51 @@
+blink-182 ||| 7094
+Linkin Park ||| 4860
+Kings of Leon ||| 4357
+Deftones ||| 3661
+Paramore ||| 3242
+30 Seconds to Mars ||| 3241
+Britney Spears ||| 2885
+Massive Attack ||| 2643
+Justice ||| 2573
+The Black Keys ||| 2564
+Kasabian ||| 2487
+Muse ||| 2420
+Boards of Canada ||| 2355
+Angels & Airwaves ||| 2325
+Crystal Castles ||| 2028
+Korn ||| 2009
+Metric ||| 2000
+Avril Lavigne ||| 1993
+Arctic Monkeys ||| 1926
+M83 ||| 1922
+Eminem ||| 1875
+Kanye West ||| 1870
+Florence + the Machine ||| 1865
+Alicia Keys ||| 1825
+The xx ||| 1811
+Daft Punk ||| 1793
+Sum 41 ||| 1792
+Red Hot Chili Peppers ||| 1712
+Beyoncé ||| 1690
+Limp Bizkit ||| 1678
+Lostprophets ||| 1652
+Drake ||| 1593
+Burial ||| 1524
+Green Day ||| 1378
+Depeche Mode ||| 1370
+The Wombats ||| 1349
+Calvin Harris ||| 1316
+Nine Inch Nails ||| 1306
+Two Door Cinema Club ||| 1277
+The Subways ||| 1172
+Cheryl Cole ||| 1165
+The Killers ||| 1150
+Passion Pit ||| 1135
+The Naked and Famous ||| 1133
+Yeah Yeah Yeahs ||| 1111
+Phoenix ||| 1093
+Goldfrapp ||| 1090
+Ellie Goulding ||| 1054
+Evanescence ||| 1052
+James Blake ||| 1041
+## playcount: 101457

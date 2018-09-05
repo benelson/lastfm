@@ -1,0 +1,51 @@
+Pink Floyd ||| 6011
+Grateful Dead ||| 3960
+The Doors ||| 2505
+The Rolling Stones ||| 2240
+Aerosmith ||| 2236
+The Beatles ||| 2034
+Jimi Hendrix ||| 2029
+Eric Clapton ||| 1739
+The Mission ||| 1571
+Steppenwolf ||| 1532
+Jethro Tull ||| 1401
+Led Zeppelin ||| 1362
+AC/DC ||| 1339
+Eloy ||| 1312
+Rory Gallagher ||| 1300
+Porcupine Tree ||| 1288
+The Jimi Hendrix Experience ||| 1247
+Cream ||| 1225
+Dave Mason ||| 1162
+Deep Purple ||| 1073
+Blue Öyster Cult ||| 1068
+ZZ Top ||| 1005
+Fleetwood Mac ||| 928
+Lynyrd Skynyrd ||| 804
+Guns N' Roses ||| 790
+Alice Cooper ||| 768
+Black Stone Cherry ||| 738
+Robin Trower ||| 720
+Blackfield ||| 696
+Black Sabbath ||| 674
+The Yardbirds ||| 668
+Iron Butterfly ||| 664
+Big Brother & The Holding Company ||| 609
+The Runaways ||| 603
+Van Halen ||| 596
+Beck ||| 584
+Motörhead ||| 576
+Jefferson Airplane ||| 563
+Dave Matthews Band ||| 552
+The Who ||| 536
+The Velvet Underground ||| 521
+Kansas ||| 519
+Canned Heat ||| 502
+Whitesnake ||| 489
+Fields of the Nephilim ||| 479
+The Animals ||| 453
+Imagine Dragons ||| 405
+Joe Cocker ||| 398
+Meat Loaf ||| 393
+Bob Dylan ||| 387
+## playcount: 57254

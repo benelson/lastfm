@@ -1,0 +1,51 @@
+Britney Spears ||| 60612
+Michael Jackson ||| 8834
+Justin Timberlake ||| 8624
+Der König der Löwen ||| 4261
+Miley Cyrus ||| 3800
+Disney ||| 3664
+Katy Perry ||| 2816
+Rihanna ||| 2426
+Selena Gomez ||| 2385
+Janet Jackson ||| 2303
+Ariana Grande ||| 2134
+Maroon 5 ||| 1737
+Calvin Harris ||| 1593
+Christina Aguilera ||| 1475
+Madonna ||| 1294
+RuPaul ||| 1274
+Lana Del Rey ||| 1190
+P!nk ||| 1116
+Zayn ||| 1109
+Taylor Swift ||| 1072
+Beyoncé ||| 1037
+Lorde ||| 1031
+Ke$ha ||| 988
+2Pac ||| 911
+Jason Derülo ||| 848
+Black Eyed Peas ||| 824
+Kanye West ||| 754
+Marteria ||| 754
+Lady Gaga ||| 727
+David Guetta ||| 725
+The Pussycat Dolls ||| 700
+Camila Cabello ||| 676
+Justin Bieber ||| 655
+Ed Sheeran ||| 615
+Bruno Mars ||| 590
+Kylie Minogue ||| 553
+Jennifer Lopez ||| 549
+Demi Lovato ||| 546
+The Weeknd ||| 530
+Eminem ||| 523
+Major Lazer x DJ Snake feat. MØ ||| 507
+Emily Jones ||| 496
+Nelly Furtado ||| 493
+Adele ||| 488
+Seeed ||| 470
+Rita Ora ||| 435
+Alan Walker ||| 431
+Tic Tac Toe ||| 428
+Shakira ||| 427
+Bee Gees ||| 423
+## playcount: 132853

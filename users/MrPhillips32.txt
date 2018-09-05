@@ -1,0 +1,51 @@
+The Beatles ||| 5339
+The Strokes ||| 3690
+Green Day ||| 3332
+Legião Urbana ||| 1660
+Raul Seixas ||| 1417
+Arctic Monkeys ||| 1183
+Los Hermanos ||| 1115
+Oasis ||| 1066
+Weezer ||| 955
+Franz Ferdinand ||| 942
+Red Hot Chili Peppers ||| 903
+Maglore ||| 878
+Pearl Jam ||| 729
+Coldplay ||| 717
+Kings of Leon ||| 687
+U2 ||| 671
+Volver ||| 648
+Jimi Hendrix ||| 579
+Vanguart ||| 561
+Linkin Park ||| 468
+Dudé Casado ||| 461
+Charlie Brown JR. ||| 442
+Cômodo Marfim ||| 408
+Vivendo do Ócio ||| 381
+The Cure ||| 354
+O Terno ||| 308
+Apanhador Só ||| 288
+The Offspring ||| 281
+Móveis Coloniais de Acaju ||| 280
+Spoon ||| 278
+Radiohead ||| 272
+Tagore ||| 268
+George Harrison ||| 260
+Tame Impala ||| 256
+The Doors ||| 248
+The Black Keys ||| 240
+Foo Fighters ||| 236
+Nirvana ||| 234
+Ave Sangria ||| 230
+Little Joy ||| 226
+Bob Dylan ||| 218
+Blur ||| 187
+Pieroht ||| 182
+Staind ||| 182
+Led Zeppelin ||| 179
+The White Stripes ||| 177
+Cake ||| 174
+Engenheiros Do Hawaii ||| 162
+The Police ||| 153
+The Jackson 5 ||| 152
+## playcount: 35257

@@ -1,0 +1,51 @@
+Avril Lavigne ||| 2225
+Paramore ||| 596
+Butch Walker ||| 570
+Bob Seger ||| 493
+Lights ||| 417
+Aerosmith ||| 354
+Paul Gilbert ||| 325
+Hey Monday ||| 322
+Green Day ||| 302
+Metallica ||| 285
+Ted Nugent ||| 269
+"Weird Al" Yankovic ||| 192
+Van Halen ||| 157
+John Mellencamp ||| 155
+The Beatles ||| 145
+Led Zeppelin ||| 144
+Marvelous 3 ||| 138
+Jimmy Eat World ||| 121
+Steve Miller Band ||| 96
+Kid Rock ||| 93
+AC/DC ||| 92
+blink-182 ||| 90
+Paul McCartney ||| 86
+Bon Jovi ||| 80
+Lewis Black ||| 78
+Guns N' Roses ||| 76
+Simple Plan ||| 70
+We Are the In Crowd ||| 70
+Rush ||| 67
+Boston ||| 65
+Foghat ||| 65
+Pantera ||| 63
+Ozzy Osbourne ||| 62
+The Beach Boys ||| 62
+Jimi Hendrix ||| 61
+Michelle Branch ||| 59
+Butch Walker and The Black Widows ||| 56
+Die Toten Hosen ||| 56
+The Who ||| 55
+Goo Goo Dolls ||| 53
+ABBA ||| 52
+Blue Öyster Cult ||| 52
+Queen ||| 52
+Tom Petty ||| 51
+Black Sabbath ||| 48
+Echosmith ||| 45
+Lynyrd Skynyrd ||| 45
+Cream ||| 44
+Die Prinzen ||| 44
+Elton John ||| 43
+## playcount: 9241

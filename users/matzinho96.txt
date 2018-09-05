@@ -1,0 +1,51 @@
+Metallica ||| 22858
+Raimundos ||| 2298
+Sonata Arctica ||| 2201
+Guns N' Roses ||| 1709
+Bruce Dickinson ||| 1523
+Red Hot Chili Peppers ||| 1166
+System of a Down ||| 1041
+Angra ||| 993
+Massacration ||| 973
+Iron Maiden ||| 732
+Almah ||| 664
+Ozzy Osbourne ||| 649
+Pantera ||| 536
+Judas Priest ||| 504
+GoRemy ||| 405
+Helloween ||| 404
+Disturbed ||| 381
+AC/DC ||| 355
+Tenacious D ||| 326
+Linkin Park ||| 317
+Eminem ||| 291
+Dream Theater ||| 283
+HammerFall ||| 248
+Matanza ||| 228
+Blind Guardian ||| 206
+Sepultura ||| 180
+Planet Hemp ||| 152
+Scorpions ||| 147
+Three Days Grace ||| 144
+Rammstein ||| 139
+Megadeth ||| 138
+Rage Against the Machine ||| 121
+Black Sabbath ||| 112
+Stratovarius ||| 106
+Bon Jovi ||| 105
+Kiss ||| 83
+Queen ||| 82
+Raul Seixas ||| 82
+Avenged Sevenfold ||| 67
+Yes ||| 60
+Steel Dragon ||| 44
+Aerosmith ||| 36
+Dio ||| 36
+Shaman ||| 28
+Legião Urbana ||| 25
+Motörhead ||| 24
+Slayer ||| 24
+Foo Fighters ||| 22
+Black Label Society ||| 21
+Rush ||| 17
+## playcount: 43286

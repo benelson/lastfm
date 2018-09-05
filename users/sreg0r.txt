@@ -1,0 +1,51 @@
+Architecture in Helsinki ||| 1310
+Hot Chip ||| 937
+Kanye West ||| 881
+The Beatles ||| 868
+Flight of the Conchords ||| 796
+Daft Punk ||| 647
+Curtis Mayfield ||| 610
+Cut Copy ||| 601
+Alicia Keys ||| 586
+Jay-Z ||| 559
+Adele ||| 481
+Major Lazer ||| 477
+Miike Snow ||| 468
+Grimes ||| 466
+The xx ||| 459
+LCD Soundsystem ||| 415
+The Avalanches ||| 411
+Marvin Gaye ||| 393
+Gossip ||| 385
+Jamie xx ||| 361
+SBTRKT ||| 361
+De La Soul ||| 355
+Kaytranada ||| 354
+Beck ||| 353
+The Notorious B.I.G. ||| 336
+Michael Jackson ||| 335
+Bob Marley & The Wailers ||| 319
+The Meters ||| 299
+The Presets ||| 289
+Mina Tindle ||| 281
+Junior Boys ||| 279
+Phoenix ||| 277
+James Brown ||| 273
+Groove Armada ||| 270
+The Roots ||| 266
+The Whitest Boy Alive ||| 261
+The Streets ||| 248
+Kool & The Gang ||| 240
+Girl Talk ||| 234
+Disclosure ||| 232
+Arcade Fire ||| 230
+Breakbot ||| 228
+Crookers ||| 227
+Guru ||| 226
+Wale ||| 226
+A Tribe Called Quest ||| 225
+Curren$y ||| 223
+Radiohead ||| 218
+Sly & The Family Stone ||| 218
+Digable Planets ||| 210
+## playcount: 20204

@@ -1,0 +1,51 @@
+The Beatles ||| 2439
+Sting ||| 1906
+U2 ||| 1827
+Grant Lee Buffalo ||| 1577
+Radiohead ||| 1481
+The Police ||| 1430
+Grant-Lee Phillips ||| 1023
+Beck ||| 988
+Caroline's Spine ||| 988
+Minus the Bear ||| 778
+P.M. Dawn ||| 664
+Mike Doughty ||| 662
+Bob Marley & The Wailers ||| 625
+Stavesacre ||| 621
+Prince ||| 619
+Mutemath ||| 617
+Ween ||| 601
+Dave Matthews Band ||| 600
+Pearl Jam ||| 589
+Van Halen ||| 579
+Led Zeppelin ||| 546
+Miles Davis ||| 541
+R.E.M. ||| 514
+John Mayer ||| 501
+Björk ||| 495
+Paul Simon ||| 480
+Frank Sinatra ||| 479
+Imogen Heap ||| 388
+Paul McCartney ||| 366
+Guns N' Roses ||| 364
+Thrice ||| 357
+Nirvana ||| 351
+Counting Crows ||| 340
+Alice in Chains ||| 334
+The Smashing Pumpkins ||| 334
+Josh Rouse ||| 328
+Billy Joel ||| 318
+The Doors ||| 316
+Vince Guaraldi ||| 316
+Peter Gabriel ||| 314
+David Sylvian ||| 309
+Django Reinhardt ||| 309
+Bob Dylan ||| 295
+Tears for Fears ||| 295
+The Rolling Stones ||| 287
+The Flaming Lips ||| 284
+Jimmy Newquist ||| 282
+Rage Against the Machine ||| 278
+Switchfoot ||| 271
+Newsboys ||| 267
+## playcount: 31473

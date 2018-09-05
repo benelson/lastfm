@@ -1,0 +1,51 @@
+MGMT ||| 745
+Animal Collective ||| 521
+Kanye West ||| 428
+Jay Electronica ||| 421
+Kid Cudi ||| 401
+Gorillaz ||| 367
+Ariel Pink's Haunted Graffiti ||| 316
+Madlib ||| 282
+Aloe Blacc ||| 231
+Clipse ||| 230
+Radiohead ||| 158
+Raekwon ||| 150
+MF DOOM ||| 147
+Yeasayer ||| 116
+J Dilla ||| 111
+Erykah Badu ||| 109
+Nas ||| 91
+Jay Dee ||| 89
+Rick Ross ||| 87
+Andrew Bird ||| 75
+The Roots ||| 69
+Madvillain ||| 68
+Mos Def ||| 67
+Smoke DZA ||| 64
+MF Grimm ||| 63
+Wiz Khalifa ||| 59
+The Beatles ||| 58
+Amon Tobin ||| 57
+Chip tha Ripper ||| 53
+The Beach Boys ||| 53
+Curren$y & Wiz Khalifa ||| 52
+Lupe Fiasco ||| 50
+Akon ||| 49
+De La Soul ||| 48
+Curren$y ||| 47
+Stones Throw ||| 47
+Al Green ||| 44
+Wu-Tang Clan ||| 44
+Mase ||| 43
+Peanut Butter Wolf ||| 43
+The Alchemist ||| 43
+Killah Priest ||| 42
+Ghostface Killah ||| 40
+Janis Joplin ||| 39
+Ane Brun ||| 38
+Big Brother & The Holding Company ||| 38
+Young Jeezy ||| 37
+Jaylib ||| 36
+Alanis Morissette ||| 34
+Koushik ||| 33
+## playcount: 6533

@@ -1,0 +1,51 @@
+Kiss ||| 30088
+Evanescence ||| 20323
+Paramore ||| 8898
+Epica ||| 4284
+Aerosmith ||| 3313
+Nightwish ||| 3102
+Marina & the Diamonds ||| 2862
+HRVRD ||| 2298
+Mötley Crüe ||| 1708
+The Dead Daisies ||| 1640
+Christina Aguilera ||| 1624
+Adele ||| 1406
+Closterkeller ||| 1351
+Within Temptation ||| 1205
+Of Mice & Men ||| 1156
+The Smiths ||| 936
+Asking Alexandria ||| 719
+VersaEmerge ||| 675
+Britney Spears ||| 654
+Herbermind ||| 567
+Marilyn Manson ||| 526
+Hollywood Undead ||| 441
+From Indian Lakes ||| 431
+Deathstars ||| 425
+Oasis ||| 409
+Sirenia ||| 402
+The Dark Element ||| 372
+Hypnogaja ||| 330
+Anthony Green ||| 311
+As Tall As Lions ||| 304
+Bring Me the Horizon ||| 304
+Metallica ||| 281
+Rick James ||| 265
+Tommy Sparks ||| 265
+Lady Gaga ||| 255
+Rammstein ||| 245
+Ozzy Osbourne ||| 228
+You Me at Six ||| 228
+Black Sabbath ||| 220
+Wild Belle ||| 216
+Anavae ||| 213
+Steel Panther ||| 209
+Slipknot ||| 201
+Whitesnake ||| 200
+Linkin Park ||| 196
+Alice Cooper ||| 192
+Mary Lambert ||| 192
+50 Cent ||| 188
+Tristania ||| 185
+Madonna ||| 181
+## playcount: 97224

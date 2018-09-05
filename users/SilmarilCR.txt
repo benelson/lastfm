@@ -1,0 +1,51 @@
+Foo Fighters ||| 4747
+David Bowie ||| 3283
+Metallica ||| 2661
+Queens of the Stone Age ||| 2621
+Red Hot Chili Peppers ||| 2549
+AC/DC ||| 2517
+Arctic Monkeys ||| 2314
+Alice in Chains ||| 2216
+Queen ||| 2216
+Ramones ||| 2170
+The Black Keys ||| 2048
+Motörhead ||| 1968
+Pearl Jam ||| 1964
+The Strokes ||| 1961
+Pink Floyd ||| 1952
+Nirvana ||| 1909
+Led Zeppelin ||| 1901
+Michael Jackson ||| 1844
+Nine Inch Nails ||| 1806
+Depeche Mode ||| 1769
+Beastie Boys ||| 1572
+Misfits ||| 1551
+The Rolling Stones ||| 1511
+Marilyn Manson ||| 1501
+ZZ Top ||| 1410
+Daft Punk ||| 1269
+Stone Temple Pilots ||| 1242
+Aerosmith ||| 1237
+The Beatles ||| 1217
+The Cure ||| 1191
+Audioslave ||| 1155
+Muse ||| 1141
+Them Crooked Vultures ||| 1139
+MGMT ||| 1130
+U2 ||| 1127
+Jamiroquai ||| 1121
+George Thorogood & The Destroyers ||| 1099
+Yeah Yeah Yeahs ||| 1095
+Mötley Crüe ||| 1087
+Johnny Cash ||| 1080
+Radiohead ||| 1063
+Black Sabbath ||| 1054
+The Clash ||| 1031
+Iron Maiden ||| 1014
+The Offspring ||| 1010
+Pixies ||| 989
+The Smashing Pumpkins ||| 934
+Sum 41 ||| 926
+Franz Ferdinand ||| 923
+Gorillaz ||| 922
+## playcount: 81157

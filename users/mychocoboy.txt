@@ -1,0 +1,11 @@
+Lana Del Rey ||| 3
+Big Sean ||| 2
+Jay-Z ||| 2
+Lorde ||| 2
+Coldplay ||| 1
+Daft Punk ||| 1
+Drake ||| 1
+J. Cole ||| 1
+Rihanna ||| 1
+The xx ||| 1
+## playcount: 15

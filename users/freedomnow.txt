@@ -1,0 +1,51 @@
+Tool ||| 125
+Soundgarden ||| 106
+Rage Against the Machine ||| 101
+Johann Sebastian Bach ||| 92
+Limp Bizkit ||| 81
+A Perfect Circle ||| 80
+Audioslave ||| 77
+Frédéric Chopin ||| 76
+Nirvana ||| 76
+Franz Schubert ||| 75
+Wolfgang Amadeus Mozart ||| 75
+Deva Premal ||| 74
+Foo Fighters ||| 72
+Deftones ||| 71
+Alice in Chains ||| 70
+Ludwig van Beethoven ||| 70
+Kitaro ||| 68
+Tricarico ||| 65
+Johannes Brahms ||| 64
+Duran Duran ||| 62
+Antonio Vivaldi ||| 61
+System of a Down ||| 61
+David Bowie ||| 58
+Erik Satie ||| 57
+Stone Temple Pilots ||| 57
+The Who ||| 57
+Claude Debussy ||| 56
+Incubus ||| 55
+Karunesh ||| 55
+The Smashing Pumpkins ||| 55
+Radiohead ||| 54
+Tears for Fears ||| 54
+Felix Mendelssohn ||| 53
+Georg Friedrich Händel ||| 53
+Ravi Shankar ||| 53
+The Rolling Stones ||| 53
+The Doors ||| 52
+Chevelle ||| 51
+Franz Liszt ||| 51
+Krishna Das ||| 51
+Franco Battiato ||| 50
+U2 ||| 50
+Simple Minds ||| 49
+Franz Joseph Haydn ||| 48
+George Harrison ||| 48
+Queen ||| 47
+Coldplay ||| 46
+Queens of the Stone Age ||| 46
+Velvet Revolver ||| 46
+a-ha ||| 45
+## playcount: 3152

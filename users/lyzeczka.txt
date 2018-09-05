@@ -1,0 +1,51 @@
+Chevelle ||| 3202
+Korn ||| 2224
+Six Feet Under ||| 2217
+Sepultura ||| 2192
+Slayer ||| 2123
+Deftones ||| 2090
+Taproot ||| 2055
+Cannibal Corpse ||| 1711
+Pantera ||| 1617
+Rage Against the Machine ||| 1540
+Vader ||| 1517
+Red Hot Chili Peppers ||| 1454
+Machine Head ||| 1420
+System of a Down ||| 1361
+Godsmack ||| 1260
+Fear Factory ||| 1154
+Death ||| 1143
+Sevendust ||| 1126
+Mudvayne ||| 1116
+Napalm Death ||| 1098
+Incubus ||| 1044
+Nickelback ||| 1026
+Soulfly ||| 996
+Chimaira ||| 946
+Acid Drinkers ||| 940
+Metallica ||| 928
+Neaera ||| 925
+Creed ||| 913
+Avenged Sevenfold ||| 902
+Venom ||| 886
+As I Lay Dying ||| 867
+Arch Enemy ||| 859
+Disturbed ||| 858
+Nirvana ||| 825
+Dying Fetus ||| 818
+Papa Roach ||| 804
+Deicide ||| 803
+Kings of Leon ||| 794
+Green Day ||| 782
+Adema ||| 778
+Seether ||| 775
+Static-X ||| 775
+The Offspring ||| 775
+Tool ||| 773
+Kreator ||| 768
+Lamb of God ||| 764
+Slipknot ||| 756
+Children of Bodom ||| 755
+Dry Kill Logic ||| 723
+Staind ||| 721
+## playcount: 58899

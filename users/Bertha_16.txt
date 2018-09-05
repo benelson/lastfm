@@ -1,0 +1,11 @@
+Madonna ||| 75
+Christina Aguilera ||| 70
+Kylie Minogue ||| 29
+Kelly Clarkson ||| 26
+Michael Jackson ||| 19
+Jennifer Lopez ||| 17
+Nelly Furtado ||| 17
+Cyndi Lauper ||| 13
+Shakira ||| 13
+Bananarama ||| 10
+## playcount: 289

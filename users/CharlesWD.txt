@@ -1,0 +1,51 @@
+Paramore ||| 19170
+Coldplay ||| 6707
+Muse ||| 5312
+Selena Gomez & the Scene ||| 4566
+Selena Gomez ||| 4334
+Lana Del Rey ||| 2915
+Avril Lavigne ||| 2806
+Kelly Clarkson ||| 2750
+Linkin Park ||| 2660
+Lady Gaga ||| 2586
+Jessie J ||| 2488
+Demi Lovato ||| 2138
+Katy Perry ||| 1851
+Taylor Swift ||| 1737
+Lorde ||| 1717
+Imagine Dragons ||| 1668
+Birdy ||| 1580
+Travis ||| 1531
+Rihanna ||| 1468
+The Pretty Reckless ||| 1438
+Red Hot Chili Peppers ||| 1427
+Scalene ||| 1334
+Fall Out Boy ||| 1289
+Eric Saade ||| 1129
+Shakira ||| 1097
+Britney Spears ||| 1069
+Ke$ha ||| 1037
+P!nk ||| 946
+Beyoncé ||| 914
+Adele ||| 901
+CHVRCHES ||| 839
+Lady Antebellum ||| 827
+Evanescence ||| 815
+Panic! at the Disco ||| 809
+Ellie Goulding ||| 799
+30 Seconds to Mars ||| 796
+Miley Cyrus ||| 785
+David Guetta ||| 742
+Sia ||| 733
+David Bowie ||| 732
+3OH!3 ||| 711
+Miranda Cosgrove ||| 686
+Twenty One Pilots ||| 604
+Enrique Iglesias ||| 540
+Marina & the Diamonds ||| 537
+Gabrielle Aplin ||| 506
+The Strokes ||| 503
+Ariana Grande ||| 476
+My Chemical Romance ||| 455
+Carly Rae Jepsen ||| 428
+## playcount: 95888

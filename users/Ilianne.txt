@@ -1,0 +1,51 @@
+Queen ||| 3560
+Therion ||| 3008
+Sceptic ||| 2675
+Dżem ||| 1818
+Death ||| 1426
+Guns N' Roses ||| 1258
+Judas Priest ||| 1148
+Virgin Snatch ||| 1109
+Van Halen ||| 1028
+Katie Melua ||| 1023
+Moonspell ||| 1014
+Testament ||| 947
+Samael ||| 750
+Kreator ||| 728
+Pain of Salvation ||| 724
+Deicide ||| 702
+Mortician ||| 696
+Trauma ||| 696
+Iron Maiden ||| 661
+Brian May ||| 642
+Grave Digger ||| 587
+Vital Remains ||| 576
+Helloween ||| 574
+Napalm Death ||| 552
+Deep Purple ||| 548
+Candlemass ||| 518
+Obituary ||| 513
+Closterkeller ||| 511
+Exodus ||| 510
+Kat ||| 489
+Danzig ||| 483
+Metallica ||| 483
+SBB ||| 477
+Bathory ||| 470
+Anathema ||| 469
+Megadeth ||| 469
+Morbid Angel ||| 458
+Jethro Tull ||| 453
+Amon Amarth ||| 448
+The Gathering ||| 448
+Hatesphere ||| 447
+Clannad ||| 430
+Mike Oldfield ||| 423
+Decapitated ||| 422
+Meshuggah ||| 400
+Motörhead ||| 397
+TSA ||| 395
+Black Sabbath ||| 394
+Slayer ||| 393
+The Moon and the Nightspirit ||| 382
+## playcount: 39732

@@ -1,0 +1,51 @@
+Slipknot ||| 620
+Linkin Park ||| 465
+blink-182 ||| 435
+Green Day ||| 419
+My Chemical Romance ||| 395
+Gorillaz ||| 348
+Criolo ||| 339
+Kendrick Lamar ||| 337
+Raimundos ||| 334
+Atreyu ||| 317
+Tenacious D ||| 307
+Foo Fighters ||| 269
+Story of the Year ||| 267
+Escape the Fate ||| 260
+Fall Out Boy ||| 226
+Stone Sour ||| 222
+System of a Down ||| 222
+Weezer ||| 216
+City and Colour ||| 204
+The Used ||| 201
+Paramore ||| 183
+Yellowcard ||| 176
+blessthefall ||| 174
+Arctic Monkeys ||| 173
+Good Charlotte ||| 169
+AC/DC ||| 138
+Incubus ||| 132
+Lady Gaga ||| 122
+Funeral for a Friend ||| 113
+Queens of the Stone Age ||| 113
+Eminem ||| 106
+Rincon Sapiência ||| 104
+Audioslave ||| 103
+Avenged Sevenfold ||| 103
+Gym Class Heroes ||| 97
+Yeah Yeah Yeahs ||| 97
+Death Cab for Cutie ||| 92
+Panic! at the Disco ||| 92
+The White Stripes ||| 91
+Nirvana ||| 82
+Daft Punk ||| 81
+Matchbook Romance ||| 78
+Kate Nash ||| 76
+The Prodigy ||| 76
+Black Tide ||| 75
+Metallica ||| 74
+The Black Crowes ||| 74
+Britney Spears ||| 70
+Amy Winehouse ||| 66
+MF DOOM ||| 66
+## playcount: 9599

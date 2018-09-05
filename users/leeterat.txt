@@ -1,0 +1,51 @@
+happysad ||| 43
+Neuropatia ||| 28
+Eastwest Rockers ||| 27
+Aerosmith ||| 25
+Phil Collins ||| 24
+Pink Floyd ||| 24
+Rage Against the Machine ||| 22
+Nightwish ||| 16
+Dire Straits ||| 15
+Johnny Cash ||| 12
+The Crystal Method ||| 12
+The Police ||| 12
+The Rolling Stones ||| 12
+String Player Gamer ||| 11
+Metallica ||| 10
+Nirvana ||| 10
+Red Hot Chili Peppers ||| 10
+Charlie Parra Del Riego ||| 9
+Jimi Hendrix ||| 9
+Alice in Chains ||| 8
+Fantasy Reborn ||| 8
+Flight of the Conchords ||| 8
+Animetal ||| 7
+Creedence Clearwater Revival ||| 7
+Rhapsody ||| 7
+The Analogs ||| 7
+Bob Marley ||| 6
+Corey Taylor ||| 6
+Don Omar ||| 6
+Maleńczuk & Waglewski ||| 6
+Martin O'Donnell & Michael Salvatori ||| 6
+Poparzeni Kawą Trzy ||| 6
+AbradAb ||| 5
+Cas Haley ||| 5
+Daddy Yankee ||| 5
+Deep Purple ||| 5
+Epica ||| 5
+Gorillaz ||| 5
+Korn ||| 5
+Machinae Supremacy ||| 5
+Stevie Ray Vaughan ||| 5
+Sting ||| 5
+The Beatles ||| 5
+The Mamas & the Papas ||| 5
+Toby Fox ||| 5
+Alan Jackson ||| 4
+Antylista ||| 4
+Beastie Boys ||| 4
+Billy Talent ||| 4
+Dr. Dre ||| 4
+## playcount: 504

@@ -1,0 +1,51 @@
+Morrissey ||| 18950
+The Smiths ||| 11352
+Muse ||| 2293
+Radiohead ||| 1634
+AFI ||| 1627
+David Bowie ||| 1585
+Interpol ||| 1556
+Electric Six ||| 1285
+The Fall ||| 1220
+The Doors ||| 1166
+Sparks ||| 1082
+Tom Waits ||| 1037
+Drs. P ||| 1019
+The Sound ||| 972
+Queens of the Stone Age ||| 911
+System of a Down ||| 909
+Franz Ferdinand ||| 886
+Joy Division ||| 858
+Dead Kennedys ||| 853
+Voltaire ||| 824
+The Cure ||| 814
+Nick Cave & The Bad Seeds ||| 779
+Kraftwerk ||| 773
+Wire ||| 765
+Pixies ||| 757
+Depeche Mode ||| 752
+The Black Keys ||| 739
+Weezer ||| 712
+Lunachicks ||| 708
+NOFX ||| 705
+Patrick Wolf ||| 699
+Yeah Yeah Yeahs ||| 694
+Ramones ||| 678
+Misfits ||| 663
+The Rolling Stones ||| 660
+Placebo ||| 656
+The Clash ||| 637
+The Offspring ||| 634
+Green Day ||| 630
+The Mars Volta ||| 616
+The Kinks ||| 569
+Type O Negative ||| 569
+Gene ||| 550
+Public Image Ltd. ||| 520
+R.E.M. ||| 520
+Rammstein ||| 517
+Devo ||| 513
+Half Man Half Biscuit ||| 511
+PJ Harvey ||| 502
+Blur ||| 501
+## playcount: 71362

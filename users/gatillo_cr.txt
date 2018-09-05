@@ -1,0 +1,51 @@
+Tool ||| 7354
+La Dispute ||| 4906
+Radiohead ||| 4116
+Pink Floyd ||| 3999
+Massive Attack ||| 3647
+Porcupine Tree ||| 3159
+Zoé ||| 3017
+A Perfect Circle ||| 2846
+Nine Inch Nails ||| 2843
+Opeth ||| 2802
+Deftones ||| 2719
+The Dirty Heads ||| 2248
+Him ||| 1872
+Billy The Kid ||| 1860
+Time's Forgotten ||| 1738
+Henna ||| 1736
+Portugal. The Man ||| 1674
+Alice in Chains ||| 1618
+Sublime ||| 1566
+Portishead ||| 1548
+Pearl Jam ||| 1497
+Soen ||| 1445
+The Neighbourhood ||| 1444
+Blackfield ||| 1360
+Skeletonwitch ||| 1359
+Patterns ||| 1217
+Incubus ||| 1199
+Gojira ||| 1103
+Bullet for My Valentine ||| 1077
+Jarabe de Palo ||| 1073
+As Blood Runs Black ||| 1037
+The Mars Volta ||| 1027
+In Flames ||| 960
+Death ||| 958
+Borknagar ||| 905
+The Doors ||| 892
+OctoPi ||| 889
+Queens of the Stone Age ||| 866
+Cavalera Conspiracy ||| 838
+Mumford & Sons ||| 833
+Lana Del Rey ||| 803
+Nile ||| 777
+Sepultura ||| 765
+The Movement in Codes ||| 753
+Volumes ||| 701
+Arctic Monkeys ||| 587
+Dark Fortress ||| 578
+Dying Fetus ||| 574
+Ismael Serrano ||| 562
+The Faceless ||| 557
+## playcount: 85904

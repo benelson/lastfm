@@ -1,0 +1,51 @@
+Katy Perry ||| 27017
+Lana Del Rey ||| 7369
+Lady Gaga ||| 4706
+Miley Cyrus ||| 3485
+Marina & the Diamonds ||| 2274
+Imagine Dragons ||| 2131
+Florence + the Machine ||| 2003
+The Beatles ||| 1855
+Demi Lovato ||| 1752
+Maroon 5 ||| 1682
+Taylor Swift ||| 1625
+Selena Gomez ||| 1609
+Avril Lavigne ||| 1391
+Britney Spears ||| 1287
+Rihanna ||| 1175
+Christina Aguilera ||| 1174
+Tove Lo ||| 1099
+여자친구 ||| 1012
+Lorde ||| 995
+Beyoncé ||| 994
+Big Time Rush ||| 911
+Clarice Falcão ||| 857
+Bridgit Mendler ||| 856
+Ellie Goulding ||| 840
+Avenged Sevenfold ||| 690
+Arctic Monkeys ||| 676
+Bolbbalgan4 ||| 636
+Ke$ha ||| 594
+Melanie Martinez ||| 568
+Coldplay ||| 551
+Madonna ||| 539
+Dua Lipa ||| 530
+The Wanted ||| 525
+Panic! at the Disco ||| 512
+Nicki Minaj ||| 478
+The Pretty Reckless ||| 465
+McFly ||| 461
+Birdy ||| 452
+2NE1 ||| 449
+Lily Allen ||| 432
+Fall Out Boy ||| 428
+Selena Gomez & the Scene ||| 420
+Iggy Azalea ||| 408
+OneRepublic ||| 405
+Sia ||| 379
+John Mayer ||| 371
+Red Velvet ||| 357
+TWICE ||| 357
+Tiê ||| 335
+Ariana Grande ||| 302
+## playcount: 82419

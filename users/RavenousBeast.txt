@@ -1,0 +1,51 @@
+Van Halen ||| 76
+Ratt ||| 54
+Megadeth ||| 53
+Steelheart ||| 52
+The Doors ||| 52
+Leatherwolf ||| 33
+Great White ||| 30
+Destruction ||| 25
+Iron Maiden ||| 25
+Judas Priest ||| 22
+Lynch Mob ||| 22
+Mötley Crüe ||| 20
+Riot ||| 16
+Shotgun Messiah ||| 16
+David Lee Roth ||| 15
+Tesla ||| 15
+Ozzy Osbourne ||| 13
+Firehouse ||| 12
+Overkill ||| 11
+Winger ||| 11
+Dokken ||| 10
+Bonfire ||| 8
+King Kobra ||| 8
+Pretty Maids ||| 8
+Skid Row ||| 8
+Vandenberg ||| 8
+XYZ ||| 8
+Alestorm ||| 7
+Giant ||| 7
+Metallica ||| 6
+Southgang ||| 6
+Accept ||| 5
+Bang Tango ||| 5
+Oz ||| 5
+Pantera ||| 5
+Gotthard ||| 4
+Hurricane ||| 4
+Road Ratt ||| 4
+Axel Rudi Pell ||| 3
+Badlands ||| 3
+Cry Wolf ||| 3
+Dare ||| 3
+Free ||| 3
+Vinnie Vincent Invasion ||| 3
+Whitesnake ||| 3
+Airbourne ||| 2
+Autograph ||| 2
+Baton Rouge ||| 2
+Bon Jovi ||| 2
+Bullet ||| 2
+## playcount: 720

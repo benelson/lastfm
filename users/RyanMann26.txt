@@ -1,0 +1,51 @@
+Pink Floyd ||| 246
+Gorillaz ||| 242
+Black Sabbath ||| 144
+Tenacious D ||| 143
+Jimi Hendrix ||| 140
+Fleetwood Mac ||| 121
+Die Antwoord ||| 106
+Led Zeppelin ||| 106
+David Bowie ||| 105
+Steve Vai ||| 99
+Megadeth ||| 82
+Childish Gambino ||| 81
+Jefferson Airplane ||| 80
+Cream ||| 66
+Tame Impala ||| 66
+Metallica ||| 65
+Judas Priest ||| 60
+Ozzy Osbourne ||| 54
+The Beatles ||| 51
+Radiohead ||| 49
+Nine Inch Nails ||| 47
+Electric Light Orchestra ||| 43
+Foo Fighters ||| 43
+Kanye West ||| 43
+Blur ||| 41
+Bring Me the Horizon ||| 41
+Dio ||| 41
+Blonde Redhead ||| 40
+Rainbow ||| 39
+Bad Brains ||| 36
+J Dilla ||| 36
+Nirvana ||| 36
+De La Soul ||| 35
+The Doors ||| 35
+Elton John ||| 34
+Queen ||| 29
+Electric Youth ||| 27
+Aerosmith ||| 26
+Iron Maiden ||| 26
+Joe Satriani ||| 25
+UFO ||| 24
+Van Halen ||| 24
+Chance the Rapper ||| 23
+R.E.M. ||| 20
+Jethro Tull ||| 19
+Motörhead ||| 19
+Yo La Tengo ||| 19
+Greta Van Fleet ||| 18
+Santana ||| 17
+Weezer ||| 17
+## playcount: 3029

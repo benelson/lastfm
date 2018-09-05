@@ -1,0 +1,51 @@
+Witold Lutosławski ||| 6994
+Béla Bartók ||| 6834
+Igor Stravinsky ||| 6828
+Frédéric Chopin ||| 6795
+Johann Sebastian Bach ||| 6778
+Ludwig van Beethoven ||| 6370
+Charles Ives ||| 6158
+Wolfgang Amadeus Mozart ||| 5959
+Dmitri Shostakovich ||| 5250
+Karol Szymanowski ||| 5248
+Sergei Rachmaninoff ||| 5150
+Johannes Brahms ||| 4846
+Anton Webern ||| 4556
+Sviatoslav Richter ||| 4493
+Karlheinz Stockhausen ||| 4386
+Henry Purcell ||| 4259
+Antonio Vivaldi ||| 4211
+Maurice Ravel ||| 4186
+Georg Friedrich Händel ||| 4015
+Arnold Schönberg ||| 3918
+Giuseppe Verdi ||| 3794
+Franz Schubert ||| 3700
+Krzysztof Penderecki ||| 3630
+Giacomo Puccini ||| 3604
+Bill Evans ||| 3592
+Erik Satie ||| 3525
+Grigory Sokolov ||| 3314
+Jean Sibelius ||| 3221
+Robert Schumann ||| 3167
+John Coltrane ||| 3097
+Alexander Scriabin ||| 3073
+Benjamin Britten ||| 2989
+Claude Debussy ||| 2962
+Keith Jarrett ||| 2918
+Miles Davis ||| 2885
+György Ligeti ||| 2876
+Charlie Parker ||| 2872
+Evgeny Kissin ||| 2803
+Thelonious Monk ||| 2759
+Sergei Prokofiev ||| 2692
+Pierre Boulez ||| 2640
+Bud Powell ||| 2636
+Modest Petrovich Mussorgsky ||| 2618
+Samuel Barber ||| 2593
+Wiener Philharmoniker ||| 2559
+Claudio Monteverdi ||| 2537
+Sonny Rollins ||| 2392
+Martha Argerich ||| 2380
+Alban Berg ||| 2363
+Berliner Philharmoniker ||| 2328
+## playcount: 195753

@@ -1,0 +1,51 @@
+James Taylor ||| 1202
+X-Patriate (Alan J. Lipman) ||| 664
+Carly Simon ||| 12
+Carole King ||| 11
+Jim Croce ||| 11
+Cat Stevens ||| 9
+Dan Fogelberg ||| 9
+Jackson Browne ||| 9
+Crosby, Stills & Nash ||| 8
+Crosby, Stills, Nash & Young ||| 8
+Don McLean ||| 8
+Gordon Lightfoot ||| 8
+Simon & Garfunkel ||| 8
+Billy Joel ||| 7
+America ||| 6
+Elton John ||| 6
+Joni Mitchell ||| 6
+Al Stewart ||| 5
+Bob Seger ||| 5
+Bonnie Raitt ||| 5
+John Denver ||| 5
+Neil Diamond ||| 5
+Paul Simon ||| 5
+Steve Winwood ||| 5
+Bruce Hornsby ||| 4
+Chicago ||| 4
+Fleetwood Mac ||| 4
+Steely Dan ||| 4
+Sting ||| 4
+The Doobie Brothers ||| 4
+Van Morrison ||| 4
+Ben Taylor ||| 3
+Eagles ||| 3
+Hall & Oates ||| 3
+Harry Chapin ||| 3
+Indigo Girls ||| 3
+Jimmy Buffett ||| 3
+Kenny Loggins ||| 3
+Rickie Lee Jones ||| 3
+Steve Miller Band ||| 3
+Stevie Wonder ||| 3
+Amos Lee ||| 2
+Eric Clapton ||| 2
+Joan Armatrading ||| 2
+Joe Jackson ||| 2
+John Mellencamp ||| 2
+Julian Velard ||| 2
+Linda Ronstadt ||| 2
+Marc Cohn ||| 2
+Rod Stewart ||| 2
+## playcount: 2103

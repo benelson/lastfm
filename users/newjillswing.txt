@@ -1,0 +1,51 @@
+Michael Jackson ||| 5902
+Mariah Carey ||| 5302
+Janet Jackson ||| 4225
+Whitney Houston ||| 2949
+Prince ||| 2163
+Alicia Keys ||| 1766
+Beyoncé ||| 1719
+Diana Ross ||| 1719
+Lana Del Rey ||| 1566
+The Weeknd ||| 1564
+Frank Ocean ||| 1306
+Rihanna ||| 1223
+Sade ||| 1142
+Little Mix ||| 1137
+Aaliyah ||| 1004
+Anita Baker ||| 997
+Brandy ||| 995
+Christina Aguilera ||| 944
+Mary J. Blige ||| 922
+Madonna ||| 906
+Adele ||| 889
+Janelle Monáe ||| 864
+TLC ||| 860
+The Smiths ||| 789
+Toni Braxton ||| 735
+SWV ||| 706
+En Vogue ||| 675
+Rebecca Ferguson ||| 666
+Aretha Franklin ||| 647
+Stevie Wonder ||| 646
+The Jackson 5 ||| 641
+Marvin Gaye ||| 618
+The Jacksons ||| 597
+Miguel ||| 591
+Erykah Badu ||| 583
+Usher ||| 583
+Amy Winehouse ||| 582
+Bruno Mars ||| 561
+New Edition ||| 556
+Emeli Sandé ||| 533
+Amerie ||| 512
+Boyz II Men ||| 506
+Jessie Ware ||| 487
+Alexander O'Neal ||| 482
+Destiny's Child ||| 458
+Stephanie Mills ||| 449
+Karyn White ||| 444
+Ariana Grande ||| 441
+Fiona Apple ||| 441
+Luther Vandross ||| 420
+## playcount: 57413

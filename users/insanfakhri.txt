@@ -1,0 +1,51 @@
+Coldplay ||| 1966
+Foo Fighters ||| 744
+The Script ||| 690
+Keane ||| 685
+Pandai Besi ||| 676
+Efek Rumah Kaca ||| 653
+Ed Sheeran ||| 597
+Radiohead ||| 429
+Sore ||| 424
+Jason Mraz ||| 418
+Kings of Convenience ||| 349
+Christina Perri ||| 339
+L'Alphalpha ||| 330
+Skrillex ||| 317
+Birdy ||| 293
+Tame Impala ||| 253
+Payung Teduh ||| 223
+The Strokes ||| 217
+Sheila On 7 ||| 215
+Raisa ||| 213
+Bag Raiders ||| 211
+Kodaline ||| 204
+He Is We ||| 189
+Jasmine Thompson ||| 166
+Adhitia Sofyan ||| 161
+Bee Gees ||| 161
+Slipknot ||| 161
+The Beatles ||| 152
+danilla ||| 148
+Disclosure ||| 146
+Sabrina ||| 143
+Banda Neira ||| 137
+Young the Giant ||| 133
+Lana Del Rey ||| 132
+Pink Floyd ||| 129
+Five for Fighting ||| 128
+Trivium ||| 128
+Queen ||| 125
+The Vaccines ||| 122
+Hardwell ||| 120
+Sondre Lerche ||| 119
+Mêlée ||| 116
+Daft Punk ||| 113
+Athlete ||| 109
+Galantis ||| 108
+James Blunt ||| 108
+Paramore ||| 105
+Rihanna ||| 102
+Nirvana ||| 101
+Morrissey ||| 100
+## playcount: 14108

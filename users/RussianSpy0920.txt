@@ -1,0 +1,51 @@
+The Beatles ||| 3245
+Nirvana ||| 3150
+Pink Floyd ||| 2461
+The Jimi Hendrix Experience ||| 2098
+Vundabar ||| 1490
+The Doors ||| 1296
+Nine Inch Nails ||| 941
+Aphex Twin ||| 886
+Crystal Castles ||| 849
+Infected Mushroom ||| 792
+System of a Down ||| 790
+Tool ||| 709
+Jimi Hendrix ||| 694
+Fatboy Slim ||| 689
+Daft Punk ||| 643
+Queens of the Stone Age ||| 574
+Pendulum ||| 562
+The Smashing Pumpkins ||| 553
+The Prodigy ||| 537
+Rammstein ||| 504
+Pixies ||| 461
+Grateful Dead ||| 460
+Boards of Canada ||| 452
+The Crystal Method ||| 446
+Gorillaz ||| 424
+Guantanamo Baywatch ||| 413
+Shpongle ||| 407
+Marilyn Manson ||| 386
+Led Zeppelin ||| 377
+The Front Bottoms ||| 371
+The Velvet Underground ||| 353
+Alexander F ||| 328
+The Chemical Brothers ||| 324
+Sonata Arctica ||| 322
+Alice in Chains ||| 315
+blink-182 ||| 284
+Tame Impala ||| 272
+Elvis Depressedly ||| 270
+Sonic Youth ||| 253
+Lazerhawk ||| 244
+Creedence Clearwater Revival ||| 224
+No Parents ||| 222
+Backseat Vinyl ||| 216
+Black Sun Empire ||| 203
+The Beach Boys ||| 201
+Primus ||| 199
+Eagles ||| 197
+Justice ||| 175
+Buffalo Springfield ||| 174
+The Rolling Stones ||| 174
+## playcount: 32610

@@ -1,0 +1,51 @@
+David Gray ||| 6400
+John Mayer ||| 2921
+Coldplay ||| 1531
+Howie Day ||| 1499
+Something Corporate ||| 1376
+The Fray ||| 1066
+Kelly Clarkson ||| 1044
+Damien Rice ||| 826
+Maroon 5 ||| 784
+Teddy Geiger ||| 758
+Gavin DeGraw ||| 738
+The Afters ||| 704
+Dashboard Confessional ||| 658
+Landon Pigg ||| 586
+Fall Out Boy ||| 553
+Jimmy Eat World ||| 528
+Ray LaMontagne ||| 521
+Weezer ||| 519
+Yellowcard ||| 505
+Dave Matthews Band ||| 486
+Graham Colton ||| 456
+Jay-Z ||| 418
+Frou Frou ||| 404
+Keane ||| 400
+50 Cent ||| 396
+Ari Hest ||| 396
+Matchbox Twenty ||| 384
+James Morrison ||| 374
+The Killers ||| 337
+Ashlee Simpson ||| 296
+Beyoncé ||| 268
+The Wallflowers ||| 254
+Mariah Carey ||| 248
+Nick Drake ||| 244
+Jont ||| 242
+Lifehouse ||| 210
+Train ||| 182
+Kanye West ||| 174
+Iron & Wine ||| 156
+R. Kelly ||| 150
+Usher ||| 148
+Green Day ||| 142
+Mario Feat. P.Diddy ||| 142
+Lil Jon ||| 138
+Snoop Dogg ||| 138
+Ciara ||| 136
+Jay-Z and Linkin Park ||| 132
+Rupee ||| 128
+The Pussycat Dolls ||| 128
+James Blunt ||| 124
+## playcount: 31348

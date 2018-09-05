@@ -1,0 +1,51 @@
+Pink Floyd ||| 227
+John Lennon ||| 223
+The Beatles ||| 177
+Guns N' Roses ||| 125
+Alice Cooper ||| 120
+Ozzy Osbourne ||| 86
+Nirvana ||| 78
+David Bowie ||| 67
+Queen ||| 64
+Johnny Cash ||| 62
+The Rolling Stones ||| 62
+Neil Young ||| 57
+Meat Loaf ||| 55
+Chuck Berry ||| 49
+Muse ||| 41
+Sabaton ||| 37
+Tom Waits ||| 36
+Michael Jackson ||| 34
+Elvis Presley ||| 33
+Ben E. King ||| 32
+Bon Jovi ||| 31
+The Doors ||| 28
+Blondie ||| 27
+Bryan Adams ||| 26
+AC/DC ||| 25
+Aerosmith ||| 25
+Nick Cave & The Bad Seeds ||| 25
+Sonic Youth ||| 25
+Led Zeppelin ||| 21
+Circa Waves ||| 20
+Daniel Landa ||| 20
+John Lennon & Yoko Ono ||| 20
+Slade ||| 20
+Ben E. King & The Drifters ||| 19
+Billy Idol ||| 19
+Joan Jett and the Blackhearts ||| 19
+Kiss ||| 19
+Lou Reed ||| 19
+Twisted Sister ||| 19
+Iron Maiden ||| 18
+Ayreon ||| 17
+Little Richard ||| 17
+Warrant ||| 17
+Die Toten Hosen ||| 16
+Ramones ||| 16
+Suzi Quatro ||| 16
+The Who ||| 16
+Bob Dylan ||| 15
+The Cure ||| 15
+Bob Marley & The Wailers ||| 14
+## playcount: 2269

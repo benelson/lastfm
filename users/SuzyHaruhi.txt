@@ -1,0 +1,48 @@
+Bonnie Tyler ||| 3
+D'espairsRay ||| 3
+Alaska ||| 2
+Alice Cooper ||| 2
+Backyard Babies ||| 2
+Blondie ||| 2
+Cream ||| 2
+David Bowie ||| 2
+DIR EN GREY ||| 2
+Judas Priest ||| 2
+Stolen Babies ||| 2
+System of a Down ||| 2
+the GazettE ||| 2
+Tori Amos ||| 2
+Versailles ||| 2
+Alice Nine ||| 1
+Amy Winehouse ||| 1
+Cher ||| 1
+Dave Brubeck ||| 1
+Dire Straits ||| 1
+Elvis Presley ||| 1
+Fangoria ||| 1
+Fleetwood Mac ||| 1
+Guns N' Roses ||| 1
+Iron Maiden ||| 1
+Janis Joplin ||| 1
+Jimi Hendrix ||| 1
+Kansas ||| 1
+Marilyn Manson ||| 1
+Mike Oldfield ||| 1
+Misfits ||| 1
+Moi dix Mois ||| 1
+Nena ||| 1
+Ozzy Osbourne ||| 1
+Rainbow ||| 1
+Rammstein ||| 1
+Rhapsody ||| 1
+Scott Joplin ||| 1
+Siniestro Total ||| 1
+Siouxsie and the Banshees ||| 1
+Skid Row ||| 1
+Spandau Ballet ||| 1
+Stevie Nicks ||| 1
+The Bangles ||| 1
+The Pretenders ||| 1
+Ultravox ||| 1
+Unexpect ||| 1
+## playcount: 64

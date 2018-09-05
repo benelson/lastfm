@@ -1,0 +1,51 @@
+Ramones ||| 2147
+The Rolling Stones ||| 1761
+Johnny Cash ||| 1231
+The Doors ||| 1153
+The Black Keys ||| 1147
+Bob Dylan ||| 945
+Red Hot Chili Peppers ||| 887
+Pink Floyd ||| 860
+The Kinks ||| 589
+The Beatles ||| 536
+Hausmagger ||| 512
+Black Sabbath ||| 437
+Gorgoroth ||| 392
+Ian Dury ||| 383
+Patrick Wolf ||| 364
+DeWolff ||| 361
+The Cure ||| 360
+Psychic Ills ||| 352
+David Bowie ||| 336
+The Stranglers ||| 324
+Svartsot ||| 316
+Tom Waits ||| 294
+Queen ||| 286
+Motörhead ||| 265
+Eluveitie ||| 254
+The Stooges ||| 241
+Howlin' Wolf ||| 236
+Crass ||| 222
+Led Zeppelin ||| 211
+De Dijk ||| 197
+Alice Cooper ||| 194
+Cymande ||| 190
+Jimi Hendrix ||| 172
+The Clash ||| 163
+AC/DC ||| 141
+Kaiser Chiefs ||| 137
+Leonard Cohen ||| 134
+Franz Ferdinand ||| 133
+Rotting Christ ||| 121
+Nirvana ||| 118
+Eric Clapton ||| 112
+Metallica ||| 106
+L.A. Witch ||| 104
+Taake ||| 104
+Powerwolf ||| 99
+Syd Barrett ||| 95
+Sex Pistols ||| 91
+Amon Amarth ||| 88
+Golden Earring ||| 86
+Pauw ||| 85
+## playcount: 20072

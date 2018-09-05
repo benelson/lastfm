@@ -1,0 +1,51 @@
+Marillion ||| 2686
+Iron Maiden ||| 1534
+Anthrax ||| 856
+Avantasia ||| 802
+Saxon ||| 614
+Megadeth ||| 588
+Fish ||| 546
+Ray Wilson ||| 476
+H ||| 437
+Spock's Beard ||| 369
+Dio ||| 357
+Coheed and Cambria ||| 356
+King's X ||| 321
+Faith No More ||| 282
+Scorpions ||| 260
+Slayer ||| 255
+Queensrÿche ||| 241
+Metallica ||| 237
+Helloween ||| 231
+John Wesley ||| 231
+Armored Saint ||| 227
+Alter Bridge ||| 217
+Black Sabbath ||| 208
+Red Hot Chili Peppers ||| 205
+Testament ||| 204
+Bon Jovi ||| 195
+Sixx:A.M. ||| 195
+Ozzy Osbourne ||| 193
+Bruce Dickinson ||| 187
+Warrior Soul ||| 171
+Motörhead ||| 169
+Judas Priest ||| 166
+Dream Theater ||| 165
+Living Colour ||| 161
+Rush ||| 156
+Edguy ||| 142
+U2 ||| 138
+Gazpacho ||| 134
+Jorn ||| 133
+Guns N' Roses ||| 124
+Pearl Jam ||| 122
+Heaven & Hell ||| 117
+Muse ||| 115
+Biffy Clyro ||| 108
+Stratovarius ||| 108
+The Reasoning ||| 108
+Genesis ||| 107
+Stereophonics ||| 105
+The Wonder Stuff ||| 103
+Whitesnake ||| 103
+## playcount: 16265

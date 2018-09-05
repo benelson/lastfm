@@ -1,0 +1,51 @@
+Madonna ||| 54296
+P!nk ||| 25598
+Taylor Swift ||| 25379
+Rihanna ||| 19944
+Alicia Keys ||| 19158
+Adele ||| 14081
+Christina Aguilera ||| 10950
+Cher ||| 10323
+Sade ||| 10106
+Amy Macdonald ||| 8229
+Lana Del Rey ||| 6820
+Eminem ||| 6066
+Katy Perry ||| 5718
+Robbie Williams ||| 5415
+Coldplay ||| 4641
+Shakira ||| 4285
+Bruce Springsteen ||| 3919
+Nelly Furtado ||| 3822
+Black Eyed Peas ||| 3442
+Kelis ||| 3380
+Ke$ha ||| 3353
+Marina & the Diamonds ||| 3221
+Ellie Goulding ||| 2855
+Kelly Clarkson ||| 2574
+Leona Lewis ||| 2452
+Lorde ||| 2317
+Nicki Minaj ||| 2296
+Jess Glynne ||| 1774
+Calvin Harris ||| 1733
+Imagine Dragons ||| 1674
+Macklemore & Ryan Lewis ||| 1563
+Avril Lavigne ||| 1530
+Kylie Minogue ||| 1498
+Maroon 5 ||| 1469
+Whitney Houston ||| 1364
+Bruno Mars ||| 1343
+Kiesza ||| 1254
+Justin Timberlake ||| 1232
+The Chainsmokers ||| 1204
+You+Me ||| 1197
+Dido ||| 1126
+Tina Turner ||| 1111
+Anne-Marie ||| 1074
+Aura Dione ||| 1072
+Emeli Sandé ||| 1031
+Milow ||| 1030
+Lily Allen ||| 1029
+Lena ||| 985
+Drake ||| 974
+Roxette ||| 922
+## playcount: 293829

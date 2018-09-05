@@ -1,0 +1,51 @@
+Radiohead ||| 7953
+David Bowie ||| 4568
+U2 ||| 3421
+The Beatles ||| 2797
+PJ Harvey ||| 2438
+Blur ||| 2374
+Bob Dylan ||| 1795
+Kate Bush ||| 1711
+Arcade Fire ||| 1645
+R.E.M. ||| 1620
+Beck ||| 1468
+Leonard Cohen ||| 1375
+Pink Floyd ||| 1356
+Brian Eno ||| 1247
+The Smashing Pumpkins ||| 1227
+Patti Smith ||| 1162
+Björk ||| 1151
+Nirvana ||| 1033
+Sinéad O'Connor ||| 929
+Joni Mitchell ||| 873
+Yo La Tengo ||| 837
+Nick Cave & The Bad Seeds ||| 779
+The Brian Jonestown Massacre ||| 761
+The Cure ||| 726
+Foo Fighters ||| 698
+Aerosmith ||| 685
+Lucybell ||| 685
+Oasis ||| 682
+The Clash ||| 678
+The Cranberries ||| 646
+The Breeders ||| 641
+Sonic Youth ||| 638
+Deftones ||| 626
+Belle and Sebastian ||| 624
+Elvis Presley ||| 618
+Blondie ||| 614
+Deerhunter ||| 566
+Placebo ||| 565
+Violeta Parra ||| 561
+Fred Frith ||| 551
+Pearl Jam ||| 544
+John Lennon ||| 539
+Los Prisioneros ||| 532
+Wolfgang Amadeus Mozart ||| 519
+Manuel García ||| 513
+The Kinks ||| 508
+Siouxsie and the Banshees ||| 500
+Peter Gabriel ||| 498
+Aimee Mann ||| 494
+Mecánica Popular ||| 492
+## playcount: 60463

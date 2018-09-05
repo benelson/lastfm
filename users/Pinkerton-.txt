@@ -1,0 +1,51 @@
+The Beach Boys ||| 3776
+David Bowie ||| 3373
+Radiohead ||| 2598
+Weezer ||| 2276
+Bob Dylan ||| 2166
+Oasis ||| 1967
+The Beatles ||| 1869
+Nirvana ||| 1439
+Pixies ||| 1326
+Pink Floyd ||| 1324
+Neil Young ||| 1283
+Tom Waits ||| 989
+Sonic Youth ||| 848
+The Smiths ||| 824
+Kanye West ||| 820
+Dinosaur Jr. ||| 597
+Led Zeppelin ||| 578
+Beastie Boys ||| 540
+Elvis Costello & The Attractions ||| 525
+My Bloody Valentine ||| 516
+The Doors ||| 511
+The Jam ||| 500
+The Who ||| 429
+Daft Punk ||| 416
+Metallica ||| 372
+Simon & Garfunkel ||| 358
+Chuck Berry ||| 347
+Björk ||| 346
+The Jimi Hendrix Experience ||| 340
+The Strokes ||| 333
+Morrissey ||| 325
+Teenage Fanclub ||| 318
+Tegan and Sara ||| 313
+Lou Reed ||| 285
+Stevie Wonder ||| 284
+Michael Jackson ||| 282
+The Velvet Underground ||| 273
+Elliott Smith ||| 268
+Dennis Wilson ||| 261
+Black Sabbath ||| 259
+Kiss ||| 257
+Johnny Cash ||| 252
+Neutral Milk Hotel ||| 246
+OZMA ||| 246
+Buddy Holly ||| 243
+Best Coast ||| 241
+Rivers Cuomo ||| 235
+Red Hot Chili Peppers ||| 230
+The Cure ||| 225
+Paul McCartney ||| 211
+## playcount: 38840

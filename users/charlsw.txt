@@ -1,0 +1,51 @@
+Eric Clapton ||| 3314
+The Rolling Stones ||| 3097
+ZZ Top ||| 1362
+Jimi Hendrix ||| 1245
+Stevie Ray Vaughan ||| 1145
+Gary Moore ||| 1080
+B.B. King ||| 1076
+Rory Gallagher ||| 1075
+Johnny Winter ||| 1019
+Jethro Tull ||| 1012
+The Allman Brothers Band ||| 990
+John Mayall ||| 989
+Joe Bonamassa ||| 984
+Beth Hart ||| 980
+Sonny Landreth ||| 965
+Led Zeppelin ||| 961
+The Doors ||| 871
+Canned Heat ||| 863
+Lynyrd Skynyrd ||| 848
+Eric Burdon ||| 843
+Darrell Mansfield ||| 837
+Buddy Guy ||| 799
+Dire Straits ||| 797
+Chris Rea ||| 766
+Joe Cocker ||| 750
+The Beatles ||| 739
+Alvin Lee ||| 730
+Ten Years After ||| 717
+Inga Rumpf ||| 702
+Gov't Mule ||| 699
+J.J. Cale ||| 698
+Bob Dylan ||| 697
+Cream ||| 694
+Tony Joe White ||| 691
+Walter Trout ||| 648
+Van Morrison ||| 639
+Mark Knopfler ||| 622
+Bruce Springsteen ||| 616
+The Fabulous Thunderbirds ||| 609
+Fleetwood Mac ||| 606
+The Who ||| 589
+Leonard Cohen ||| 578
+Albert Cummings ||| 577
+Neil Young ||| 570
+The Jeff Healey Band ||| 560
+Savoy Brown ||| 559
+The Blues Band ||| 546
+Thin Lizzy ||| 546
+Supersonic Blues Machine ||| 530
+Charlie Musselwhite ||| 526
+## playcount: 44356

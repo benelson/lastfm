@@ -1,0 +1,49 @@
+Megadeth ||| 75
+System of a Down ||| 60
+Tool ||| 36
+Arctic Monkeys ||| 27
+Soundgarden ||| 26
+Rammstein ||| 24
+Type O Negative ||| 23
+Warpaint ||| 19
+Bersuit Vergarabat ||| 13
+Yung Lean ||| 13
+Ghost ||| 11
+Opeth ||| 10
+Overkill ||| 10
+The Strokes ||| 9
+Disturbed ||| 8
+Die Antwoord ||| 7
+Helloween ||| 6
+Black Sabbath ||| 5
+Dream Theater ||| 5
+Grendel ||| 5
+Witchcraft ||| 4
+Alice in Chains ||| 3
+Iced Earth ||| 3
+Iron Maiden ||| 3
+Julian Casablancas + The Voidz ||| 3
+Kreator ||| 3
+Ludwig van Beethoven ||| 3
+In Flames ||| 2
+Sodom ||| 2
+Sonata Arctica ||| 2
+Testament ||| 2
+Anthrax ||| 1
+Antonio Vivaldi ||| 1
+Bob Marley & The Wailers ||| 1
+Caravan Palace ||| 1
+Dio ||| 1
+Jimi Hendrix ||| 1
+Johann Sebastian Bach ||| 1
+Kamelot ||| 1
+Manowar ||| 1
+Misfits ||| 1
+Ozzy Osbourne ||| 1
+Pantera ||| 1
+Rhapsody ||| 1
+Rhapsody of Fire ||| 1
+Rob Zombie ||| 1
+Slayer ||| 1
+Wolfgang Amadeus Mozart ||| 1
+## playcount: 439

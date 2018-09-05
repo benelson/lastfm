@@ -1,0 +1,51 @@
+Lady Gaga ||| 533
+Bruno Mars ||| 467
+Rihanna ||| 378
+Avicii ||| 339
+Lana Del Rey ||| 270
+David Guetta ||| 265
+Britney Spears ||| 225
+Calvin Harris ||| 197
+Madonna ||| 185
+Beyoncé ||| 184
+Katy Perry ||| 166
+Maroon 5 ||| 162
+Michael Jackson ||| 161
+Shakira ||| 134
+Pitbull ||| 125
+Mark Ronson ||| 119
+Iggy Azalea ||| 108
+Lenny Kravitz ||| 99
+Major Lazer ||| 98
+Jessie J ||| 97
+Flo Rida ||| 96
+Disclosure ||| 94
+Justin Timberlake ||| 87
+Ke$ha ||| 82
+Jason Derülo ||| 80
+Robin Schulz ||| 79
+Chris Brown ||| 76
+Sam Smith ||| 75
+Jennifer Lopez ||| 74
+Nicki Minaj ||| 70
+Ariana Grande ||| 69
+Black Eyed Peas ||| 68
+Rita Ora ||| 68
+Arctic Monkeys ||| 66
+Clean Bandit ||| 66
+Sia ||| 64
+Ellie Goulding ||| 63
+The Weeknd ||| 63
+Coldplay ||| 62
+Florence + the Machine ||| 60
+Taio Cruz ||| 58
+Afrojack ||| 57
+Linkin Park ||| 57
+Red Hot Chili Peppers ||| 57
+Icona Pop ||| 55
+Selena Gomez ||| 55
+Tove Lo ||| 55
+Demi Lovato ||| 53
+Ed Sheeran ||| 53
+will.i.am ||| 53
+## playcount: 6327

@@ -1,0 +1,51 @@
+Guns N' Roses ||| 3317
+Nirvana ||| 1925
+Pearl Jam ||| 1015
+Foo Fighters ||| 923
+Oasis ||| 722
+Silverchair ||| 653
+Aerosmith ||| 532
+Linkin Park ||| 406
+Red Hot Chili Peppers ||| 328
+Led Zeppelin ||| 320
+AC/DC ||| 272
+Raimundos ||| 222
+The Offspring ||| 204
+Coldplay ||| 200
+Jimi Hendrix ||| 187
+Green Day ||| 177
+Alanis Morissette ||| 151
+The Jimi Hendrix Experience ||| 143
+Mamonas Assassinas ||| 130
+Eric Clapton ||| 105
+Bon Jovi ||| 101
+Queen ||| 100
+Metallica ||| 58
+blink-182 ||| 50
+John Mayer ||| 50
+David Guetta ||| 40
+Michael Jackson ||| 36
+Dire Straits ||| 35
+Norah Jones ||| 32
+Maroon 5 ||| 29
+Avril Lavigne ||| 26
+菅野よう子 ||| 24
+Hotel California ||| 22
+Kansas ||| 22
+R.E.M. ||| 21
+Black Sabbath ||| 20
+Bob Marley & The Wailers ||| 17
+Deep Purple ||| 16
+B.B. King & Eric Clapton ||| 15
+The Rolling Stones ||| 14
+U2 ||| 14
+John Lennon ||| 12
+Evanescence ||| 11
+Legião Urbana ||| 10
+Cazuza ||| 9
+Chuck Berry ||| 8
+The Beatles ||| 8
+Weather Sounds ||| 8
+Elvis Presley ||| 7
+The Doors ||| 5
+## playcount: 12752

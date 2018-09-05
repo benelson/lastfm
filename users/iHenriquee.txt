@@ -1,0 +1,51 @@
+Beyoncé ||| 23489
+Katy Perry ||| 5690
+Rihanna ||| 3313
+Miley Cyrus ||| 2410
+U2 ||| 2396
+Céline Dion ||| 2107
+One Direction ||| 2026
+Lorde ||| 1839
+Adele ||| 1830
+RBD ||| 1335
+Bruno Mars ||| 1309
+Nicki Minaj ||| 1177
+Taylor Swift ||| 1165
+Coldplay ||| 1160
+Lady Gaga ||| 1069
+Fifth Harmony ||| 994
+Destiny's Child ||| 961
+Rita Ora ||| 961
+Iggy Azalea ||| 948
+Anitta ||| 923
+Demi Lovato ||| 883
+Ivete Sangalo ||| 875
+Ed Sheeran ||| 866
+Alexandre Desplat ||| 839
+Selena Gomez ||| 833
+P!nk ||| 725
+Ariana Grande ||| 677
+Christina Aguilera ||| 647
+Ke$ha ||| 640
+Maroon 5 ||| 601
+Avril Lavigne ||| 584
+Jessie J ||| 560
+Delta Goodrem ||| 526
+Imagine Dragons ||| 522
+Glee Cast ||| 511
+Lily Allen ||| 485
+Leona Lewis ||| 454
+Florence + the Machine ||| 397
+Jay-Z ||| 394
+Michael Bublé ||| 341
+Kiesza ||| 318
+Clarice Falcão ||| 317
+Selena Gomez & the Scene ||| 317
+Birdy ||| 313
+Bon Jovi ||| 300
+Britney Spears ||| 273
+Kelly Rowland ||| 272
+Parachute ||| 271
+Sia ||| 269
+Mariah Carey ||| 258
+## playcount: 72370

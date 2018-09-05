@@ -1,0 +1,51 @@
+Foo Fighters ||| 897
+The John Butler Trio ||| 845
+Beatsteaks ||| 426
+Youngblood Brass Band ||| 423
+blink-182 ||| 379
+Red Hot Chili Peppers ||| 373
+Rodrigo y Gabriela ||| 369
+Gentleman ||| 350
+Jack Johnson ||| 344
+Tycho ||| 313
+Fritz Kalkbrenner ||| 292
+Coldplay ||| 285
+Michael Franti & Spearhead ||| 258
+John Mayer ||| 256
+Mumford & Sons ||| 254
+Parov Stelar ||| 245
+Wakey!Wakey! ||| 244
+Farin Urlaub ||| 227
+Blur ||| 211
+Jimmy Eat World ||| 210
+Clueso ||| 208
+Xavier Rudd ||| 207
+Blue King Brown ||| 200
+Bon Iver ||| 197
+Die Ärzte ||| 195
+The Kooks ||| 194
+Nizlopi ||| 191
+What happened to Roy G. Biv? ||| 184
+Metallica ||| 183
+Janelle Monáe ||| 178
+Bloc Party ||| 175
+Ben Harper ||| 168
+Waterdown ||| 157
+Billy Talent ||| 151
+Calvin Harris ||| 147
+JEWDYSSEE ||| 147
+Lightspeed Champion ||| 147
+Mellow & Pyro ||| 144
+Oliver Koletzki & Fran ||| 142
+The Cure ||| 140
+Seeed ||| 139
+Fall Out Boy ||| 137
+Chiddy Bang ||| 136
+Limp Bizkit ||| 136
+Maná ||| 136
+Paul Kalkbrenner ||| 136
+The Cat Empire ||| 135
+The Police ||| 134
+Stereophonics ||| 128
+Green Day ||| 126
+## playcount: 11999

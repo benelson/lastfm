@@ -1,0 +1,51 @@
+Whitesnake ||| 40
+Deep Purple ||| 26
+Cinderella ||| 24
+Rainbow ||| 24
+Coverdale/Page ||| 23
+Def Leppard ||| 23
+David Coverdale ||| 21
+Europe ||| 21
+Scorpions ||| 21
+Iron Maiden ||| 19
+W.A.S.P. ||| 19
+Skid Row ||| 18
+Warrant ||| 18
+White Lion ||| 18
+Judas Priest ||| 17
+Poison ||| 17
+Black Sabbath ||| 16
+Dokken ||| 16
+AC/DC ||| 15
+Mr. Big ||| 15
+Mötley Crüe ||| 15
+Dio ||| 14
+Ozzy Osbourne ||| 14
+Saxon ||| 14
+Firehouse ||| 13
+L.A. Guns ||| 13
+Van Halen ||| 13
+Danger Danger ||| 12
+Glenn Hughes ||| 12
+Steelheart ||| 12
+Winger ||| 12
+Blaze ||| 11
+Kiss ||| 11
+Accept ||| 10
+David Lee Roth ||| 10
+Guns N' Roses ||| 10
+Aerosmith ||| 9
+Bon Jovi ||| 9
+Bruce Dickinson ||| 9
+Finntroll ||| 9
+Great White ||| 9
+Joe Lynn Turner ||| 9
+Motörhead ||| 9
+Sebastian Bach ||| 9
+Tesla ||| 9
+Primordial ||| 8
+Ratt ||| 8
+Running Wild ||| 8
+Samson ||| 8
+Slash's Snakepit ||| 8
+## playcount: 728

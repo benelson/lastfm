@@ -1,0 +1,51 @@
+Coldplay ||| 11214
+Regina Spektor ||| 10571
+Radiohead ||| 6572
+Elton John ||| 4567
+Sarah Brightman ||| 2471
+Yann Tiersen ||| 2379
+A Fine Frenzy ||| 2276
+Mariah Carey ||| 2207
+Alan Menken ||| 2150
+Michelle Branch ||| 2128
+Anna Nalick ||| 1915
+Britney Spears ||| 1749
+Philip Glass ||| 1590
+The Dresden Dolls ||| 1459
+Jean-Yves Thibaudet ||| 1185
+Alanis Morissette ||| 1121
+Pyotr Ilyich Tchaikovsky ||| 1054
+Hans Zimmer ||| 1035
+The Beatles ||| 1006
+Madonna ||| 800
+Céline Dion ||| 773
+Gloria Estefan ||| 754
+Alicia Keys ||| 718
+Beyoncé ||| 710
+Feist ||| 700
+Enya ||| 676
+Timbaland ||| 665
+Snow Patrol ||| 648
+Eminem ||| 619
+She & Him ||| 612
+Jon Brion ||| 611
+Dario Marianelli ||| 563
+Javier Navarrete ||| 554
+Ingrid Michaelson ||| 547
+The Weepies ||| 536
+Adele ||| 534
+Missy Elliott ||| 530
+Linkin Park ||| 529
+Mychael Danna ||| 527
+U2 ||| 520
+Frédéric Chopin ||| 502
+Dave Matthews Band ||| 498
+Whitney Houston ||| 484
+Sleeping Beauty ||| 471
+Simon & Garfunkel ||| 451
+Amanda Palmer ||| 429
+Dan Wilson ||| 402
+Michael Jackson ||| 392
+Damien Rice ||| 385
+Amy Winehouse ||| 380
+## playcount: 76169

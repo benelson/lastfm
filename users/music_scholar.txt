@@ -1,0 +1,51 @@
+Erkan Yılmaz ||| 30
+John Powell ||| 26
+Ramin Djawadi ||| 22
+Alexandre Desplat ||| 21
+Wolfgang Amadeus Mozart ||| 19
+Hans Zimmer ||| 17
+Tyler Bates ||| 16
+Hans Zimmer & James Newton Howard ||| 14
+Steve Jablonsky ||| 13
+Brian Tyler ||| 12
+Howard Shore ||| 12
+Marc Streitenfeld ||| 12
+Patrick Doyle ||| 12
+Ennio Morricone ||| 11
+James Horner ||| 11
+John Ottman ||| 11
+Marco Beltrami ||| 11
+Basil Poledouris ||| 10
+Camille Saint-Saëns ||| 10
+Nicholas Hooper ||| 10
+Thomas Newman ||| 10
+Atli Örvarsson ||| 9
+Claude Debussy ||| 9
+Cris Velasco & Sascha Dikiciyan ||| 9
+Javier Navarrete ||| 9
+John Williams ||| 9
+Michael Giacchino ||| 9
+David Arnold ||| 8
+Felix Mendelssohn ||| 8
+Franz Schubert ||| 8
+Harry Gregson-Williams ||| 8
+James Newton Howard ||| 8
+Johann Strauss II ||| 8
+Mark Mancina ||| 8
+Adrian Johnston ||| 7
+Alan Silvestri ||| 7
+Antonio Vivaldi ||| 7
+Arvo Pärt ||| 7
+Brad Fiedel ||| 7
+Christina Vantzou ||| 7
+Christopher Lennertz ||| 7
+Dario Marianelli ||| 7
+Dmitri Shostakovich ||| 7
+Don Davis ||| 7
+Franz Liszt ||| 7
+Graeme Revell ||| 7
+Gustav Holst ||| 7
+Ilan Eshkeri ||| 7
+Johann Sebastian Bach ||| 7
+Marcelo Zarvos ||| 7
+## playcount: 532

@@ -1,0 +1,51 @@
+Marillion ||| 14857
+Porcupine Tree ||| 12798
+Rush ||| 7813
+Steven Wilson ||| 3523
+Opeth ||| 2460
+Pink Floyd ||| 2235
+Genesis ||| 2130
+David Bowie ||| 1858
+Katatonia ||| 1780
+Blackfield ||| 1774
+Dave Matthews Band ||| 1712
+Riverside ||| 1427
+Dream Theater ||| 1426
+Radiohead ||| 1298
+Tears for Fears ||| 1155
+Moby ||| 1150
+Tori Amos ||| 1145
+Simple Minds ||| 1135
+Depeche Mode ||| 1119
+Faith No More ||| 1089
+Ozzy Osbourne ||| 1060
+Metallica ||| 993
+Coma ||| 943
+Fish ||| 938
+Yes ||| 924
+Phil Collins ||| 845
+King Crimson ||| 796
+Pearl Jam ||| 696
+Michael Jackson ||| 664
+Robert Plant ||| 637
+Mastodon ||| 634
+Jane's Addiction ||| 628
+Thin Lizzy ||| 616
+Van Halen ||| 612
+Röyksopp ||| 601
+Peter Gabriel ||| 599
+Lunatic Soul ||| 596
+Anna Maria Jopek ||| 591
+The Police ||| 581
+Hey ||| 578
+Jeff Buckley ||| 576
+Peter Green ||| 570
+The Pretenders ||| 533
+The Cult ||| 514
+New Order ||| 510
+Björk ||| 508
+Red Hot Chili Peppers ||| 508
+Jeff Beck ||| 499
+John Wesley ||| 489
+David Gilmour ||| 485
+## playcount: 83608

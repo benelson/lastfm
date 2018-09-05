@@ -1,0 +1,51 @@
+Alter Bridge ||| 1670
+Pearl Jam ||| 1529
+Anathema ||| 1411
+Foo Fighters ||| 1256
+Porcupine Tree ||| 1202
+Dream Theater ||| 1107
+Pink Floyd ||| 1037
+Verdena ||| 807
+Staind ||| 805
+Pantera ||| 803
+Iron Maiden ||| 794
+Seether ||| 729
+Nirvana ||| 705
+Kings of Leon ||| 694
+David Bowie ||| 624
+Placebo ||| 579
+Linkin Park ||| 575
+Metallica ||| 565
+Disturbed ||| 558
+Alice in Chains ||| 556
+Muse ||| 518
+Marillion ||| 514
+Avenged Sevenfold ||| 486
+Sigur Rós ||| 486
+The Cure ||| 472
+Lacuna Coil ||| 470
+The Beatles ||| 449
+Lucio Battisti ||| 446
+A Perfect Circle ||| 443
+Nine Inch Nails ||| 441
+Scorpions ||| 430
+Shinedown ||| 430
+Katatonia ||| 428
+Radiohead ||| 403
+System of a Down ||| 403
+Nightwish ||| 396
+Blackfield ||| 394
+Slipknot ||| 389
+Bullet for My Valentine ||| 384
+Deep Purple ||| 383
+Rammstein ||| 374
+Black Sabbath ||| 350
+Subsonica ||| 345
+Creed ||| 344
+Tremonti ||| 344
+Queensrÿche ||| 336
+Eminem ||| 327
+Breaking Benjamin ||| 326
+Steven Wilson ||| 319
+Kiss ||| 314
+## playcount: 30150

@@ -1,0 +1,51 @@
+Mark Lanegan ||| 4791
+Queens of the Stone Age ||| 3306
+Foo Fighters ||| 3116
+Pearl Jam ||| 2997
+Frank Turner ||| 2401
+Brendan Benson ||| 2276
+Nine Inch Nails ||| 1921
+Bruce Springsteen ||| 1908
+The Black Keys ||| 1875
+The Gaslight Anthem ||| 1593
+Biffy Clyro ||| 1568
+Tom Waits ||| 1542
+Soulsavers ||| 1477
+Weezer ||| 1425
+Arctic Monkeys ||| 1368
+Motörhead ||| 1368
+Masters of Reality ||| 1329
+Screaming Trees ||| 1322
+Me First and the Gimme Gimmes ||| 1294
+Beck ||| 1275
+Black Sabbath ||| 1264
+Ozzy Osbourne ||| 1237
+UNKLE ||| 1188
+Metallica ||| 1146
+Led Zeppelin ||| 1132
+The Twilight Singers ||| 1121
+Gorillaz ||| 1085
+Eagles of Death Metal ||| 1080
+The Raconteurs ||| 1058
+Nirvana ||| 1045
+Isobel Campbell & Mark Lanegan ||| 1028
+The Gutter Twins ||| 1001
+The Beatles ||| 977
+The White Stripes ||| 977
+Them Crooked Vultures ||| 967
+Slash ||| 934
+Rob Zombie ||| 914
+Soundgarden ||| 894
+Gnarls Barkley ||| 881
+Radiohead ||| 871
+The Darkness ||| 871
+Tom Petty and The Heartbreakers ||| 871
+Kings of Leon ||| 851
+Tenacious D ||| 847
+Seasick Steve ||| 837
+Snow Patrol ||| 825
+Mastodon ||| 798
+CeeLo Green ||| 790
+Neil Young ||| 784
+Alice in Chains ||| 782
+## playcount: 69208

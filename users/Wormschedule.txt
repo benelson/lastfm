@@ -1,0 +1,51 @@
+The Beatles ||| 4506
+Björk ||| 3146
+Christina Aguilera ||| 3038
+Grimes ||| 2589
+iamamiwhoami ||| 2368
+Crystal Castles ||| 2089
+Lana Del Rey ||| 2083
+Lady Gaga ||| 1877
+Marina & the Diamonds ||| 1800
+Madonna ||| 1688
+Taylor Swift ||| 1518
+M.I.A. ||| 1478
+Muse ||| 1409
+Lorde ||| 1403
+My Chemical Romance ||| 1383
+The Killers ||| 1328
+La Roux ||| 1143
+Britney Spears ||| 1048
+ionnalee ||| 840
+Michael Jackson ||| 819
+FKA twigs ||| 673
+Daft Punk ||| 648
+Azealia Banks ||| 645
+Natalia Kills ||| 619
+Charli XCX ||| 594
+The Strokes ||| 587
+Kanye West ||| 553
+ABBA ||| 542
+Adele ||| 517
+Lil' Kim ||| 505
+Kate Bush ||| 490
+Arctic Monkeys ||| 441
+Tove Lo ||| 434
+Beyoncé ||| 419
+Pink Floyd ||| 376
+Selena Gomez ||| 333
+CHVRCHES ||| 331
+Carly Rae Jepsen ||| 311
+Kali Uchis ||| 292
+Florence + the Machine ||| 291
+Mariah Carey ||| 284
+Dua Lipa ||| 241
+Nirvana ||| 238
+Carrie Underwood ||| 228
+Rihanna ||| 228
+Tame Impala ||| 190
+Miley Cyrus ||| 183
+Kylie Minogue ||| 182
+Sky Ferreira ||| 180
+Katy Perry ||| 176
+## playcount: 49284

@@ -1,0 +1,51 @@
+Shakira ||| 107552
+Justin Timberlake ||| 22402
+Jesse McCartney ||| 11310
+Phillip Phillips ||| 10306
+Katy Perry ||| 4882
+Robin Thicke ||| 4850
+Ke$ha ||| 4611
+Michael Bublé ||| 3452
+Maroon 5 ||| 2844
+Drew Seeley ||| 2558
+Miley Cyrus ||| 2490
+Coldplay ||| 2485
+Ed Sheeran ||| 2321
+Pitbull ||| 2159
+Lindsay Lohan ||| 2142
+Christina Aguilera ||| 1614
+Calvin Harris ||| 1544
+Ben Howard ||| 1525
+Nicki Minaj ||| 1458
+Rihanna ||| 1430
+Foo Fighters ||| 1426
+Jessica Sanchez ||| 1105
+Vanessa Hudgens ||| 998
+Avril Lavigne ||| 961
+Beyoncé ||| 870
+Flo Rida ||| 832
+Ashley Tisdale ||| 802
+Black Eyed Peas ||| 774
+Andy Grammer ||| 719
+Gotye ||| 719
+Adele ||| 691
+Ellie Goulding ||| 689
+Taylor Swift ||| 678
+Hoodie Allen ||| 649
+Imagine Dragons ||| 614
+P!nk ||| 605
+LMFAO ||| 580
+Roll Deep ||| 576
+Jennifer Lopez ||| 547
+Carly Rae Jepsen ||| 521
+Owl City ||| 521
+Chris Brown ||| 468
+Train ||| 445
+David Guetta ||| 434
+will.i.am ||| 410
+Skrillex ||| 393
+Outasight ||| 356
+Caesars ||| 339
+Usher ||| 315
+MGMT ||| 313
+## playcount: 213285

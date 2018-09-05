@@ -1,0 +1,51 @@
+CocoRosie ||| 572
+Death Cab for Cutie ||| 424
+Arctic Monkeys ||| 416
+Pink Floyd ||| 333
+Led Zeppelin ||| 313
+Cake ||| 286
+La Dispute ||| 273
+Right Away, Great Captain! ||| 260
+Brand New ||| 257
+Noah and the Whale ||| 226
+Gorillaz ||| 213
+Third Eye Blind ||| 196
+The Beatles ||| 179
+Amy Winehouse ||| 178
+Florence + the Machine ||| 176
+Bone Thugs-N-Harmony ||| 168
+Bob Marley ||| 163
+Mew ||| 163
+The Decemberists ||| 163
+Pomplamoose ||| 161
+The xx ||| 154
+Sublime ||| 149
+Bon Iver ||| 146
+Anthony Green ||| 141
+Devendra Banhart ||| 138
+MGMT ||| 127
+The Smashing Pumpkins ||| 127
+Citizen Cope ||| 123
+Empire of the Sun ||| 120
+Clinic ||| 115
+System of a Down ||| 111
+Portugal. The Man ||| 106
+The Horrors ||| 105
+The Jimi Hendrix Experience ||| 104
+Andrew Jackson Jihad ||| 102
+Regina Spektor ||| 99
+Jon Brion ||| 98
+Radiohead ||| 96
+Yeasayer ||| 95
+Bayside ||| 93
+Kasabian ||| 91
+The Cure ||| 91
+Edward Sharpe & The Magnetic Zeros ||| 89
+Iron & Wine ||| 86
+Otis Redding ||| 86
+Beirut ||| 82
+Skid Row ||| 80
+Stars ||| 79
+Adele ||| 78
+Listener ||| 78
+## playcount: 8309

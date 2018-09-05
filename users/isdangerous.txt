@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 5971
+Pink Floyd ||| 5900
+Oasis ||| 1350
+The Rolling Stones ||| 1249
+Bob Dylan ||| 1178
+The Who ||| 1021
+Ramones ||| 769
+Led Zeppelin ||| 752
+Band of Horses ||| 641
+Eric Clapton ||| 520
+The Beatles ||| 456
+Weezer ||| 432
+Dire Straits ||| 374
+Alex Turner ||| 351
+The Strokes ||| 297
+Angus & Julia Stone ||| 234
+George Harrison ||| 212
+MGMT ||| 168
++44 ||| 167
+The Doors ||| 161
+The Smashing Pumpkins ||| 160
+Los Hermanos ||| 150
+Kiss ||| 139
+Radiohead ||| 120
+Red Hot Chili Peppers ||| 105
+City and Colour ||| 103
+Joy Division ||| 96
+The Clash ||| 95
+Mac DeMarco ||| 89
+Roger Waters ||| 88
+Sex Pistols ||| 84
+Rebelution ||| 83
+Interpol ||| 76
+Pixies ||| 74
+Dias de Truta ||| 73
+Arcade Fire ||| 71
+Franz Ferdinand ||| 70
+Jimi Hendrix ||| 69
+Rancid ||| 64
+Cage the Elephant ||| 62
+SOJA ||| 60
+The Wytches ||| 59
+Raul Seixas ||| 58
+The Last Shadow Puppets ||| 58
+Joey Ramone ||| 56
+Tame Impala ||| 55
+Noel Gallagher ||| 54
+Legião Urbana ||| 51
+Skrillex ||| 51
+blink-182 ||| 49
+## playcount: 24625

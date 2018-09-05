@@ -1,0 +1,51 @@
+Soda Stereo ||| 3230
+Gustavo Cerati ||| 3118
+Pearl Jam ||| 1659
+Linkin Park ||| 1565
+Oasis ||| 1470
+Foo Fighters ||| 1443
+Tame Impala ||| 1359
+Norah Jones ||| 1286
+Vetusta Morla ||| 1230
+Arctic Monkeys ||| 1189
+The Beatles ||| 1167
+Gepe ||| 1158
+Love of Lesbian ||| 1144
+Fito Páez ||| 1084
+Jamie Cullum ||| 974
+Babasónicos ||| 827
+Sigur Rós ||| 823
+Charly García ||| 796
+Radiohead ||| 763
+Carlos Sadness ||| 761
+Coldplay ||| 710
+The Killers ||| 706
+Beck ||| 689
+Pink Floyd ||| 680
+Jorge Drexler ||| 677
+R.E.M. ||| 668
+Blur ||| 641
+Joaquín Sabina ||| 632
+Los Planetas ||| 615
+Lucybell ||| 612
+Band of Horses ||| 605
+Dënver ||| 601
+Silverchair ||| 571
+White Lies ||| 552
+Belle and Sebastian ||| 544
+Astro ||| 531
+Sean Lennon ||| 512
+Metallica ||| 508
+John Mayer ||| 502
+Phoenix ||| 496
+Friendly Fires ||| 494
+Soundgarden ||| 494
+Kevin Johansen ||| 485
+The xx ||| 474
+Foster the People ||| 472
+Tegan and Sara ||| 457
+Incubus ||| 450
+Camila Moreno ||| 435
+Bob Dylan ||| 425
+Devendra Banhart ||| 423
+## playcount: 43707

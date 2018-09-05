@@ -1,0 +1,51 @@
+happysad ||| 3305
+Asia ||| 917
+The Kooks ||| 828
+Good Charlotte ||| 430
+Led Zeppelin ||| 356
+Bonobo ||| 325
+Arctic Monkeys ||| 215
+The Offspring ||| 201
+Sum 41 ||| 179
+Maciej Maleńczuk ||| 118
+Distemper ||| 104
+Metallica ||| 85
+System of a Down ||| 76
+Journey ||| 67
+Power of Trinity ||| 62
+Nickelback ||| 53
+M83 ||| 47
+a-ha ||| 44
+Belinda Carlisle ||| 40
+Boney M. ||| 39
+Lady Pank ||| 38
+Enej ||| 36
+Dropkick Murphys ||| 35
+Lynyrd Skynyrd ||| 35
+The Rolling Stones ||| 32
+Shakira ||| 30
+Loft ||| 29
+Richard Stoltzman ||| 29
+Bon Jovi ||| 28
+John Travolta ||| 28
+Aqua ||| 27
+Lolita ||| 27
+Mr. Scruff ||| 27
+Aerosmith ||| 25
+Bob Acri ||| 24
+Bee Gees ||| 22
+D.J. Kimon ||| 21
+Kings of Leon ||| 20
+Dawid Podsiadło ||| 19
+The Who ||| 19
+The Proclaimers ||| 18
+Billy Joel ||| 17
+Coma ||| 17
+Daft Punk ||| 17
+Nena ||| 17
+Volbeat ||| 17
+Paula Abdul ||| 15
+Rick Astley ||| 14
+Rise Against ||| 14
+Young the Giant ||| 14
+## playcount: 8202

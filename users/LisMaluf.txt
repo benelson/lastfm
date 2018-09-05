@@ -1,0 +1,51 @@
+The Beatles ||| 9867
+Cazuza ||| 2152
+U2 ||| 1756
+INXS ||| 1531
+Led Zeppelin ||| 1523
+Scorpions ||| 1146
+Creedence Clearwater Revival ||| 1018
+The Doors ||| 1018
+Legião Urbana ||| 975
+The Rolling Stones ||| 940
+Metallica ||| 829
+RPM ||| 818
+Nirvana ||| 748
+Bee Gees ||| 644
+The Smiths ||| 644
+Rita Lee ||| 605
+Pink Floyd ||| 583
+Guns N' Roses ||| 545
+Ludwig van Beethoven ||| 513
+Madonna ||| 482
+Elvis Presley ||| 449
+John Lennon ||| 438
+Matanza ||| 431
+Bruce Springsteen ||| 376
+Aerosmith ||| 353
+The Cure ||| 343
+R.E.M. ||| 332
+Engenheiros Do Hawaii ||| 326
+Titãs ||| 296
+Modern Talking ||| 267
+Los Hermanos ||| 259
+Simply Red ||| 251
+Nazareth ||| 250
+Dire Straits ||| 240
+The Verve ||| 236
+Frédéric Chopin ||| 218
+AC/DC ||| 208
+Elton John ||| 204
+Oingo Boingo ||| 201
+a-ha ||| 200
+Bob Dylan ||| 190
+Tears for Fears ||| 186
+The Cranberries ||| 183
+Pet Shop Boys ||| 182
+Enigma ||| 180
+Bob Marley ||| 175
+Eric Clapton ||| 164
+Depeche Mode ||| 153
+Cyndi Lauper ||| 151
+Michael Jackson ||| 146
+## playcount: 35925

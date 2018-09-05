@@ -1,0 +1,51 @@
+Interpol ||| 13875
+Warpaint ||| 13249
+Foals ||| 11741
+The Beatles ||| 9979
+Tame Impala ||| 8775
+The Smiths ||| 8097
+Motorama ||| 6969
+Coheed and Cambria ||| 6944
+The xx ||| 5080
+Joy Division ||| 3497
+The Strokes ||| 2528
+Arctic Monkeys ||| 2500
+The Kills ||| 2474
+Depeche Mode ||| 2423
+Radiohead ||| 2225
+Sonic Youth ||| 2111
+The Horrors ||| 2052
+alt-J ||| 1561
+Beach House ||| 1465
+Broken Social Scene ||| 1426
+Sleater-Kinney ||| 1374
+Morrissey ||| 1351
+Pond ||| 1314
+The Killers ||| 1292
+MGMT ||| 1272
+The Cure ||| 1246
+Belle and Sebastian ||| 1193
+toe ||| 1075
+JennyLee ||| 921
+Grimes ||| 884
+New Order ||| 848
+Blur ||| 773
+The Vaccines ||| 717
+Stars ||| 710
+Arcade Fire ||| 699
+Sigur Rós ||| 691
+The Drums ||| 690
+Mogwai ||| 686
+The Black Keys ||| 679
+M83 ||| 668
+Camera Obscura ||| 663
+My Bloody Valentine ||| 662
+Animal Collective ||| 643
+Vampire Weekend ||| 640
+Pink Floyd ||| 613
+Thee Oh Sees ||| 583
+CHVRCHES ||| 574
+Slowdive ||| 547
+Brand New ||| 546
+Bright Eyes ||| 540
+## playcount: 134065

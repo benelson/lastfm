@@ -1,0 +1,51 @@
+SpiresVortex ||| 50
+Vortex ||| 29
+Abakus ||| 27
+The Smashing Pumpkins ||| 26
+A Perfect Circle ||| 24
+Incubus ||| 24
+Ozric Tentacles ||| 21
+Suede ||| 20
+Afro Celts ||| 18
+Echo & the Bunnymen ||| 16
+David Bowie ||| 15
+Michael Manring ||| 15
+The Cure ||| 14
+The Flaming Lips ||| 14
+Air ||| 13
+Muse ||| 13
+Robyn Hitchcock ||| 13
+U2 ||| 13
+Tool ||| 12
+Dave Matthews Band ||| 11
+Frank Zappa ||| 11
+Lou Reed ||| 11
+M83 ||| 11
+Morphine ||| 11
+Nirvana ||| 11
+The Jesus and Mary Chain ||| 11
+Pavement ||| 10
+Red Hot Chili Peppers ||| 10
+Sonic Youth ||| 10
+Stereolab ||| 10
+Syd Barrett ||| 10
+The American Analog Set ||| 10
+Audioslave ||| 9
+Beck ||| 9
+Deftones ||| 9
+Pearl Jam ||| 9
+Pink Floyd ||| 9
+Prince ||| 9
+Radiohead ||| 9
+Talking Heads ||| 9
+The Smiths ||| 9
+The White Stripes ||| 9
+Björk ||| 8
+Death Cab for Cutie ||| 8
+Foo Fighters ||| 8
+INXS ||| 8
+Lenny Kravitz ||| 8
+Marilyn Manson ||| 8
+Pixies ||| 8
+Soundgarden ||| 8
+## playcount: 668

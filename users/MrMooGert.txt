@@ -1,0 +1,51 @@
+Halestorm ||| 3657
+Within Temptation ||| 3307
+Bon Jovi ||| 2744
+Black Stone Cherry ||| 2532
+Paramore ||| 2424
+Status Quo ||| 1954
+Richie Sambora ||| 1869
+In This Moment ||| 1856
+Motörhead ||| 1641
+The Wildhearts ||| 1319
+Saxon ||| 1317
+Megadeth ||| 1278
+Gary Moore ||| 1194
+Metallica ||| 1191
+Shinedown ||| 1125
+Joe Bonamassa ||| 1110
+Paul McCartney ||| 1095
+Foo Fighters ||| 1087
+Queen ||| 1074
+Fleetwood Mac ||| 1059
+Whitesnake ||| 1045
+Iron Maiden ||| 1037
+Judas Priest ||| 1024
+Evanescence ||| 1022
+The Beatles ||| 1021
+Bad Religion ||| 1014
+Machine Head ||| 997
+Heart ||| 991
+Kiss ||| 987
+Black Sabbath ||| 982
+Arch Enemy ||| 973
+Ozzy Osbourne ||| 965
+Big & Rich ||| 953
+Slayer ||| 941
+New Found Glory ||| 938
+Santana ||| 934
+Alice Cooper ||| 927
+Meat Loaf ||| 916
+Manic Street Preachers ||| 912
+Theory of a Deadman ||| 899
+Me First and the Gimme Gimmes ||| 894
+Def Leppard ||| 856
+Tom Petty and The Heartbreakers ||| 846
+Aerosmith ||| 843
+Gotthard ||| 831
+Nickelback ||| 813
+Reel Big Fish ||| 813
+Bowling for Soup ||| 802
+Daughtry ||| 798
+Dio ||| 793
+## playcount: 62600

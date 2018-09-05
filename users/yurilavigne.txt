@@ -1,0 +1,51 @@
+Avril Lavigne ||| 24201
+Mariah Carey ||| 14318
+Lady Gaga ||| 11852
+Christina Aguilera ||| 8760
+Demi Lovato ||| 8728
+Kelly Clarkson ||| 8157
+Ciara ||| 7405
+Britney Spears ||| 7286
+Kelly Key ||| 6616
+Justin Bieber ||| 6343
+Beyoncé ||| 6007
+Miranda Lambert ||| 5813
+Taylor Swift ||| 5707
+Forfun ||| 5261
+Pixie Lott ||| 5011
+Shakira ||| 4808
+Rihanna ||| 4747
+Nicole Scherzinger ||| 4628
+Meghan Trainor ||| 4393
+Carly Rae Jepsen ||| 4357
+Ke$ha ||| 4312
+Amy Winehouse ||| 4294
+Little Mix ||| 4271
+Hilary Duff ||| 3986
+McFly ||| 3686
+Natalia Kills ||| 3586
+P!nk ||| 3527
+Jennifer Lopez ||| 3491
+Gwen Stefani ||| 3489
+Fergie ||| 3485
+Ed Sheeran ||| 3105
+Black Eyed Peas ||| 3009
+Alicia Keys ||| 2949
+Madonna ||| 2897
+The Pussycat Dolls ||| 2795
+Carrie Underwood ||| 2783
+Thalía ||| 2768
+Evanescence ||| 2677
+Marina & the Diamonds ||| 2385
+Paramore ||| 2306
+Kacey Musgraves ||| 2239
+Katy Perry ||| 2164
+Lauren Alaina ||| 1984
+Fifth Harmony ||| 1928
+Bruno Mars ||| 1871
+Pitty ||| 1864
+Selena Gomez ||| 1823
+Ashley Tisdale ||| 1795
+Simple Plan ||| 1708
+Ariana Grande ||| 1685
+## playcount: 239260

@@ -1,0 +1,51 @@
+Red Hot Chili Peppers ||| 235
+Pearl Jam ||| 133
+Arctic Monkeys ||| 130
+blink-182 ||| 124
+Foo Fighters ||| 124
+Athlete ||| 82
+Basement Jaxx ||| 73
+Rage Against the Machine ||| 71
+Nirvana ||| 68
+One Direction ||| 60
+The Glitch Mob ||| 60
+John Frusciante ||| 59
+The Fratellis ||| 56
+Olly Murs ||| 54
+Led Zeppelin ||| 51
+Kings of Leon ||| 50
+David Bowie ||| 46
+Daft Punk ||| 44
+Paul Simon ||| 43
+The Minions ||| 42
+Van Halen ||| 40
+Muse ||| 39
+Editors ||| 38
+Fleet Foxes ||| 38
+Danger ||| 37
+Jimmy Eat World ||| 37
+Kaiser Chiefs ||| 37
+Kasabian ||| 35
+The Beach Boys ||| 34
+The Raconteurs ||| 34
+Gorillaz ||| 33
+Katy Perry ||| 33
+The Who ||| 32
+Britney Spears ||| 31
+Pixies ||| 31
+The Kinks ||| 31
+Neil Young ||| 30
+Queens of the Stone Age ||| 30
+Survivor ||| 30
+The Libertines ||| 29
+The Chemical Brothers ||| 27
+System of a Down ||| 26
+The Shins ||| 26
+Toots and The Maytals ||| 26
+Foals ||| 25
+Jimi Hendrix ||| 25
+The Offspring ||| 25
+The Postal Service ||| 25
+The White Stripes ||| 25
+Blondie ||| 24
+## playcount: 2538

@@ -1,0 +1,51 @@
+The White Stripes ||| 992
+The Beatles ||| 946
+Metallica ||| 862
+Pixies ||| 859
+Nirvana ||| 837
+System of a Down ||| 816
+The Rolling Stones ||| 807
+The Smashing Pumpkins ||| 768
+Foo Fighters ||| 765
+Korn ||| 765
+Johnny Cash ||| 754
+The Kinks ||| 752
+Led Zeppelin ||| 748
+Red Hot Chili Peppers ||| 748
+Pearl Jam ||| 744
+Radiohead ||| 735
+The Smiths ||| 708
+David Bowie ||| 704
+Kings of Leon ||| 673
+Marilyn Manson ||| 669
+Sex Pistols ||| 666
+Drowning Pool ||| 661
+The Who ||| 660
+The Darkness ||| 646
+Slipknot ||| 643
+Queens of the Stone Age ||| 636
+Faith No More ||| 594
+Limp Bizkit ||| 579
+Queen ||| 574
+Bloc Party ||| 564
+Disturbed ||| 560
+blink-182 ||| 540
+Jack White ||| 532
+Jane's Addiction ||| 525
+Murderdolls ||| 521
+Kasabian ||| 504
+Blur ||| 499
+Bloodhound Gang ||| 490
+Placebo ||| 454
+The Jimi Hendrix Experience ||| 451
+Iron Maiden ||| 448
+Oasis ||| 446
+Black Sabbath ||| 445
+Guns N' Roses ||| 441
+Newton Faulkner ||| 441
+The Strokes ||| 395
+Fear Factory ||| 394
+Steel Panther ||| 382
+Deftones ||| 381
+Cypress Hill ||| 378
+## playcount: 31102

@@ -1,0 +1,51 @@
+Muse ||| 3923
+Arctic Monkeys ||| 2984
+Maroon 5 ||| 2776
+Snow Patrol ||| 2696
+Lifehouse ||| 2687
+The Calling ||| 2612
+Gwen Stefani ||| 2399
+McFly ||| 2365
+OneRepublic ||| 2358
+Florence + the Machine ||| 2268
+Bon Jovi ||| 2107
+The Killers ||| 1984
+The All-American Rejects ||| 1760
+Sara Bareilles ||| 1750
+Kyo ||| 1730
+Pearl Jam ||| 1626
+Paramore ||| 1606
+No Doubt ||| 1525
+Death Cab for Cutie ||| 1510
+Evanescence ||| 1427
+Franz Ferdinand ||| 1418
+Alex Band ||| 1415
+Birdy ||| 1412
+30 Seconds to Mars ||| 1409
+Lady Gaga ||| 1409
+My Chemical Romance ||| 1406
+Taylor Swift ||| 1389
+Green Day ||| 1365
+Kelly Clarkson ||| 1325
+Switchfoot ||| 1224
+Hurts ||| 1220
+John Mayer ||| 1139
+The Strokes ||| 995
+Audioslave ||| 955
+Hyde ||| 916
+Glee Cast ||| 904
+Linkin Park ||| 884
+U2 ||| 844
+Lana Del Rey ||| 833
+Oasis ||| 812
+Goo Goo Dolls ||| 802
+Ed Sheeran ||| 794
+Coldplay ||| 777
+Shakira ||| 763
+Ellie Goulding ||| 761
+One Night Only ||| 749
+The Maine ||| 742
+Katy Perry ||| 739
+Justin Timberlake ||| 736
+A Fine Frenzy ||| 729
+## playcount: 74959

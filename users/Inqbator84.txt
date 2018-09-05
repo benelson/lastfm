@@ -1,0 +1,27 @@
+OXY.GEN ||| 3
+Colony 5 ||| 2
+IAMX ||| 2
+Alphaville ||| 1
+And One ||| 1
+Au Revoir Simone ||| 1
+Ayria ||| 1
+Camouflage ||| 1
+Chromatics ||| 1
+Crystal Castles ||| 1
+Cut Copy ||| 1
+David E. Sugar ||| 1
+Electronic ||| 1
+Empire of the Sun ||| 1
+Frankmusik ||| 1
+Freezepop ||| 1
+Gary Numan ||| 1
+Glass Candy ||| 1
+La Roux ||| 1
+Ladyhawke ||| 1
+Mass Kotki ||| 1
+Pet Shop Boys ||| 1
+Sally Shapiro ||| 1
+Soviet ||| 1
+Thermostatic ||| 1
+Zeigeist ||| 1
+## playcount: 30

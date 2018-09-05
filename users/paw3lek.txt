@@ -1,0 +1,51 @@
+Björk ||| 4342
+Antony and the Johnsons ||| 3684
+Hey ||| 3547
+Nosowska ||| 3371
+Patrick Wolf ||| 2520
+Robyn ||| 2399
+The Knife ||| 2394
+Fever Ray ||| 1932
+Dead Can Dance ||| 1924
+MGMT ||| 1618
+Florence + the Machine ||| 1572
+Bon Iver ||| 1493
+CocoRosie ||| 1324
+PJ Harvey ||| 1058
+Radiohead ||| 1035
+Tori Amos ||| 1012
+Róisín Murphy ||| 994
+David Bowie ||| 971
+M.I.A. ||| 941
+The xx ||| 919
+Brodka ||| 874
+Sufjan Stevens ||| 871
+Bat for Lashes ||| 850
+Young Fathers ||| 841
+Regina Spektor ||| 816
+Emilíana Torrini ||| 783
+Amy Winehouse ||| 755
+Maria Peszek ||| 686
+Rihanna ||| 658
+Beck ||| 603
+John Parish and Polly Jean Harvey ||| 581
+Soap&Skin ||| 577
+Madonna ||| 572
+Lily Allen ||| 564
+Oh Laura ||| 555
+The Ting Tings ||| 554
+Goldfrapp ||| 548
+Lo-Fi-Fnk ||| 542
+Coldplay ||| 526
+Lykke Li ||| 526
+Kings of Leon ||| 524
+Röyksopp ||| 519
+Lana Del Rey ||| 494
+M83 ||| 487
+P!nk ||| 471
+Sigur Rós ||| 471
+Myslovitz ||| 457
+The Kooks ||| 447
+The Beatles ||| 445
+of Montreal ||| 425
+## playcount: 57072

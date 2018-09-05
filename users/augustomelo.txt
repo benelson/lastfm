@@ -1,0 +1,51 @@
+Britney Spears ||| 10347
+ABBA ||| 3792
+RBD ||| 3334
+Agnetha Fältskog ||| 3259
+Cyndi Lauper ||| 2533
+Cher ||| 1769
+Bucks Fizz ||| 1747
+Jennifer Lopez ||| 1442
+Lady Gaga ||| 1401
+Christina Aguilera ||| 1216
+Katy Perry ||| 935
+Maite Perroni ||| 930
+Frida ||| 726
+The Beatles ||| 704
+Ke$ha ||| 589
+Shakira ||| 567
+Madonna ||| 508
+2NE1 ||| 465
+Lana Del Rey ||| 461
+Wanessa ||| 461
+Anahí ||| 436
+Mika ||| 374
+The Beach Boys ||| 347
+Banda UÓ ||| 327
+MGMT ||| 317
+Dulce María ||| 276
+Kylie Minogue ||| 256
+Florence + the Machine ||| 234
+Christina Perri ||| 227
+Nicki Minaj ||| 223
+Michael Jackson ||| 214
+a-ha ||| 207
+Rihanna ||| 204
+Eliana ||| 178
+Ashley Tisdale ||| 168
+Roxette ||| 164
+The Ronettes ||| 164
+Mariah Carey ||| 157
+Gwen Stefani ||| 153
+Rouge ||| 129
+Beyoncé ||| 124
+OK Go ||| 115
+High School Musical ||| 109
+Avril Lavigne ||| 104
+Aline Barros ||| 97
+Miley Cyrus ||| 96
+Blondie ||| 89
+Kelly Key ||| 87
+Heart ||| 85
+Adele ||| 82
+## playcount: 42929

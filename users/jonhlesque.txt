@@ -1,0 +1,51 @@
+Madonna ||| 8148
+Lady Gaga ||| 6659
+Britney Spears ||| 2889
+Jack Johnson ||| 2776
+Joss Stone ||| 2656
+Lana Del Rey ||| 2630
+Taylor Swift ||| 1966
+Rihanna ||| 1705
+Jason Mraz ||| 1558
+Ariana Grande ||| 1515
+Colbie Caillat ||| 1434
+Katy Perry ||| 1418
+Beyoncé ||| 1396
+Nicki Minaj ||| 1285
+Evanescence ||| 1202
+Kelly Clarkson ||| 1091
+Kylie Minogue ||| 1049
+Cheryl Cole ||| 1036
+John Mayer ||| 975
+Jennifer Lopez ||| 955
+Shakira ||| 889
+Christina Aguilera ||| 875
+Marina & the Diamonds ||| 819
+Miley Cyrus ||| 795
+Dido ||| 758
+Ellie Goulding ||| 730
+Black Eyed Peas ||| 712
+Nelly Furtado ||| 699
+Hilary Duff ||| 669
+Lorde ||| 597
+Kanye West ||| 594
+Girls Aloud ||| 593
+Drake ||| 579
+Coldplay ||| 571
+Ke$ha ||| 570
+Iggy Azalea ||| 568
+Gwen Stefani ||| 518
+Sam Hunt ||| 496
+Jonas Brothers ||| 482
+Maroon 5 ||| 479
+Charli XCX ||| 474
+Glee Cast ||| 474
+P!nk ||| 470
+Paramore ||| 466
+Justin Bieber ||| 461
+Cher Lloyd ||| 447
+Avril Lavigne ||| 439
+Girlicious ||| 434
+Barcelona ||| 429
+Nicole Scherzinger ||| 428
+## playcount: 61858

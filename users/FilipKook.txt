@@ -1,0 +1,51 @@
+Lana Del Rey ||| 7840
+Joy Division ||| 5953
+The Kooks ||| 5281
+The Subways ||| 4504
+La Dispute ||| 4341
+The Kills ||| 4294
+The Horrors ||| 4003
+Interpol ||| 3906
+Nirvana ||| 3373
+Kasabian ||| 3268
+Queens of the Stone Age ||| 3064
+Arctic Monkeys ||| 2892
+Warpaint ||| 2697
+Radiohead ||| 2688
+Archive ||| 2664
+The Cure ||| 2342
+The Black Keys ||| 2129
+Franz Ferdinand ||| 2006
+Lucie ||| 1840
+She Wants Revenge ||| 1779
+Daft Punk ||| 1572
+Led Zeppelin ||| 1526
+Vypsaná Fixa ||| 1448
+Editors ||| 1433
+Soulsavers ||| 1418
+Mark Lanegan ||| 1376
+Guns N' Roses ||| 1314
+Tame Impala ||| 1236
+alt-J ||| 1182
+Sonic Youth ||| 1178
+MGMT ||| 1136
+Depeche Mode ||| 1125
+Metronomy ||| 1073
+Blood Red Shoes ||| 1042
+Pink Floyd ||| 949
+PJ Harvey ||| 942
+Arcade Fire ||| 888
+Peter Hook and the Light ||| 872
+Nick Cave & The Bad Seeds ||| 866
+Deep Sea Arcade ||| 853
+The Underground Youth ||| 850
+Royal Republic ||| 824
+The Raveonettes ||| 823
+Moby ||| 817
+Black Rebel Motorcycle Club ||| 805
+The Beatles ||| 763
+Alice Cooper ||| 740
+Jake Bugg ||| 710
+The Dandy Warhols ||| 701
+U2 ||| 680
+## playcount: 102006

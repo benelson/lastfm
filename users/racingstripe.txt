@@ -1,0 +1,51 @@
+MGMT ||| 2359
+The Strokes ||| 776
+Enrique Iglesias ||| 607
+Julian Casablancas ||| 231
+Phoenix ||| 197
+Empire of the Sun ||| 194
+Lykke Li ||| 178
+The Wanted ||| 178
+Drake ||| 148
+Eric Saade ||| 130
+Florence + the Machine ||| 123
+Shakira ||| 91
+Incubus ||| 79
+Two Door Cinema Club ||| 75
+Danny ||| 68
+Rihanna ||| 59
+Muse ||| 54
+Prince ||| 47
+My Chemical Romance ||| 42
+Backstreet Boys ||| 39
+Passion Pit ||| 39
+Kanye West ||| 38
+The Used ||| 37
+Alexandre Desplat ||| 35
+Taking Back Sunday ||| 34
+Justin Bieber ||| 31
+Arctic Monkeys ||| 30
+Kid Cudi ||| 30
+Jambao ||| 26
+Local Natives ||| 25
+Vampire Weekend ||| 24
+Hans Zimmer ||| 23
+Lana Del Rey ||| 22
+Converse ||| 21
+The White Stripes ||| 20
+Panic! at the Disco ||| 19
+Elvis Crespo ||| 18
+Hot Hot Heat ||| 18
+Huecco ||| 17
+The Lonely Island ||| 16
+The Pretty Reckless ||| 16
+The Rapture ||| 16
+30 Seconds to Mars ||| 15
+blink-182 ||| 15
+Jay-Z ||| 15
+Fall Out Boy ||| 14
+Klaxons ||| 14
+The Academy Is... ||| 13
+The Killers ||| 13
+How To Succeed Orchestra ||| 12
+## playcount: 6341

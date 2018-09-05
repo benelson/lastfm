@@ -1,0 +1,51 @@
+One Direction ||| 6046
+Little Mix ||| 1224
+Demi Lovato ||| 926
+Ed Sheeran ||| 921
+Taylor Swift ||| 717
+The Saturdays ||| 660
+Selena Gomez ||| 612
+The Wanted ||| 425
+Calvin Harris ||| 340
+The Script ||| 333
+Pitbull ||| 297
+Ke$ha ||| 276
+Cher Lloyd ||| 270
+All Time Low ||| 242
+Jason Derülo ||| 184
+Katy Perry ||| 182
+Nicki Minaj ||| 176
+Avicii ||| 175
+Ella Henderson ||| 162
+The Ready Set ||| 143
+Rihanna ||| 142
+Cash Cash ||| 141
+Avril Lavigne ||| 136
+Hunter Parrish ||| 132
+McFly ||| 122
+Megan Nicole ||| 115
+MKTO ||| 112
+Maroon 5 ||| 109
+Ariana Grande ||| 107
+P!nk ||| 106
+Olly Murs ||| 103
+Flo Rida ||| 102
+David Guetta ||| 96
+Cobra Starship ||| 95
+Justin Bieber ||| 94
+Alyssa Reid ||| 93
+Conor Maynard ||| 93
+Adele ||| 88
+Miley Cyrus ||| 86
+Neon Trees ||| 83
+Clean Bandit ||| 82
+Adam Lambert ||| 80
+Example ||| 79
+Britney Spears ||| 77
+Macklemore & Ryan Lewis ||| 77
+Lifehouse ||| 76
+Frankmusik ||| 74
+Zedd ||| 74
+Carly Rae Jepsen ||| 70
+Union J ||| 70
+## playcount: 17225

@@ -1,0 +1,51 @@
+Aerosmith ||| 558
+Kings of Leon ||| 491
+Foo Fighters ||| 399
+Guns N' Roses ||| 243
+Kiss ||| 227
+Gotthard ||| 180
+Red Hot Chili Peppers ||| 159
+Arctic Monkeys ||| 143
+Florence + the Machine ||| 143
+The Strokes ||| 142
+Mötley Crüe ||| 128
+The Beatles ||| 117
+Morrissey ||| 115
+Katy Perry ||| 109
+Metallica ||| 109
+My Chemical Romance ||| 100
+The Maine ||| 93
+MGMT ||| 89
+Queen ||| 89
+Bon Jovi ||| 83
+A Day to Remember ||| 81
+Clare Fischer ||| 78
+You Me at Six ||| 77
+Helloween ||| 75
+Megadeth ||| 44
+Interpol ||| 43
+Pantera ||| 42
+The Smiths ||| 41
+The Animals ||| 39
+The Rolling Stones ||| 38
+blink-182 ||| 36
+The Runaways ||| 36
+Skid Row ||| 34
+Jim Kahr ||| 31
+Bring Me the Horizon ||| 30
+3OH!3 ||| 29
+Paramore ||| 27
+Pearl Jam ||| 24
+Pink Floyd ||| 24
+Misfits ||| 23
+Alice in Chains ||| 22
+Maroon 5 ||| 21
+Ozzy Osbourne ||| 21
+Poison ||| 21
+Van Halen ||| 21
+The wonders ||| 18
+Destroy Rebuild Until God Shows ||| 17
+Tears for Fears ||| 17
+Gorillaz ||| 16
+Rage Against the Machine ||| 16
+## playcount: 4759

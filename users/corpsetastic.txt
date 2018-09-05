@@ -1,0 +1,51 @@
+Megadeth ||| 18148
+Alice in Chains ||| 12172
+Guns N' Roses ||| 7348
+Nirvana ||| 6402
+Death ||| 5394
+Machine Head ||| 5178
+Metallica ||| 4718
+Opeth ||| 4661
+Slayer ||| 4258
+Mastodon ||| 4037
+Radiohead ||| 3806
+Pink Floyd ||| 3342
+Trivium ||| 3120
+Red Hot Chili Peppers ||| 3070
+System of a Down ||| 3063
+Lady Gaga ||| 3012
+David Bowie ||| 2884
+The Beatles ||| 2572
+Nine Inch Nails ||| 2568
+Tool ||| 2101
+Muse ||| 1866
+The Doors ||| 1843
+Children of Bodom ||| 1764
+Slipknot ||| 1682
+Down ||| 1669
+As I Lay Dying ||| 1658
+Testament ||| 1647
+Lamb of God ||| 1620
+Killswitch Engage ||| 1578
+Queens of the Stone Age ||| 1560
+Pantera ||| 1526
+Elton John ||| 1461
+Avenged Sevenfold ||| 1356
+Deftones ||| 1214
+Prince ||| 1206
+Ludwig van Beethoven ||| 1169
+Led Zeppelin ||| 1090
+Korn ||| 952
+Kate Bush ||| 919
+Linkin Park ||| 852
+Porcupine Tree ||| 815
+My Chemical Romance ||| 809
+The Smashing Pumpkins ||| 798
+Black Sabbath ||| 790
+Iron Maiden ||| 783
+Pearl Jam ||| 767
+Neil Young ||| 757
+Oasis ||| 719
+Placebo ||| 699
+Papa Roach ||| 619
+## playcount: 138042

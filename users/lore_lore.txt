@@ -1,0 +1,51 @@
+Phoenix ||| 4563
+Kate Nash ||| 3745
+Au Revoir Simone ||| 2943
+The Killers ||| 1975
+Coldplay ||| 1839
+Cut Copy ||| 1420
+Bloc Party ||| 1371
+Kings of Leon ||| 1301
+Lily Allen ||| 1290
+Arcade Fire ||| 1223
+Arctic Monkeys ||| 1067
+Feist ||| 1015
+Interpol ||| 969
+Yelle ||| 920
+Camera Obscura ||| 918
+Air ||| 907
+Goldfrapp ||| 885
+The Postal Service ||| 860
+Nada Surf ||| 764
+Beirut ||| 717
+The Beatles ||| 717
+Keane ||| 680
+Lykke Li ||| 671
+Cœur de Pirate ||| 667
+Bon Iver ||| 665
+Empire of the Sun ||| 660
+Ladyhawke ||| 648
+The Radio Dept. ||| 639
+Friendly Fires ||| 625
+Marina & the Diamonds ||| 619
+Travis ||| 614
+The xx ||| 610
+William Fitzsimmons ||| 609
+Beck ||| 577
+The Libertines ||| 576
+The Ting Tings ||| 567
+Sigur Rós ||| 566
+Best Coast ||| 560
+Blur ||| 560
+Hot Hot Heat ||| 559
+El Guincho ||| 552
+Radiohead ||| 525
+Bat for Lashes ||| 524
+M83 ||| 524
+Snow Patrol ||| 521
+Metronomy ||| 514
+Florence + the Machine ||| 496
+She & Him ||| 493
+Cults ||| 491
+Britney Spears ||| 489
+## playcount: 48210

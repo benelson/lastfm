@@ -1,0 +1,51 @@
+Snow Patrol ||| 5
+Travis ||| 5
+Coldplay ||| 4
+Kasabian ||| 4
+The Cardigans ||| 4
+Franz Ferdinand ||| 3
+George Harrison ||| 3
+Gin Blossoms ||| 3
+Goo Goo Dolls ||| 3
+John Lennon ||| 3
+Keren Ann ||| 3
+Modest Mouse ||| 3
+Paul McCartney ||| 3
+Razorlight ||| 3
+Simon & Garfunkel ||| 3
+Steppenwolf ||| 3
+The Killers ||| 3
+The Pipettes ||| 3
+The Rolling Stones ||| 3
+The Who ||| 3
+Train ||| 3
+Барабанда ||| 3
+Abandoned Pools ||| 2
+Arctic Monkeys ||| 2
+Ash ||| 2
+Benjamin Biolay ||| 2
+Better Than Ezra ||| 2
+Cake ||| 2
+Camille ||| 2
+Cream ||| 2
+Creedence Clearwater Revival ||| 2
+Dire Straits ||| 2
+Donovan ||| 2
+Embrace ||| 2
+EVE 6 ||| 2
+Feeder ||| 2
+Feist ||| 2
+Foo Fighters ||| 2
+Good Charlotte ||| 2
+Janis Joplin ||| 2
+Kaiser Chiefs ||| 2
+Keane ||| 2
+Kings of Leon ||| 2
+Lynyrd Skynyrd ||| 2
+Matchbox Twenty ||| 2
+Nirvana ||| 2
+Oasis ||| 2
+Paul McCartney & Wings ||| 2
+Pauline Croze ||| 2
+Red Hot Chili Peppers ||| 2
+## playcount: 129

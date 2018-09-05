@@ -1,0 +1,51 @@
+Pink Floyd ||| 63406
+Genesis ||| 4056
+David Gilmour ||| 2532
+Roger Waters ||| 1525
+Syd Barrett ||| 1127
+Rick Wright ||| 755
+Richard Wright ||| 752
+David Bowie ||| 703
+The Beatles ||| 660
+Lynyrd Skynyrd ||| 532
+Frank Sinatra ||| 499
+Dream Theater ||| 348
+Led Zeppelin ||| 348
+Nick Mason ||| 289
+King Crimson ||| 262
+Jamie Cullum ||| 233
+Gustavo Cerati ||| 230
+Eric Clapton ||| 216
+Tool ||| 216
+John Lennon ||| 211
+Black Sabbath ||| 206
+Coldplay ||| 200
+Nirvana ||| 196
+The Mars Volta ||| 161
+Queen ||| 150
+Rush ||| 137
+Cream ||| 133
+Elvis Presley ||| 131
+Creedence Clearwater Revival ||| 124
+Alice in Chains ||| 123
+Los Jaivas ||| 114
+Portishead ||| 106
+The Velvet Underground ||| 104
+Nick Cave & The Bad Seeds ||| 96
+Bob Dylan ||| 86
+Frank Zappa ||| 86
+The Doors ||| 79
+Floyd a Chillout experience ||| 77
+Stevie Ray Vaughan and Double Trouble ||| 74
+Ella Fitzgerald ||| 73
+Peter Doherty ||| 70
+Carole King ||| 65
+Otis Redding ||| 65
+Neil Young ||| 57
+Sonic Youth ||| 52
+The White Stripes ||| 52
+Chris Cornell ||| 51
+Foo Fighters ||| 51
+Johnny Cash ||| 50
+Emerson, Lake & Palmer ||| 49
+## playcount: 81918

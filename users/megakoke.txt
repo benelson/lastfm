@@ -1,0 +1,51 @@
+Lenny Kravitz ||| 42
+Misfits ||| 33
+Arcade Fire ||| 32
+Gorillaz ||| 13
+The Doors ||| 13
+Los Planetas ||| 12
+The Shins ||| 12
+Pixies ||| 11
+The Stone Roses ||| 10
+Bullet for My Valentine ||| 9
+Foo Fighters ||| 8
+Keane ||| 8
+Rammstein ||| 8
+Coldplay ||| 7
+Muse ||| 7
+Radiohead ||| 7
+Franz Ferdinand ||| 6
+Jefferson Airplane ||| 6
+Mika ||| 6
+Pearl Jam ||| 6
+Slipknot ||| 6
+Beth Orton ||| 5
+Little Richard ||| 5
+Moreno Negron ||| 5
+R.E.M. ||| 5
+Regina Spektor ||| 5
+System of a Down ||| 5
+The Killers ||| 5
+Elvis Presley ||| 4
+Garbage ||| 4
+Gary Jules ||| 4
+Jerry Lee Lewis ||| 4
+Love ||| 4
+Marlango ||| 4
+Moby ||| 4
+Moby Feat. Amaral ||| 4
+Nick Cave & The Bad Seeds ||| 4
+PJ Harvey ||| 4
+Placebo ||| 4
+Seal ||| 4
+Shakira ||| 4
+Stereophonics ||| 4
+The Strokes ||| 4
+Bloc Party ||| 3
+Buddy Holly ||| 3
+Carlos Jean ||| 3
+Chubby Checker ||| 3
+Doves ||| 3
+Guns N' Roses ||| 3
+Jimmy Eat World ||| 3
+## playcount: 378

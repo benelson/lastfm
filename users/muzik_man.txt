@@ -1,0 +1,51 @@
+Madonna ||| 16666
+Kylie Minogue ||| 14236
+Bananarama ||| 5211
+Erasure ||| 4393
+Pet Shop Boys ||| 4265
+Lady Gaga ||| 3957
+Peter Wilson ||| 3360
+Chris Isaak ||| 2856
+Goldfrapp ||| 2469
+Robyn ||| 2444
+Michael Bublé ||| 1865
+La Roux ||| 1843
+Eurythmics ||| 1641
+September ||| 1591
+Duran Duran ||| 1523
+Donna Summer ||| 1496
+Scritti Politti ||| 1385
+Will Young ||| 1379
+Britney Spears ||| 1352
+Rihanna ||| 1270
+Lily Allen ||| 1242
+Annie ||| 1232
+Hazell Dean ||| 1163
+Yazoo ||| 1140
+George Michael ||| 1112
+Blondie ||| 1085
+Owl City ||| 1069
+Orchestral Manoeuvres in the Dark ||| 1063
+Le Kid ||| 1052
+Alison Moyet ||| 967
+Carly Rae Jepsen ||| 931
+Thompson Twins ||| 919
+Saint Etienne ||| 889
+The Human League ||| 888
+Girls Aloud ||| 881
+Katy Perry ||| 875
+Glee Cast ||| 866
+Parralox ||| 851
+Annie Lennox ||| 846
+Alphabeat ||| 832
+Little Boots ||| 827
+Prince ||| 820
+Hurts ||| 817
+Sophie Ellis-Bextor ||| 813
+Janet Jackson ||| 810
+The B-52's ||| 796
+Infernal ||| 782
+Ace of Base ||| 777
+Depeche Mode ||| 752
+Hall & Oates ||| 749
+## playcount: 103048

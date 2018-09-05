@@ -1,0 +1,51 @@
+Mariah Carey ||| 25552
+Taylor Swift ||| 9923
+Pixie Lott ||| 7078
+Leona Lewis ||| 4882
+Demi Lovato ||| 3719
+Céline Dion ||| 3607
+Adele ||| 3601
+Rihanna ||| 3187
+Christina Aguilera ||| 2582
+Charice ||| 2325
+Beyoncé ||| 2298
+A Great Big World ||| 2165
+Lady Gaga ||| 2056
+Clarice Falcão ||| 2039
+Lara Fabian ||| 1869
+Britney Spears ||| 1819
+Cyndi Lauper ||| 1804
+Fifth Harmony ||| 1781
+Sia ||| 1766
+Miley Cyrus ||| 1718
+Avril Lavigne ||| 1667
+Nelly Furtado ||| 1663
+Selena Gomez & the Scene ||| 1637
+P!nk ||| 1616
+Anitta ||| 1577
+Ariana Grande ||| 1553
+Katy Perry ||| 1531
+Whitney Houston ||| 1435
+Jessie J ||| 1429
+Kelly Clarkson ||| 1361
+Shakira ||| 1287
+Gwen Stefani ||| 1276
+Nicki Minaj ||| 1198
+Cher ||| 1177
+Selena Gomez ||| 1115
+Vanessa Carlton ||| 1060
+Carly Rae Jepsen ||| 1057
+Bridgit Mendler ||| 1023
+Carrie Underwood ||| 1012
+Madonna ||| 982
+Jennifer Hudson ||| 850
+Norah Jones ||| 827
+Kylie Minogue ||| 821
+Glee Cast ||| 814
+Jennifer Lopez ||| 769
+Thalía ||| 748
+Justin Bieber ||| 745
+No Doubt ||| 741
+David Guetta ||| 719
+Little Mix ||| 650
+## playcount: 120111

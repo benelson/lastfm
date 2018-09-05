@@ -1,0 +1,51 @@
+Pink Floyd ||| 750
+The Who ||| 420
+Queens of the Stone Age ||| 395
+The Rolling Stones ||| 385
+Fother Muckers ||| 384
+Kyuss ||| 327
+The Ganjas ||| 327
+Iron Maiden ||| 309
+The Beach Boys ||| 304
+Bob Dylan ||| 292
+The Cure ||| 280
+Led Zeppelin ||| 279
+The Brian Jonestown Massacre ||| 271
+Aerosmith ||| 265
+The Clash ||| 258
+Blur ||| 252
+Neil Young ||| 249
+The Smiths ||| 248
+The Beatles ||| 247
+Faith No More ||| 240
+New Order ||| 234
+Rush ||| 226
+Beck ||| 220
+King Crimson ||| 216
+Black Sabbath ||| 212
+Nine Inch Nails ||| 204
+Porcupine Tree ||| 194
+T. Rex ||| 192
+Pearl Jam ||| 184
+Judas Priest ||| 181
+Cream ||| 172
+Joy Division ||| 169
+The Black Keys ||| 168
+Black Label Society ||| 162
+Marillion ||| 161
+Wolfmother ||| 159
+Megadeth ||| 150
+The Doors ||| 150
+Foo Fighters ||| 149
+Los Prisioneros ||| 141
+Manowar ||| 139
+Primus ||| 139
+Arctic Monkeys ||| 135
+Bauhaus ||| 131
+David Bowie ||| 130
+Tool ||| 127
+Radiohead ||| 123
+Genesis ||| 122
+The Velvet Underground ||| 119
+Miles Davis ||| 116
+## playcount: 11407

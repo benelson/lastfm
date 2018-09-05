@@ -1,0 +1,51 @@
+Selena Gomez ||| 4105
+Taylor Swift ||| 2753
+Ariana Grande ||| 2392
+Beyoncé ||| 1563
+Shawn Mendes ||| 1275
+Katy Perry ||| 1111
+Camila Cabello ||| 1018
+BLACKPINK ||| 974
+Lorde ||| 884
+Lana Del Rey ||| 879
+Bridgit Mendler ||| 692
+Florence + the Machine ||| 647
+Lady Gaga ||| 623
+Rihanna ||| 594
+Hailee Steinfeld ||| 452
+Demi Lovato ||| 428
+Janelle Monáe ||| 428
+Zara Larsson ||| 426
+HAIM ||| 404
+Christina Aguilera ||| 401
+Anitta ||| 362
+Dua Lipa ||| 341
+Selena Gomez & the Scene ||| 325
+Miley Cyrus ||| 305
+Pabllo Vittar ||| 237
+Dermot Kennedy ||| 229
+Imagine Dragons ||| 226
+Sigrid ||| 226
+Nicki Minaj ||| 218
+Vance Joy ||| 217
+Foster the People ||| 214
+Drake ||| 205
+Marina & the Diamonds ||| 199
+Zayn ||| 197
+Lily Allen ||| 192
+Kygo ||| 156
+Chloe x Halle ||| 154
+Billie Eilish ||| 153
+Ke$ha ||| 153
+Sia ||| 143
+King Princess ||| 139
+Charli XCX ||| 122
+Bishop Briggs ||| 119
+Fifth Harmony ||| 119
+Ruel ||| 113
+Iggy Azalea ||| 112
+Bleachers ||| 102
+Jesper Jenset ||| 100
+Carly Rae Jepsen ||| 98
+Britney Spears ||| 94
+## playcount: 27619

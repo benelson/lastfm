@@ -1,0 +1,51 @@
+RBD ||| 12713
+KAT-TUN ||| 6062
+Justin Bieber ||| 3436
+All Time Low ||| 2761
+Alice Nine ||| 2664
+Dulce María ||| 2564
+Avril Lavigne ||| 2412
+Mitchel Musso ||| 2039
+GACKT ||| 1825
+Selena Gomez ||| 1683
+Big Time Rush ||| 1577
+Simple Plan ||| 1540
+MONSTA X ||| 1501
+B.A.P ||| 1480
+Demi Lovato ||| 1455
+Jesse McCartney ||| 1440
+Boys Like Girls ||| 1426
+Prince Royce ||| 1407
+Ashley Tisdale ||| 1366
+Selena Gomez & the Scene ||| 1354
+B2ST ||| 1300
+ONE OK ROCK ||| 1282
+嵐 ||| 1239
+Carrie Underwood ||| 1171
+Exo ||| 1078
+Britney Spears ||| 1044
+The Summer Set ||| 1043
+2AM ||| 1036
+Kelly Clarkson ||| 988
+Amber Pacific ||| 979
+VIXX ||| 965
+B1A4 ||| 954
+Taylor Swift ||| 901
+The Click Five ||| 880
+Skillet ||| 841
+U-KISS ||| 838
+Green Day ||| 777
+C.N.Blue ||| 775
+David Archuleta ||| 761
+EXO-K ||| 732
+Hilary Duff ||| 712
+Selena ||| 709
+Skye Sweetnam ||| 684
+24k ||| 606
+Juanes ||| 597
+Stereo Skyline ||| 593
+Reik ||| 562
+Camila ||| 520
+The Ready Set ||| 491
+Christina Aguilera ||| 482
+## playcount: 78245

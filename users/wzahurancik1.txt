@@ -1,0 +1,51 @@
+The Rolling Stones ||| 8898
+The Who ||| 8418
+David Bowie ||| 7780
+The Kinks ||| 4457
+The Beatles ||| 3683
+The Moody Blues ||| 3243
+Pink Floyd ||| 2847
+The Beach Boys ||| 2483
+Frank Zappa ||| 2311
+The Clash ||| 1803
+Genesis ||| 1558
+The Mothers of Invention ||| 1252
+Cream ||| 1177
+Ween ||| 1071
+Led Zeppelin ||| 965
+Blur ||| 894
+Kraftwerk ||| 839
+Grateful Dead ||| 794
+Aphex Twin ||| 732
+Donovan ||| 732
+Beastie Boys ||| 694
+Jethro Tull ||| 681
+Captain Beefheart & His Magic Band ||| 675
+The Byrds ||| 673
+John Lennon ||| 671
+Black Sabbath ||| 662
+Paul McCartney ||| 661
+Brian Eno ||| 657
+The Doors ||| 647
+Boards of Canada ||| 620
+Talking Heads ||| 612
+Can ||| 591
+The Hollies ||| 590
+Jefferson Airplane ||| 542
+Yes ||| 536
+King Crimson ||| 497
+Air ||| 468
+Funkadelic ||| 460
+The Pretty Things ||| 460
+Amon Düül II ||| 453
+Paul McCartney & Wings ||| 438
+Bob Dylan ||| 416
+Queen ||| 397
+The Jimi Hendrix Experience ||| 397
+Beck ||| 390
+Small Faces ||| 329
+Pete Townshend ||| 315
+Gentle Giant ||| 308
+Soft Machine ||| 304
+Radiohead ||| 296
+## playcount: 71377

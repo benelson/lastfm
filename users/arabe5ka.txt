@@ -1,0 +1,51 @@
+The Jimi Hendrix Experience ||| 406
+Cream ||| 400
+Nina Simone ||| 377
+The Animals ||| 296
+Jimi Hendrix ||| 288
+The Doors ||| 277
+Etta James ||| 250
+Tom Waits ||| 239
+Georges Bizet ||| 196
+Pink Floyd ||| 192
+Led Zeppelin ||| 166
+Creedence Clearwater Revival ||| 165
+Sarah Vaughan ||| 128
+Aretha Franklin ||| 122
+Jolie Holland ||| 122
+Radiohead ||| 122
+Michael Jackson ||| 118
+Chavela Vargas ||| 111
+Ennio Morricone ||| 111
+Bobby Vinton ||| 110
+Janis Joplin ||| 108
+Julie London ||| 104
+5'nizza ||| 97
+Regina Spektor ||| 95
+Mel Tormé ||| 92
+Édith Piaf ||| 88
+Amy Winehouse ||| 87
+Bob Dylan ||| 86
+Kanye West ||| 79
+Raphael Saadiq ||| 78
+Cake ||| 76
+Giuseppe Verdi ||| 71
+Nick Drake ||| 71
+The Beatles ||| 70
+Ibrahim Ferrer ||| 69
+Charles Bradley ||| 67
+Hanne Hukkelberg ||| 67
+Lhasa ||| 65
+Otis Redding ||| 65
+The Mamas & the Papas ||| 65
+B.B. King ||| 63
+Canned Heat ||| 63
+Jorge Drexler ||| 63
+Molli Joe ||| 63
+Dionne Warwick ||| 62
+Ten Years After ||| 62
+Peggy Lee ||| 60
+Wolfgang Amadeus Mozart ||| 59
+Billie Holiday ||| 57
+Frank Sinatra ||| 57
+## playcount: 6405

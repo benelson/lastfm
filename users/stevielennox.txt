@@ -1,0 +1,51 @@
+Neil Young ||| 2192
+The Beatles ||| 1648
+Foo Fighters ||| 1610
+Led Zeppelin ||| 1426
+Queens of the Stone Age ||| 1238
+Meat Puppets ||| 1233
+Minutemen ||| 1229
+Radiohead ||| 1219
+Beck ||| 1019
+Jane's Addiction ||| 940
+Manic Street Preachers ||| 877
+Aerosmith ||| 843
+Sebadoh ||| 834
+Fugazi ||| 830
+Blur ||| 793
+Pavement ||| 774
+David Bowie ||| 772
+Nirvana ||| 768
+Pixies ||| 740
+Future of the Left ||| 710
+mclusky ||| 690
+The Dismemberment Plan ||| 672
+Neil Young & Crazy Horse ||| 635
+Soundgarden ||| 627
+Pearl Jam ||| 616
+LaFaro ||| 612
+At the Drive-In ||| 605
+Black Flag ||| 602
+Sonic Youth ||| 589
+Hüsker Dü ||| 583
+Rush ||| 571
+Pink Floyd ||| 557
+Dinosaur Jr. ||| 548
+Belle and Sebastian ||| 541
+The Lemonheads ||| 517
+Shellac ||| 503
+R.E.M. ||| 499
+Arctic Monkeys ||| 478
+My Bloody Valentine ||| 469
+The Smashing Pumpkins ||| 469
+Jurassic 5 ||| 468
+Slowdive ||| 467
+The Breeders ||| 466
+Blind Melon ||| 457
+Red Hot Chili Peppers ||| 456
+The Jimi Hendrix Experience ||| 454
+Weezer ||| 447
+Boards of Canada ||| 446
+Uncle Tupelo ||| 439
+The Zombies ||| 432
+## playcount: 37610

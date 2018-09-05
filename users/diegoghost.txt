@@ -1,0 +1,51 @@
+Pink Floyd ||| 3389
+The Beatles ||| 2177
+The Black Keys ||| 2163
+David Bowie ||| 1920
+The Rolling Stones ||| 1659
+Os Mutantes ||| 1485
+Led Zeppelin ||| 1463
+Paramore ||| 1171
+Queen ||| 1146
+Black Sabbath ||| 1008
+Florence + the Machine ||| 1000
+Ellie Goulding ||| 963
+Bastille ||| 923
+Kings of Leon ||| 861
+Foo Fighters ||| 809
+Lorde ||| 717
+Chico Buarque ||| 626
+Foster the People ||| 609
+Alabama Shakes ||| 565
+Mac DeMarco ||| 528
+Bruno Mars ||| 526
+White Lies ||| 525
+The Doors ||| 505
+Tame Impala ||| 478
+Jake Bugg ||| 461
+Rush ||| 413
+Cícero ||| 409
+Of Monsters and Men ||| 362
+R.E.M. ||| 357
+Aerosmith ||| 310
+Disclosure ||| 304
+Arctic Monkeys ||| 292
+Thiago Pethit ||| 292
+Metallica ||| 276
+The Beach Boys ||| 269
+Little Joy ||| 264
+Surfer Blood ||| 260
+Michael Jackson ||| 257
+The Jesus and Mary Chain ||| 248
+Amy Winehouse ||| 238
+Band of Horses ||| 236
+The Who ||| 235
+Queens of the Stone Age ||| 231
+The Killers ||| 223
+The Velvet Underground ||| 223
+Karol Conka ||| 222
+Joy Division ||| 218
+Chet Faker ||| 212
+Eric Clapton ||| 207
+Kiesza ||| 204
+## playcount: 34439

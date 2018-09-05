@@ -1,0 +1,51 @@
+Charlie Brown JR. ||| 12347
+Rancid ||| 3165
+City and Colour ||| 2725
+Motörhead ||| 1309
+Iron Maiden ||| 1253
+Pearl Jam ||| 1220
+Legião Urbana ||| 1149
+O Rappa ||| 1075
+Ramones ||| 1069
+blink-182 ||| 921
+Nirvana ||| 898
+Red Hot Chili Peppers ||| 799
+Megadeth ||| 782
+NOFX ||| 740
+O Teatro Mágico ||| 739
+Mumford & Sons ||| 714
+Led Zeppelin ||| 708
+Pink Floyd ||| 667
+Death from Above 1979 ||| 639
+AC/DC ||| 607
+Bon Jovi ||| 573
+Engenheiros Do Hawaii ||| 549
+Raimundos ||| 527
+Capital Inicial ||| 507
+Rage Against the Machine ||| 503
+System of a Down ||| 498
+Cícero ||| 457
+Apanhador Só ||| 445
+Dallas Green ||| 443
+Rob Zombie ||| 394
+Arctic Monkeys ||| 390
+Pennywise ||| 381
+Soundgarden ||| 375
+Matanza ||| 369
+30 Seconds to Mars ||| 368
+Oasis ||| 364
+Blur ||| 339
+Aerosmith ||| 332
+Murderdolls ||| 322
+The Tallest Man on Earth ||| 322
+Kyuss ||| 317
+Jack Johnson ||| 312
+Bon Iver ||| 307
+Coldplay ||| 284
+Wednesday 13 ||| 278
+Metallica ||| 275
+The Offspring ||| 269
+Emicida ||| 267
+Angra ||| 265
+Criolo ||| 230
+## playcount: 44788

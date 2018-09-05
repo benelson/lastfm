@@ -1,0 +1,51 @@
+The Beatles ||| 4445
+Tame Impala ||| 2777
+Arctic Monkeys ||| 2755
+Pink Floyd ||| 2506
+Belle and Sebastian ||| 2433
+The Shins ||| 2220
+Queens of the Stone Age ||| 2004
+Kings of Convenience ||| 1869
+Death Cab for Cutie ||| 1456
+Red Hot Chili Peppers ||| 1455
+System of a Down ||| 1170
+The Cure ||| 1148
+Mac DeMarco ||| 1100
+Fleet Foxes ||| 937
+The Smiths ||| 931
+Radiohead ||| 832
+Tool ||| 815
+Foo Fighters ||| 794
+Felt ||| 792
+Rush ||| 723
+blink-182 ||| 687
+Led Zeppelin ||| 684
+Washed Out ||| 665
+Oasis ||| 635
+Blue Öyster Cult ||| 598
+Coldplay ||| 594
+The Drums ||| 562
+Arcade Fire ||| 558
+Kaiser Chiefs ||| 539
+The Offspring ||| 536
+Angus & Julia Stone ||| 534
+Nirvana ||| 534
+Wild Nothing ||| 530
+Wavves ||| 518
+Gorillaz ||| 514
+Elliott Smith ||| 513
+Banda Black Rio ||| 500
+The Who ||| 488
+David Bowie ||| 467
+The Beach Boys ||| 466
+soundTeMP ||| 456
+Manic Street Preachers ||| 451
+Slowdive ||| 449
+The Doors ||| 434
+The Strokes ||| 429
+The Velvet Underground ||| 419
+Alice in Chains ||| 400
+Joy Division ||| 385
+Pond ||| 381
+Temples ||| 376
+## playcount: 48464

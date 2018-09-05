@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 8784
+John Mayer ||| 3696
+Avenged Sevenfold ||| 3498
+The Strokes ||| 3332
+Oasis ||| 3135
+Plain White T's ||| 3017
+Avril Lavigne ||| 1910
+4minute ||| 1838
+Britney Spears ||| 1611
+Backstreet Boys ||| 1532
+Incubus ||| 1468
+Silverchair ||| 1229
+The Kooks ||| 1217
+Owl City ||| 1127
+Taylor Swift ||| 1116
+The All-American Rejects ||| 1107
+Three Days Grace ||| 1097
+Panic! at the Disco ||| 1072
+The Academy Is... ||| 1038
+Stone Temple Pilots ||| 1000
+My Chemical Romance ||| 807
+Glee Cast ||| 783
+Bon Jovi ||| 770
+Jesse McCartney ||| 718
+Beyoncé ||| 697
+Weezer ||| 671
+Demi Lovato ||| 630
+Queens of the Stone Age ||| 602
+Julian Casablancas ||| 553
+Maroon 5 ||| 553
+Iggy Azalea ||| 551
+Portugal. The Man ||| 528
+Red Hot Chili Peppers ||| 518
+Rihanna ||| 518
+Alice in Chains ||| 474
+Alex Turner ||| 473
+Lana Del Rey ||| 466
+Mac Miller ||| 456
+Christina Aguilera ||| 441
+Bullet for My Valentine ||| 416
+Faith No More ||| 416
+Slipknot ||| 412
+Justin Timberlake ||| 396
+Aerosmith ||| 393
+The Offspring ||| 346
+Boys Like Girls ||| 344
+Adele ||| 340
+Bruno Mars ||| 337
+Little Mix ||| 331
+Linkin Park ||| 325
+## playcount: 59089

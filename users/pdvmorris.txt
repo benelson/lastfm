@@ -1,0 +1,51 @@
+David Bowie ||| 6517
+Bob Dylan ||| 6335
+Louis Armstrong ||| 5991
+The Rolling Stones ||| 5171
+The Beatles ||| 4961
+Tom Waits ||| 4366
+Johnny Cash ||| 3707
+Leonard Cohen ||| 3394
+Neil Young ||| 2879
+Billie Holiday ||| 2574
+Jadea Kelly ||| 2177
+Van Morrison ||| 2175
+Muddy Waters ||| 2114
+B.B. King ||| 2010
+Bruce Springsteen ||| 1957
+Aretha Franklin ||| 1905
+Bobby Womack ||| 1883
+Willie Nelson ||| 1864
+The Kinks ||| 1795
+Bobby "Blue" Bland ||| 1635
+Etta James ||| 1615
+Otis Redding ||| 1578
+Dr. John ||| 1540
+Nina Simone ||| 1482
+Nick Drake ||| 1454
+John Prine ||| 1436
+Professor Longhair ||| 1430
+James Brown ||| 1427
+Jimi Hendrix ||| 1397
+Joni Mitchell ||| 1397
+The Band ||| 1383
+Miles Davis ||| 1335
+Chuck Berry ||| 1270
+Al Green ||| 1268
+Ray Charles ||| 1230
+Allen Toussaint ||| 1192
+Sharon Jones and the Dap-Kings ||| 1165
+The Byrds ||| 1165
+Waylon Jennings ||| 1153
+Tony Bennett ||| 1131
+Little Richard ||| 1119
+Solomon Burke ||| 1088
+Hank Williams ||| 1083
+The Who ||| 1065
+Johann Sebastian Bach ||| 1053
+Pink Floyd ||| 1047
+Ella Fitzgerald ||| 1009
+Gordon Lightfoot ||| 1009
+John Lee Hooker ||| 1003
+Irma Thomas ||| 997
+## playcount: 102931

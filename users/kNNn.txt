@@ -1,0 +1,51 @@
+AC/DC ||| 10202
+Bob Dylan ||| 7025
+The Beatles ||| 3057
+Arctic Monkeys ||| 2236
+Led Zeppelin ||| 2126
+Johnny Cash ||| 2004
+The Who ||| 1946
+Jack Johnson ||| 1762
+The Doors ||| 1759
+Ramones ||| 1740
+The Jimi Hendrix Experience ||| 1420
+Rush ||| 1408
+The Rolling Stones ||| 1386
+Black Sabbath ||| 1238
+Lynyrd Skynyrd ||| 1211
+Kiss ||| 1210
+Deep Purple ||| 1165
+Pink Floyd ||| 1124
+Arcade Fire ||| 1018
+Cream ||| 812
+Nujabes ||| 807
+Kings of Leon ||| 743
+Judas Priest ||| 677
+Bruce Springsteen ||| 670
+Kanye West ||| 666
+Van Halen ||| 626
+The Black Keys ||| 612
+Miles Davis ||| 608
+Kendrick Lamar ||| 578
+Queens of the Stone Age ||| 568
+Oasis ||| 555
+Airbourne ||| 537
+Death Cab for Cutie ||| 535
+David Bowie ||| 480
+The Radio Dept. ||| 475
+THEATRE BROOK ||| 462
+Frank Ocean ||| 459
+Beck ||| 403
+Incubus ||| 403
+John Mayer ||| 398
+Belle and Sebastian ||| 385
+Foo Fighters ||| 368
+Interpol ||| 358
+José González ||| 341
+Pearl Jam ||| 335
+Simon & Garfunkel ||| 335
+The Gaslight Anthem ||| 333
+Queen ||| 322
+The National ||| 296
+KT Tunstall ||| 282
+## playcount: 60466

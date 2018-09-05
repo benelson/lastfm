@@ -1,0 +1,51 @@
+Bob Dylan ||| 2072
+Elton John ||| 1763
+Stevie Wonder ||| 1539
+The Beach Boys ||| 1454
+Bruce Springsteen ||| 1356
+The Beatles ||| 1261
+Peter Gabriel ||| 1108
+Pink Floyd ||| 1074
+Björk ||| 1065
+Genesis ||| 1016
+Prince ||| 869
+Marvin Gaye ||| 809
+Leonard Cohen ||| 752
+Morrissey ||| 649
+David Sylvian ||| 640
+Θανάσης Παπακωνσταντίνου ||| 634
+Miles Davis ||| 599
+Tom Waits ||| 586
+Kanye West ||| 561
+D'Angelo ||| 532
+Max Richter ||| 507
+Youssou N'Dour ||| 489
+Khaled ||| 486
+Japan ||| 450
+David Bowie ||| 446
+XTC ||| 432
+King Crimson ||| 408
+Frank Ocean ||| 389
+Moby ||| 389
+Brian Wilson ||| 382
+坂本龍一 ||| 376
+Sleater-Kinney ||| 367
+Dead Can Dance ||| 344
+John Lennon ||| 344
+The Smiths ||| 336
+Paul McCartney ||| 322
+Scott Walker ||| 322
+Madonna ||| 316
+Johnny Cash ||| 315
+Nusrat Fateh Ali Khan ||| 311
+Kendrick Lamar ||| 310
+Brian Eno ||| 307
+Phil Collins ||| 289
+Justin Timberlake ||| 287
+Sting ||| 286
+Radiohead ||| 284
+Animal Collective ||| 279
+Jay-Z ||| 270
+Michael Jackson ||| 269
+Curtis Mayfield ||| 254
+## playcount: 30905

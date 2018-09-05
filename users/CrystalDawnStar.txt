@@ -1,0 +1,51 @@
+Rush ||| 48
+Journey ||| 47
+Lifehouse ||| 42
+Jack Johnson ||| 40
+Guns N' Roses ||| 36
+David Cook ||| 35
+Survivor ||| 35
+Heart ||| 34
+David Bowie ||| 33
+The Doors ||| 30
+Aerosmith ||| 29
+Bon Jovi ||| 29
+Bob Dylan ||| 28
+Styx ||| 27
+Elton John ||| 26
+Simon & Garfunkel ||| 26
+Toto ||| 26
+Coldplay ||| 24
+James Blunt ||| 23
+Sara Bareilles ||| 22
+Bryan Adams ||| 21
+Neil Young ||| 21
+Fleetwood Mac ||| 19
+John Lennon ||| 19
+Bad Company ||| 18
+Boston ||| 18
+Lynyrd Skynyrd ||| 18
+The Who ||| 18
+Blue Öyster Cult ||| 16
+Magnum ||| 16
+Marillion ||| 16
+Snow Patrol ||| 16
+Richard Ashcroft ||| 15
+The Rolling Stones ||| 15
+Free ||| 14
+Holly Brook ||| 14
+Lubjan ||| 14
+Daniel Powter ||| 13
+Emerson, Lake & Palmer ||| 13
+Hall & Oates ||| 13
+House Of Fools ||| 13
+Paul McCartney ||| 13
+Billy Joel ||| 12
+Dido ||| 12
+Don McLean ||| 12
+Jason Mraz ||| 12
+Pink Floyd ||| 12
+Scorpions ||| 12
+The Byrds ||| 12
+Whitesnake ||| 12
+## playcount: 1089

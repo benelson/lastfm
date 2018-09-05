@@ -1,0 +1,51 @@
+[unknown] ||| 97
+Nazareth ||| 64
+Whitesnake ||| 49
+Anathema ||| 47
+Pink Floyd ||| 40
+Trust ||| 39
+Aerosmith ||| 38
+Infected Mushroom ||| 30
+iamamiwhoami ||| 26
+Opeth ||| 25
+Darkseed ||| 24
+Puscifer ||| 23
+Crystal Castles ||| 21
+Skeletal Family ||| 18
+Porcupine Tree ||| 15
+Tears for Fears ||| 15
+Andrea Bocelli ||| 13
+Light Asylum ||| 13
+Amorphis ||| 12
+Röyksopp ||| 11
+Die Antwoord ||| 10
+Beats Antique ||| 8
+Spleen United ||| 8
+Division Alpha ||| 7
+Grimes ||| 7
+London After Midnight ||| 7
+Omega ||| 7
+Limp Bizkit ||| 6
+Blockhead ||| 5
+Carl Doy ||| 5
+INXS ||| 5
+Scott McKenzie ||| 5
+Steven Wilson ||| 4
+War ||| 4
+Ashbury Heights ||| 3
+Pink Cream 69 ||| 3
+Röyksopp & Robyn ||| 3
+Dead Can Dance ||| 2
+Future Prophecies ||| 2
+Roy Orbison ||| 2
+Spiller ||| 2
+ABBA ||| 1
+Adamski ||| 1
+Brendan Perry ||| 1
+Capsula ||| 1
+Cold in May ||| 1
+Cult To Follow ||| 1
+Fan Death ||| 1
+Helloween ||| 1
+I Monster ||| 1
+## playcount: 734

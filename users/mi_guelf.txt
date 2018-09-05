@@ -1,0 +1,51 @@
+Iron Maiden ||| 235
+Megadeth ||| 211
+Black Sabbath ||| 204
+Slayer ||| 192
+Rammstein ||| 188
+Pantera ||| 165
+Anthrax ||| 159
+Testament ||| 146
+Motörhead ||| 141
+Ozzy Osbourne ||| 139
+System of a Down ||| 136
+Sepultura ||| 124
+Judas Priest ||| 113
+Kreator ||| 107
+Lamb of God ||| 105
+Slipknot ||| 101
+Machine Head ||| 94
+Korn ||| 92
+Black Label Society ||| 85
+Rob Zombie ||| 80
+Static-X ||| 79
+Guns N' Roses ||| 77
+Exodus ||| 70
+Godsmack ||| 66
+Metallica ||| 65
+Marilyn Manson ||| 64
+Overkill ||| 63
+Soulfly ||| 61
+Iced Earth ||| 60
+Bullet for My Valentine ||| 59
+Annihilator ||| 56
+Apocalyptica ||| 56
+AC/DC ||| 54
+Dope ||| 53
+Eisbrecher ||| 49
+MD.45 ||| 49
+Trivium ||| 48
+Ministry ||| 46
+Children of Bodom ||| 45
+White Zombie ||| 44
+In Flames ||| 42
+Oomph! ||| 42
+Powerman 5000 ||| 42
+Hunter ||| 41
+Mudvayne ||| 41
+Dio ||| 40
+Fear Factory ||| 40
+Manowar ||| 40
+Metal Church ||| 40
+Ruoska ||| 40
+## playcount: 4389

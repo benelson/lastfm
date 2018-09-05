@@ -1,0 +1,51 @@
+Dr. Dog ||| 1719
+The Beatles ||| 1295
+Django Reinhardt ||| 581
+Bob Dylan ||| 570
+The Tallest Man on Earth ||| 431
+Ryan Adams & The Cardinals ||| 418
+The Meters ||| 400
+Bill Monroe ||| 390
+The Zombies ||| 370
+Simon & Garfunkel ||| 365
+Johnny Flynn ||| 342
+Chet Baker ||| 334
+Tame Impala ||| 329
+Fleetwood Mac ||| 309
+Alela Diane ||| 301
+Glenn Gould ||| 301
+The Beach Boys ||| 290
+Cat Stevens ||| 285
+Mac DeMarco ||| 278
+Led Zeppelin ||| 277
+La Lupe ||| 276
+Bombino ||| 260
+Sigur Rós ||| 260
+Brandi Carlile ||| 259
+Laura Marling ||| 259
+Jr. Walker & The All Stars ||| 255
+Band of Horses ||| 247
+Françoise Hardy ||| 235
+The Weepies ||| 207
+ari & mia friedman ||| 204
+Hammock ||| 204
+Chris Thile & Michael Daves ||| 201
+The Sword ||| 194
+The Devil Makes Three ||| 192
+The Dubliners ||| 190
+Modern Fools ||| 189
+David Grisman ||| 180
+Delta Spirit ||| 175
+Sam Cooke ||| 175
+Ray Charles ||| 173
+Charles Bradley ||| 171
+Jacob Do Bandolim ||| 171
+The Sun Parade ||| 171
+Noah and the Whale ||| 169
+Paul Simon ||| 167
+Gillian Welch ||| 165
+Belle and Sebastian ||| 164
+Os Mutantes ||| 163
+Bon Iver ||| 161
+Fionn Regan ||| 158
+## playcount: 15580

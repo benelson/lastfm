@@ -1,0 +1,51 @@
+Hanson ||| 6208
+My Chemical Romance ||| 4163
+Coldplay ||| 3083
+The Killers ||| 2645
+Backstreet Boys ||| 2579
+David Bowie ||| 2295
+Beyoncé ||| 2265
+Britney Spears ||| 2157
+U2 ||| 2125
+Adele ||| 1945
+Glee Cast ||| 1943
+James Morrison ||| 1759
+The Beatles ||| 1703
+Lady Gaga ||| 1675
+Madonna ||| 1609
+Arctic Monkeys ||| 1350
+Aerosmith ||| 1243
+Amy Winehouse ||| 1159
+The Strokes ||| 1153
+Alanis Morissette ||| 1114
+Kings of Leon ||| 1107
+Taylor Swift ||| 1080
+Rihanna ||| 1018
+Florence + the Machine ||| 1004
+Louis Garrel ||| 955
+Tulipa Ruiz ||| 955
+Goo Goo Dolls ||| 929
+Shakira ||| 906
+Placebo ||| 871
+a-ha ||| 819
+James Blunt ||| 805
+John Mayer ||| 793
+Lorde ||| 769
+Mariah Carey ||| 768
+The Cure ||| 712
+Lulu Santos ||| 710
+Muse ||| 677
+Aretha Franklin ||| 672
+Franz Ferdinand ||| 672
+Marisa Monte ||| 672
+Oasis ||| 655
+Bon Jovi ||| 646
+Van Halen ||| 601
+Westlife ||| 580
+Spice Girls ||| 572
+Melanie C ||| 570
+Marvin Gaye ||| 565
+Kiss ||| 546
+Interpol ||| 532
+Ed Sheeran ||| 531
+## playcount: 66865

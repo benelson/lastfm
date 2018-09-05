@@ -1,0 +1,51 @@
+Placebo ||| 1194
+Deftones ||| 518
+The Cure ||| 504
+Coheed and Cambria ||| 367
+Adriana Varela ||| 334
+Marilyn Manson ||| 321
+In This Moment ||| 313
+Him ||| 277
+Jamie Cullum ||| 260
+Fonseca ||| 259
+The Mars Volta ||| 257
+Foo Fighters ||| 231
+Calle 13 ||| 223
+Moloko ||| 218
+In Flames ||| 199
+Frank Sinatra ||| 181
+The Shins ||| 181
+Babasónicos ||| 177
+Freezepop ||| 176
+The Killers ||| 163
+Ella Fitzgerald ||| 160
+Lykke Li ||| 155
+Belanova ||| 142
+The Strokes ||| 141
+Café Tacvba ||| 139
+Good Charlotte ||| 138
+Mecano ||| 134
+Friendly Fires ||| 131
+Zona Cero ||| 121
+Coldplay ||| 119
+Soilwork ||| 117
+Cabas ||| 101
+Incubus ||| 96
+Jamiroquai ||| 95
+Weezer ||| 94
+Bajofondo ||| 91
+Vance Joy ||| 91
+Röyksopp ||| 90
+Michael Jackson ||| 89
+blink-182 ||| 88
+Muse ||| 86
+The Beatles ||| 86
+Daft Punk ||| 85
+The Used ||| 83
+Mika ||| 82
+Radiohead ||| 81
+Louis Armstrong ||| 80
+Madonna ||| 80
+Ella Fitzgerald & Louis Armstrong ||| 79
+Metric ||| 79
+## playcount: 9506

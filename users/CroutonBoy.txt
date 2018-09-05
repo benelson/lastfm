@@ -1,0 +1,51 @@
+AC/DC ||| 1648
+The Rolling Stones ||| 1395
+The Beatles ||| 1283
+Bob Dylan ||| 1270
+Wilco ||| 1038
+David Bowie ||| 1005
+Led Zeppelin ||| 996
+Bruce Springsteen ||| 898
+Eels ||| 898
+R.E.M. ||| 861
+Radiohead ||| 856
+The Clash ||| 830
+Spoon ||| 819
+Frank Sinatra ||| 814
+Electric Light Orchestra ||| 799
+Beck ||| 774
+Grateful Dead ||| 763
+Beastie Boys ||| 754
+Pearl Jam ||| 739
+The White Stripes ||| 728
+They Might Be Giants ||| 714
+U2 ||| 671
+LCD Soundsystem ||| 653
+The Black Keys ||| 621
+Tom Waits ||| 605
+The Beach Boys ||| 595
+The Kinks ||| 594
+Pink Floyd ||| 583
+Neil Young ||| 566
+The Flaming Lips ||| 555
+Paul Simon ||| 513
+The Police ||| 504
+Sufjan Stevens ||| 492
+The Who ||| 485
+Talking Heads ||| 484
+Vince Guaraldi Trio ||| 484
+Rod Stewart ||| 478
+Calexico ||| 462
+Fleetwood Mac ||| 455
+Green Day ||| 455
+Stevie Wonder ||| 453
+Aretha Franklin ||| 451
+Van Halen ||| 450
+Weezer ||| 447
+Bob Marley & The Wailers ||| 444
+Queen ||| 444
+Mike Doughty ||| 441
+Georg Friedrich Händel ||| 424
+Nick Drake ||| 421
+Phoenix ||| 417
+## playcount: 34529

@@ -1,0 +1,51 @@
+Tool ||| 13248
+Isis ||| 9189
+A Perfect Circle ||| 3757
+Metallica ||| 3667
+Neurosis ||| 3334
+Jakob ||| 1420
+Mastodon ||| 1259
+Baroness ||| 1118
+Killswitch Engage ||| 1077
+The Jimi Hendrix Experience ||| 905
+Black Sabbath ||| 633
+Sigur Rós ||| 567
+Isis + Aereogramme ||| 543
+The Sword ||| 406
+Godspeed You! Black Emperor ||| 402
+Led Zeppelin ||| 350
+Deftones ||| 344
+Neurosis & Jarboe ||| 329
+The Shins ||| 228
+Tenacious D ||| 221
+Queens of the Stone Age ||| 192
+Flyleaf ||| 123
+Yndi Halda ||| 109
+The Doors ||| 107
+Rush ||| 95
+EF ||| 51
+Queen ||| 51
+Rage Against the Machine ||| 46
+Die Ärzte ||| 43
+Nelly Furtado ||| 40
+Oceansize ||| 40
+Third Eye Open ||| 38
+Jack Wall and Sam Hulick ||| 37
+Pelican ||| 33
+Coheed and Cambria ||| 32
+Yeah Yeah Yeahs ||| 32
+Jimi Hendrix ||| 28
+Jack Wall ||| 23
+Iron Maiden ||| 20
+The Mars Volta ||| 19
+The Who ||| 18
+Beatsteaks ||| 15
+The Beatles ||| 14
+In Flames ||| 13
+The Rolling Stones ||| 12
+Normand Corbeil ||| 11
+Prince ||| 11
+Mercyful Fate ||| 10
+Envy ||| 8
+Rammstein ||| 8
+## playcount: 44276

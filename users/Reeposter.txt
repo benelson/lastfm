@@ -1,0 +1,51 @@
+Muse ||| 1033
+Weezer ||| 757
+Radiohead ||| 502
+Myslovitz ||| 321
+Queen ||| 276
+Foo Fighters ||| 268
+MGMT ||| 266
+Royal Blood ||| 232
+Cage the Elephant ||| 221
+Rise Against ||| 172
+Billy Talent ||| 160
+System of a Down ||| 145
+Hans Zimmer ||| 144
+Pink Floyd ||| 106
+Archive ||| 76
+Red Hot Chili Peppers ||| 72
+Nirvana ||| 69
+Manchester Orchestra ||| 61
+Awolnation ||| 60
+Artur Rojek ||| 58
+Linkin Park ||| 43
+Jamie xx ||| 22
+Luxtorpeda ||| 21
+Metallica ||| 19
+Arctic Monkeys ||| 17
+The Offspring ||| 16
+Fort Minor ||| 15
+Kult ||| 15
+The White Stripes ||| 15
+Eminem ||| 14
+Kavinsky ||| 13
+Avicii ||| 12
+David Bowie ||| 12
+John Lennon ||| 12
+John Williams ||| 12
+Pendulum ||| 12
+Blur ||| 10
+Coldplay ||| 10
+Green Day ||| 10
+Black Sabbath ||| 9
+Te-Tris ||| 8
+Aerosmith ||| 7
+Czerwone Gitary ||| 7
+Pearl Jam ||| 7
+The Prodigy ||| 7
+Paramore ||| 6
+Daft Punk ||| 5
+Frank Black ||| 5
+Mumford & Sons ||| 5
+Roomie ||| 5
+## playcount: 5370

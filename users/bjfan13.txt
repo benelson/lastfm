@@ -1,0 +1,51 @@
+Bon Jovi ||| 9192
+Def Leppard ||| 7355
+Megadeth ||| 3867
+Pink Floyd ||| 1788
+Guns N' Roses ||| 1260
+Richie Sambora ||| 1245
+Skid Row ||| 984
+Nirvana ||| 911
+Mötley Crüe ||| 800
+Metallica ||| 674
+Scorpions ||| 662
+Crashdïet ||| 646
+The Cure ||| 582
+Pantera ||| 486
+AC/DC ||| 449
+Jon Bon Jovi ||| 416
+Poison ||| 405
+The Smiths ||| 398
+Queen ||| 385
+The Doors ||| 316
+Aerosmith ||| 312
+Kiss ||| 311
+Led Zeppelin ||| 306
+Whitesnake ||| 285
+Cinderella ||| 281
+Kreator ||| 259
+Iron Maiden ||| 231
+Slayer ||| 214
+Testament ||| 202
+Warrant ||| 199
+Exodus ||| 198
+Alice Cooper ||| 192
+Deep Purple ||| 192
+Europe ||| 171
+Suicidal Angels ||| 168
+Van Halen ||| 165
+Joy Division ||| 160
+Anthrax ||| 159
+Michael Jackson ||| 159
+Annihilator ||| 154
+U2 ||| 139
+Dio ||| 129
+ScHoolboy Q ||| 123
+Joan Jett and the Blackhearts ||| 113
+Death ||| 110
+Ratt ||| 107
+Septicflesh ||| 103
+Kendrick Lamar ||| 101
+The Beatles ||| 100
+Children of Bodom ||| 99
+## playcount: 38263

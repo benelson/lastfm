@@ -1,0 +1,51 @@
+Gojira ||| 382
+Metallica ||| 315
+Myrath ||| 280
+Death ||| 255
+Buckethead ||| 215
+Therion ||| 203
+Lacuna Coil ||| 169
+Pantera ||| 165
+Slipknot ||| 147
+Dark Tranquillity ||| 93
+Ihsahn ||| 88
+Sonata Arctica ||| 63
+Nightwish ||| 61
+Muse ||| 54
+Nirvana ||| 51
+Kansas ||| 50
+Alanis Morissette ||| 49
+Disturbed ||| 44
+Almora ||| 41
+Cradle of Filth ||| 41
+System of a Down ||| 38
+Marilyn Manson ||| 37
+Dolores O'Riordan ||| 32
+Alice in Chains ||| 31
+Eric Clapton ||| 29
+Eisbrecher ||| 27
+The Cranberries ||| 27
+Coldplay ||| 26
+Apocalyptica ||| 25
+Guns N' Roses ||| 25
+Orphaned Land ||| 23
+Seether ||| 22
+Kalmah ||| 21
+AC/DC ||| 18
+Anathema ||| 18
+Katatonia ||| 18
+These New Puritans ||| 17
+Red Hot Chili Peppers ||| 16
+Aaron ||| 15
+Opeth ||| 15
+Slayer ||| 15
+Ben Harper ||| 14
+Jimi Hendrix ||| 14
+Aerosmith ||| 13
+Bad Religion ||| 13
+Fen ||| 12
+Agalloch ||| 11
+In Flames ||| 11
+Periphery ||| 11
+Sepultura ||| 11
+## playcount: 3371

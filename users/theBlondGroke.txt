@@ -1,0 +1,51 @@
+Coldplay ||| 1912
+Muse ||| 1020
+Beirut ||| 965
+Sigur Rós ||| 867
+Arcade Fire ||| 805
+Cat Power ||| 667
+MGMT ||| 586
+Regina Spektor ||| 576
+The Killers ||| 500
+Vampire Weekend ||| 499
+Feist ||| 452
+Arctic Monkeys ||| 430
+The Shins ||| 430
+Damien Rice ||| 376
+Late of the Pier ||| 367
+The Beatles ||| 357
+Lana Del Rey ||| 346
+Bright Eyes ||| 327
+One Direction ||| 290
+Yann Tiersen ||| 290
+Mew ||| 244
+The Rolling Stones ||| 240
+Tori Amos ||| 221
+Fleetwood Mac ||| 215
+Yeasayer ||| 213
+Patrick Wolf ||| 186
+The White Stripes ||| 174
+Bob Dylan ||| 170
+Taylor Swift ||| 170
+Beach House ||| 168
+The Kooks ||| 150
+平沢進 ||| 149
+David Bowie ||| 148
+The Ting Tings ||| 148
+Kings of Leon ||| 137
+The Jesus and Mary Chain ||| 137
+ABBA ||| 135
+The Raconteurs ||| 130
+Al Stewart ||| 129
+Billy Joel ||| 129
+The Cure ||| 129
+Justice ||| 119
+Blondie ||| 118
+Be Your Own Pet ||| 116
+Carpenters ||| 115
+Devendra Banhart ||| 113
+Wolfmother ||| 109
+Hello Saferide ||| 106
+Chairlift ||| 105
+Cream ||| 103
+## playcount: 16588

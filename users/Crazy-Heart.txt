@@ -1,0 +1,51 @@
+Madonna ||| 31521
+Metallica ||| 9459
+Monte Pittman ||| 8304
+Bon Jovi ||| 7578
+Lana Del Rey ||| 5283
+Garbage ||| 4038
+The Smashing Pumpkins ||| 3585
+James Horner ||| 3432
+Roxette ||| 2941
+Robbie Williams ||| 2860
+Justin Timberlake ||| 2773
+Eros Ramazzotti ||| 2365
+Red Hot Chili Peppers ||| 2151
+Daniel Licht ||| 2060
+The Cardigans ||| 2025
+The Pretty Reckless ||| 1782
+The Pierces ||| 1628
+Céline Dion ||| 1599
+Nicki Richards ||| 1504
+Halestorm ||| 1388
+Sia ||| 1356
+Joe Bonamassa ||| 1353
+Lenny Kravitz ||| 1270
+Whitney Houston ||| 1269
+Leona Lewis ||| 1252
+U2 ||| 1240
+Guns N' Roses ||| 1235
+Tremonti ||| 1215
+Έλενα Παπαρίζου ||| 1154
+Travis ||| 1068
+AC/DC ||| 1015
+Bryan Adams ||| 947
+Μιχάλης Χατζηγιάννης ||| 875
+Scorpions ||| 867
+Ellie Goulding ||| 845
+Alter Bridge ||| 841
+Klaus Badelt ||| 837
+Evanescence ||| 835
+Τα Ξύλινα Σπαθιά ||| 820
+Puressence ||| 808
+Arctic Monkeys ||| 768
+George Michael ||| 730
+R.E.M. ||| 671
+Orianthi ||| 649
+The Rolling Stones ||| 649
+Adele ||| 626
+Pixies ||| 619
+Nelly Furtado ||| 617
+Radiohead ||| 602
+Enrique Iglesias ||| 599
+## playcount: 125908

@@ -1,0 +1,51 @@
+The Beatles ||| 7400
+The Who ||| 7302
+Paul McCartney ||| 3036
+Arctic Monkeys ||| 2728
+Eric Clapton ||| 2414
+Titãs ||| 1785
+George Harrison ||| 1414
+Brothers of Brazil ||| 1297
+Los Hermanos ||| 1234
+Electric Light Orchestra ||| 1081
+Gilberto Gil ||| 1071
+John Lennon ||| 1010
+Ringo Starr ||| 995
+Os Mutantes ||| 925
+The Rolling Stones ||| 806
+Paul McCartney & Wings ||| 792
+Elton John ||| 748
+Iron Maiden ||| 679
+Dennis Wilson ||| 660
+Queen ||| 655
+Wilco ||| 645
+Arnaldo Baptista ||| 641
+John Frusciante ||| 636
+Raul Seixas ||| 577
+Kiss ||| 544
+Caetano Veloso ||| 535
+Chico Buarque ||| 506
+Oasis ||| 506
+The Black Keys ||| 482
+Franz Ferdinand ||| 448
+Kanye West ||| 433
+Novos Baianos ||| 430
+Facção Central ||| 422
+The White Stripes ||| 381
+David Bowie ||| 380
+Zé Ramalho ||| 373
+Bob Dylan ||| 345
+Red Hot Chili Peppers ||| 344
+Engenheiros Do Hawaii ||| 336
+U2 ||| 313
+Traveling Wilburys ||| 312
+Tom Petty and The Heartbreakers ||| 308
+Jeff Beck ||| 302
+John Entwistle ||| 288
+The Beach Boys ||| 288
+Secos & Molhados ||| 284
+Eminem ||| 274
+Pink Floyd ||| 257
+[unknown] ||| 247
+Johnny Cash ||| 236
+## playcount: 50105

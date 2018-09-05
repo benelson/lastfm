@@ -1,0 +1,51 @@
+Red Hot Chili Peppers ||| 3499
+Damien Rice ||| 3010
+Bob Dylan ||| 2207
+John Mayer ||| 2120
+The Doors ||| 2109
+Elliott Smith ||| 2048
+Sublime ||| 1614
+Coldplay ||| 1596
+Jack Johnson ||| 1582
+Mad Caddies ||| 1555
+Imogen Heap ||| 1478
+Reel Big Fish ||| 1377
+Blue October ||| 1169
+Less Than Jake ||| 1165
+Five Iron Frenzy ||| 1160
+Jimi Hendrix ||| 1139
+Grateful Dead ||| 974
+Sufjan Stevens ||| 953
+Rufus Wainwright ||| 948
+Kanye West ||| 924
+Rage Against the Machine ||| 829
+Britney Spears ||| 814
+The Beatles ||| 791
+Queen ||| 786
+Nirvana ||| 785
+Pantera ||| 700
+Camp ||| 637
+The Knux ||| 606
+Led Zeppelin ||| 563
+Pete Yorn ||| 558
+Kings of Leon ||| 543
+The Beach Boys ||| 506
+blink-182 ||| 505
+Oasis ||| 490
+Simon & Garfunkel ||| 471
+Nine Inch Nails ||| 453
+Alanis Morissette ||| 434
+Eminem ||| 410
+Missy Elliott ||| 395
+Jefferson Airplane ||| 370
+Mika ||| 344
+Flobots ||| 327
+The Aquabats ||| 290
+Hadag Nahash ||| 287
+The Offspring ||| 280
+Adam Rose ||| 277
+Depeche Mode ||| 277
+Kid Cudi ||| 254
+Black Eyed Peas ||| 251
+Eels ||| 251
+## playcount: 47111

@@ -1,0 +1,51 @@
+Manic Street Preachers ||| 3298
+Foo Fighters ||| 1627
+Radiohead ||| 1325
+Arcade Fire ||| 1282
+Green Day ||| 1115
+Stereophonics ||| 997
+Oasis ||| 849
+R.E.M. ||| 799
+Feeder ||| 753
+Muse ||| 642
+Ash ||| 600
+Jimmy Eat World ||| 573
+Snow Patrol ||| 568
+Super Furry Animals ||| 566
+Damien Rice ||| 559
+blink-182 ||| 550
+Kings of Leon ||| 514
+Blur ||| 509
+Biffy Clyro ||| 493
+Badly Drawn Boy ||| 479
+Linkin Park ||| 478
+Bon Iver ||| 463
+The Killers ||| 461
+Richard Cheese ||| 432
+The Offspring ||| 424
+U2 ||| 424
+Queen ||| 404
+Red Hot Chili Peppers ||| 403
+Tenacious D ||| 389
+Weezer ||| 382
+Kodaline ||| 338
+Bloc Party ||| 333
+The White Stripes ||| 324
+Vampire Weekend ||| 322
+The Strokes ||| 316
+AC/DC ||| 312
+Fall Out Boy ||| 312
+The Enemy ||| 311
+BBC Radio 5 Live ||| 306
+Mumford & Sons ||| 305
+Embrace ||| 304
+The National ||| 298
+Bastille ||| 294
+Nirvana ||| 271
+Rage Against the Machine ||| 270
+Coldplay ||| 261
+Lostprophets ||| 259
+Guns N' Roses ||| 248
+Arctic Monkeys ||| 243
+Alanis Morissette ||| 232
+## playcount: 28217

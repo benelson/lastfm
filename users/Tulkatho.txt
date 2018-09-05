@@ -1,0 +1,51 @@
+Frédéric Chopin ||| 1088
+Johann Sebastian Bach ||| 871
+John Williams ||| 744
+Wolfgang Amadeus Mozart ||| 639
+Marco Frisina ||| 635
+Dmitri Shostakovich ||| 633
+Robert Schumann ||| 464
+Antonín Dvořák ||| 343
+Georg Philipp Telemann ||| 328
+Franz Liszt ||| 256
+Gioacchino Rossini ||| 247
+Edvard Grieg ||| 244
+Carlo Siliotto ||| 241
+Pyotr Ilyich Tchaikovsky ||| 211
+Maurice Ravel ||| 198
+Sergei Rachmaninoff ||| 189
+Gustav Holst ||| 185
+Ippolitov-Ivanov ||| 182
+Franz Schubert ||| 167
+Philip Glass ||| 159
+Hans Zimmer ||| 142
+Anne Dudley ||| 133
+Ludwig van Beethoven ||| 126
+Max Steiner ||| 117
+Nino Rota ||| 117
+Joel Goldsmith ||| 101
+Modest Petrovich Mussorgsky ||| 85
+Miklós Rózsa ||| 78
+Bruno Coulais ||| 72
+Mark Knopfler ||| 72
+Howard Shore ||| 61
+Erich Wolfgang Korngold ||| 60
+Jerry Goldsmith ||| 60
+Maurice Jarre ||| 49
+Danny Elfman ||| 48
+Victor Young ||| 48
+Richard Wagner ||| 42
+James Newton Howard ||| 41
+Модест Петрович Мусоргский ||| 40
+Felix Mendelssohn ||| 35
+John Debney ||| 30
+Nino Rota & Carmine Coppola ||| 30
+Andrew Powell ||| 27
+Krystian Zimerman ||| 27
+Hans Zimmer & James Newton Howard ||| 26
+Klaus Badelt ||| 24
+Ennio Morricone ||| 23
+Klaus Doldinger ||| 23
+Scott Joplin - Marvin Hamlish ||| 19
+Lalo Schifrin ||| 18
+## playcount: 9798

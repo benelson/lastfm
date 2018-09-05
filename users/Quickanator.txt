@@ -1,0 +1,51 @@
+Radiohead ||| 6299
+Coldplay ||| 5756
+Foals ||| 5350
+Arcade Fire ||| 4991
+Bloc Party ||| 4695
+Kings of Leon ||| 3479
+Tycho ||| 3469
+King Gizzard & The Lizard Wizard ||| 3350
+The Beatles ||| 3286
+Kanye West ||| 3195
+Birds of Tokyo ||| 3158
+The National ||| 3100
+Paramore ||| 3046
+Muse ||| 2903
+Arctic Monkeys ||| 2840
+Tame Impala ||| 2798
+Death Cab for Cutie ||| 2620
+Two Door Cinema Club ||| 2364
+Vampire Weekend ||| 2232
+Flume ||| 2214
+Bring Me the Horizon ||| 2180
+The Kooks ||| 2024
+Beach House ||| 1905
+Crystal Castles ||| 1863
+Kasabian ||| 1861
+CHVRCHES ||| 1826
+Bon Iver ||| 1822
+Sigur Rós ||| 1807
+The Killers ||| 1797
+The xx ||| 1747
+Florence + the Machine ||| 1669
+Gorillaz ||| 1604
+Daft Punk ||| 1552
+Best Coast ||| 1496
+Fleet Foxes ||| 1488
+Snow Patrol ||| 1485
+Karnivool ||| 1440
+Queens of the Stone Age ||| 1433
+Violent Soho ||| 1421
+Alpine ||| 1390
+Moby ||| 1390
+The Jezabels ||| 1337
+Red Hot Chili Peppers ||| 1335
+City and Colour ||| 1331
+LCD Soundsystem ||| 1320
+Cloud Control ||| 1314
+Lana Del Rey ||| 1304
+Band of Horses ||| 1302
+alt-J ||| 1300
+The Strokes ||| 1259
+## playcount: 118147

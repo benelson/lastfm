@@ -1,0 +1,51 @@
+Engenheiros Do Hawaii ||| 14234
+Shakira ||| 8821
+The Cranberries ||| 4331
+The Beatles ||| 2452
+Henrique & Juliano ||| 2176
+Los Hermanos ||| 2037
+Padre Fábio de Melo ||| 1914
+Foo Fighters ||| 1774
+Lana Del Rey ||| 1764
+Pouca Vogal ||| 1653
+Coldplay ||| 1378
+O Teatro Mágico ||| 1371
+Norah Jones ||| 1245
+Eddie Vedder ||| 1122
+The Killers ||| 1021
+[unknown] ||| 969
+Nenhum de Nós ||| 951
+Pearl Jam ||| 912
+Chico Science & Nação Zumbi ||| 905
+Jack Johnson ||| 900
+Humberto Gessinger ||| 883
+Cícero ||| 821
+Alceu Valença ||| 805
+Oasis ||| 787
+Lirinha ||| 751
+Lenine ||| 630
+Eddie ||| 583
+Skank ||| 561
+Enya ||| 512
+Jorge & Mateus ||| 498
+Cordel do Fogo Encantado ||| 479
+Nando Reis ||| 474
+Manu Chao ||| 467
+Nirvana ||| 439
+Imagine Dragons ||| 434
+Neil Young ||| 434
+Radiohead ||| 423
+Chiclete Com Banana ||| 408
+Yann Tiersen ||| 403
+Padre Reginaldo Manzotti ||| 393
+Chico Buarque ||| 391
+Marcelo Jeneci ||| 382
+Dario Marianelli ||| 340
+Enrique Iglesias ||| 330
+Tiê ||| 322
+Bob Dylan ||| 318
+Vanessa da Mata ||| 309
+Cat Power ||| 297
+Rosa de Saron ||| 293
+Alex Turner ||| 287
+## playcount: 66384

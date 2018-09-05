@@ -1,0 +1,51 @@
+Down ||| 2487
+Alice in Chains ||| 2415
+Pantera ||| 2249
+Megadeth ||| 1688
+Corrosion of Conformity ||| 1528
+Danzig ||| 1490
+Mustasch ||| 1484
+Foo Fighters ||| 1240
+Revengine ||| 1221
+Backyard Babies ||| 1208
+Black Label Society ||| 1081
+Metallica ||| 1040
+Anthrax ||| 1011
+Therapy? ||| 985
+Pearl Jam ||| 841
+Faith No More ||| 685
+The Warblinkers ||| 644
+Machine Head ||| 623
+Mastodon ||| 609
+Anouk ||| 608
+Opeth ||| 544
+Auf Der Maur ||| 534
+Audioslave ||| 423
+Tool ||| 423
+Black Sabbath ||| 386
+Kill Devil Hill ||| 347
+Bad Religion ||| 331
+Nirvana ||| 294
+Stone Sour ||| 286
+Stone Temple Pilots ||| 277
+Damageplan ||| 271
+Drowning Pool ||| 271
+System of a Down ||| 260
+Lauri Tähkä & Elonkerjuu ||| 241
+Deftones ||| 225
+Red Hot Chili Peppers ||| 223
+Slipknot ||| 222
+Soundgarden ||| 217
+Guano Apes ||| 197
+Papa Roach ||| 184
+Velvet Revolver ||| 167
+Monster Magnet ||| 159
+Queens of the Stone Age ||| 154
+Scars on Broadway ||| 151
+Godsmack ||| 143
+Heaven & Hell ||| 143
+Lamb of God ||| 131
+ECS ||| 115
+The Offspring ||| 112
+Creedence Clearwater Revival ||| 110
+## playcount: 32678

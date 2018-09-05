@@ -1,0 +1,51 @@
+Interpol ||| 1230
+The Strokes ||| 1024
+Arctic Monkeys ||| 902
+The Beatles ||| 638
+The Doors ||| 300
+Wilco ||| 161
+MGMT ||| 156
+The Who ||| 153
+The Velvet Underground ||| 136
+Raul Seixas ||| 132
+Snow Patrol ||| 131
+She & Him ||| 127
+Julian Casablancas ||| 122
+Ramones ||| 122
+Cut City ||| 109
+The Vines ||| 108
+The Clash ||| 98
+Arcade Fire ||| 85
+AC/DC ||| 84
+Vivendo do Ócio ||| 83
+Albert Hammond, Jr. ||| 81
+Rod Stewart ||| 76
+The Smiths ||| 61
+Daft Punk ||| 56
+Green Day ||| 53
+Bob Dylan ||| 52
+Bob Marley ||| 51
+Jorge Ben ||| 49
+Joy Division ||| 43
+Ira! ||| 42
+Wolfmother ||| 42
+Ultraje A Rigor ||| 41
+The Stooges ||| 32
+Titãs ||| 32
+The White Stripes ||| 29
+Oasis ||| 28
+Lobão ||| 26
+Little Joy ||| 25
+Beastie Boys ||| 23
+Linkin Park ||| 23
+Nirvana ||| 23
+The Hives ||| 23
+Groundation ||| 22
+Red Hot Chili Peppers ||| 21
+Stereophonics ||| 21
+Lou Reed ||| 20
+Thee Oh Sees ||| 20
+Cake ||| 18
+The Black Keys ||| 18
+Biquini Cavadão ||| 17
+## playcount: 6969

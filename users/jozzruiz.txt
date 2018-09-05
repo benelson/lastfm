@@ -1,0 +1,51 @@
+Hinder ||| 291
+Avril Lavigne ||| 171
+Bon Jovi ||| 165
+Lifehouse ||| 154
+Oasis ||| 141
+Aerosmith ||| 133
+The Offspring ||| 132
+Adelitas Way ||| 127
+AC/DC ||| 108
+Magna Carta Cartel ||| 85
+Simple Plan ||| 79
+Keane ||| 75
+The Calling ||| 54
+Nirvana ||| 48
+Kelly Clarkson ||| 46
+Yellowcard ||| 44
+Maroon 5 ||| 38
+AFI ||| 37
+Art of Dying ||| 36
+Evans Blue ||| 35
+blink-182 ||| 34
+The Veronicas ||| 32
+Green Day ||| 30
+The Afters ||| 26
+Extreme ||| 24
+Red Hot Chili Peppers ||| 21
+Subvision ||| 17
+Audioslave ||| 15
+The Killers ||| 14
+30 Seconds to Mars ||| 12
+Sex Pistols ||| 12
+Linkin Park ||| 8
+Scorpions ||| 7
+Snow Patrol ||| 7
+Inna ||| 5
+Jennifer Lopez ||| 4
+The Click Five ||| 4
+Thirteen Senses ||| 4
+Egypt Central ||| 3
+Mägo de Oz ||| 3
+Paramore ||| 3
+Backstreet Boys ||| 2
+Evanescence ||| 2
+Goo Goo Dolls ||| 2
+Angels & Airwaves ||| 1
+Black Sabbath ||| 1
+Box Car Racer ||| 1
+Cavo ||| 1
+Good Charlotte ||| 1
+Interpol ||| 1
+## playcount: 2296

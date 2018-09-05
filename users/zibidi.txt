@@ -1,0 +1,51 @@
+Röyksopp ||| 2097
+Foo Fighters ||| 1741
+Florence + the Machine ||| 1642
+Madonna ||| 1616
+Bonobo ||| 1482
+Kings of Leon ||| 1358
+Arctic Monkeys ||| 1288
+Jack Johnson ||| 1275
+Tame Impala ||| 1134
+Daft Punk ||| 1013
+Amy Winehouse ||| 995
+Parov Stelar ||| 979
+Kings of Convenience ||| 950
+Coldplay ||| 873
+Büyük Ev Ablukada ||| 864
+Red Hot Chili Peppers ||| 857
+Kanye West ||| 849
+Radiohead ||| 841
+The Smiths ||| 808
+Dire Straits ||| 789
+Sophie Ellis-Bextor ||| 786
+The Last Shadow Puppets ||| 759
+Dido ||| 726
+Muse ||| 718
+Sezen Aksu ||| 712
+The Rolling Stones ||| 687
+Jamiroquai ||| 681
+Adele ||| 650
+Lily Allen ||| 646
+Duman ||| 643
+Feist ||| 643
+The Doors ||| 642
+Michael Jackson ||| 635
+Kasabian ||| 609
+Gorillaz ||| 583
+Queen ||| 583
+Travis ||| 578
+2Pac ||| 554
+Koop ||| 545
+Moloko ||| 537
+Nirvana ||| 510
+Athena ||| 505
+Arcade Fire ||| 501
+Gnarls Barkley ||| 501
+Phoenix ||| 500
+Garbage ||| 495
+Late Night Alumni ||| 486
+Metallica ||| 486
+KT Tunstall ||| 484
+Nouvelle Vague ||| 484
+## playcount: 41320

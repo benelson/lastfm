@@ -1,0 +1,51 @@
+Foo Fighters ||| 898
+Jack Johnson ||| 432
+James Blunt ||| 406
+Hans Zimmer ||| 379
+The Cure ||| 340
+The Strokes ||| 265
+Eddie Vedder ||| 262
+Massive Attack ||| 248
+Coldplay ||| 246
+Daft Punk ||| 242
+Michael Giacchino ||| 225
+Imagine Dragons ||| 224
+Flo Rida ||| 221
+Keane ||| 221
+The Beatles ||| 211
+Train ||| 194
+Weezer ||| 194
+Snow Patrol ||| 192
+Ben Harper ||| 188
+U2 ||| 178
+Queen ||| 165
+blink-182 ||| 164
+My Chemical Romance ||| 152
+Adele ||| 151
+The Fray ||| 148
+David Guetta ||| 146
+Jason Mraz ||| 134
+Brandon Flowers ||| 120
+Creed ||| 118
+Johnny Cash ||| 114
+Angels & Airwaves ||| 111
+John Mayer ||| 110
+Taylor ||| 108
+New Radicals ||| 105
+Shakira ||| 103
+Jay-Z ||| 101
+Linkin Park ||| 99
+Fall Out Boy ||| 98
+Amy Winehouse ||| 92
+The 5.6.7.8's ||| 91
+30 Seconds to Mars ||| 88
+Avicii ||| 88
+James Morrison ||| 85
+Interpol ||| 83
+Of Monsters and Men ||| 83
+Alter Bridge ||| 82
+Explosions in the Sky ||| 74
+Iggy Pop ||| 74
+Cheap Trick ||| 72
+Neil Young ||| 72
+## playcount: 8997

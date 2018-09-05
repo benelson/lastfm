@@ -1,0 +1,51 @@
+Coldplay ||| 267
+Moby ||| 197
+Rihanna ||| 145
+Beyoncé ||| 122
+John Mayer ||| 106
+Foo Fighters ||| 100
+Incubus ||| 100
+Red Hot Chili Peppers ||| 100
+Michael Jackson ||| 93
+Oasis ||| 91
+Acceptance ||| 90
+Jack Johnson ||| 86
+Black Eyed Peas ||| 85
+Alanis Morissette ||| 84
+Donavon Frankenreiter ||| 84
+Lifehouse ||| 84
+The Veronicas ||| 84
+Jason Mraz ||| 81
+The Kooks ||| 80
+Keri Hilson ||| 78
+Nickelback ||| 78
+Lady Gaga ||| 75
+Colbie Caillat ||| 74
+Jason Derülo ||| 72
+David Guetta ||| 70
+Kings of Leon ||| 67
+Katy Perry ||| 66
+Kanye West ||| 65
+Snow Patrol ||| 64
+Timbaland ||| 64
+Robbie Williams ||| 63
+Goo Goo Dolls ||| 61
+Kylie Minogue ||| 61
+Madonna ||| 61
+2Pac ||| 60
+Kelly Rowland ||| 59
+The Opposites ||| 59
+Anouk ||| 56
+Ne-Yo ||| 54
+Chris Brown ||| 53
+Iyaz ||| 52
+Kane ||| 52
+Sheryl Crow ||| 52
+Alicia Keys ||| 50
+Beth Hart ||| 47
+Alexandra Burke ||| 45
+The Calling ||| 45
+Fall Out Boy ||| 44
+5ive ||| 42
+Nelly ||| 42
+## playcount: 3910

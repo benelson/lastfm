@@ -1,0 +1,51 @@
+Glee Cast ||| 42456
+Madonna ||| 25703
+Britney Spears ||| 16771
+Cyndi Lauper ||| 6714
+Pink Floyd ||| 6459
+Lady Gaga ||| 6393
+Queen ||| 6128
+Kylie Minogue ||| 5310
+Katy Perry ||| 4884
+Justin Timberlake ||| 4871
+2NE1 ||| 4711
+David Bowie ||| 4423
+Kelly Clarkson ||| 4353
+Christina Aguilera ||| 4315
+Avril Lavigne ||| 3961
+Wanessa ||| 3949
+Demi Lovato ||| 3655
+Marina & the Diamonds ||| 3561
+Alexis Jordan ||| 3527
+P!nk ||| 3450
+Lana Del Rey ||| 3294
+Nicki Minaj ||| 2954
+Whitney Houston ||| 2811
+Beyoncé ||| 2632
+One Direction ||| 2627
+Selena Gomez & the Scene ||| 2554
+RBD ||| 2499
+Michael Jackson ||| 2277
+Teen Angels ||| 2275
+Rebeldes ||| 2232
+The Saturdays ||| 1929
+소녀시대 ||| 1897
+Arctic Monkeys ||| 1800
+Cassie ||| 1692
+Miley Cyrus ||| 1662
+Hilary Duff ||| 1654
+Amy Winehouse ||| 1637
+Mika ||| 1431
+Cahluv ||| 1384
+Paramore ||| 1361
+Dulce María ||| 1335
+Belinda ||| 1290
+Sia ||| 1211
+Chris Brown ||| 1085
+Leighton Meester ||| 1078
+Rihanna ||| 1051
+Nicola Roberts ||| 1041
+Girls Aloud ||| 1030
+Neon Hitch ||| 1014
+Adam Lambert ||| 1003
+## playcount: 219334

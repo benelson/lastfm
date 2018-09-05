@@ -1,0 +1,51 @@
+Guns N' Roses ||| 5099
+Red Hot Chili Peppers ||| 3563
+The Beatles ||| 3376
+Nirvana ||| 3266
+Rage Against the Machine ||| 3221
+System of a Down ||| 2816
+John Frusciante ||| 2386
+Biffy Clyro ||| 2246
+The Jimi Hendrix Experience ||| 1878
+Foo Fighters ||| 1862
+The White Stripes ||| 1811
+Muse ||| 1774
+The Rolling Stones ||| 1736
+Metallica ||| 1693
+Queens of the Stone Age ||| 1673
+Oasis ||| 1546
+Reuben ||| 1523
+Pantera ||| 1513
+Elvis Presley ||| 1510
+Kings of Leon ||| 1433
+Slipknot ||| 1376
+Green Day ||| 1290
+Led Zeppelin ||| 1290
+Radiohead ||| 1226
+Rammstein ||| 1139
+Creedence Clearwater Revival ||| 1074
+Alice in Chains ||| 1039
+近藤浩治 ||| 1006
+Linkin Park ||| 996
+Korn ||| 984
+Bob Marley ||| 892
+Daft Punk ||| 842
+Iron Maiden ||| 780
+Pink Floyd ||| 779
+Tool ||| 747
+Soundgarden ||| 737
+Tenacious D ||| 732
+Velvet Revolver ||| 694
+The Smashing Pumpkins ||| 671
+Pearl Jam ||| 664
+Slash's Snakepit ||| 656
+Kanye West ||| 635
+The Stone Roses ||| 633
+Robert Johnson ||| 614
+Public Enemy ||| 601
+blink-182 ||| 599
+The Raconteurs ||| 589
+The Clash ||| 557
+Mastodon ||| 531
+Primus ||| 483
+## playcount: 70781

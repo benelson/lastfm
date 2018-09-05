@@ -1,0 +1,51 @@
+Rihanna ||| 6872
+Lana Del Rey ||| 3360
+Madonna ||| 2238
+Katy Perry ||| 2113
+Lady Gaga ||| 2046
+Ariana Grande ||| 1903
+Beyoncé ||| 1605
+Britney Spears ||| 1478
+Avril Lavigne ||| 1331
+Drake ||| 1313
+Miley Cyrus ||| 1251
+Taylor Swift ||| 1237
+Nicki Minaj ||| 1234
+Demi Lovato ||| 1097
+Calvin Harris ||| 1065
+Bruno Mars ||| 917
+The Weeknd ||| 903
+Justin Bieber ||| 861
+Sia ||| 848
+Azealia Banks ||| 840
+Jennifer Lopez ||| 817
+Ellie Goulding ||| 816
+Shakira ||| 797
+Carly Rae Jepsen ||| 784
+P!nk ||| 744
+Lorde ||| 736
+Zayn ||| 707
+Kanye West ||| 704
+Shawn Mendes ||| 698
+Selena Gomez ||| 685
+Sam Smith ||| 666
+Coldplay ||| 665
+Mariah Carey ||| 633
+Pitty ||| 566
+Paramore ||| 562
+Arctic Monkeys ||| 556
+Anitta ||| 532
+Iggy Azalea ||| 528
+Kylie Minogue ||| 519
+Gwen Stefani ||| 516
+Tove Lo ||| 514
+Banda UÓ ||| 513
+Jessie J ||| 511
+David Guetta ||| 500
+Ke$ha ||| 493
+Fifth Harmony ||| 491
+Maroon 5 ||| 489
+Frank Ocean ||| 484
+Major Lazer ||| 484
+Jake Bugg ||| 447
+## playcount: 52669

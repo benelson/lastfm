@@ -1,0 +1,51 @@
+Weezer ||| 227
+Arcade Fire ||| 177
+Elliott Smith ||| 142
+Pixies ||| 138
+MGMT ||| 116
+The Flashbulb ||| 109
+The Flaming Lips ||| 103
+Agalloch ||| 100
+Neutral Milk Hotel ||| 91
+Kanye West ||| 82
+Ride ||| 81
+The Strokes ||| 73
+Queens of the Stone Age ||| 56
+Frank Zappa ||| 54
+Jethro Tull ||| 54
+Camel ||| 53
+Dream Theater ||| 49
+Baroness ||| 48
+The Dismemberment Plan ||| 46
+Beach House ||| 45
+Built to Spill ||| 45
+Alcest ||| 44
+Brian Eno ||| 43
+Oasis ||| 42
+The Mars Volta ||| 42
+Boards of Canada ||| 41
+Radiohead ||| 40
+Frank Ocean ||| 39
+My Bloody Valentine ||| 39
+Sigur Rós ||| 37
+Swans ||| 36
+Nirvana ||| 34
+Sufjan Stevens ||| 31
+Violent Femmes ||| 30
+Actress ||| 28
+Death from Above 1979 ||| 28
+Arctic Monkeys ||| 27
+Captain Beefheart & His Magic Band ||| 27
+Chuck Berry ||| 27
+The Velvet Underground ||| 27
+Pavement ||| 26
+Codeine ||| 25
+Crystal Castles ||| 25
+The Smiths ||| 25
+Melvins ||| 23
+Ween ||| 23
+Bob Marley & The Wailers ||| 22
+Nick Drake ||| 21
+blink-182 ||| 19
+Joy Division ||| 19
+## playcount: 2779

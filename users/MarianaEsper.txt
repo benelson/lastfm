@@ -1,0 +1,51 @@
+Placebo ||| 4025
+The Cure ||| 1339
+Bauhaus ||| 897
+Arctic Monkeys ||| 730
+The Smiths ||| 352
+David Bowie ||| 338
+New Order ||| 251
+Tame Impala ||| 201
+The Strokes ||| 184
+Tears for Fears ||| 176
+Misfits ||| 150
+Beastie Boys ||| 137
+Hum ||| 129
+Echo & the Bunnymen ||| 123
+Pink Floyd ||| 120
+Foo Fighters ||| 110
+My Chemical Romance ||| 110
+Grimes ||| 96
+The White Stripes ||| 87
+The Kooks ||| 81
+The Smashing Pumpkins ||| 80
+Alex Turner ||| 72
+The Red Army Choir ||| 71
+La Dispute ||| 68
+ハナエ ||| 68
+Mindless Self Indulgence ||| 64
+Belle and Sebastian ||| 58
+Duran Duran ||| 58
+The Beach Boys ||| 58
+The Killers ||| 57
+AFI ||| 55
+Two Door Cinema Club ||| 53
+Radiohead ||| 51
+Julian Casablancas ||| 50
+Marilyn Manson ||| 50
+A Flock of Seagulls ||| 49
+Ministry ||| 48
+30 Seconds to Mars ||| 47
+blink-182 ||| 47
+Culture Club ||| 46
+The Black Belles ||| 46
+Europe ||| 45
+Trash Palace ||| 45
+Arcade Fire ||| 42
+Billy Idol ||| 42
+Garbage ||| 41
+Madness ||| 39
+Neutral Milk Hotel ||| 39
+Depeche Mode ||| 37
+Ramones ||| 36
+## playcount: 11198

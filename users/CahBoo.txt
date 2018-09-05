@@ -1,0 +1,51 @@
+Pantera ||| 18824
+Metallica ||| 5690
+Megadeth ||| 4512
+Pearl Jam ||| 4304
+Alice in Chains ||| 4285
+Nirvana ||| 3795
+Black Tide ||| 2611
+Red Hot Chili Peppers ||| 2380
+The Smiths ||| 2271
+PJ Harvey ||| 1743
+Amy Winehouse ||| 1607
+The Beatles ||| 1425
+Katatonia ||| 1383
+The Lemonheads ||| 1362
+The Cure ||| 1350
+M.I.A. ||| 1269
+Municipal Waste ||| 1138
+Led Zeppelin ||| 1094
+Pink Floyd ||| 1093
+Foo Fighters ||| 1081
+The Cranberries ||| 1028
+Soundgarden ||| 879
+Hole ||| 866
+Engenheiros Do Hawaii ||| 825
+Chris Cornell ||| 778
+Adele ||| 750
+Halestorm ||| 723
+The Strokes ||| 710
+Iggy Pop ||| 660
+Bullet for My Valentine ||| 635
+Those Dancing Days ||| 626
+Legião Urbana ||| 587
+Black Sabbath ||| 557
+DragonForce ||| 550
+Black Label Society ||| 548
+Children of Bodom ||| 545
+Lana Del Rey ||| 523
+The Drums ||| 521
+Bob Dylan ||| 520
+Jeff Buckley ||| 498
+AC/DC ||| 490
+Korn ||| 435
+Trivium ||| 425
+Down ||| 394
+Sonic Youth ||| 392
+Coldplay ||| 383
+Santa Cruz ||| 355
+Gorillaz ||| 326
+U2 ||| 324
+Týr ||| 305
+## playcount: 80375

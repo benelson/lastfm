@@ -1,0 +1,51 @@
+Bob Dylan ||| 3862
+Alice in Chains ||| 3025
+Radiohead ||| 2762
+Korn ||| 2062
+Red Hot Chili Peppers ||| 1885
+David Bowie ||| 1622
+Ryan Adams ||| 1420
+Pearl Jam ||| 1318
+The Smiths ||| 1280
+The Cure ||| 1211
+The Mars Volta ||| 1161
+John Frusciante ||| 1131
+Manu Katché ||| 1030
+J.J. Cale ||| 1016
+Sufjan Stevens ||| 1004
+Pink Floyd ||| 955
+Babyshambles ||| 927
+Miles Davis ||| 912
+The Doors ||| 901
+Slayer ||| 874
+Talking Heads ||| 873
+Soundgarden ||| 824
+The Jimi Hendrix Experience ||| 824
+Nick Cave & The Bad Seeds ||| 822
+Tomasz Stańko Quartet ||| 782
+Calexico ||| 779
+Bright Eyes ||| 727
+Jimi Hendrix ||| 668
+Coldplay ||| 633
+Jeff Buckley ||| 597
+Joy Division ||| 586
+Neil Young ||| 576
+mewithoutYou ||| 525
+Ryan Adams & The Cardinals ||| 501
+Led Zeppelin ||| 465
+The Clash ||| 463
+The Beatles ||| 454
+At the Drive-In ||| 445
+Sigur Rós ||| 445
+Nick Drake ||| 434
+Audioslave ||| 398
+Devendra Banhart ||| 392
+Canned Heat ||| 386
+Parliament ||| 384
+Iggy Pop ||| 373
+Jan Garbarek ||| 370
+Kings of Leon ||| 367
+Arcade Fire ||| 348
+The Veils ||| 346
+Nirvana ||| 333
+## playcount: 46478

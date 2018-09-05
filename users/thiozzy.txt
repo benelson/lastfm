@@ -1,0 +1,51 @@
+Ozzy Osbourne ||| 4014
+Black Sabbath ||| 3277
+Metallica ||| 2356
+Black Label Society ||| 1665
+Pearl Jam ||| 1551
+Guns N' Roses ||| 1499
+Korn ||| 864
+System of a Down ||| 796
+Nirvana ||| 790
+AC/DC ||| 780
+Iron Maiden ||| 748
+Aerosmith ||| 690
+Motörhead ||| 688
+Deep Purple ||| 648
+Rammstein ||| 554
+Linkin Park ||| 467
+Alice in Chains ||| 464
+Slipknot ||| 393
+Velvet Revolver ||| 382
+Marilyn Manson ||| 336
+Stone Temple Pilots ||| 299
+Faith No More ||| 275
+Audioslave ||| 273
+Red Hot Chili Peppers ||| 250
+Buckethead ||| 244
+Soundgarden ||| 220
+Serj Tankian ||| 216
+Sepultura ||| 212
+Dio ||| 208
+Heaven & Hell ||| 203
+Dream Evil ||| 202
+Led Zeppelin ||| 197
+Cavalera Conspiracy ||| 191
+Queens of the Stone Age ||| 191
+Judas Priest ||| 186
+Scars on Broadway ||| 178
+Skid Row ||| 178
+Zakk Wylde ||| 175
+The Beatles ||| 163
+Trivium ||| 160
+Bruce Dickinson ||| 153
+Firewind ||| 151
+Slash ||| 150
+Slash's Snakepit ||| 145
+Planet Hemp ||| 141
+Stone Sour ||| 140
+Scorpions ||| 139
+Tony Iommi ||| 130
+The Rolling Stones ||| 125
+Mötley Crüe ||| 123
+## playcount: 28580

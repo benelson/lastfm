@@ -1,0 +1,51 @@
+Foo Fighters ||| 6217
+Queen ||| 2171
+The Sounds ||| 1549
+Sonic Youth ||| 987
+Yes ||| 820
+Nirvana ||| 793
+Television ||| 746
+Kaki King ||| 709
+Sister Paul ||| 647
+Los Campesinos! ||| 564
+The Strokes ||| 541
+The Dambuilders ||| 522
+Sister Vanilla ||| 470
+The Draytones ||| 453
+Albert Hammond, Jr. ||| 436
+Led Zeppelin ||| 400
+Funeral for a Friend ||| 387
+Freddie Mercury ||| 384
+Dizzy Mizz Lizzy ||| 321
+Nuno ||| 294
+Pixies ||| 264
+The Beatles ||| 264
+The Cardigans ||| 264
+Hoobastank ||| 252
+The Cribs ||| 239
+The White Stripes ||| 220
+The Pigeon Detectives ||| 218
+The Jimi Hendrix Experience ||| 214
+Urban Castle Magic ||| 211
+The Replacements ||| 209
+The Enemy ||| 191
+Noisettes ||| 187
+The Futureheads ||| 184
+Radiohead ||| 181
+Stevie Ray Vaughan ||| 180
+Dinosaur Jr. ||| 176
+Cold War Kids ||| 165
+Gang of Four ||| 159
+Biffy Clyro ||| 158
+Burning Metro ||| 158
+Popium ||| 154
+Simon & Garfunkel ||| 153
+Envelopes ||| 149
+Rilo Kiley ||| 148
+Cat Stevens ||| 145
+The Vaselines ||| 145
+Kyodai, Adachi ||| 144
+Jack's Mannequin ||| 137
+Queens of the Stone Age ||| 137
+Taylor Hawkins & The Coattail Riders ||| 136
+## playcount: 24953

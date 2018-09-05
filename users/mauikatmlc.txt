@@ -1,0 +1,51 @@
+MGMT ||| 1114
+Yeah Yeah Yeahs ||| 1058
+David Bowie ||| 578
+of Montreal ||| 569
+Muse ||| 561
+Beirut ||| 477
+Menomena ||| 471
+Kid Cudi ||| 446
+TV on the Radio ||| 440
+Tegan and Sara ||| 418
+Starfucker ||| 403
+Ramones ||| 342
+Arcade Fire ||| 322
+God Is An Astronaut ||| 320
+Radiohead ||| 287
+Miike Snow ||| 284
+Animal Collective ||| 279
+Silversun Pickups ||| 274
+Warpaint ||| 272
+Chromeo ||| 243
+Arctic Monkeys ||| 228
+Does It Offend You, Yeah? ||| 226
+The Clash ||| 223
+Javelin ||| 222
+Ratatat ||| 217
+The Beatles ||| 215
+The xx ||| 212
+The Cure ||| 210
+Beck ||| 209
+Gorillaz ||| 208
+Toro y Moi ||| 205
+The Killers ||| 204
+The Kooks ||| 204
+Maxïmo Park ||| 190
+Pink Floyd ||| 185
+Metric ||| 179
+Johann Sebastian Bach ||| 178
+Interpol ||| 177
+The Rolling Stones ||| 176
+The Smiths ||| 165
+Queen ||| 164
+The White Stripes ||| 163
+The Strokes ||| 161
+Lady Gaga ||| 158
+Every Time I Die ||| 138
+Sigur Rós ||| 133
+Beach House ||| 132
+Wolfgang Amadeus Mozart ||| 127
+Blur ||| 125
+Led Zeppelin ||| 124
+## playcount: 14616

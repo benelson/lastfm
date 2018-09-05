@@ -1,0 +1,51 @@
+Gülşen ||| 12
+Sıla ||| 10
+Simge ||| 10
+Demet Akalın ||| 9
+Hande Yener ||| 9
+Ayşe Hatun Önal ||| 7
+Serdar Ortaç ||| 7
+Zarema ||| 7
+Hadise ||| 6
+Murat Dalkılıç ||| 6
+Nilay Dorsa ||| 6
+Tuğba Özerk ||| 6
+Yonca Lodi ||| 6
+Aşkın Nur Yengi ||| 5
+Burcu Güneş ||| 5
+Elif Nun ||| 5
+Emir Yargin ||| 5
+Ramadan ||| 5
+Serhat Kidil ||| 5
+Sertab Erener ||| 5
+Aynur Aydın ||| 4
+Berkay ||| 4
+Bon Mod ||| 4
+Bora Duran ||| 4
+Genco Ecer ||| 4
+Hepsi ||| 4
+Sezen Aksu ||| 4
+Zeynep Dizdar ||| 4
+Deniz Seki ||| 3
+Funda Arar ||| 3
+Gökhan Keser ||| 3
+Mavi ||| 3
+Mustafa Sandal ||| 3
+Nil Karaibrahimgil ||| 3
+Nilüfer ||| 3
+Sibel Can ||| 3
+Özgün ||| 3
+Ajda Pekkan ||| 2
+Ayşegül Aldinç ||| 2
+Bedük ||| 2
+Bertan ||| 2
+Betül Demir ||| 2
+Büyük Ev Ablukada ||| 2
+Emre Altuğ ||| 2
+Erdem Kınay ||| 2
+Göksel ||| 2
+Şebnem Ferah ||| 2
+Ayşe Özyılmazel ||| 1
+Emre Aydın ||| 1
+Murat Boz ||| 1
+## playcount: 218

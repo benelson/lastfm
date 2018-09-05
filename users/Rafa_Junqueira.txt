@@ -1,0 +1,51 @@
+U2 ||| 357
+The Beatles ||| 325
+The Police ||| 128
+The Rolling Stones ||| 121
+AC/DC ||| 111
+Pearl Jam ||| 110
+Bob Marley ||| 100
+Bon Jovi ||| 93
+Led Zeppelin ||| 92
+Simple Plan ||| 89
+Pink Floyd ||| 85
+Ramones ||| 85
+Nirvana ||| 82
+Rush ||| 81
+The Who ||| 80
+Red Hot Chili Peppers ||| 71
+Green Day ||| 63
+Eric Clapton ||| 61
+The Clash ||| 58
+Cazuza ||| 46
+Kiss ||| 41
+Metallica ||| 39
+Guns N' Roses ||| 38
+The Doors ||| 38
+Aerosmith ||| 36
+Barão Vermelho ||| 34
+Coldplay ||| 34
+Queen ||| 34
+Dropkick Murphys ||| 33
+Van Halen ||| 32
+Bob Dylan ||| 31
+Iron Maiden ||| 27
+Deep Purple ||| 24
+Chuck Berry ||| 23
+Santana ||| 22
+Alphaville ||| 20
+Black Sabbath ||| 20
+Yes ||| 20
+Legião Urbana ||| 18
+John Lennon ||| 17
+Bob Marley & The Wailers ||| 16
+Journey ||| 16
+Kaiser Chiefs ||| 16
+Jimi Hendrix ||| 15
+Creedence Clearwater Revival ||| 14
+O Rappa ||| 14
+Scorpions ||| 14
+Survivor ||| 14
+The Jimi Hendrix Experience ||| 14
+Genesis ||| 13
+## playcount: 2965

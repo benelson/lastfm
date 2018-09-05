@@ -1,0 +1,51 @@
+Rush ||| 2108
+Magma ||| 2045
+Yes ||| 1842
+Pink Floyd ||| 1664
+Love ||| 1603
+King Crimson ||| 1546
+Amon Düül II ||| 1434
+Chet Baker ||| 1066
+Popol Vuh ||| 1053
+The Doors ||| 1051
+Nick Drake ||| 1010
+Georg Friedrich Händel ||| 801
+Genesis ||| 745
+Mac DeMarco ||| 736
+The Beatles ||| 716
+Frank Zappa ||| 699
+Jethro Tull ||| 640
+David Bowie ||| 639
+Hawkwind ||| 627
+Led Zeppelin ||| 600
+Henry Purcell ||| 592
+Depeche Mode ||| 562
+George Harrison ||| 560
+The Jimi Hendrix Experience ||| 552
+John Dowland ||| 547
+Van der Graaf Generator ||| 471
+Ave Sangria ||| 463
+Simon & Garfunkel ||| 436
+Grand Funk Railroad ||| 423
+Can ||| 403
+Boris ||| 402
+The Moody Blues ||| 401
+Chick Corea ||| 398
+UFO ||| 390
+Antonio Vivaldi ||| 380
+Mahavishnu Orchestra ||| 378
+Jordi Savall ||| 374
+Jeff Buckley ||| 373
+Françoise Hardy ||| 368
+Häx Cel ||| 364
+Cream ||| 346
+Hermeto Pascoal ||| 344
+Miles Davis ||| 343
+Red Hot Chili Peppers ||| 332
+Zé Ramalho ||| 331
+Ensemble Micrologus ||| 324
+John Coltrane ||| 316
+Morning Dew ||| 308
+Egg ||| 307
+Almendra ||| 298
+## playcount: 34711

@@ -1,0 +1,51 @@
+Adele ||| 150
+Led Zeppelin ||| 142
+Limp Bizkit ||| 142
+Pink Floyd ||| 140
+The Stone Roses ||| 125
+Bullet for My Valentine ||| 108
+Plain White T's ||| 104
+Joy Division ||| 93
+Ten Years After ||| 90
+The Strokes ||| 90
+Sum 41 ||| 89
+Panic! at the Disco ||| 77
+Pulp ||| 72
+My Chemical Romance ||| 70
+Nada Surf ||| 69
+Luis Alberto Spinetta ||| 67
+blink-182 ||| 60
+Mickey 3D ||| 58
+Placebo ||| 56
+The Rolling Stones ||| 55
+Sex Pistols ||| 54
+The Doors ||| 52
+The Who ||| 48
+Family of the Year ||| 46
+Arctic Monkeys ||| 42
+Janis Joplin ||| 42
+Supertramp ||| 42
+Alanis Morissette ||| 39
+Sean Paul ||| 38
+Eminem ||| 36
+Nina Zilli ||| 35
+Cream ||| 33
+New Order ||| 33
+Oasis ||| 33
+Portishead ||| 33
+Coldplay ||| 31
+Jimi Hendrix ||| 31
+Franz Ferdinand ||| 30
+The Academy Is... ||| 30
+Carla Bruni ||| 29
+The Cure ||| 29
+The Smiths ||| 29
+Gustavo Cerati ||| 28
+The Smashing Pumpkins ||| 27
+The Velvet Underground ||| 27
+Deep Purple ||| 26
+Metro Station ||| 26
+Thieves Like Us ||| 26
+Black Sabbath ||| 25
+Bob Dylan ||| 25
+## playcount: 2882

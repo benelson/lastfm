@@ -1,0 +1,51 @@
+The Beatles ||| 9091
+Radiohead ||| 2481
+Eraserheads ||| 1960
+Foo Fighters ||| 1470
+Jonathan Coulton ||| 1468
+Up Dharma Down ||| 1285
+Oasis ||| 1220
+The Beach Boys ||| 1135
+Kirby Krackle ||| 1058
+John Mayer ||| 960
+Cloud Cult ||| 950
+The Rolling Stones ||| 914
+Gold Motel ||| 881
+The Hush Sound ||| 847
+Paul McCartney ||| 846
+Arcade Fire ||| 837
+Tool ||| 785
+Bon Iver ||| 766
+Led Zeppelin ||| 756
+Yuck ||| 713
+Brian Wilson ||| 692
+George Harrison ||| 666
+Sound ||| 633
+Trent Reznor and Atticus Ross ||| 622
+John Lennon ||| 616
+CHVRCHES ||| 615
+She & Him ||| 615
+Daft Punk ||| 569
+Broken Social Scene ||| 556
+Arctic Monkeys ||| 538
+Minus the Bear ||| 513
+Romcom ||| 487
+The 1975 ||| 482
+Fleet Foxes ||| 477
+Passion Pit ||| 475
+O.A.R. ||| 470
+Best Coast ||| 461
+Blur ||| 460
+Iron & Wine ||| 458
+Sufjan Stevens ||| 450
+Wilco ||| 449
+Ben Folds Five ||| 434
+Moonlit Sailor ||| 405
+The Wombats ||| 393
+Jimi Hendrix ||| 384
+Someone Still Loves You Boris Yeltsin ||| 382
+Murray Gold & BBC National Orchestra of Wales ||| 376
+Dave Matthews Band ||| 373
+Ang Bandang Shirley ||| 371
+Scale the Summit ||| 369
+## playcount: 45214

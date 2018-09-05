@@ -1,0 +1,51 @@
+Porcupine Tree ||| 16353
+Dream Theater ||| 12230
+dredg ||| 12173
+Muse ||| 8369
+Steven Wilson ||| 5115
+Radiohead ||| 5044
+Pain of Salvation ||| 4926
+The Pineapple Thief ||| 4899
+Blackfield ||| 4686
+Sigur Rós ||| 3852
+System of a Down ||| 3688
+Riverside ||| 3561
+Anathema ||| 2782
+Justice ||| 2705
+Pink Floyd ||| 2638
+Karnivool ||| 2275
+Moby ||| 2252
+Tool ||| 2231
+Alter Bridge ||| 2142
+Nine Inch Nails ||| 1666
+Pendulum ||| 1558
+Symphony X ||| 1323
+The Prodigy ||| 1305
+The Mars Volta ||| 961
+Linkin Park ||| 851
+My Chemical Romance ||| 817
+Mindless Self Indulgence ||| 754
+Iamthemorning ||| 725
+Chevelle ||| 723
+Haken ||| 708
+Lunatic Soul ||| 651
+Wisdom Of Crowds ||| 637
+Massive Attack ||| 633
+A Perfect Circle ||| 601
+Example ||| 572
+Frédéric Chopin ||| 551
+Rage Against the Machine ||| 550
+Sergei Rachmaninoff ||| 542
+Daft Punk ||| 502
+Gorillaz ||| 493
+Transatlantic ||| 488
+Metallica ||| 474
+Under The Influence of Giants ||| 449
+Amplifier ||| 423
+The Four Tops ||| 406
+Bloc Party ||| 401
+Avenged Sevenfold ||| 399
+Green Day ||| 387
+Death Cab for Cutie ||| 375
+Return to Forever ||| 369
+## playcount: 123215

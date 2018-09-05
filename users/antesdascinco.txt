@@ -1,0 +1,51 @@
+City and Colour ||| 4001
+Kings of Leon ||| 3754
+The Beatles ||| 3369
+The Kooks ||| 3089
+Arctic Monkeys ||| 2511
+Vanguart ||| 2087
+Florence + the Machine ||| 2021
+Los Hermanos ||| 1998
+John Mayer ||| 1802
+Cat Power ||| 1798
+Foo Fighters ||| 1752
+Interpol ||| 1487
+Beirut ||| 1468
+The Radio Dept. ||| 1299
+The Strokes ||| 1229
+Lana Del Rey ||| 1202
+Alexisonfire ||| 1115
+Angus & Julia Stone ||| 954
+Bon Iver ||| 863
+Bob Dylan ||| 852
+Chico Buarque ||| 844
+Red Hot Chili Peppers ||| 836
+Blackberry Smoke ||| 818
+Friendly Fires ||| 779
+Feist ||| 696
+Phoenix ||| 689
+Radiohead ||| 686
+MAE ||| 648
+Two Door Cinema Club ||| 648
+She & Him ||| 642
+Móveis Coloniais de Acaju ||| 635
+Marina & the Diamonds ||| 631
+Misfits ||| 627
+The National ||| 614
+Lobão ||| 606
+The xx ||| 587
+Ben Howard ||| 577
+Boy & Bear ||| 575
+Foster the People ||| 551
+Adam Green ||| 539
+Albert Hammond, Jr. ||| 510
+Alex Turner ||| 496
+Joy Division ||| 492
+Solana ||| 488
+The Cure ||| 484
+Hockey ||| 482
+MGMT ||| 481
+Rockz ||| 479
+The Smiths ||| 479
+The Black Keys ||| 477
+## playcount: 56747

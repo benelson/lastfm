@@ -1,0 +1,51 @@
+[unknown] ||| 2499
+Pet Shop Boys ||| 2187
+Moby ||| 1268
+Gary Numan ||| 897
+Depeche Mode ||| 791
+The Weeknd ||| 721
+Bryan Ferry ||| 711
+Hot Chip ||| 636
+David Bowie ||| 617
+Tangerine Dream ||| 514
+Garbage ||| 457
+New Order ||| 453
+King Crimson ||| 398
+Electronic ||| 361
+Broken Bells ||| 342
+Siouxsie and the Banshees ||| 327
+Groove Armada ||| 294
+Nick Cave & The Bad Seeds ||| 281
+Icehouse ||| 277
+Dead Can Dance ||| 268
+Will Young ||| 267
+Ultravox ||| 266
+Nikonn ||| 263
+Eloy ||| 261
+Thomas Dolby ||| 235
+Brian Eno ||| 226
+Robert Fripp ||| 199
+Brendan Perry ||| 193
+Roxy Music ||| 182
+Oscar and the Wolf ||| 180
+Caribou ||| 156
+Devo ||| 156
+Simple Minds ||| 150
+Olly Murs ||| 148
+Soft Metals ||| 133
+The Sisters of Mercy ||| 132
+Genesis ||| 123
+A Certain Ratio ||| 119
+Cocteau Twins ||| 119
+Peter Murphy ||| 111
+Talking Heads ||| 108
+Massive Attack ||| 105
+Peter Gabriel ||| 97
+Faithless ||| 95
+Severed Heads ||| 95
+Bryan Ferry & Roxy Music ||| 82
+Tears for Fears ||| 71
+Angelfish ||| 68
+Dave Gahan ||| 68
+Todd Terje ||| 67
+## playcount: 18774

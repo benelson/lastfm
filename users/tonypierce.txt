@@ -1,0 +1,51 @@
+Bob Dylan ||| 1232
+Miles Davis ||| 1057
+Weezer ||| 705
+Lana Del Rey ||| 617
+The Clash ||| 555
+Lorde ||| 554
+Beastie Boys ||| 537
+The Cure ||| 533
+Kanye West ||| 508
+Dinosaur Jr. ||| 496
+Tsar ||| 477
+The Rolling Stones ||| 442
+Rihanna ||| 432
+Matthew Good ||| 396
+Nirvana ||| 388
+Wes Montgomery ||| 383
+The Grates ||| 370
+Van Halen ||| 363
+The Velvet Underground ||| 360
+Ke$ha ||| 352
+Thelonious Monk ||| 340
+Bruce Springsteen ||| 331
+Prince ||| 293
+The Replacements ||| 292
+Ramones ||| 289
+Nicki Minaj ||| 286
+Bob Marley & The Wailers ||| 277
+Tom Waits ||| 256
+Rancid ||| 237
+Pixies ||| 235
+Jay-Z ||| 220
+Teenage Fanclub ||| 219
+Arcade Fire ||| 211
+The Donnas ||| 196
+Elvis Costello ||| 195
+Led Zeppelin ||| 189
+Eminem ||| 185
+Tom Petty and The Heartbreakers ||| 183
+Johnny Cash ||| 181
+The Muffs ||| 178
+Pink Floyd ||| 177
+Talking Heads ||| 170
+The Smashing Pumpkins ||| 164
+Charlie Parker ||| 158
+Lou Reed ||| 154
+The White Stripes ||| 152
+Beck ||| 149
+Quiet Company ||| 147
+R.E.M. ||| 145
+The Throne ||| 141
+## playcount: 17107

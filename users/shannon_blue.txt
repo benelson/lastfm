@@ -1,0 +1,51 @@
+The Smiths ||| 4919
+Morrissey ||| 4683
+Megadeth ||| 2010
+Red Hot Chili Peppers ||| 1673
+Elliott Smith ||| 1669
+The Beatles ||| 1660
+John Frusciante ||| 1615
+Pink Floyd ||| 1293
+Radiohead ||| 1194
+Belle and Sebastian ||| 1185
+Iron Maiden ||| 1136
+Rufus Wainwright ||| 1108
+David Bowie ||| 1105
+Nirvana ||| 971
+The Rolling Stones ||| 954
+Faith No More ||| 941
+Blind Melon ||| 929
+Pearl Jam ||| 904
+Stone Temple Pilots ||| 810
+Pulp ||| 807
+Queen ||| 807
+Porcupine Tree ||| 758
+Queens of the Stone Age ||| 739
+New Order ||| 718
+Aerosmith ||| 713
+Os Paralamas Do Sucesso ||| 670
+Dream Theater ||| 663
+Guided by Voices ||| 663
+Garbage ||| 649
+Green Day ||| 637
+Nick Drake ||| 635
+Duran Duran ||| 625
+Almafuerte ||| 609
+U2 ||| 605
+Charly García ||| 603
+Metallica ||| 601
+Tori Amos ||| 586
+Depeche Mode ||| 573
+Ramones ||| 567
+Sonata Arctica ||| 564
+Röyksopp ||| 559
+Joy Division ||| 558
+Foo Fighters ||| 546
+Legião Urbana ||| 543
+The Magnetic Fields ||| 527
+Alice in Chains ||| 524
+Ellie Goulding ||| 513
+Guns N' Roses ||| 500
+Pantera ||| 500
+AC/DC ||| 489
+## playcount: 49810

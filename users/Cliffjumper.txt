@@ -1,0 +1,51 @@
+blink-182 ||| 3933
+Arctic Monkeys ||| 3775
+Gustavo Cerati ||| 2243
+The Beatles ||| 1680
+Soda Stereo ||| 1635
+Metallica ||| 1574
+Red Hot Chili Peppers ||| 1558
+Radiohead ||| 1282
+John Frusciante ||| 1047
+The Strokes ||| 896
++44 ||| 690
+Muse ||| 682
+Does It Offend You, Yeah? ||| 618
+Los Amigos Invisibles ||| 544
+Candy 66 ||| 543
+Daft Punk ||| 498
+Infant Sorrow ||| 491
+Coldplay ||| 463
+Gorillaz ||| 427
+Incubus ||| 391
+NOFX ||| 385
+The Killers ||| 360
+Box Car Racer ||| 356
+Fall Out Boy ||| 356
+Calle 13 ||| 351
+Sum 41 ||| 349
+Justice ||| 348
+The Black Keys ||| 340
+Charliepapa ||| 316
+TRV$DJAM ||| 310
+Foo Fighters ||| 297
+The Lonely Island ||| 284
+The White Stripes ||| 258
+Tame Impala ||| 253
+Alex Turner ||| 251
+Angels & Airwaves ||| 228
+Franz Ferdinand ||| 213
+La Vida Bohème ||| 211
+Oasis ||| 206
+alt-J ||| 201
+M83 ||| 194
+Moving Mountains ||| 190
+Socratic ||| 183
+Tenacious D ||| 182
+Miles Kane ||| 181
+Nirvana ||| 181
+Travis Barker ||| 167
+Pendulum ||| 159
+Descendents ||| 153
+U2 ||| 153
+## playcount: 32586

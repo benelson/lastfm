@@ -1,0 +1,51 @@
+Metric ||| 5129
+Cut Copy ||| 4873
+Sufjan Stevens ||| 3806
+Arcade Fire ||| 2288
+Stars ||| 2285
+iamamiwhoami ||| 2185
+Broken Social Scene ||| 1988
+Vampire Weekend ||| 1666
+No Doubt ||| 1514
+Chad VanGaalen ||| 1466
+Yeah Yeah Yeahs ||| 1418
+James Blake ||| 1393
+LCD Soundsystem ||| 1308
+Phoenix ||| 1227
+She & Him ||| 1112
+Husky Rescue ||| 1107
+Emily Haines & The Soft Skeleton ||| 1104
+Feist ||| 1088
+Junior Boys ||| 1086
+Passion Pit ||| 1069
+Robyn ||| 1044
+The Cardigans ||| 1002
+Wild Beasts ||| 996
+The National ||| 988
+Caribou ||| 985
+St. Vincent ||| 967
+Baths ||| 957
+The Knife ||| 946
+Lykke Li ||| 945
+The xx ||| 918
+Delorean ||| 825
+Miike Snow ||| 792
+Rilo Kiley ||| 768
+WU LYF ||| 762
+Bon Iver ||| 761
+The Presets ||| 754
+M.I.A. ||| 747
+Beach House ||| 722
+MØ ||| 719
+The Antlers ||| 699
+Hot Chip ||| 690
+The Kills ||| 684
+Lorde ||| 666
+The Horrors ||| 653
+Joanna Newsom ||| 644
+Neon Indian ||| 643
+M83 ||| 627
+Twin Shadow ||| 625
+Washed Out ||| 615
+Toro y Moi ||| 609
+## playcount: 62865

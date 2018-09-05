@@ -1,0 +1,51 @@
+The Beatles ||| 763
+Led Zeppelin ||| 521
+Pulp ||| 492
+The Smiths ||| 457
+Pink Floyd ||| 394
+The Rolling Stones ||| 381
+Fleetwood Mac ||| 355
+The Doors ||| 280
+Bob Dylan ||| 221
+Bob Marley & The Wailers ||| 218
+Arizona Baby ||| 210
+The Allman Brothers Band ||| 194
+Dire Straits ||| 154
+John Lennon ||| 137
+Queen ||| 124
+The Jimi Hendrix Experience ||| 122
+Creedence Clearwater Revival ||| 117
+The Kinks ||| 108
+Eagles ||| 104
+The Who ||| 100
+The Clash ||| 88
+The Police ||| 79
+Morrissey ||| 64
+Supertramp ||| 63
+Belle and Sebastian ||| 60
+Guns N' Roses ||| 60
+Derek and the Dominos ||| 57
+Ramones ||| 55
+The Stone Roses ||| 52
+Chuck Berry ||| 49
+Cream ||| 49
+Kiss ||| 49
+The Velvet Underground ||| 49
+AC/DC ||| 48
+Neil Young ||| 47
+Toots and The Maytals ||| 44
+The Libertines ||| 42
+Joy Division ||| 41
+Tom Petty and The Heartbreakers ||| 41
+The Cure ||| 40
+George Harrison ||| 39
+Jeff Beck ||| 38
+Nirvana ||| 38
+Santana ||| 38
+The Lovin' Spoonful ||| 37
+Arctic Monkeys ||| 34
+Billy Joel ||| 33
+The Beach Boys ||| 33
+Simon & Garfunkel ||| 32
+Oasis ||| 30
+## playcount: 6881

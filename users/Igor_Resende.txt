@@ -1,0 +1,51 @@
+Aerosmith ||| 352
+Yellowcard ||| 292
+The Ataris ||| 285
+Sum 41 ||| 189
+The Used ||| 176
+Lifehouse ||| 148
+blink-182 ||| 139
+Starsailor ||| 119
+Judas Priest ||| 106
+Puddle of Mudd ||| 87
+Sublime ||| 83
+Red Hot Chili Peppers ||| 81
+Jack Johnson ||| 70
+Lobão ||| 48
+Pearl Jam ||| 48
++44 ||| 47
+Bad Religion ||| 47
+Nando Reis ||| 47
+Foo Fighters ||| 42
+MxPx ||| 42
+Secondhand Serenade ||| 42
+The Offspring ||| 42
+Alkaline Trio ||| 41
+Matanza ||| 34
+Boys Like Girls ||| 32
+Los Hermanos ||| 32
+Dashboard Confessional ||| 30
+Led Zeppelin ||| 30
+Arctic Monkeys ||| 29
+Mando Diao ||| 29
+Green Day ||| 28
+Fall Out Boy ||| 26
+Busted ||| 22
+Angels & Airwaves ||| 21
+Bowling for Soup ||| 19
+Ramones ||| 19
+The View ||| 19
+The All-American Rejects ||| 18
+Interpol ||| 16
+No Use for a Name ||| 15
+U2 ||| 13
+Artista desconhecido ||| 11
+Legião Urbana ||| 11
+Jet ||| 10
+Pink Floyd ||| 10
+The Animals ||| 10
+Funeral for a Friend ||| 9
+Jeito Moleque ||| 9
+Lovehatehero ||| 9
+Mamonas Assassinas ||| 9
+## playcount: 3093

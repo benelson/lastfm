@@ -1,0 +1,51 @@
+Vanessa Williams ||| 800
+Prince ||| 617
+Mariah Carey ||| 610
+R. Kelly ||| 587
+Whitney Houston ||| 580
+Colton Ford ||| 474
+Chaka Khan ||| 456
+Miki Howard ||| 435
+Michael Jackson ||| 384
+Janet Jackson ||| 380
+George Benson ||| 368
+Stevie Wonder ||| 343
+Cherrelle ||| 337
+Tyrese ||| 330
+Al Jarreau ||| 325
+Toni Braxton ||| 310
+Diana Ross ||| 306
+Mary J. Blige ||| 297
+Randy Crawford ||| 296
+Aretha Franklin ||| 289
+Regina Belle ||| 280
+Jeffrey Osborne ||| 271
+Next ||| 264
+Usher ||| 261
+Teena Marie ||| 260
+Luther Vandross ||| 259
+Natalie Cole ||| 258
+Rick James ||| 256
+Grace Jones ||| 252
+Anita Baker ||| 248
+Patti Austin ||| 240
+Rachelle Ferrell ||| 233
+Patti LaBelle ||| 222
+Trey Songz ||| 215
+Donna Summer ||| 214
+Lisa Stansfield ||| 211
+Dionne Warwick ||| 209
+Babyface ||| 206
+Marvin Gaye ||| 205
+Brian McKnight ||| 201
+Commodores ||| 194
+David Mensah ||| 188
+Kool & The Gang ||| 187
+Solo ||| 186
+Stephanie Mills ||| 183
+The Manhattan Transfer ||| 177
+Wine-O ||| 177
+Alexander O'Neal ||| 175
+Hall & Oates ||| 171
+The Pointer Sisters ||| 170
+## playcount: 15097

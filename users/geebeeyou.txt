@@ -1,0 +1,51 @@
+Okkervil River ||| 1007
+Third Eye Blind ||| 446
+Billy Joel ||| 358
+Kanye West ||| 326
+Bright Eyes ||| 303
+Weezer ||| 301
+State Radio ||| 267
+Jack Johnson ||| 266
+The Beatles ||| 263
+The Cardigans ||| 253
+The National ||| 249
+Johnny Cash ||| 229
+Dispatch ||| 225
+Spoon ||| 216
+Oasis ||| 215
+Better Than Ezra ||| 194
+Counting Crows ||| 177
+Dr. Dre ||| 170
+Bush ||| 165
+Coldplay ||| 149
+MGMT ||| 148
+Rufus Wainwright ||| 142
+Spin Doctors ||| 140
+XTC ||| 116
+Dave Matthews Band ||| 114
+Red Hot Chili Peppers ||| 113
+Drake ||| 110
+Marcy Playground ||| 105
+Edward Sharpe & The Magnetic Zeros ||| 103
+Sublime ||| 89
+Pearl Jam ||| 85
+Green Day ||| 82
+Otis Redding ||| 82
+Eminem ||| 81
+The Beach Boys ||| 79
+Don McLean ||| 78
+Queen ||| 78
+Wilco ||| 78
+Hall & Oates ||| 76
+Dashboard Confessional ||| 72
+The Office ||| 71
+They Might Be Giants ||| 68
+Michael Andrews ||| 67
+Eagle-Eye Cherry ||| 66
+blink-182 ||| 65
+311 ||| 64
+Blessid Union Of Souls ||| 61
+Michael Jackson ||| 60
+The Rolling Stones ||| 60
+Tom Petty ||| 57
+## playcount: 8389

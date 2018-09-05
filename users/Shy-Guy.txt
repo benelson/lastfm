@@ -1,0 +1,51 @@
+The Beatles ||| 2396
+of Montreal ||| 1957
+Pixies ||| 1519
+Radiohead ||| 1229
+Belle and Sebastian ||| 1206
+Beach House ||| 881
+Animal Collective ||| 834
+Blur ||| 802
+David Bowie ||| 721
+Wilco ||| 694
+Pink Floyd ||| 681
+The Beach Boys ||| 631
+Weezer ||| 591
+The Flaming Lips ||| 586
+R.E.M. ||| 581
+The Smiths ||| 566
+Yo La Tengo ||| 564
+Cheap Trick ||| 541
+Sufjan Stevens ||| 539
+Built to Spill ||| 528
+Modest Mouse ||| 523
+Queen ||| 521
+Cat Power ||| 518
+Neil Young ||| 518
+The Who ||| 511
+Joy Division ||| 496
+Café Tacvba ||| 489
+Mano Negra ||| 466
+X ||| 461
+Broken Social Scene ||| 458
+Miles Davis ||| 452
+The Clash ||| 441
+The Cure ||| 440
+Bob Dylan ||| 408
+M.I.A. ||| 407
+Ramones ||| 406
+Liz Phair ||| 400
+Sleater-Kinney ||| 390
+Charles Mingus ||| 387
+Spoon ||| 380
+Phoenix ||| 375
+Pulp ||| 372
+Queens of the Stone Age ||| 360
+Paul McCartney ||| 358
+Daft Punk ||| 352
+The White Stripes ||| 350
+Depeche Mode ||| 348
+Erik Satie ||| 344
+The Rolling Stones ||| 344
+Arctic Monkeys ||| 343
+## playcount: 30665

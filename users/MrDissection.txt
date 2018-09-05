@@ -1,0 +1,51 @@
+Opeth ||| 6154
+Katatonia ||| 2552
+Iron Maiden ||| 2182
+Blind Guardian ||| 1980
+Metallica ||| 1777
+Paradise Lost ||| 1611
+Dark Tranquillity ||| 1441
+Burzum ||| 1228
+Symphony X ||| 1207
+Agalloch ||| 1192
+Dissection ||| 1139
+Slayer ||| 1134
+Summoning ||| 1091
+Death ||| 1083
+Anathema ||| 1008
+Ensiferum ||| 958
+Dimmu Borgir ||| 954
+Amon Amarth ||| 928
+Thulcandra ||| 921
+Epica ||| 896
+Dream Theater ||| 845
+Megadeth ||| 820
+Eluveitie ||| 756
+Empyrium ||| 741
+Kamelot ||| 738
+Tool ||| 726
+Nile ||| 686
+Rammstein ||| 676
+Rhapsody ||| 631
+Enslaved ||| 589
+Accept ||| 558
+Nightwish ||| 555
+Steven Wilson ||| 539
+Equilibrium ||| 538
+Kreator ||| 518
+Insomnium ||| 511
+Porcupine Tree ||| 504
+Alcest ||| 480
+Cannibal Corpse ||| 470
+Nevermore ||| 463
+Children of Bodom ||| 437
+Taake ||| 434
+Sabaton ||| 428
+Rhapsody of Fire ||| 422
+Sodom ||| 417
+Arkona ||| 413
+Judas Priest ||| 395
+Arch Enemy ||| 391
+Windir ||| 389
+Gojira ||| 375
+## playcount: 47881

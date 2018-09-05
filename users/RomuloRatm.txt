@@ -1,0 +1,51 @@
+Pearl Jam ||| 18265
+Pink Floyd ||| 4194
+Los Hermanos ||| 3285
+Muse ||| 1920
+Radiohead ||| 1809
+Black Sabbath ||| 1674
+Tool ||| 1536
+Led Zeppelin ||| 1468
+Red Hot Chili Peppers ||| 1281
+Alice in Chains ||| 1240
+Queens of the Stone Age ||| 1112
+System of a Down ||| 1013
+Interpol ||| 987
+Nirvana ||| 904
+Engenheiros Do Hawaii ||| 825
+Foo Fighters ||| 789
+The Smashing Pumpkins ||| 785
+The Who ||| 701
+Pantera ||| 688
+Jethro Tull ||| 674
+Pixies ||| 674
+Eddie Vedder ||| 656
+Soundgarden ||| 599
+Metallica ||| 592
+Blind Melon ||| 590
+UFO ||| 571
+Deep Purple ||| 554
+The Offspring ||| 548
+Kiss ||| 518
+Ozzy Osbourne ||| 513
+Audioslave ||| 507
+Kaiser Chiefs ||| 482
+R.E.M. ||| 431
+The Kooks ||| 419
+Iron Maiden ||| 415
+Kings of Leon ||| 413
+Van Halen ||| 413
+The Killers ||| 412
+Motörhead ||| 400
+Rush ||| 378
+Faith No More ||| 365
+Aerosmith ||| 357
+The Rolling Stones ||| 351
+Weezer ||| 351
+Bad Religion ||| 296
+Rage Against the Machine ||| 291
+Dream Theater ||| 286
+O Rappa ||| 273
+Placebo ||| 252
+Tim Maia ||| 243
+## playcount: 58300

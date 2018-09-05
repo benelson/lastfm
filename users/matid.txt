@@ -1,0 +1,51 @@
+Iron Maiden ||| 3478
+Metallica ||| 3346
+Poets of the Fall ||| 2441
+Red Hot Chili Peppers ||| 1943
+Papa Roach ||| 1523
+Sonata Arctica ||| 1447
+Avril Lavigne ||| 1299
+Dream Theater ||| 1277
+Linkin Park ||| 1127
+Jason Mraz ||| 1009
+System of a Down ||| 955
+Rage Against the Machine ||| 739
+Manowar ||| 637
+Fort Minor ||| 611
+Maximum the Hormone ||| 609
+Green Day ||| 565
+The Offspring ||| 529
+Children of Bodom ||| 456
+Feel ||| 441
+Pearl Jam ||| 441
+Colbie Caillat ||| 423
+DragonForce ||| 411
+Smash Mouth ||| 382
+Eminem ||| 376
+Guano Apes ||| 363
+Audioslave ||| 347
+Rihanna ||| 341
+Nirvana ||| 340
+Foo Fighters ||| 335
+Fall Out Boy ||| 323
+3 Doors Down ||| 321
+Katy Perry ||| 285
+Nightwish ||| 264
+Sunrise Avenue ||| 263
+Dire Straits ||| 258
+Goo Goo Dolls ||| 258
+Jack Johnson ||| 255
+Rhapsody ||| 252
+Coldplay ||| 249
+Iced Earth ||| 242
+Lostprophets ||| 241
+Takumi Masanori ||| 232
+Nickelback ||| 230
+Kat DeLuna ||| 219
+The White Stripes ||| 195
+Michael Jackson ||| 192
+Disturbed ||| 180
+Guns N' Roses ||| 175
+[unknown] ||| 163
+Black Eyed Peas ||| 156
+## playcount: 33144

@@ -1,0 +1,51 @@
+Jimi Hendrix ||| 1601
+Yann Tiersen ||| 1224
+Bob Dylan ||| 892
+The Jimi Hendrix Experience ||| 821
+The Beatles ||| 716
+Iron & Wine ||| 710
+The Mamas & the Papas ||| 637
+The Shins ||| 631
+Jefferson Airplane ||| 630
+John Lennon ||| 612
+The Rolling Stones ||| 593
+Rodrigo y Gabriela ||| 589
+Santana ||| 587
+Damien Rice ||| 521
+Janis Joplin ||| 516
+The Red Army Choir ||| 487
+Creedence Clearwater Revival ||| 480
+Simon & Garfunkel ||| 469
+Frank Sinatra ||| 442
+Toots and The Maytals ||| 439
+Nirvana ||| 414
+Rick James ||| 391
+Joe Cocker ||| 383
+Bob Marley & The Wailers ||| 377
+Chuck Berry ||| 357
+The Ink Spots ||| 352
+Marco Antonio Solís ||| 346
+Oi Va Voi ||| 345
+Regina Spektor ||| 342
+Led Zeppelin ||| 340
+Nick Drake ||| 326
+Tecmo ||| 325
+菅野よう子 ||| 323
+Elliott Smith ||| 320
+Marvin Gaye ||| 319
+Radiohead ||| 308
+Louis Armstrong ||| 307
+植松伸夫 ||| 305
+The Roots ||| 302
+Mark Morgan ||| 290
+Ennio Morricone ||| 288
+Prince ||| 287
+Ray Charles ||| 286
+The Doors ||| 277
+James Brown ||| 274
+Over the Rhine ||| 272
+The Cure ||| 265
+Feist ||| 257
+Rammstein ||| 257
+The Coral ||| 248
+## playcount: 23080

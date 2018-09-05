@@ -1,0 +1,51 @@
+Monkeytin ||| 32
+The Rolling Stones ||| 22
+Counting Crows ||| 21
+Manic Street Preachers ||| 17
+Powderfinger ||| 17
+Bryan Adams ||| 13
+Neil Diamond ||| 11
+U2 ||| 11
+Matchbox Twenty ||| 10
+Grinspoon ||| 8
+Gin Blossoms ||| 7
+Midnight Oil ||| 7
+Small Faces ||| 7
+The Corrs ||| 7
+Tonic ||| 7
+Australian Crawl ||| 6
+Carole King ||| 6
+Elton John ||| 6
+EVE 6 ||| 6
+Foo Fighters ||| 6
+Goo Goo Dolls ||| 6
+Hunters & Collectors ||| 6
+Noiseworks ||| 6
+Soul Asylum ||| 6
+The Animals ||| 6
+The Hollies ||| 6
+Tom Petty and The Heartbreakers ||| 6
+Bernard Fanning ||| 5
+Don McLean ||| 5
+Hootie & The Blowfish ||| 5
+Linda Ronstadt ||| 5
+Live ||| 5
+Queen ||| 5
+Something for Kate ||| 5
+Spin Doctors ||| 5
+Terry Springford ||| 5
+The Presidents of the United States of America ||| 5
+Cat Stevens ||| 4
+Dido ||| 4
+Divinyls ||| 4
+Dusty Springfield ||| 4
+Eagles ||| 4
+End of Fashion ||| 4
+INXS ||| 4
+John Mellencamp ||| 4
+Nickelback ||| 4
+The Motels ||| 4
+Travis ||| 4
+4 Non Blondes ||| 3
+Bon Jovi ||| 3
+## playcount: 369

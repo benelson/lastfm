@@ -1,0 +1,51 @@
+Clutch ||| 18366
+Primus ||| 9481
+Metallica ||| 7668
+Bruce Springsteen ||| 6414
+Electric Six ||| 4765
+Jimmy Buffett ||| 3884
+Black Label Society ||| 3712
+Red Hot Chili Peppers ||| 3650
+Dropkick Murphys ||| 3344
+Pantera ||| 3313
+Nirvana ||| 3077
+Megadeth ||| 3073
+Slayer ||| 2807
+GWAR ||| 2780
+Explosions in the Sky ||| 2715
+Queens of the Stone Age ||| 2696
+Rage Against the Machine ||| 2608
+Ramones ||| 2600
+Black Sabbath ||| 2562
+Ozzy Osbourne ||| 2553
+Iron Maiden ||| 2420
+The Clash ||| 2401
+Sublime ||| 2301
+Led Zeppelin ||| 2175
+Richard Cheese ||| 2060
+Anthrax ||| 2018
+Johnny Cash ||| 2017
+Pink Floyd ||| 1972
+Reverend Horton Heat ||| 1937
+Alice in Chains ||| 1839
+Minutemen ||| 1788
+Tim And Eric ||| 1742
+The Offspring ||| 1705
+Jerry Reed ||| 1692
+The Police ||| 1668
+Lil' Wayne ||| 1583
+Fu Manchu ||| 1549
+Judas Priest ||| 1543
+Garth Brooks ||| 1519
+Slightly Stoopid ||| 1516
+GG Allin ||| 1475
+Kyuss ||| 1442
+Stone Temple Pilots ||| 1381
+The Beatles ||| 1362
+AC/DC ||| 1325
+Weezer ||| 1320
+Brand New ||| 1316
+Daft Punk ||| 1272
+Guns N' Roses ||| 1254
+Billy Joel ||| 1246
+## playcount: 142906

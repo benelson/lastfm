@@ -1,0 +1,51 @@
+DaylightSaving ||| 99
+Christopher Cross ||| 87
+Michael Franks ||| 78
+Nick Drake ||| 64
+Silje Nergaard ||| 57
+John Martyn ||| 56
+Jack Johnson ||| 53
+Newton Faulkner ||| 41
+Jane Monheit ||| 40
+Jamiroquai ||| 36
+The Beatles ||| 31
+Sara Gazarek ||| 30
+James Taylor ||| 27
+Judie Tzuke ||| 23
+Richard Eady ||| 23
+KT Tunstall ||| 21
+California Guitar Trio ||| 17
+Stevie Wonder ||| 17
+Elbow ||| 16
+k.d. lang ||| 16
+deneice williams ||| 15
+Erik Satie ||| 15
+Jeremy Camp ||| 15
+Miles Davis ||| 15
+Skunk Anansie ||| 15
+Yellow Jackets ||| 15
+Nickel Creek ||| 14
+Portishead ||| 14
+Diana Krall ||| 13
+Eliane Elias ||| 13
+Katie Melua ||| 13
+The Puppini Sisters ||| 13
+Chick Corea ||| 12
+Corinne Bailey Rae ||| 12
+Incubus ||| 12
+Iron Maiden ||| 12
+Lee Ritenour ||| 12
+Astrud Gilberto ||| 11
+Carly Simon ||| 11
+Joe Farrell ||| 11
+Switchfoot ||| 11
+The Books ||| 11
+José González ||| 10
+Kate Schutt ||| 10
+Moloko ||| 10
+Puddle of Mudd ||| 10
+Rebecca Martin ||| 10
+The Feeling ||| 10
+Björk ||| 9
+Deniece Williams ||| 9
+## playcount: 1195

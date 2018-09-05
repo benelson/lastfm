@@ -1,0 +1,51 @@
+Interpol ||| 736
+The Velvet Underground ||| 702
+Joy Division ||| 572
+Pixies ||| 520
+David Bowie ||| 411
+The Smiths ||| 391
+Pulp ||| 271
+Radiohead ||| 251
+Blonde Redhead ||| 230
+Air ||| 180
+At the Drive-In ||| 157
+Lou Reed ||| 155
+Arcade Fire ||| 144
+Iggy Pop ||| 144
+Julian Plenti ||| 142
+Kashmir ||| 140
+The Mars Volta ||| 114
+The Smashing Pumpkins ||| 114
+Arctic Monkeys ||| 109
+Sonic Youth ||| 109
+Beck ||| 106
+The Cure ||| 105
+New Order ||| 101
+The Rolling Stones ||| 101
+Misfits ||| 94
+Jon Brion ||| 92
+The Killers ||| 79
+Bright Eyes ||| 78
+Red Hot Chili Peppers ||| 75
+Neil Young ||| 73
+The Strokes ||| 73
+Depeche Mode ||| 68
+Placebo ||| 67
+The Beatles ||| 67
+The Clash ||| 67
+The Kinks ||| 66
+Cinnamon Chasers ||| 64
+Led Zeppelin ||| 61
+Metric ||| 61
+Nirvana ||| 59
+Blondie ||| 55
+Talking Heads ||| 55
+Queens of the Stone Age ||| 54
+Kaki King ||| 53
+Motörhead ||| 53
+She Wants Revenge ||| 47
+Zoé ||| 47
+The xx ||| 46
+Lou Reed & John Cale ||| 45
+The Doors ||| 45
+## playcount: 7649

@@ -1,0 +1,51 @@
+AC/DC ||| 764
+Gotthard ||| 692
+The Beatles ||| 547
+The Corrs ||| 489
+U2 ||| 392
+Enya ||| 384
+Bon Jovi ||| 374
+The Police ||| 347
+Nightwish ||| 345
+Eric Prydz ||| 332
+David Guetta ||| 327
+Sting ||| 321
+Gölä ||| 308
+Queen ||| 288
+Sade ||| 273
+Bruce Springsteen ||| 251
+Johnny Nash ||| 250
+Phil Collins ||| 233
+Whitesnake ||| 233
+Green Day ||| 232
+a-ha ||| 220
+Michael Jackson ||| 215
+Bryan Adams ||| 208
+Elvis Presley ||| 208
+Status Quo ||| 208
+Simon & Garfunkel ||| 202
+ABBA ||| 195
+Aerosmith ||| 173
+Foreigner ||| 172
+The Clash ||| 156
+Fragma ||| 137
+The Rolling Stones ||| 131
+Elton John ||| 129
+Florence + the Machine ||| 128
+Ich und Ich ||| 126
+Ronan Keating ||| 126
+Billy Idol ||| 125
+The Cranberries ||| 121
+Fleetwood Mac ||| 117
+Kiss ||| 117
+Alter Bridge ||| 115
+Deep Purple ||| 110
+John Fred & His Playboy Band ||| 107
+3 Doors Down ||| 106
+Nickelback ||| 106
+Grooveland ||| 105
+Feeder ||| 102
+Guns N' Roses ||| 102
+Van Halen ||| 101
+Infadels ||| 99
+## playcount: 11649

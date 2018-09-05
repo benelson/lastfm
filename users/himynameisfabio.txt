@@ -1,0 +1,51 @@
+blink-182 ||| 8061
+Arctic Monkeys ||| 4615
+Foo Fighters ||| 3324
+Green Day ||| 2949
+The Kooks ||| 2324
+Avenged Sevenfold ||| 2250
+Sum 41 ||| 2220
+Less Than Jake ||| 2035
+Dead Fish ||| 1904
+ConeCrewDiretoria ||| 1734
++44 ||| 1678
+Yellowcard ||| 1603
+Matanza ||| 1531
+Muse ||| 1459
+Ramones ||| 1419
+The Fratellis ||| 1210
+Moptop ||| 1109
+Strike ||| 1103
+Box Car Racer ||| 1095
+New Found Glory ||| 1090
+Rufio ||| 1089
+The Offspring ||| 1009
+Panic! at the Disco ||| 992
+Dibob ||| 848
+Angels & Airwaves ||| 705
+Red Hot Chili Peppers ||| 704
+Nirvana ||| 694
+System of a Down ||| 662
+The All-American Rejects ||| 660
+Forfun ||| 610
+Cueio Limão ||| 603
+Scracho ||| 589
+The Killers ||| 588
+Limp Bizkit ||| 544
+Millencolin ||| 534
+Linkin Park ||| 483
+Capital Inicial ||| 475
+Plain White T's ||| 464
+Bon Jovi ||| 462
+Charlie Brown JR. ||| 456
+The Strokes ||| 354
+Planet Hemp ||| 352
+Oasis ||| 344
+The Used ||| 326
+Darvin ||| 283
+My Chemical Romance ||| 261
+Ramirez ||| 246
+Raul Seixas ||| 244
+Marcelo D2 ||| 238
+Fresno ||| 185
+## playcount: 60717

@@ -1,0 +1,51 @@
+Oasis ||| 5885
+The Beatles ||| 1567
+The Strokes ||| 1297
+The Stone Roses ||| 840
+The Rolling Stones ||| 823
+Arctic Monkeys ||| 577
+Coldplay ||| 552
+Kasabian ||| 524
+The Libertines ||| 492
+The Kooks ||| 486
+The Who ||| 455
+Muse ||| 364
+The Killers ||| 356
+The Clash ||| 346
+Radiohead ||| 292
+Babyshambles ||| 279
+The Verve ||| 259
+Klaxons ||| 255
+Franz Ferdinand ||| 247
+The Last Shadow Puppets ||| 243
+Ian Brown ||| 236
+Rooney ||| 233
+Kaiser Chiefs ||| 232
+Pink Floyd ||| 232
+The Charlatans ||| 230
+Placebo ||| 227
+Dirty Pretty Things ||| 204
+MGMT ||| 203
+Supergrass ||| 198
+The Horrors ||| 194
+Queen ||| 192
+Kings of Leon ||| 181
+Madonna ||| 174
+Richard Ashcroft ||| 169
+The White Stripes ||| 169
+The Dandy Warhols ||| 156
+Scissor Sisters ||| 150
+Patrick Wolf ||| 149
+David Bowie ||| 143
+Blondie ||| 140
+Joy Division ||| 135
+Blur ||| 131
+Jet ||| 131
+Interpol ||| 125
+The Chemical Brothers ||| 125
+The Smiths ||| 120
+Happy Mondays ||| 117
+The Fratellis ||| 113
+Nancy Sinatra ||| 112
+ABBA ||| 109
+## playcount: 21169

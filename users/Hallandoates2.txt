@@ -1,0 +1,51 @@
+Hall & Oates ||| 1043
+Michael Jackson ||| 520
+The Beatles ||| 497
+Elton John ||| 469
+Elvis Presley ||| 464
+Billy Joel ||| 457
+Bee Gees ||| 436
+Stevie Wonder ||| 436
+Eagles ||| 432
+Madonna ||| 411
+Huey Lewis & The News ||| 396
+Prince ||| 378
+Phil Collins ||| 370
+Chicago ||| 358
+Fleetwood Mac ||| 356
+Lionel Richie ||| 347
+Journey ||| 338
+Rod Stewart ||| 338
+Electric Light Orchestra ||| 316
+Foreigner ||| 313
+The Rolling Stones ||| 313
+Queen ||| 311
+Duran Duran ||| 302
+The Police ||| 301
+KC and The Sunshine Band ||| 289
+The Beach Boys ||| 289
+Kool & The Gang ||| 282
+Bruce Springsteen ||| 264
+Neil Diamond ||| 262
+Earth, Wind & Fire ||| 254
+Kenny Loggins ||| 254
+The Doobie Brothers ||| 252
+Creedence Clearwater Revival ||| 251
+Commodores ||| 244
+David Bowie ||| 241
+Bryan Adams ||| 235
+John Mellencamp ||| 234
+The Cars ||| 234
+Kenny Rogers ||| 230
+Genesis ||| 225
+Marvin Gaye ||| 223
+Toto ||| 217
+Diana Ross ||| 206
+Don Henley ||| 206
+Tina Turner ||| 200
+Air Supply ||| 198
+George Michael ||| 197
+The Pointer Sisters ||| 197
+Whitney Houston ||| 195
+Steely Dan ||| 194
+## playcount: 15975

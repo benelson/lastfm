@@ -1,0 +1,51 @@
+Korn ||| 1334
+Slipknot ||| 274
+The Prodigy ||| 194
+The Offspring ||| 192
+Soulfly ||| 186
+Limp Bizkit ||| 169
+Metallica ||| 104
+Linkin Park ||| 88
+Red Hot Chili Peppers ||| 86
+P.O.D. ||| 83
+NOFX ||| 79
+Stone Sour ||| 73
+Machine Head ||| 63
+Papa Roach ||| 63
+Eminem ||| 58
+Fear Factory ||| 56
+Gorillaz ||| 56
+Seether ||| 49
+Mudvayne ||| 48
+Pantera ||| 44
+The Ataris ||| 43
+Good Charlotte ||| 42
+Velvet Revolver ||| 40
+Bob Marley ||| 36
+Crazy Town ||| 35
+Rammstein ||| 33
+Placebo ||| 32
+Silverchair ||| 31
+Sum 41 ||| 30
+The Vines ||| 30
+Fall Out Boy ||| 29
+Ferris MC ||| 29
+AC/DC ||| 26
+Hatebreed ||| 26
+Bushido ||| 25
+Pivot ||| 25
+Murderdolls ||| 24
+Depeche Mode ||| 23
+Puddle of Mudd ||| 20
+Blur ||| 19
+Babyshambles ||| 18
+Richard Cheese ||| 18
+Cypress Hill ||| 17
+The Verve ||| 17
+The White Stripes ||| 17
+Black Sabbath ||| 16
+Jay-Z and Linkin Park ||| 14
+Incubus ||| 13
+Lostprophets ||| 12
+Nas ||| 12
+## playcount: 4051

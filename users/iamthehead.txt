@@ -1,0 +1,51 @@
+Michael Bublé ||| 1147
+Roy Orbison ||| 972
+Nat King Cole ||| 460
+Elvis Presley ||| 427
+Andy Williams ||| 420
+Jamie Cullum ||| 327
+Dean Martin ||| 304
+Mario Lanza ||| 240
+Bing Crosby ||| 239
+Ella Fitzgerald ||| 238
+James Blunt ||| 231
+The Beatles ||| 231
+Tom Baxter ||| 230
+Frank Sinatra ||| 228
+The Beach Boys ||| 228
+ABBA ||| 204
+Johnny Mathis ||| 181
+The Drifters ||| 175
+Michael Jackson ||| 172
+blink-182 ||| 171
+Coldplay ||| 165
+Matt Monro ||| 161
+Westlife ||| 158
+Gracie Fields ||| 151
+David Bowie ||| 150
+Édith Piaf ||| 150
+3 Doors Down ||| 148
+Al Martino ||| 138
+Busted ||| 137
+Cat Power ||| 135
+Perry Como ||| 134
+Boyzone ||| 133
+Billy Joel ||| 129
+Queen ||| 126
+Doris Day ||| 122
+Bob Marley ||| 119
+Robbie Williams ||| 119
+Glenn Miller ||| 113
+James Morrison ||| 112
+Il Divo ||| 108
+The Beautiful South ||| 107
+The Proclaimers ||| 104
+Acker Bilk ||| 103
+Elton John ||| 101
+U2 ||| 100
+Darts ||| 99
+Bloc Party ||| 98
+Petula Clark ||| 98
+Electric Light Orchestra ||| 94
+Elvis Costello ||| 94
+## playcount: 10531

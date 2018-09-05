@@ -1,0 +1,51 @@
+Ed Motta ||| 1343
+Metallica ||| 1019
+Evergrey ||| 940
+Guns N' Roses ||| 896
+Legião Urbana ||| 873
+Black Sabbath ||| 805
+Bon Jovi ||| 798
+Matanza ||| 514
+Venom ||| 483
+Red Hot Chili Peppers ||| 315
+AC/DC ||| 300
+Titãs ||| 288
+Engenheiros Do Hawaii ||| 277
+Symphony X ||| 231
+The Rolling Stones ||| 217
+Skid Row ||| 209
+Firehouse ||| 205
+Poison ||| 205
+Kiss ||| 203
+The Smiths ||| 188
+Aerosmith ||| 186
+Alanis Morissette ||| 157
+Matchbox Twenty ||| 148
+Motörhead ||| 145
+Lobão ||| 128
+The Beatles ||| 118
+Europe ||| 117
+Elvenking ||| 113
+Whitesnake ||| 111
+Jota Quest ||| 108
+Twisted Sister ||| 104
+Destruction ||| 96
+Queen ||| 95
+Alice in Chains ||| 94
+Korn ||| 90
+Hinder ||| 87
+Pearl Jam ||| 85
+Zélia Duncan ||| 85
+Iron Maiden ||| 84
+Cyndi Lauper ||| 82
+Biquini Cavadão ||| 81
+Capital Inicial ||| 79
+After Forever ||| 77
+The Magic Numbers ||| 74
+Alice Cooper ||| 73
+Ozzy Osbourne ||| 70
+Rammstein ||| 62
+Van Halen ||| 62
+Blind Guardian ||| 59
+Led Zeppelin ||| 59
+## playcount: 13238

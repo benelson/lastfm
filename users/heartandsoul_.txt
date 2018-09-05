@@ -1,0 +1,51 @@
+Interpol ||| 23517
+Franz Ferdinand ||| 14192
+Radiohead ||| 3820
+The Strokes ||| 3815
+of Montreal ||| 3802
+Arctic Monkeys ||| 2996
+Little Joy ||| 1915
+Tame Impala ||| 1892
+The Amphetameanies ||| 1848
+Deerhunter ||| 1697
+Belle and Sebastian ||| 1582
+Devendra Banhart ||| 1516
+Phoenix ||| 1446
+Julian Plenti ||| 1364
+Jay Reatard ||| 1245
+Metronomy ||| 1234
+Death Cab for Cutie ||| 1201
+Apanhador Só ||| 1182
+The Killers ||| 1176
+Los Hermanos ||| 1107
+Neutral Milk Hotel ||| 1067
+Beirut ||| 941
+Oasis ||| 920
+Kanye West ||| 916
+LCD Soundsystem ||| 910
+Battles ||| 909
+The National ||| 887
+Trent Reznor and Atticus Ross ||| 871
+Lily Allen ||| 853
+Sleater-Kinney ||| 852
+Foals ||| 842
+Kings of Leon ||| 834
+Air ||| 822
+Two Door Cinema Club ||| 808
+Cachorro Grande ||| 749
+Pública ||| 727
+Led Zeppelin ||| 715
+Queens of the Stone Age ||| 708
+White Lies ||| 696
+Arcade Fire ||| 680
+The Beatles ||| 661
+Beyoncé ||| 653
+The Fiery Furnaces ||| 650
+Moptop ||| 646
+Superguidis ||| 614
+The Growlers ||| 590
+Placebo ||| 574
+Pink Floyd ||| 570
+Kaiser Chiefs ||| 552
+Surfer Blood ||| 548
+## playcount: 95312

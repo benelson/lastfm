@@ -1,0 +1,51 @@
+Radiohead ||| 10950
+The Beatles ||| 4956
+Pulp ||| 3870
+Wilco ||| 2827
+Arctic Monkeys ||| 2480
+Suede ||| 1837
+Editors ||| 1766
+Blur ||| 1707
+David Bowie ||| 1702
+Muse ||| 1552
+Los Hermanos ||| 1543
+Coldplay ||| 1526
+Norah Jones ||| 1464
+The Smiths ||| 1357
+The Strokes ||| 1342
+R.E.M. ||| 1148
+The Cure ||| 1145
+Bob Dylan ||| 1134
+Echo & the Bunnymen ||| 1111
+Paul McCartney ||| 1111
+John Mayer ||| 1098
+Yo La Tengo ||| 1074
+Arcade Fire ||| 1037
+U2 ||| 775
+The Killers ||| 719
+Queens of the Stone Age ||| 714
+Manic Street Preachers ||| 661
+Oasis ||| 628
+George Harrison ||| 565
+Alanis Morissette ||| 497
+The Smashing Pumpkins ||| 496
+Gorillaz ||| 489
+Jeff Buckley ||| 488
+Grandaddy ||| 481
+The Rolling Stones ||| 473
+The National ||| 439
+Daft Punk ||| 425
+Keane ||| 398
+Chico Buarque ||| 393
+Marcelo Camelo ||| 390
+Franz Ferdinand ||| 359
+Little Joy ||| 354
+The Jesus and Mary Chain ||| 354
+Nina Simone ||| 350
+Jamie Cullum ||| 348
+Kate Nash ||| 347
+Kent ||| 345
+Spiritualized ||| 345
+Chet Baker ||| 340
+Duran Duran ||| 340
+## playcount: 62250

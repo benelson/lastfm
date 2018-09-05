@@ -1,0 +1,51 @@
+The Beatles ||| 6054
+Arctic Monkeys ||| 4546
+Red Hot Chili Peppers ||| 2911
+AC/DC ||| 2859
+The Killers ||| 2261
+Radiohead ||| 1874
+The Rolling Stones ||| 1825
+Arcade Fire ||| 1754
+Slayer ||| 1701
+The Strokes ||| 1612
+The Smashing Pumpkins ||| 1561
+Muse ||| 1551
+Bob Dylan ||| 1475
+She & Him ||| 1474
+Eraserheads ||| 1376
+Metallica ||| 1375
+The Black Keys ||| 1328
+Pantera ||| 1324
+Oasis ||| 1294
+Guns N' Roses ||| 1282
+U2 ||| 1271
+John Lennon ||| 1258
+Black Sabbath ||| 1186
+Ramones ||| 1144
+Dying Fetus ||| 1125
+Aerosmith ||| 1090
+Kendrick Lamar ||| 1050
+Led Zeppelin ||| 1001
+Ultra vomit ||| 897
+Wednesday 13 ||| 859
+Franz Ferdinand ||| 813
+Pink Floyd ||| 809
+Motörhead ||| 800
+Nirvana ||| 780
+David Bowie ||| 775
+Panic! at the Disco ||| 769
+Paul McCartney ||| 763
+Queen ||| 762
+Alice Cooper ||| 760
+Sepultura ||| 733
+Air Supply ||| 696
+Blur ||| 694
+Cannibal Corpse ||| 687
+blink-182 ||| 663
+Ozzy Osbourne ||| 654
+Daft Punk ||| 641
+Paramore ||| 630
+The Smiths ||| 623
+The Last Shadow Puppets ||| 613
+Brandon Flowers ||| 600
+## playcount: 66583

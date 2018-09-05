@@ -1,0 +1,51 @@
+Britney Spears ||| 10234
+Beyoncé ||| 9161
+Madonna ||| 6918
+Rihanna ||| 5011
+Taylor Swift ||| 4796
+Lana Del Rey ||| 4070
+Nicki Minaj ||| 2942
+Kylie Minogue ||| 2721
+Florence + the Machine ||| 2354
+Conor Maynard ||| 1949
+Medina ||| 1618
+Jay-Z & Kanye West ||| 1595
+Katy Perry ||| 1591
+The Wanted ||| 1510
+Kelly Rowland ||| 1261
+Christina Aguilera ||| 1248
+Kelly Clarkson ||| 1071
+Kanye West ||| 953
+Natalia Kills ||| 909
+Justin Bieber ||| 853
+Carly Rae Jepsen ||| 846
+Marina & the Diamonds ||| 845
+Carrie Underwood ||| 824
+소녀시대 ||| 778
+David Guetta ||| 773
+Maroon 5 ||| 764
+Shakira ||| 724
+P!nk ||| 676
+One Direction ||| 658
+Jay-Z ||| 649
+Chris Brown ||| 627
+The Saturdays ||| 592
+Destiny's Child ||| 589
+Anitta ||| 581
+Macklemore & Ryan Lewis ||| 556
+2NE1 ||| 555
+Frank Ocean ||| 552
+Luke Bryan ||| 550
+Lady Gaga ||| 549
+Adele ||| 548
+Azealia Banks ||| 527
+Glee Cast ||| 517
+Nelly Furtado ||| 517
+Gabriella Cilmi ||| 511
+Björk ||| 506
+Adam Lambert ||| 498
+Rita Ora ||| 498
+Clare Maguire ||| 494
+Michael Jackson ||| 484
+Miley Cyrus ||| 477
+## playcount: 81030

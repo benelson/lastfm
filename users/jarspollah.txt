@@ -1,0 +1,51 @@
+Rush ||| 4859
+Ozzy Osbourne ||| 4650
+Nightwish ||| 4523
+Iron Maiden ||| 4325
+Rammstein ||| 3556
+Dream Theater ||| 3421
+Judas Priest ||| 3404
+Metallica ||| 3387
+System of a Down ||| 3336
+Pink Floyd ||| 3144
+Marilyn Manson ||| 2978
+Jethro Tull ||| 2895
+Children of Bodom ||| 2778
+Korn ||| 2553
+Slipknot ||| 2338
+AC/DC ||| 2304
+Lordi ||| 2262
+Black Sabbath ||| 2197
+Dio ||| 2190
+Helloween ||| 2176
+Manowar ||| 2061
+W.A.S.P. ||| 1998
+Led Zeppelin ||| 1853
+Guns N' Roses ||| 1760
+The Rolling Stones ||| 1704
+Red Hot Chili Peppers ||| 1700
+Dropkick Murphys ||| 1630
+Evanescence ||| 1620
+Yes ||| 1610
+Slayer ||| 1588
+Lacuna Coil ||| 1585
+David Bowie ||| 1533
+"Weird Al" Yankovic ||| 1495
+Aerosmith ||| 1421
+The Who ||| 1408
+The Clash ||| 1400
+Queen ||| 1380
+Marillion ||| 1375
+Green Day ||| 1359
+Deep Purple ||| 1334
+Nine Inch Nails ||| 1302
+Leevi and the Leavings ||| 1257
+Kiss ||| 1246
+Accept ||| 1237
+Eppu Normaali ||| 1214
+Motörhead ||| 1185
+R.E.M. ||| 1185
+Alice Cooper ||| 1167
+Hanoi Rocks ||| 1166
+Blue Öyster Cult ||| 1138
+## playcount: 107187

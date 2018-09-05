@@ -1,0 +1,51 @@
+Iron Maiden ||| 11511
+Led Zeppelin ||| 5959
+The Rolling Stones ||| 4079
+AC/DC ||| 3550
+Whitesnake ||| 2513
+Fleetwood Mac ||| 2004
+Van Halen ||| 1892
+Foo Fighters ||| 1813
+Mötley Crüe ||| 1811
+Megadeth ||| 1717
+Judas Priest ||| 1635
+Michael Jackson ||| 1520
+The Beatles ||| 1498
+Deep Purple ||| 1460
+Frank Zappa ||| 1443
+Def Leppard ||| 1376
+Beyoncé ||| 1346
+David Bowie ||| 1174
+Alice Cooper ||| 1063
+Nirvana ||| 996
+Bob Dylan ||| 954
+Jimi Hendrix ||| 941
+Metallica ||| 930
+The Strokes ||| 814
+Florence + the Machine ||| 758
+Bruce Dickinson ||| 752
+Alexisonfire ||| 727
+The Doors ||| 692
+The Dillinger Escape Plan ||| 664
+Saxon ||| 612
+Kings of Leon ||| 571
+Fall Out Boy ||| 520
+Joe Satriani ||| 501
+Rush ||| 494
+Kanye West ||| 483
+Green Day ||| 455
+Rihanna ||| 452
+The Smiths ||| 431
+Queen ||| 405
+Foster the People ||| 396
+Black Sabbath ||| 389
+Motion City Soundtrack ||| 381
+Daft Punk ||| 379
+Red Hot Chili Peppers ||| 378
+dirty dancing soundtrack ||| 345
+ZZ Top ||| 321
+Radiohead ||| 317
+Lauren Harris ||| 308
+Thin Lizzy ||| 308
+Jay-Z ||| 306
+## playcount: 66344

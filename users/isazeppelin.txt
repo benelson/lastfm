@@ -1,0 +1,51 @@
+Led Zeppelin ||| 18466
+The Rolling Stones ||| 7950
+Pink Floyd ||| 5855
+Emerson, Lake & Palmer ||| 2877
+The Beatles ||| 2482
+Rush ||| 2305
+Yes ||| 2036
+Kiss ||| 1834
+Os Mutantes ||| 1831
+Genesis ||| 1568
+The Who ||| 1343
+Black Sabbath ||| 1290
+The Doors ||| 1171
+King Crimson ||| 1085
+Chico Buarque ||| 1077
+Jethro Tull ||| 1047
+AC/DC ||| 949
+Janis Joplin ||| 922
+Iron Maiden ||| 812
+Planet Hemp ||| 768
+David Bowie ||| 635
+Queen ||| 619
+Raul Seixas ||| 617
+Caetano Veloso ||| 583
+Creedence Clearwater Revival ||| 545
+The Jimi Hendrix Experience ||| 544
+Gentle Giant ||| 417
+Rise Against ||| 397
+Paul McCartney & Wings ||| 380
+Red Hot Chili Peppers ||| 368
+Cazuza ||| 362
+Arnaldo Baptista ||| 361
+Camel ||| 353
+Dio ||| 335
+Secos & Molhados ||| 322
+Ozzy Osbourne ||| 320
+Deep Purple ||| 310
+Paulinho Da Viola ||| 304
+Focus ||| 297
+The Nice ||| 296
+Renaissance ||| 284
+Legião Urbana ||| 259
+Cream ||| 246
+Rick Wakeman ||| 236
+Alceu Valença ||| 230
+Frank Zappa ||| 226
+Rainbow ||| 196
+Jimi Hendrix ||| 193
+London Symphony Orchestra ||| 191
+Supertramp ||| 189
+## playcount: 68283

@@ -1,0 +1,51 @@
+Madonna ||| 16019
+Kylie Minogue ||| 14830
+Britney Spears ||| 12440
+Lady Gaga ||| 11321
+Rihanna ||| 9091
+Nicki Minaj ||| 6602
+Cheryl Cole ||| 4271
+Shakira ||| 3956
+Janet Jackson ||| 3017
+Christina Aguilera ||| 2642
+Beyoncé ||| 1740
+Cher ||| 1347
+Lily Allen ||| 821
+M.I.A. ||| 812
+Sophie Ellis-Bextor ||| 721
+Cher Lloyd ||| 633
+Lana Del Rey ||| 613
+Mariah Carey ||| 577
+Jennifer Lopez ||| 545
+Taylor Swift ||| 539
+Anitta ||| 503
+Céline Dion ||| 415
+Iggy Azalea ||| 404
+Little Mix ||| 401
+Björk ||| 396
+Katy Perry ||| 360
+Spice Girls ||| 337
+Miley Cyrus ||| 329
+Girls Aloud ||| 320
+Enrique Iglesias ||| 315
+Alexandra Stan ||| 311
+Alesha Dixon ||| 309
+Michael Jackson ||| 306
+Selena Gomez ||| 302
+Coldplay ||| 294
+Keri Hilson ||| 288
+Demi Lovato ||| 274
+Natalia Kills ||| 235
+Nicole Scherzinger ||| 232
+Justin Bieber ||| 228
+Calvin Harris ||| 216
+Black Eyed Peas ||| 208
+Ke$ha ||| 206
+P!nk ||| 189
+Banda UÓ ||| 181
+Jordin Sparks ||| 181
+Pitbull ||| 171
+Avril Lavigne ||| 170
+Jorge & Mateus ||| 167
+Kat DeLuna ||| 163
+## playcount: 100948

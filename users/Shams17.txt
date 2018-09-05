@@ -1,0 +1,51 @@
+Iron Maiden ||| 8
+Motörhead ||| 8
+Slipknot ||| 8
+AC/DC ||| 5
+Black Label Society ||| 5
+Black Sabbath ||| 5
+Exodus ||| 5
+Fatboy Slim ||| 5
+Machine Head ||| 5
+Slayer ||| 5
+Godsmack ||| 4
+Guns N' Roses ||| 4
+Korn ||| 4
+Mushroomhead ||| 4
+Ozzy Osbourne ||| 4
+Sepultura ||| 4
+Testament ||| 4
+Trivium ||| 4
+Apocalyptica ||| 3
+Megadeth ||| 3
+P.O.D. ||| 3
+Rammstein ||| 3
+Soil ||| 3
+Stone Sour ||| 3
+System of a Down ||| 3
+Anthrax ||| 2
+Beatallica ||| 2
+Coal Chamber ||| 2
+Diamond Head ||| 2
+Flotsam and Jetsam ||| 2
+Hyper ||| 2
+Judas Priest ||| 2
+Lamb of God ||| 2
+Mudvayne ||| 2
+Pantera ||| 2
+Probot ||| 2
+The Chemical Brothers ||| 2
+W.A.S.P. ||| 2
+Annihilator ||| 1
+Arch Enemy ||| 1
+Audioslave ||| 1
+Black Tide ||| 1
+Blind Guardian ||| 1
+Bloodhound Gang ||| 1
+Bruce Dickinson ||| 1
+Bullet for My Valentine ||| 1
+Cavalera Conspiracy ||| 1
+Children of Bodom ||| 1
+Deeds Plus Thoughts ||| 1
+Dio ||| 1
+## playcount: 150

@@ -1,0 +1,51 @@
+Queen ||| 4492
+[unknown] ||| 2629
+Rush ||| 2176
+Dream Theater ||| 1998
+Engenheiros Do Hawaii ||| 1765
+Faith No More ||| 1621
+Falcão ||| 1582
+Van Halen ||| 1424
+King Crimson ||| 1406
+The Flower Kings ||| 1368
+Impellitteri ||| 1311
+INXS ||| 1279
+Tool ||| 1270
+Brian May ||| 1203
+Circus Maximus ||| 1200
+Milton Nascimento ||| 1120
+The Beatles ||| 1099
+Al Di Meola ||| 977
+Aerosmith ||| 932
+Led Zeppelin ||| 905
+Marty Friedman ||| 900
+Kiss ||| 896
+Opeth ||| 859
+True Symphonic Rockestra ||| 844
+Audioslave ||| 835
+Carpenters ||| 815
+Raimundos ||| 809
+Toto ||| 769
+Angra ||| 759
+Amy Winehouse ||| 691
+Kansas ||| 680
+Deep Purple ||| 624
+Chico Buarque ||| 615
+Pepeu Gomes ||| 610
+Marli ||| 579
+Symphony X ||| 572
+Megadeth ||| 558
+Alice in Chains ||| 524
+Savatage ||| 523
+Jason Becker ||| 514
+Rogério Skylab ||| 498
+AC/DC ||| 486
+Pantera ||| 469
+Richie Kotzen ||| 460
+Johnny Cash ||| 455
+Skid Row ||| 437
+Marillion ||| 419
+Dave Matthews Band ||| 405
+A.S.A.P. ||| 391
+After Forever ||| 388
+## playcount: 50141

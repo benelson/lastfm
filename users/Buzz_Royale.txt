@@ -1,0 +1,51 @@
+AFI ||| 4108
+Bastille ||| 1546
+Panic! at the Disco ||| 1341
+Blaqk Audio ||| 1316
+Britney Spears ||| 869
+30 Seconds to Mars ||| 861
+Fall Out Boy ||| 831
+My Chemical Romance ||| 683
+Lady Gaga ||| 495
+The Rasmus ||| 477
+飛輪海 ||| 343
+Evanescence ||| 311
+Green Day ||| 271
+Chameleon Circuit ||| 251
+Carly Rae Jepsen ||| 238
+Linkin Park ||| 170
+James Blunt ||| 160
+Die Ärzte ||| 133
+Wir sind Helden ||| 127
+Billy Talent ||| 116
+Owl City ||| 116
+Selmore Driveby ||| 112
+Tim Bendzko ||| 110
+Bullet for My Valentine ||| 109
+Avril Lavigne ||| 96
+Adele ||| 94
+Marilyn Manson ||| 87
+Jennifer Lopez ||| 76
+Christina Aguilera ||| 75
+Ed Sheeran ||| 67
+Him ||| 64
+The Killers ||| 64
+Florence + the Machine ||| 57
+Franz Ferdinand ||| 57
+Charlie McDonnell ||| 56
+Patrick Stump ||| 56
+Rise Against ||| 56
+NDR Info - Der satirische Wochenrückblick ||| 45
+Sam Smith ||| 43
+Good Charlotte ||| 41
+gunnarolla ||| 41
+David Arnold & Michael Price ||| 38
+One Direction ||| 37
+Michael Jackson ||| 35
+Within Temptation ||| 35
+ZDFde ||| 35
+Katy Perry ||| 33
+Shawn Mendes ||| 33
+Tank ||| 31
+The Beatles ||| 31
+## playcount: 16477

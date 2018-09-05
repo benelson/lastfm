@@ -1,0 +1,51 @@
+Iron Maiden ||| 14029
+AC/DC ||| 8897
+Blaze Bayley ||| 4384
+Rammstein ||| 2943
+Pearl Jam ||| 2926
+Anthrax ||| 2500
+Slayer ||| 2274
+Motörhead ||| 2144
+Metallica ||| 1742
+Rage Against the Machine ||| 1423
+Guns N' Roses ||| 1389
+Megadeth ||| 1315
+Bruce Dickinson ||| 1163
+The Prodigy ||| 1105
+Madness ||| 1076
+Black Sabbath ||| 938
+Ghost ||| 778
+Mortician ||| 653
+Dio ||| 645
+Oasis ||| 627
+Creedence Clearwater Revival ||| 615
+Napalm Death ||| 611
+The Rolling Stones ||| 581
+Queen ||| 579
+David Bowie ||| 574
+Marilyn Manson ||| 574
+Bob Marley & The Wailers ||| 573
+Wu-Tang Clan ||| 570
+Rihanna ||| 569
+Cannibal Corpse ||| 567
+U2 ||| 539
+Judas Priest ||| 379
+Red Hot Chili Peppers ||| 377
+A Flock of Seagulls ||| 372
+Nirvana ||| 354
+Wolfsbane ||| 321
+Coldplay ||| 308
+Body Count ||| 307
+Jimi Hendrix ||| 279
+Nightwish ||| 265
+Sepultura ||| 265
+Live ||| 258
+Aerosmith ||| 253
+Bob Dylan ||| 251
+Bruce Springsteen ||| 251
+Phil Collins ||| 237
+Fleetwood Mac ||| 225
+Radiohead ||| 211
+Jack Spijkerman ||| 208
+Kaiser Chiefs ||| 208
+## playcount: 64632

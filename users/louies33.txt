@@ -1,0 +1,51 @@
+John Mellencamp ||| 24
+Don Henley ||| 18
+Bruce Springsteen ||| 17
+Billy Joel ||| 15
+Chicago ||| 14
+Elton John ||| 14
+Jackson Browne ||| 14
+Little River Band ||| 14
+Supertramp ||| 14
+Bob Seger ||| 13
+Rod Stewart ||| 13
+Escape the Fate ||| 11
+Peter Gabriel ||| 11
+Southside Johnny & The Asbury Jukes ||| 11
+Steve Winwood ||| 11
+Styx ||| 11
+Tom Petty ||| 11
+Tom Petty and The Heartbreakers ||| 11
+Toto ||| 11
+Yes ||| 11
+Björk ||| 10
+Dire Straits ||| 10
+Eagles ||| 10
+Fleetwood Mac ||| 10
+Foreigner ||| 10
+Kansas ||| 10
+Sting ||| 10
+The Doobie Brothers ||| 10
+The Police ||| 10
+The Rolling Stones ||| 10
+U2 ||| 10
+Van Morrison ||| 10
+Aerosmith ||| 9
+Bad Company ||| 9
+Boston ||| 9
+Emerson, Lake & Palmer ||| 9
+Survivor ||| 9
+Asia ||| 8
+Bachman-Turner Overdrive ||| 8
+Bryan Adams ||| 8
+John Fogerty ||| 8
+Journey ||| 8
+My Chemical Romance ||| 8
+Neil Young ||| 8
+Patti Scialfa ||| 8
+Paul McCartney ||| 8
+Steve Miller Band ||| 8
+The Cars ||| 8
+The Pretenders ||| 8
+Wishbone Ash ||| 8
+## playcount: 538

@@ -1,0 +1,51 @@
+The Beatles ||| 12931
+Elvis Presley ||| 2294
+Whitesnake ||| 2183
+Buddy Holly ||| 1933
+AC/DC ||| 1881
+Thin Lizzy ||| 1568
+Wanda Jackson ||| 1442
+Rainbow ||| 1281
+Pink Floyd ||| 1089
+Janis Joplin ||| 1045
+Jet ||| 969
+Poison ||| 867
+Kiss ||| 850
+Bruce Springsteen ||| 798
+Kings of Convenience ||| 794
+Aerosmith ||| 720
+Electric Light Orchestra ||| 711
+Slash ||| 681
+Roy Orbison ||| 652
+The Detroit Cobras ||| 648
+Bob Dylan ||| 646
+Mando Diao ||| 630
+Sam Roberts ||| 604
+Traveling Wilburys ||| 592
+Belle and Sebastian ||| 577
+Gene Vincent ||| 568
+Eddie Cochran ||| 567
+Scorpions ||| 563
+Calexico ||| 561
+Carl Perkins ||| 548
+Alice Cooper ||| 540
+Carlos & The Bandidos ||| 534
+Ronnie Hawkins ||| 518
+Ismael Serrano ||| 517
+Motörhead ||| 501
+Jefferson Airplane ||| 496
+Devendra Banhart ||| 493
+Guns N' Roses ||| 476
+Journey ||| 454
+Billy Idol ||| 446
+The Black Keys ||| 443
+Bon Jovi ||| 441
+Love of Lesbian ||| 430
+Johnny Cash ||| 427
+Foreigner ||| 423
+David Bowie ||| 415
+The Darkness ||| 400
+Extremoduro ||| 388
+Paul McCartney ||| 387
+Mötley Crüe ||| 379
+## playcount: 50301

@@ -1,0 +1,51 @@
+Pink Floyd ||| 4254
+Led Zeppelin ||| 1480
+The Beatles ||| 1425
+System of a Down ||| 1360
+AC/DC ||| 1272
+Engenheiros Do Hawaii ||| 974
+Lynyrd Skynyrd ||| 618
+Aerosmith ||| 603
+Tenacious D ||| 500
+Scars on Broadway ||| 461
+Queen ||| 353
+Jimi Hendrix ||| 278
+Astra ||| 256
+Black Sabbath ||| 248
+Paul McCartney ||| 243
+Chuck Berry ||| 235
+Red Hot Chili Peppers ||| 223
+The Rolling Stones ||| 222
+Eric Clapton ||| 207
+The Doors ||| 202
+Foo Fighters ||| 194
+Yes ||| 192
+Genesis ||| 190
+Andy McKee ||| 182
+Haley Reinhart ||| 175
+Radiohead ||| 159
+Bob Marley & The Wailers ||| 150
+Deep Purple ||| 144
+Bob Dylan ||| 138
+Porcupine Tree ||| 138
+Guns N' Roses ||| 130
+Sonata Arctica ||| 120
+James Durbin ||| 118
+Syd Barrett ||| 104
+Edward Sharpe & The Magnetic Zeros ||| 102
+Casey Abrams ||| 99
+Eddie Vedder ||| 98
+Serj Tankian ||| 89
+John Mayer ||| 82
+The Fratellis ||| 80
+Flogging Molly ||| 67
+BECK MONGOLIAN CHOP SQUAD ||| 64
+Franz Ferdinand ||| 64
+Gov't Mule ||| 61
+John Lennon ||| 47
+Scotty McCreery ||| 45
+The Who ||| 45
+Beirut ||| 43
+The Offspring ||| 42
+Jason Mraz ||| 40
+## playcount: 18616

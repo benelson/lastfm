@@ -1,0 +1,51 @@
+Coldplay ||| 3841
+Keane ||| 3443
+The Killers ||| 2028
+CHVRCHES ||| 1800
+Foals ||| 1407
+Twenty One Pilots ||| 1266
+Snow Patrol ||| 1226
+Tame Impala ||| 1109
+Kings of Leon ||| 1043
+Slowdive ||| 1009
+Young the Giant ||| 920
+The Strokes ||| 916
+Franz Ferdinand ||| 877
+Radiohead ||| 856
+Modest Mouse ||| 852
+Interpol ||| 800
+Arcade Fire ||| 791
+Kasabian ||| 777
+Gorillaz ||| 751
+Incubus ||| 724
+Travis ||| 709
+The Chemical Brothers ||| 708
+Arctic Monkeys ||| 687
+Drake ||| 686
+Gustavo Cerati ||| 674
+MGMT ||| 662
+OneRepublic ||| 653
+The Vaccines ||| 647
+Kendrick Lamar ||| 632
+Muse ||| 625
+Blur ||| 610
+Empire of the Sun ||| 592
+Silversun Pickups ||| 582
+The Avalanches ||| 574
+Lily Allen ||| 572
+Yellowcard ||| 568
+Beach House ||| 538
+Linkin Park ||| 534
+M83 ||| 524
+The xx ||| 524
+Michael Jackson ||| 522
+Bloc Party ||| 521
+Mew ||| 518
+The Weeknd ||| 518
+Jamie xx ||| 510
+Metronomy ||| 509
+Good Charlotte ||| 492
+The Cribs ||| 491
+Stereophonics ||| 487
+Atlas Genius ||| 476
+## playcount: 43781

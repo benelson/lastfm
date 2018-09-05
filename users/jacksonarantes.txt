@@ -1,0 +1,51 @@
+Beyoncé ||| 3048
+Robyn ||| 2111
+Adam Lambert ||| 1921
+Lana Del Rey ||| 1911
+Lorde ||| 1785
+Leona Lewis ||| 1585
+Lady Gaga ||| 1507
+Jessie Ware ||| 1389
+Rihanna ||| 1326
+Ariana Grande ||| 1219
+Adele ||| 1170
+Banda UÓ ||| 1086
+Kylie Minogue ||| 1069
+Florence + the Machine ||| 825
+The Ting Tings ||| 802
+Vampire Weekend ||| 734
+Stooshe ||| 709
+Kimbra ||| 705
+Carly Rae Jepsen ||| 667
+Azealia Banks ||| 623
+Justin Timberlake ||| 613
+Sam Smith ||| 587
+Marcus Collins ||| 577
+Shamir ||| 565
+Icona Pop ||| 536
+Britney Spears ||| 529
+Katy Perry ||| 497
+Solange ||| 483
+Sia ||| 476
+Madonna ||| 473
+Evanescence ||| 468
+Imagine Dragons ||| 448
+Kanye West ||| 436
+M.I.A. ||| 432
+Iggy Azalea ||| 393
+Silva ||| 385
+Maroon 5 ||| 372
+Troye Sivan ||| 372
+Nicki Minaj ||| 356
+David Guetta ||| 346
+Bruno Mars ||| 320
+Panic! at the Disco ||| 293
+Rico Dalasam ||| 277
+Mariah Carey ||| 261
+Drake ||| 257
+Christina Aguilera ||| 254
+Paloma Faith ||| 254
+[unknown] ||| 253
+Cheryl ||| 251
+The Weeknd ||| 245
+## playcount: 38201

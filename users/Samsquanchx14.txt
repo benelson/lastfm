@@ -1,0 +1,51 @@
+Wilco ||| 7847
+Beck ||| 7313
+Red Hot Chili Peppers ||| 5930
+Ween ||| 5915
+Pink Floyd ||| 4849
+Blur ||| 4641
+The Strokes ||| 3810
+Real Estate ||| 3709
+Pixies ||| 3648
+Radiohead ||| 3353
+Modest Mouse ||| 3080
+The Shins ||| 2655
+U2 ||| 2482
+Spoon ||| 1656
+The Smashing Pumpkins ||| 1511
+Fatboy Slim ||| 1464
+Boards of Canada ||| 1252
+Madvillain ||| 1220
+Gorillaz ||| 1216
+Red House Painters ||| 1098
+Sun Kil Moon ||| 1079
+The Flaming Lips ||| 1026
+Rage Against the Machine ||| 1013
+Sufjan Stevens ||| 980
+R.E.M. ||| 895
+The War on Drugs ||| 883
+Neutral Milk Hotel ||| 864
+Aphex Twin ||| 822
+Pavement ||| 710
+Eels ||| 607
+Depeche Mode ||| 599
+Daft Punk ||| 569
+Weezer ||| 562
+Steely Dan ||| 516
+Rusted Root ||| 509
+The Lovin' Spoonful ||| 489
+The Who ||| 471
+James Taylor ||| 458
+Violent Femmes ||| 457
+Men at Work ||| 432
+Swans ||| 421
+Stevie Wonder ||| 420
+Wild Nothing ||| 387
+Billy Bragg & Wilco ||| 384
+Pete Rock & C.L. Smooth ||| 382
+Nas ||| 379
+Fleetwood Mac ||| 372
+Godspeed You! Black Emperor ||| 371
+John Mayer ||| 361
+The Avalanches ||| 347
+## playcount: 86414

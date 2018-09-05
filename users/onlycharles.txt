@@ -1,0 +1,51 @@
+Helloween ||| 8553
+Gamma Ray ||| 3280
+Grave Digger ||| 2443
+Black Sabbath ||| 2377
+Judas Priest ||| 2330
+Iron Maiden ||| 2258
+Led Zeppelin ||| 2138
+Stratovarius ||| 2049
+Accept ||| 1982
+Running Wild ||| 1909
+Angra ||| 1630
+Blind Guardian ||| 1630
+Manowar ||| 1601
+Edguy ||| 1600
+AC/DC ||| 1430
+Ozzy Osbourne ||| 1313
+Paradise Lost ||| 1300
+HammerFall ||| 1258
+Stryper ||| 1231
+Queensrÿche ||| 1230
+Avantasia ||| 1211
+Primal Fear ||| 1208
+Metalium ||| 1181
+Dio ||| 1178
+At Vance ||| 1160
+Kreator ||| 1159
+Freedom Call ||| 1147
+Sepultura ||| 1119
+Symphony X ||| 1113
+Jorn ||| 1111
+Dream Theater ||| 1100
+King Diamond ||| 1092
+Iron Savior ||| 1067
+Sonata Arctica ||| 1055
+Aerosmith ||| 1045
+Metallica ||| 1045
+U.D.O. ||| 1040
+Rage ||| 1031
+Axel Rudi Pell ||| 1021
+Mystic Prophecy ||| 989
+Rhapsody of Fire ||| 942
+Kiss ||| 941
+Whitesnake ||| 927
+Mortification ||| 926
+Iced Earth ||| 904
+Masterplan ||| 896
+Deep Purple ||| 880
+Bloodbound ||| 779
+Fates Warning ||| 749
+Rainbow ||| 740
+## playcount: 74298

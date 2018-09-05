@@ -1,0 +1,51 @@
+The Beatles ||| 5487
+Pink Floyd ||| 4062
+Led Zeppelin ||| 2934
+Arctic Monkeys ||| 2363
+Coldplay ||| 2149
+Arcade Fire ||| 2136
+Queen ||| 1465
+Oasis ||| 1392
+Legião Urbana ||| 1222
+The Rolling Stones ||| 903
+Red Hot Chili Peppers ||| 694
+Muse ||| 678
+Los Hermanos ||| 666
+Vampire Weekend ||| 617
+The Who ||| 604
+Daft Punk ||| 560
+Aerosmith ||| 541
+David Bowie ||| 525
+Foo Fighters ||| 512
+Fleetwood Mac ||| 504
+Green Day ||| 495
+The Smiths ||| 461
+Pearl Jam ||| 433
+John Mayer ||| 393
+AC/DC ||| 389
+Os Mutantes ||| 387
+Radiohead ||| 385
+Two Door Cinema Club ||| 313
+Of Monsters and Men ||| 287
+Imagine Dragons ||| 279
+Nando Reis ||| 271
+London Philharmonic Orchestra ||| 269
+Belle and Sebastian ||| 266
+The Killers ||| 265
+The Doors ||| 255
+Bruce Springsteen ||| 252
+The National ||| 246
+The Police ||| 246
+Rush ||| 242
+Florence + the Machine ||| 238
+Frédéric Chopin ||| 228
+Guns N' Roses ||| 227
+Alabama Shakes ||| 218
+R.E.M. ||| 209
+Stevie Wonder ||| 204
+Elton John ||| 199
+Young the Giant ||| 197
+TV on the Radio ||| 194
+The Avett Brothers ||| 191
+近藤浩治 ||| 190
+## playcount: 38443

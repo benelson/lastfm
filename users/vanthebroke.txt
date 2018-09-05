@@ -1,0 +1,51 @@
+Radiohead ||| 2683
+Bloc Party ||| 2037
+Pink Floyd ||| 950
+Jimi Hendrix ||| 944
+Green Day ||| 923
+Rage Against the Machine ||| 776
+Blur ||| 551
+Bob Marley ||| 537
+Björk ||| 530
+Anggun ||| 359
+Clarence ||| 338
+Syd Barrett ||| 317
+Efek Rumah Kaca ||| 306
+Led Zeppelin ||| 287
+The Beatles ||| 264
+Muse ||| 263
+Sheila On 7 ||| 262
+Lali Puna ||| 253
+Black Tide ||| 241
+Air Supply ||| 223
+The Whole Family Delight ||| 222
+indigo la End ||| 220
+Alice Cooper ||| 215
+Bruce Dickinson ||| 213
+Blue ||| 205
+Eric Martin ||| 204
+Heart ||| 202
+Coldplay ||| 190
+John Lennon ||| 182
+U2 ||| 176
+The Verve ||| 169
+Angra ||| 165
+Koes Plus ||| 165
+Great White ||| 158
+Boyce Avenue ||| 157
+Guns N' Roses ||| 155
+Grateful Dead ||| 154
+Backstreet Boys ||| 150
+Oasis ||| 145
+Black Sabbath ||| 139
+Sunnyland Slim ||| 131
+Kiss ||| 127
+[unknown] ||| 126
+Gustavo Santaolalla ||| 125
+Kiroro ||| 125
+G3 ||| 120
+Jefferson Starship ||| 116
+Motion City Soundtrack ||| 113
+New Kids on the Block ||| 113
+Breaking Benjamin ||| 111
+## playcount: 17837

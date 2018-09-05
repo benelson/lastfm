@@ -1,0 +1,51 @@
+The Beatles ||| 2318
+A.R. Rahman ||| 1486
+Elvis Presley ||| 1043
+Iron Maiden ||| 832
+Coldplay ||| 748
+Dev D ||| 742
+Madonna ||| 637
+Anoushka Shankar ||| 540
+ABBA ||| 532
+Lucky Ali ||| 502
+System of a Down ||| 488
+Avril Lavigne ||| 416
+Green Day ||| 403
+Metallica ||| 380
+Ali Zafar ||| 346
+Mohit Chauhan ||| 281
+KK ||| 271
+Red Hot Chili Peppers ||| 267
+Sonu Nigam ||| 261
+Queen ||| 259
+Nirvana ||| 256
+Sunidhi Chauhan ||| 255
+Kishore Kumar ||| 251
+Alexander Rybak ||| 243
+Atif Aslam ||| 242
+Silk Route ||| 242
+Pink Floyd ||| 241
+Aamir ||| 240
+Guns N' Roses ||| 240
+Shreya Ghoshal ||| 223
+Radiohead ||| 218
+Yanni ||| 212
+Neeraj Shridhar ||| 207
+U2 ||| 200
+Backstreet Boys ||| 199
+Raghu Dixit ||| 194
+The Beach Boys ||| 191
+Instrumental ||| 183
+Bon Jovi ||| 180
+Jefferson Airplane ||| 174
+Juice Newton ||| 171
+Bachna Ae Haseeno ||| 167
+Simon & Garfunkel ||| 163
+The Doors ||| 161
+Eagles ||| 160
+Arijit Singh ||| 158
+K.K. ||| 152
+Wolfgang Amadeus Mozart ||| 149
+Mera Pehla Pehla Pyaar ||| 146
+Salim Merchant ||| 144
+## playcount: 18714

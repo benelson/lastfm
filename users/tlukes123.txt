@@ -1,0 +1,51 @@
+Heart ||| 5481
+Bruce Springsteen ||| 5136
+Rush ||| 5136
+The Rolling Stones ||| 3461
+Judas Priest ||| 3138
+Mastodon ||| 2807
+Tom Petty and The Heartbreakers ||| 2639
+Iron Maiden ||| 2598
+Ayreon ||| 2501
+Therion ||| 2427
+Nightwish ||| 2386
+Opeth ||| 2342
+Neil Young ||| 2294
+Pink Floyd ||| 2294
+Siouxsie and the Banshees ||| 2123
+The Beatles ||| 2089
+Aerosmith ||| 2024
+Tori Amos ||| 1743
+Genesis ||| 1690
+Katatonia ||| 1683
+The Cure ||| 1674
+Björk ||| 1642
+Black Sabbath ||| 1607
+Led Zeppelin ||| 1535
+Pat Benatar ||| 1478
+Queen ||| 1470
+Lucinda Williams ||| 1468
+Dream Theater ||| 1438
+Metallica ||| 1419
+Norah Jones ||| 1410
+Van Halen ||| 1374
+Tift Merritt ||| 1340
+Prince ||| 1336
+Eagles ||| 1298
+Laura Veirs ||| 1285
+Motörhead ||| 1271
+Deep Purple ||| 1268
+Pearl Jam ||| 1200
+Bonnie Raitt ||| 1182
+The Doors ||| 1175
+Blue Öyster Cult ||| 1170
+Lady Antebellum ||| 1168
+Scorpions ||| 1162
+Bob Dylan ||| 1156
+Arcade Fire ||| 1114
+Jimi Hendrix ||| 1107
+Yes ||| 1097
+Slayer ||| 1096
+Megadeth ||| 1078
+Sara Evans ||| 1052
+## playcount: 95062

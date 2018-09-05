@@ -1,0 +1,51 @@
+Grimes ||| 232
+PJ Harvey ||| 216
+Sonic Youth ||| 187
+Radiohead ||| 159
+Björk ||| 123
+Aphex Twin ||| 89
+Slowdive ||| 83
+Neutral Milk Hotel ||| 74
+Nirvana ||| 70
+of Montreal ||| 68
+Unsane ||| 65
+Autechre ||| 64
+Grouper ||| 56
+R.E.M. ||| 55
+Chelsea Wolfe ||| 54
+Afghan Whigs ||| 52
+The Vaselines ||| 51
+My Bloody Valentine ||| 50
+Xiu Xiu ||| 50
+Beck ||| 49
+The Jesus Lizard ||| 47
+Atmosphere ||| 45
+Bikini Kill ||| 45
+Cat Power ||| 40
+Ty Segall ||| 40
+Lush ||| 39
+Death Grips ||| 38
+Swans ||| 38
+Boris ||| 34
+The Velvet Underground ||| 33
+Hole ||| 32
+LFO ||| 32
+Thurston Moore ||| 32
+Cap'n Jazz ||| 30
+Dinosaur Jr. ||| 30
+Fiona Apple ||| 30
+Queens of the Stone Age ||| 29
+The Stooges ||| 28
+The White Stripes ||| 27
+Pissed Jeans ||| 26
+Beat Happening ||| 24
+Roy Montgomery ||| 23
+St. Vincent ||| 23
+Rapeman ||| 19
+Peaches ||| 17
+Tool ||| 17
+Boards of Canada ||| 16
+His Name Is Alive ||| 16
+RJD2 ||| 16
+The Prodigy ||| 16
+## playcount: 2729

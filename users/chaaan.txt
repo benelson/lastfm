@@ -1,0 +1,51 @@
+Britney Spears ||| 47605
+Kelly Clarkson ||| 22886
+Rihanna ||| 14349
+Avril Lavigne ||| 14323
+Leona Lewis ||| 14231
+Christina Aguilera ||| 14213
+Lady Gaga ||| 14052
+Mariah Carey ||| 12926
+Taylor Swift ||| 12663
+Katy Perry ||| 11544
+Madonna ||| 11395
+P!nk ||| 11342
+Beyoncé ||| 10987
+Ke$ha ||| 10020
+Miley Cyrus ||| 7768
+Jordin Sparks ||| 7572
+Evanescence ||| 7512
+Shakira ||| 7417
+Carrie Underwood ||| 7006
+Demi Lovato ||| 6988
+Little Mix ||| 6297
+Aly & AJ ||| 6122
+Hilary Duff ||| 6053
+Sara Bareilles ||| 5593
+The Veronicas ||| 5470
+Cheryl ||| 5128
+Ariana Grande ||| 4848
+Jessie J ||| 4569
+The Pussycat Dolls ||| 4313
+Natasha Bedingfield ||| 4182
+Katharine McPhee ||| 4100
+Nelly Furtado ||| 4055
+Alicia Keys ||| 4007
+Selena Gomez ||| 3984
+Cassadee Pope ||| 3969
+One Direction ||| 3922
+Ashley Tisdale ||| 3872
+Adele ||| 3778
+David Guetta ||| 3757
+Ashlee Simpson ||| 3740
+Kylie Minogue ||| 3534
+Fifth Harmony ||| 3459
+Simple Plan ||| 3282
+Justin Timberlake ||| 3116
+Colbie Caillat ||| 3055
+Cher Lloyd ||| 2877
+Daughtry ||| 2719
+Joss Stone ||| 2615
+JoJo ||| 2521
+Nicole Scherzinger ||| 2502
+## playcount: 388238

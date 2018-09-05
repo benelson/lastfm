@@ -1,0 +1,51 @@
+Led Zeppelin ||| 3647
+Pearl Jam ||| 3111
+The Beatles ||| 3109
+Pink Floyd ||| 2142
+The Who ||| 1694
+Black Sabbath ||| 1578
+The Rolling Stones ||| 1365
+The Doors ||| 1205
+Rush ||| 1077
+The White Stripes ||| 1053
+AC/DC ||| 1021
+Cream ||| 975
+Guns N' Roses ||| 974
+Lamb of God ||| 933
+Wolfmother ||| 822
+The Jimi Hendrix Experience ||| 821
+Stevie Ray Vaughan ||| 819
+Megadeth ||| 809
+Lynyrd Skynyrd ||| 794
+Deep Purple ||| 766
+Pantera ||| 762
+Iron Maiden ||| 745
+Foo Fighters ||| 729
+Neil Young ||| 714
+Ozzy Osbourne ||| 710
+Metallica ||| 641
+Motörhead ||| 636
+Queensrÿche ||| 631
+The Strokes ||| 606
+Van Halen ||| 605
+Bob Dylan ||| 582
+Queens of the Stone Age ||| 570
+John Lennon ||| 549
+Killswitch Engage ||| 523
+Tool ||| 518
+Slough Feg ||| 517
+Opeth ||| 512
+Early Man ||| 484
+The Sadies ||| 483
+Creedence Clearwater Revival ||| 472
+Parkway Drive ||| 457
+Simon & Garfunkel ||| 444
+Heaven & Hell ||| 438
+The Black Crowes ||| 438
+The Allman Brothers Band ||| 392
+Eagles ||| 378
+Nirvana ||| 359
+Black Label Society ||| 346
+System of a Down ||| 346
+Eric Clapton ||| 337
+## playcount: 44639

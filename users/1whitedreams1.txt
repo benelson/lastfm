@@ -1,0 +1,51 @@
+The Beatles ||| 5642
+Led Zeppelin ||| 3400
+The Who ||| 3366
+Fleetwood Mac ||| 2882
+The White Stripes ||| 2772
+Jefferson Airplane ||| 2400
+The Beach Boys ||| 2240
+Radiohead ||| 2173
+Britney Spears ||| 2031
+Weezer ||| 1948
+Spice Girls ||| 1881
+The Kinks ||| 1755
+Soundgarden ||| 1563
+Van Halen ||| 1559
+Bob Dylan ||| 1483
+Madonna ||| 1474
+The Rolling Stones ||| 1389
+She & Him ||| 1365
+Jewel ||| 1286
+The Kills ||| 1268
+Lily Allen ||| 1256
+Simon & Garfunkel ||| 1236
+Rilo Kiley ||| 1227
+John Lennon ||| 1177
+Christina Aguilera ||| 1157
+Donovan ||| 1148
+Sleigh Bells ||| 1138
+The Strokes ||| 1110
+The Cardigans ||| 1006
+The Crystals ||| 986
+No Doubt ||| 982
+Judy Garland ||| 956
+Hole ||| 929
+Lana Del Rey ||| 917
+Harry Nilsson ||| 912
+Garbage ||| 908
+Blondie ||| 901
+Elton John ||| 900
+Heart ||| 895
+Cream ||| 880
+Beach House ||| 849
+Neil Young ||| 825
+Pink Floyd ||| 824
+John Williams ||| 823
+Disney Chorus ||| 812
+The Mamas & the Papas ||| 803
+Liza Minnelli ||| 797
+Nine Inch Nails ||| 788
+Arctic Monkeys ||| 776
+Beck ||| 750
+## playcount: 72545

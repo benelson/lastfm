@@ -1,0 +1,51 @@
+The Beatles ||| 304
+Red Hot Chili Peppers ||| 298
+David Bowie ||| 94
+The Yardbirds ||| 81
+Syd Barrett ||| 76
+Pink Floyd ||| 71
+The Jimi Hendrix Experience ||| 62
+B.B. King ||| 54
+The White Stripes ||| 54
+AC/DC ||| 49
+John Frusciante ||| 49
+Nirvana ||| 46
+Metallica ||| 42
+The Raconteurs ||| 42
+Cream ||| 40
+The Doors ||| 34
+Bob Dylan ||| 32
+Led Zeppelin ||| 29
+Lou Reed ||| 26
+Arctic Monkeys ||| 25
+Jeff Beck ||| 25
+Jimi Hendrix ||| 25
+Oasis ||| 22
+The Rolling Stones ||| 21
+Nine Inch Nails ||| 20
+Pixies ||| 20
+The Velvet Underground ||| 18
+Black Sabbath ||| 16
+Janis Joplin ||| 15
+Radiohead ||| 15
+Deep Purple ||| 14
+Slipknot ||| 14
+Mike Patton ||| 12
+Neurotic Outsiders ||| 12
+Nick Mason ||| 11
+Grand Funk Railroad ||| 10
+U2 ||| 10
+Public Image Ltd. ||| 9
+Soundgarden ||| 9
+Audioslave ||| 7
+Megadeth ||| 7
+Ten Years After ||| 7
+Iggy Pop ||| 6
+John Fursciante ||| 6
+Aerosmith ||| 5
+Pearl Jam ||| 5
+Richard Ashcroft ||| 5
+Foo Fighters ||| 4
+Guns N' Roses ||| 4
+Joy Division ||| 4
+## playcount: 1866

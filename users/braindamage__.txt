@@ -1,0 +1,51 @@
+Anberlin ||| 10146
+Arctic Monkeys ||| 8541
+Nine Inch Nails ||| 5118
+The Beatles ||| 4738
+Stereophonics ||| 3608
+Audioslave ||| 3484
+Engenheiros Do Hawaii ||| 3016
+Placebo ||| 2346
+System of a Down ||| 2239
+Maroon 5 ||| 2070
+Cidadão Quem ||| 1910
+Bloc Party ||| 1884
+Keane ||| 1770
+Cine ||| 1682
+Oasis ||| 1385
+Fall Out Boy ||| 1379
+She Wants Revenge ||| 1379
+Foo Fighters ||| 1295
+Paul McCartney ||| 1224
+The Killers ||| 1111
+Muse ||| 1106
+Chris Cornell ||| 1092
+The All-American Rejects ||| 1024
+Queen ||| 1023
+Scorpions ||| 1000
+The B-52's ||| 992
+Esteban ||| 960
+Red Hot Chili Peppers ||| 848
+The Format ||| 808
+The Veronicas ||| 761
+The Last Shadow Puppets ||| 757
+Titãs ||| 726
+fun. ||| 690
+Pink Floyd ||| 663
+Yellowcard ||| 606
+Marilyn Manson ||| 604
+Os Paralamas Do Sucesso ||| 590
+Metallica ||| 553
+Goo Goo Dolls ||| 545
+Serj Tankian ||| 542
+CKY ||| 516
+The Black Keys ||| 511
+AC/DC ||| 507
+Pouca Vogal ||| 482
+Paul McCartney & Wings ||| 479
+The Strokes ||| 464
+The Fray ||| 461
+Scissor Sisters ||| 454
+Aerosmith ||| 437
+Imagine Dragons ||| 419
+## playcount: 80945

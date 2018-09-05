@@ -1,0 +1,51 @@
+Bruce Springsteen ||| 5831
+John Mayer ||| 1098
+Bruce Springsteen & The E Street Band ||| 996
+Zac Brown Band ||| 897
+Eric Church ||| 862
+Taylor Swift ||| 605
+Foo Fighters ||| 553
+Green Day ||| 526
+Ed Sheeran ||| 486
+Little Big Town ||| 367
+Fleetwood Mac ||| 269
+AC/DC ||| 263
+James Taylor ||| 258
+Oasis ||| 258
+U2 ||| 245
+Eric Clapton ||| 217
+Tim McGraw ||| 217
+Nickelback ||| 207
+The Rolling Stones ||| 197
+The Script ||| 179
+Big Country ||| 174
+The Prodigy ||| 172
+The Streets ||| 169
+The Beatles ||| 164
+Squeeze ||| 163
+Crosby, Stills, Nash & Young ||| 162
+The Shires ||| 154
+The Gaslight Anthem ||| 153
+Slash ||| 152
+Counting Crows ||| 151
+Keith Urban ||| 150
+Eagles ||| 141
+Kacey Musgraves ||| 141
+Train ||| 140
+N.W.A ||| 139
+Neil Young ||| 129
+John Fogerty ||| 124
+Guns N' Roses ||| 121
+Scott Mills Daily ||| 119
+Prince ||| 116
+Wu-Tang Clan ||| 116
+Tom Jones ||| 111
+Chris Stapleton ||| 105
+Pearl Jam ||| 103
+Black Stone Cherry ||| 102
+Bruce Springsteen with the Sessions Band ||| 102
+Lorde ||| 101
+The Who ||| 89
+Royal Blood ||| 87
+Bob Marley & The Wailers ||| 78
+## playcount: 18459

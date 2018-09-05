@@ -1,0 +1,51 @@
+Richard Wagner ||| 7353
+Dmitri Shostakovich ||| 3520
+The Smashing Pumpkins ||| 3316
+Olivier Messiaen ||| 2048
+Ludwig van Beethoven ||| 1712
+Peter, Paul & Mary ||| 1465
+Wolfgang Amadeus Mozart ||| 1166
+Pink Floyd ||| 1154
+Gong ||| 1095
+Johann Sebastian Bach ||| 1013
+Philip Glass ||| 887
+Heitor Villa-Lobos ||| 810
+The Beatles ||| 779
+Gustav Mahler ||| 704
+Igor Stravinsky ||| 628
+Modest Petrovich Mussorgsky ||| 478
+Yes ||| 466
+King Crimson ||| 464
+Robert Schumann ||| 460
+Leonard Bernstein ||| 452
+The Kinks ||| 445
+Franz Schubert ||| 423
+Clarice Falcão ||| 413
+Ella Fitzgerald ||| 405
+Magma ||| 400
+Karlheinz Stockhausen ||| 397
+Franz Joseph Haydn ||| 393
+Arrigo Boito ||| 385
+George Harrison ||| 367
+Richard Cheese ||| 341
+Caê Rolfsen ||| 335
+Johannes Brahms ||| 324
+Claude Debussy ||| 310
+Giuseppe Verdi ||| 310
+Jethro Tull ||| 304
+Jean Sibelius ||| 288
+Frank Zappa ||| 282
+Banda do Mar ||| 279
+Arnold Schönberg ||| 278
+Frédéric Chopin ||| 278
+Rush ||| 277
+Jefferson Airplane ||| 258
+"Weird Al" Yankovic ||| 257
+Cream ||| 251
+Maurice Ravel ||| 244
+Os Mutantes ||| 244
+Miles Davis ||| 237
+Pyotr Ilyich Tchaikovsky ||| 235
+Stefan Mickisch ||| 230
+Sergei Prokofiev ||| 227
+## playcount: 39387

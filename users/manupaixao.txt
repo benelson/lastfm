@@ -1,0 +1,51 @@
+Incubus ||| 5899
+Foo Fighters ||| 1822
+The Killers ||| 1513
+Pearl Jam ||| 1152
+Björk ||| 908
+PJ Harvey ||| 662
+Faith No More ||| 660
+Queen ||| 548
+Jeff Buckley ||| 463
+Elvis Costello ||| 402
+Silverchair ||| 393
+Brandon Flowers ||| 373
+30 Seconds to Mars ||| 371
+Queens of the Stone Age ||| 366
+Red Hot Chili Peppers ||| 346
+Ozzy Osbourne ||| 343
+Brandon Boyd ||| 298
+Madonna ||| 298
+Eddie Vedder ||| 266
+The Beatles ||| 263
+Michael Bublé ||| 244
+David Bowie ||| 217
+The Who ||| 216
+Lady Gaga ||| 192
+Mr. Bungle ||| 178
+Manu Chao ||| 177
+Jamiroquai ||| 140
+Nine Inch Nails ||| 138
+Audiovent ||| 134
+Depeche Mode ||| 119
+Tenacious D ||| 112
+...And You Will Know Us by the Trail of Dead ||| 106
+Rage Against the Machine ||| 104
+Marilyn Manson ||| 103
+The Smiths ||| 103
+Ramones ||| 102
+New Order ||| 100
+Nação Zumbi ||| 94
+Green Day ||| 89
+Massive Attack ||| 85
+HAIM ||| 83
+Peeping Tom ||| 83
+Korn ||| 77
+Ben Kenney ||| 76
+The Flaming Lips ||| 71
+Deftones ||| 64
+John Pizzarelli ||| 60
+Alice in Chains ||| 57
+Pixies ||| 56
+The Smashing Pumpkins ||| 56
+## playcount: 20782

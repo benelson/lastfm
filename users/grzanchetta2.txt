@@ -1,0 +1,51 @@
+Magma ||| 2309
+Santana ||| 1949
+Yes ||| 1558
+Metallica ||| 1414
+Gentle Giant ||| 1276
+Iron Maiden ||| 1184
+Led Zeppelin ||| 1119
+Aerosmith ||| 1093
+King Crimson ||| 1040
+Pink Floyd ||| 1018
+Whitesnake ||| 957
+Deep Purple ||| 930
+Black Sabbath ||| 897
+Frank Zappa ||| 780
+Guns N' Roses ||| 771
+The Doors ||| 770
+Caro Emerald ||| 766
+Grand Funk Railroad ||| 762
+The Beatles ||| 747
+Stevie Ray Vaughan and Double Trouble ||| 732
+The Allman Brothers Band ||| 707
+Judas Priest ||| 706
+AC/DC ||| 698
+Daft Punk ||| 697
+Bezerra da Silva ||| 688
+Red Hot Chili Peppers ||| 654
+Thin Lizzy ||| 620
+Jeff Beck ||| 607
+Van Halen ||| 603
+Renaissance ||| 600
+Rory Gallagher ||| 599
+Emerson, Lake & Palmer ||| 583
+The Jimi Hendrix Experience ||| 576
+Uriah Heep ||| 569
+Mahavishnu Orchestra ||| 555
+Camel ||| 501
+Creedence Clearwater Revival ||| 498
+Stevie Wonder ||| 496
+Kiss ||| 465
+Rush ||| 426
+The Smiths ||| 425
+Matanza ||| 411
+Bon Jovi ||| 384
+Jethro Tull ||| 378
+Genesis ||| 350
+Eric Clapton ||| 327
+Rhapsody ||| 326
+Focus ||| 323
+The Rolling Stones ||| 317
+B.B. King ||| 311
+## playcount: 37472

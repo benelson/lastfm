@@ -1,0 +1,51 @@
+Madonna ||| 272
+David Bowie ||| 139
+Prince ||| 135
+Cyndi Lauper ||| 101
+Eurythmics ||| 100
+Meat Loaf ||| 68
+Lily Allen ||| 56
+The Bangles ||| 54
+V.C. Andrews ||| 49
+The Beatles ||| 43
+Bananarama ||| 35
+Culture Club ||| 34
+Prince & The Revolution ||| 33
+Blondie ||| 31
+Pat Benatar ||| 31
+Lady Gaga ||| 29
+Michael Jackson ||| 28
+Katy Perry ||| 27
+The Human League ||| 26
+Adam and the Ants ||| 25
+Eminem ||| 22
+Tim Curry ||| 22
+Annie Lennox ||| 21
+Bruce Springsteen ||| 20
+Dolly Parton ||| 20
+Britney Spears ||| 19
+Alexander O'Neal ||| 18
+Duran Duran ||| 18
+Janet Jackson ||| 18
+Whitney Houston ||| 18
+ABBA ||| 17
+Black Eyed Peas ||| 16
+Susan Sarandon ||| 16
+Christina Aguilera ||| 15
+Little Boots ||| 15
+Tina Turner ||| 15
+Alphaville ||| 13
+Aretha Franklin ||| 13
+Cheryl Cole ||| 13
+Glee Cast ||| 13
+Gossip ||| 13
+Joan Jett ||| 13
+The Offspring ||| 13
+Billy Joel ||| 12
+Kim Wilde ||| 12
+Fleetwood Mac ||| 11
+Patrick Swayze ||| 11
+The Pretenders ||| 11
+Deee-Lite ||| 10
+Girls Aloud ||| 10
+## playcount: 1774

@@ -1,0 +1,43 @@
+Beck ||| 11
+Steve Earle ||| 9
+Boards of Canada ||| 8
+Elvis Costello ||| 8
+Lester Flatt & Earl Scruggs ||| 8
+Bruce Springsteen ||| 7
+Feist ||| 7
+Franz Ferdinand ||| 7
+Manitoba ||| 7
+Sloan ||| 7
+The Clash ||| 7
+The Specials ||| 7
+Alison Krauss ||| 6
+Bill Monroe and the Bluegrass Boys ||| 6
+Billy Bragg ||| 6
+Great Lake Swimmers ||| 6
+Steve Earle and the Del McCoury Band ||| 6
+The Undertones ||| 6
+XTC ||| 6
+Elvis Costello & The Attractions ||| 5
+Gillian Welch ||| 5
+Joe Strummer and the Mescaleros ||| 5
+Ramones ||| 5
+The Jam ||| 5
+Blur ||| 4
+Joel Plaskett Emergency ||| 4
+Robert Plant ||| 4
+The Cat Empire ||| 4
+The Del McCoury Band ||| 4
+The Mighty Mighty Bosstones ||| 4
+Brad Sucks ||| 3
+Madness ||| 3
+Phish ||| 3
+Robert Plant & Alison Krauss ||| 3
+Weezer ||| 3
+Paul Weller ||| 2
+Sex Pistols ||| 2
+The Beat ||| 2
+The English Beat ||| 2
+Caribou ||| 1
+The American Analog Set ||| 1
+The Style Council ||| 1
+## playcount: 210

@@ -1,0 +1,51 @@
+Coldplay ||| 5775
+Norah Jones ||| 3538
+Sara Bareilles ||| 3286
+Keane ||| 2406
+Washed Out ||| 1473
+Phantogram ||| 1421
+The Temper Trap ||| 1383
+Miike Snow ||| 1356
+Michael Jackson ||| 1351
+Tame Impala ||| 1217
+Red Hot Chili Peppers ||| 1193
+Phoenix ||| 1192
+Smith Westerns ||| 1170
+Toro y Moi ||| 1064
+Unknown Mortal Orchestra ||| 1061
+Maroon 5 ||| 1052
+Blood Orange ||| 982
+Foster the People ||| 909
+Pink Floyd ||| 899
+Jamie Cullum ||| 889
+A Fine Frenzy ||| 809
+Florence + the Machine ||| 778
+Passion Pit ||| 750
+Lenka ||| 749
+David Bowie ||| 725
+MGMT ||| 696
+Rhye ||| 655
+Bee Gees ||| 575
+OneRepublic ||| 551
+Jason Mraz ||| 544
+Wild Nothing ||| 530
+Friendly Fires ||| 509
+Two Door Cinema Club ||| 501
+Asobi Seksu ||| 483
+Yeah Yeah Yeahs ||| 483
+Chicago ||| 473
+The xx ||| 463
+Empire of the Sun ||| 455
+The Whitest Boy Alive ||| 448
+Bob Marley ||| 445
+alt-J ||| 438
+Bombay Bicycle Club ||| 435
+Natalie Imbruglia ||| 382
+Automatic Loveletter ||| 377
+Cults ||| 372
+The Naked and Famous ||| 363
+Work Drugs ||| 352
+Sigur Rós ||| 351
+Paramore ||| 341
+Pyramid ||| 312
+## playcount: 48962

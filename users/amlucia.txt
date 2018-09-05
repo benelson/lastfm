@@ -1,0 +1,28 @@
+Norah Jones ||| 20
+Kings of Convenience ||| 11
+Peter Gabriel ||| 9
+Johnny Cash ||| 4
+Melody Gardot ||| 4
+Kaiser Chiefs ||| 3
+Michael Bublé ||| 3
+Diana Krall ||| 2
+James Morrison ||| 2
+Jamie Cullum ||| 2
+Wouter Hamel ||| 2
+Harry Connick, Jr. ||| 1
+Imogen Heap ||| 1
+John Mayer ||| 1
+Jorge Palma ||| 1
+Madeleine Peyroux ||| 1
+Nat King Cole ||| 1
+Natalie Cole ||| 1
+Nirvana ||| 1
+Peter Cincotti ||| 1
+Red Hot Chili Peppers ||| 1
+Room Eleven ||| 1
+Silje Nergaard ||| 1
+Snow Patrol ||| 1
+Stevie Wonder ||| 1
+The Cure ||| 1
+Van Hunt ||| 1
+## playcount: 78

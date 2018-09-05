@@ -1,0 +1,51 @@
+Format.k ||| 256
+Clark ||| 184
+Burial ||| 180
+Radiohead ||| 168
+Dabrye ||| 156
+FOG ||| 143
+Chromeo ||| 112
+Kings of Convenience ||| 110
+Little Barrie ||| 98
+Prefuse 73 ||| 96
+Daedelus ||| 91
+David Byrne ||| 91
+The Cure ||| 87
+Daft Punk ||| 63
+David Axelrod ||| 57
+Boards of Canada ||| 55
+Chris Clark ||| 53
+Roni Size & Reprazent ||| 48
+The Other People Place ||| 47
+Emilíana Torrini ||| 46
+The Slits ||| 45
+Thom Yorke ||| 42
+Four Tet ||| 41
+Minotaur Shock ||| 41
+OutKast ||| 40
+Sleeping States ||| 40
+Neon Neon ||| 38
+CocoRosie ||| 36
+Luke Vibert ||| 36
+Tricky ||| 36
+Busdriver & Radioinactive With Daedelus ||| 35
+Air ||| 34
+Goldie ||| 32
+Squarepusher ||| 31
+Bryan Ferry & Roxy Music ||| 30
+G. Love & Special Sauce ||| 27
+Tom Waits ||| 27
+Eels ||| 26
+Badly Drawn Boy ||| 25
+Super Furry Animals ||| 25
+DJ Shadow ||| 24
+Erik Satie ||| 24
+The Whitest Boy Alive ||| 24
+Kate Bush ||| 23
+Hayden ||| 22
+The Smashing Pumpkins ||| 22
+Aphex Twin ||| 21
+Björk ||| 21
+Zomby ||| 21
+Fennesz ||| 20
+## playcount: 3050

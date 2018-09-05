@@ -1,0 +1,51 @@
+Nirvana ||| 4740
+Foo Fighters ||| 2976
+Linkin Park ||| 2545
+Guns N' Roses ||| 1596
+Paramore ||| 1498
+The Beatles ||| 1396
+Avril Lavigne ||| 1197
+Red Hot Chili Peppers ||| 752
+The Pretty Reckless ||| 574
+NX Zero ||| 524
+R.E.M. ||| 289
+Arctic Monkeys ||| 280
+Sonic Youth ||| 271
+McFly ||| 263
+The Strokes ||| 243
+Rihanna ||| 231
+Pearl Jam ||| 222
+Justin Timberlake ||| 219
+Adam Lambert ||| 215
+Kings of Leon ||| 213
+Hole ||| 209
+Paul McCartney ||| 207
+Muse ||| 200
+Reação Em Cadeia ||| 199
+Cobra Starship ||| 195
+All Time Low ||| 172
+Eminem ||| 171
+Audioslave ||| 166
+Fresno ||| 165
+Fall Out Boy ||| 147
+Radiohead ||| 145
+Alice in Chains ||| 144
+Placebo ||| 143
+Death Cab for Cutie ||| 140
+Ed Sheeran ||| 138
+Selena Gomez ||| 136
+Cazuza ||| 135
+Kasabian ||| 131
+Led Zeppelin ||| 125
+Lana Del Rey ||| 124
+The White Stripes ||| 124
+Oasis ||| 119
+Pixies ||| 115
+Soundgarden ||| 114
+AC/DC ||| 113
+Black Eyed Peas ||| 112
+3OH!3 ||| 107
+John Mayer ||| 106
+30 Seconds to Mars ||| 101
+Maroon 5 ||| 98
+## playcount: 24545

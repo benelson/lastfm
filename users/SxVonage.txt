@@ -1,0 +1,51 @@
+Death Cab for Cutie ||| 6
+The Fray ||| 6
+Daughtry ||| 5
+David Cook ||| 5
+Howie Day ||| 5
+Lifehouse ||| 5
+Michelle Branch ||| 5
+Sara Bareilles ||| 5
+The Calling ||| 5
+Ben Gibbard ||| 4
+Hey Monday ||| 4
+Leighton Meester ||| 4
+Minus the Bear ||| 4
+Stars ||| 4
+Switchfoot ||| 4
+The Kooks ||| 4
+Vanessa Carlton ||| 4
+A Fine Frenzy ||| 3
+As Tall As Lions ||| 3
+Augustana ||| 3
+Broken Bells ||| 3
+Charlotte Sometimes ||| 3
+Dishwalla ||| 3
+Five for Fighting ||| 3
+Goo Goo Dolls ||| 3
+Jon McLaughlin ||| 3
+Kate Voegele ||| 3
+Katy Perry ||| 3
+Lydia ||| 3
+MGMT ||| 3
+OneRepublic ||| 3
+Paris Hilton ||| 3
+Plain White T's ||| 3
+Ra Ra Riot ||| 3
+Remy Zero ||| 3
+Silversun Pickups ||| 3
+The Last Goodnight ||| 3
+The Postal Service ||| 3
+The Wreckers ||| 3
+Travie McCoy ||| 3
+Valencia ||| 3
+Avril Lavigne ||| 2
+baseline:mars ||| 2
+Britney Spears ||| 2
+Christina Aguilera ||| 2
+Coconut Records ||| 2
+Copeland ||| 2
+Fefe Dobson ||| 2
+Frou Frou ||| 2
+Girlicious ||| 2
+## playcount: 169

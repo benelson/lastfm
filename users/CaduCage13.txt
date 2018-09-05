@@ -1,0 +1,51 @@
+Slipknot ||| 5615
+Megadeth ||| 3307
+Misfits ||| 2499
+Metallica ||| 1999
+Deftones ||| 1781
+Pantera ||| 1734
+Faith No More ||| 1639
+Avenged Sevenfold ||| 1562
+Raimundos ||| 1454
+Sepultura ||| 1285
+Alice in Chains ||| 1229
+Linkin Park ||| 1178
+System of a Down ||| 1048
+Korn ||| 996
+311 ||| 975
+Pink Floyd ||| 893
+Disturbed ||| 832
+Foo Fighters ||| 808
+Bring Me the Horizon ||| 772
+Limp Bizkit ||| 753
+Gloria ||| 739
+Suicide Silence ||| 685
+Lamb of God ||| 670
+Mastodon ||| 658
+Pearl Jam ||| 626
+Marilyn Manson ||| 591
+Soundgarden ||| 590
+Slayer ||| 581
+Children of Bodom ||| 570
+Nirvana ||| 559
+Insane Clown Posse ||| 522
+blink-182 ||| 508
+Anthrax ||| 503
+2Pac ||| 501
+Sonic Youth ||| 500
+Killswitch Engage ||| 486
+Mushroomhead ||| 461
+Dead Fish ||| 449
+Iron Maiden ||| 420
+Gojira ||| 408
+Kings of Leon ||| 403
+Drake ||| 399
+Rage Against the Machine ||| 398
+The Smashing Pumpkins ||| 397
+Asking Alexandria ||| 393
+Stone Temple Pilots ||| 386
+Death ||| 367
+Angra ||| 357
+L7 ||| 357
+Tyler, the Creator ||| 356
+## playcount: 47199

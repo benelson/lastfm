@@ -1,0 +1,51 @@
+Katy Perry ||| 10316
+Natalia Kills ||| 5446
+Taylor Swift ||| 4051
+Mariah Carey ||| 2608
+Maroon 5 ||| 2582
+Lady Gaga ||| 2428
+Christina Aguilera ||| 1739
+Ellie Goulding ||| 1604
+Madonna ||| 1604
+Fergie ||| 1578
+Selena Gomez & the Scene ||| 1202
+Florence + the Machine ||| 1133
+P!nk ||| 1089
+Cheryl Cole ||| 1022
+Britney Spears ||| 988
+Nirvana ||| 902
+The Pretty Reckless ||| 834
+Alicia Keys ||| 769
+Muse ||| 662
+Lana Del Rey ||| 652
+Panic! at the Disco ||| 522
+Conor Maynard ||| 516
+The Killers ||| 458
+Joss Stone ||| 442
+Lindsay Lohan ||| 440
+Miley Cyrus ||| 438
+Kelly Clarkson ||| 434
+Marina & the Diamonds ||| 405
+Rihanna ||| 400
+Nicki Minaj ||| 390
+Ke$ha ||| 387
+Jessie J ||| 344
+Nicole Scherzinger ||| 344
+No Doubt ||| 334
+Ashley Tisdale ||| 303
+Lily Allen ||| 282
+Adele ||| 261
+Colbie Caillat ||| 259
+Gwen Stefani ||| 240
+Carly Rae Jepsen ||| 231
+Bruno Mars ||| 216
+Bridgit Mendler ||| 215
+Kerli ||| 211
+Carrie Underwood ||| 205
+Emily Osment ||| 204
+John Mayer ||| 197
+Girls Aloud ||| 195
+Jennifer Lopez ||| 195
+Cher Lloyd ||| 193
+Nicola Roberts ||| 187
+## playcount: 52657

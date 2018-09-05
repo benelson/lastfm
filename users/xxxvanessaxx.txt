@@ -1,0 +1,51 @@
+Elvis Presley ||| 591
+Guns N' Roses ||| 563
+Britney Spears ||| 537
+The Notorious B.I.G. ||| 305
+Green Day ||| 232
+Lil' Kim ||| 190
+Lisa "Left Eye" Lopes ||| 188
+Adam Lambert ||| 182
+Florence + the Machine ||| 170
+John Lennon ||| 170
+Madonna ||| 161
+Lady Gaga ||| 160
+Marilyn Manson ||| 142
+Ozzy Osbourne ||| 135
+Christina Aguilera ||| 133
+Amy Winehouse ||| 130
+Led Zeppelin ||| 129
+Alice in Chains ||| 124
+TLC ||| 124
+Pink Floyd ||| 119
+Aaliyah ||| 117
+Poison ||| 116
+Kings of Leon ||| 110
+Adele ||| 106
+Rebbie Jackson ||| 105
+Slash ||| 104
+Riff Raff ||| 100
+2Pac ||| 97
+Skid Row ||| 97
+Beyoncé ||| 92
+Kelis ||| 89
+Jessie J ||| 88
+Alexz Johnson ||| 87
+Mac Miller ||| 86
+Val Emmich ||| 86
+Kylie Minogue ||| 85
+LeAnn Rimes ||| 84
+Hypnogaja ||| 82
+Bret Michaels ||| 81
+Creed ||| 81
+Elton John ||| 79
+Nicki Minaj ||| 79
+Xscape ||| 79
+Rihanna ||| 78
+Whitney Houston ||| 78
+Tony Toni Toné ||| 77
+The Who ||| 76
+Michael Jackson ||| 74
+Warrant ||| 74
+Rod Stewart ||| 73
+## playcount: 7145

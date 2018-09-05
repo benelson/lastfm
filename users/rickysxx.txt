@@ -1,0 +1,51 @@
+Katy Perry ||| 9672
+Rihanna ||| 4125
+Beyoncé ||| 4023
+Britney Spears ||| 3481
+Taylor Swift ||| 3096
+Lana Del Rey ||| 2455
+Ariana Grande ||| 2441
+Selena Gomez ||| 1891
+Demi Lovato ||| 1645
+Lorde ||| 1537
+Tove Lo ||| 1440
+Madonna ||| 1222
+Lady Gaga ||| 975
+Nicki Minaj ||| 900
+Adele ||| 781
+Troye Sivan ||| 750
+Miley Cyrus ||| 681
+Dua Lipa ||| 627
+Harry Styles ||| 580
+Sam Smith ||| 564
+Halsey ||| 485
+Little Mix ||| 454
+Banks ||| 429
+Drake ||| 380
+Naughty Boy ||| 340
+Adam Lambert ||| 324
+Foxes ||| 290
+Years & Years ||| 290
+Niall Horan ||| 254
+Kanye West ||| 241
+Fergie ||| 240
+The 1975 ||| 232
+Meghan Trainor ||| 226
+Coldplay ||| 212
+Brandon Flowers ||| 205
+Calvin Harris ||| 198
+James Bay ||| 180
+Carly Rae Jepsen ||| 179
+Ellie Goulding ||| 171
+Ed Sheeran ||| 159
+Sia ||| 158
+Bastille ||| 146
+Jay-Z & Kanye West ||| 146
+Frank Ocean ||| 143
+Selena Gomez & the Scene ||| 142
+Shawn Mendes ||| 137
+Jennifer Lopez ||| 127
+Foster the People ||| 121
+Zayn ||| 115
+The Neighbourhood ||| 113
+## playcount: 49723

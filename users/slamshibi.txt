@@ -1,0 +1,51 @@
+Travis ||| 674
+Bon Jovi ||| 605
+R.E.M. ||| 426
+Pearl Jam ||| 389
+Red Hot Chili Peppers ||| 384
+Mark Knopfler ||| 375
+Bryan Adams ||| 361
+Norah Jones ||| 333
+Santana ||| 330
+The Killers ||| 319
+Black Sabbath ||| 316
+Gary Moore ||| 312
+Coldplay ||| 298
+Aerosmith ||| 295
+Deep Purple ||| 287
+Amy Macdonald ||| 272
+Pink Floyd ||| 272
+Tool ||| 266
+Dire Straits ||| 257
+Led Zeppelin ||| 242
+Mumford & Sons ||| 240
+Katy Perry ||| 239
+The Smiths ||| 234
+Johnny Cash ||| 226
+Hugh Laurie ||| 221
+Joe Satriani ||| 218
+Bob Dylan ||| 217
+Eddie Vedder ||| 216
+Tracy Chapman ||| 212
+U2 ||| 212
+Porcupine Tree ||| 207
+Nirvana ||| 206
+Iron Maiden ||| 204
+Corinne Bailey Rae ||| 203
+Radiohead ||| 196
+Camel ||| 195
+OSI ||| 188
+Calvin Harris ||| 180
+AC/DC ||| 179
+Muddy Waters ||| 173
+Foo Fighters ||| 172
+The Raconteurs ||| 170
+Queen ||| 169
+The Beautiful South ||| 169
+The Beatles ||| 168
+The Black Keys ||| 161
+The Doors ||| 160
+Jon Bon Jovi ||| 153
+Linkin Park ||| 153
+Dream Theater ||| 152
+## playcount: 12806

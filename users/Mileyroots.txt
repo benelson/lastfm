@@ -1,0 +1,51 @@
+Miley Cyrus ||| 5879
+Madonna ||| 2134
+ABBA ||| 1532
+Lorde ||| 1496
+Carly Rae Jepsen ||| 1110
+Lana Del Rey ||| 797
+Fleetwood Mac ||| 760
+Britney Spears ||| 604
+Queen ||| 601
+Taylor Swift ||| 594
+Hole ||| 587
+Kylie Minogue ||| 564
+Lady Gaga ||| 532
+Sabrina Carpenter ||| 525
+BLACKPINK ||| 430
+Mariah Carey ||| 408
+a-ha ||| 404
+Cyndi Lauper ||| 345
+Christina Aguilera ||| 298
+Ke$ha ||| 252
+Katy Perry ||| 217
+Nirvana ||| 204
+Avril Lavigne ||| 194
+Alicia Keys ||| 183
+Michael Jackson ||| 182
+Bruno Mars ||| 177
+Rihanna ||| 163
+Paramore ||| 158
+Bruce Springsteen ||| 157
+Heart ||| 155
+Nancy Sinatra ||| 137
+Kate Bush ||| 128
+Harry Styles ||| 115
+David Bowie ||| 111
+Dua Lipa ||| 110
+Portugal. The Man ||| 108
+Red Velvet ||| 107
+Miranda Cosgrove ||| 97
+Cássia Eller ||| 93
+Dolly Parton ||| 93
+Hannah Montana ||| 90
+Roxette ||| 87
+Whitney Houston ||| 80
+Amy Winehouse ||| 79
+U2 ||| 78
+Charli XCX ||| 77
+Bon Jovi ||| 76
+One Direction ||| 76
+Selena Gomez ||| 76
+Kendrick Lamar ||| 74
+## playcount: 23534

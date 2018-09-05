@@ -1,0 +1,51 @@
+Mariah Carey ||| 13143
+Janet Jackson ||| 9255
+Drake ||| 5920
+Shania Twain ||| 4028
+Beyoncé ||| 3666
+Christina Aguilera ||| 2767
+Kehlani ||| 2440
+Kanye West ||| 2395
+Fleetwood Mac ||| 2347
+Tinashe ||| 2321
+Lana Del Rey ||| 2246
+Shakira ||| 2200
+Nicki Minaj ||| 2179
+Ariana Grande ||| 1942
+Stevie Nicks ||| 1879
+Rihanna ||| 1671
+Jhené Aiko ||| 1514
+Britney Spears ||| 1386
+Kendrick Lamar ||| 1318
+Travi$ Scott ||| 1279
+Miguel ||| 1241
+Taylor Swift ||| 1197
+Jay-Z ||| 1101
+Adele ||| 1080
+A$AP Rocky ||| 1045
+One Direction ||| 1021
+Florence + the Machine ||| 1000
+Future ||| 957
+Big Sean ||| 934
+Marina & the Diamonds ||| 875
+J. Cole ||| 866
+M.I.A. ||| 773
+Michael Jackson ||| 773
+Coldplay ||| 721
+Katy Perry ||| 691
+Migos ||| 685
+The Weeknd ||| 671
+Charli XCX ||| 653
+Little Mix ||| 648
+Black Sabbath ||| 639
+Kylie Minogue ||| 585
+Lil' Kim ||| 585
+Aaliyah ||| 574
+Chris Brown ||| 574
+YG ||| 553
+Chance the Rapper ||| 549
+Logic ||| 535
+Lady Gaga ||| 531
+A$AP Ferg ||| 512
+Tyga ||| 440
+## playcount: 88905

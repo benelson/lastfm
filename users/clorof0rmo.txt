@@ -1,0 +1,51 @@
+Blur ||| 10632
+The Smiths ||| 7055
+The Who ||| 6484
+Kraftwerk ||| 3407
+Joy Division ||| 3036
+David Bowie ||| 2951
+Radiohead ||| 2951
+The Beatles ||| 2032
+Dmitri Shostakovich ||| 1775
+Graham Coxon ||| 1530
+Morrissey ||| 1296
+Crystal Castles ||| 1249
+Beck ||| 1090
+Talking Heads ||| 1017
+Devo ||| 938
+The Jam ||| 925
+Daft Punk ||| 884
+Pavement ||| 698
+The Kinks ||| 677
+The Clash ||| 549
+Elton John ||| 455
+Tame Impala ||| 446
+Django Django ||| 437
+Weezer ||| 422
+Antonio Vivaldi ||| 420
+Lou Reed ||| 394
+New Order ||| 348
+My Bloody Valentine ||| 338
+Grimes ||| 335
+The Beach Boys ||| 305
+The English Concert ||| 300
+The Police ||| 278
+Trevor Pinnock ||| 253
+Faith No More ||| 243
+Igor Stravinsky ||| 224
+Gorillaz ||| 215
+Frédéric Chopin ||| 212
+Ludwig van Beethoven ||| 202
+Sonic Youth ||| 201
+Pinchas Zukerman ||| 188
+The Strokes ||| 183
+Oasis ||| 180
+Georg Friedrich Händel ||| 174
+Gustav Mahler ||| 174
+Moby ||| 173
+Dead Kennedys ||| 161
+Rammstein ||| 155
+Johann Sebastian Bach ||| 146
+Massive Attack ||| 141
+Tears for Fears ||| 140
+## playcount: 59019

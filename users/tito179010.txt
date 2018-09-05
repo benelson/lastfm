@@ -1,0 +1,51 @@
+John Mayer ||| 14140
+Joe Satriani ||| 13088
+Steve Vai ||| 5998
+Coldplay ||| 5358
+Sheila On 7 ||| 3940
+peterpan ||| 3091
+Buckethead ||| 2654
+Jeff Beck ||| 2045
+The Beatles ||| 2004
+Maroon 5 ||| 1754
+Radiohead ||| 1701
+Eric Johnson ||| 1594
+Jimi Hendrix ||| 1524
+Kenny G ||| 1160
+Alter Bridge ||| 1028
+Noah ||| 1024
+Foo Fighters ||| 974
+Dewa ||| 969
+Jason Mraz ||| 830
+Mr. Big ||| 795
+Ed Sheeran ||| 764
+Michael Bublé ||| 738
+Paul Gilbert ||| 678
+Andy Timmons ||| 670
+Dewa 19 ||| 664
+Paramore ||| 644
+Michael Jackson ||| 635
+Taylor Swift ||| 627
+Led Zeppelin ||| 621
+Chet Atkins & Tommy Emmanuel ||| 603
+Chickenfoot ||| 585
+Slank ||| 573
+Padi ||| 537
+Tommy Emmanuel ||| 527
+Green Day ||| 509
+Stevie Ray Vaughan ||| 495
+Nirvana ||| 455
+Bruno Mars ||| 425
+Gigi ||| 399
+Oasis ||| 376
+Pharrell Williams ||| 358
+Andy McKee ||| 354
+Pat Kirtley ||| 354
+John Lennon ||| 350
+Creed ||| 334
+Sam Smith ||| 313
+G3 ||| 293
+Steve Morse ||| 285
+Sara Bareilles ||| 279
+Keane ||| 275
+## playcount: 80391

@@ -1,0 +1,51 @@
+The Beatles ||| 445
+Elliott Smith ||| 425
+Radiohead ||| 353
+Air ||| 258
+Pavement ||| 243
+Smog ||| 228
+Brian Eno ||| 140
+Cat Power ||| 136
+Bright Eyes ||| 132
+PJ Harvey ||| 130
+Amy Winehouse ||| 113
+Syd Barrett ||| 107
+Belle and Sebastian ||| 106
+Badly Drawn Boy ||| 95
+Beck ||| 93
+David Bowie ||| 83
+The Pipettes ||| 83
+Sigur Rós ||| 65
+The Smiths ||| 61
+Kings of Convenience ||| 60
+The Beach Boys ||| 59
+The Smashing Pumpkins ||| 58
+The Doors ||| 57
+Sloan ||| 55
+Stephen Malkmus ||| 55
+Led Zeppelin ||| 53
+Johnny Cash ||| 49
+Soundtrack ||| 48
+Blur ||| 47
+Lou Reed ||| 46
+Nico ||| 45
+Bonnie 'Prince' Billy ||| 44
+Iron & Wine ||| 44
+The Velvet Underground ||| 43
+Roxy Music ||| 42
+The Decemberists ||| 42
+Modest Mouse ||| 40
+Neutral Milk Hotel ||| 40
+The Shins ||| 40
+Clap Your Hands Say Yeah ||| 36
+Kaki King ||| 36
+John Lennon ||| 35
+Neil Young ||| 34
+Camera Obscura ||| 32
+Nick Drake ||| 31
+Bob Dylan ||| 30
+Architecture in Helsinki ||| 29
+Jens Lekman ||| 29
+Brisa Roché ||| 28
+Devendra Banhart ||| 28
+## playcount: 4611

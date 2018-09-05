@@ -1,0 +1,51 @@
+Tool ||| 10109
+Isis ||| 5954
+Porcupine Tree ||| 5702
+Katatonia ||| 5460
+The Cure ||| 5131
+Radiohead ||| 4730
+Anathema ||| 4590
+Pink Floyd ||| 3849
+A Perfect Circle ||| 3729
+Placebo ||| 2839
+Vast ||| 2802
+R.E.M. ||| 2466
+dredg ||| 2446
+The Smiths ||| 2348
+Screaming Trees ||| 2347
+Depeche Mode ||| 2310
+Pearl Jam ||| 2234
+Queens of the Stone Age ||| 2177
+AFI ||| 2070
+Mark Lanegan ||| 1930
+Rammstein ||| 1861
+Neurosis ||| 1854
+Madrugada ||| 1765
+Oceansize ||| 1702
+The Smashing Pumpkins ||| 1697
+Deftones ||| 1683
+Muse ||| 1630
+U2 ||| 1601
+Joy Division ||| 1598
+The Mars Volta ||| 1539
+Riverside ||| 1523
+Kyuss ||| 1492
+Alexisonfire ||| 1462
+The National ||| 1446
+Legião Urbana ||| 1414
+Oingo Boingo ||| 1399
+Helmet ||| 1382
+Fair to Midland ||| 1342
+The Gutter Twins ||| 1289
+Editors ||| 1284
+Envy ||| 1283
+Echo & the Bunnymen ||| 1278
+Dinosaur Jr. ||| 1256
+New Order ||| 1241
+At the Drive-In ||| 1195
+Antimatter ||| 1159
+The Ocean ||| 1159
+Snow Patrol ||| 1150
+The String Quartet ||| 1142
+Opeth ||| 1127
+## playcount: 118176

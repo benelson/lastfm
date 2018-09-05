@@ -1,0 +1,51 @@
+Foo Fighters ||| 1525
+Nine Inch Nails ||| 1505
+Queens of the Stone Age ||| 1255
+TV on the Radio ||| 960
+Pixies ||| 811
+Brand New ||| 793
+Third Eye Blind ||| 769
+Warpaint ||| 739
+Kings of Leon ||| 690
+Miranda Lambert ||| 640
+Phantogram ||| 613
+Manchester Orchestra ||| 584
+Tricky ||| 514
+The Trouble With Templeton ||| 505
+Modest Mouse ||| 502
+Silversun Pickups ||| 496
+Jeff Buckley ||| 495
+Cage the Elephant ||| 481
+Led Zeppelin ||| 432
+Dr. Dog ||| 423
+Dierks Bentley ||| 422
+Ludovico Einaudi ||| 412
+Radiohead ||| 389
+The Shins ||| 384
+The Beta Band ||| 375
+John Mayer ||| 370
+Neutral Milk Hotel ||| 367
+Mos Def ||| 349
+alt-J ||| 321
+Atmosphere ||| 316
+Cults ||| 314
+Sleigh Bells ||| 302
+Local Natives ||| 300
+Agnes Obel ||| 299
+Deftones ||| 286
+Violent Soho ||| 278
+The Black Keys ||| 259
+The Cardigans ||| 259
+The Maccabees ||| 259
+Yann Tiersen ||| 250
+Aesop Rock ||| 248
+Beastie Boys ||| 245
+Foster the People ||| 244
+Menomena ||| 244
+Foals ||| 240
+Hanson ||| 239
+The Strokes ||| 235
+Coldplay ||| 226
+Portugal. The Man ||| 221
+Ray LaMontagne ||| 207
+## playcount: 23592

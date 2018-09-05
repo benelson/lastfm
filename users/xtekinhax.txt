@@ -1,0 +1,51 @@
+U2 ||| 23749
+Sam Smith ||| 12595
+Coldplay ||| 10177
+Glee Cast ||| 6061
+David Bowie ||| 5274
+Keane ||| 3409
+Mumford & Sons ||| 3178
+Bono ||| 2961
+Muse ||| 2765
+G-Eazy ||| 2369
+Frank Sinatra ||| 2233
+One Direction ||| 2172
+Epic Rap Battles Of History ||| 2038
+Aerosmith ||| 1912
+Avenged Sevenfold ||| 1909
+John Newman ||| 1899
+The Killers ||| 1865
+Kings of Leon ||| 1863
+Doris Day ||| 1847
+Marina & the Diamonds ||| 1728
+Hurts ||| 1697
+Lady Gaga ||| 1634
+Keith Urban ||| 1623
+J Balvin ||| 1620
+Lana Del Rey ||| 1572
+Linkin Park ||| 1470
+Evanescence ||| 1469
+Oasis ||| 1458
+Sia ||| 1383
+The Weeknd ||| 1371
+Stevie Nicks ||| 1324
+Elvis Presley ||| 1308
+CelticBorders ||| 1124
+Bon Jovi ||| 1083
+<Artista Desconhecido> ||| 1068
+The Corrs ||| 1047
+Dire Straits ||| 1046
+Rihanna ||| 1024
+Robbie Williams ||| 1000
+Bobby Darin ||| 968
+Billy Idol ||| 937
+Janis Joplin ||| 899
+Gus Black ||| 895
+Harry Styles ||| 884
+R.E.M. ||| 858
+Bob Marley ||| 825
+Twinkle Twinkle Little Rock Star ||| 804
+30 Seconds to Mars ||| 799
+Arctic Monkeys ||| 797
+Cigarettes After Sex ||| 796
+## playcount: 126787

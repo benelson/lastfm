@@ -1,0 +1,51 @@
+blink-182 ||| 5922
+Jimmy Eat World ||| 3074
+Yellowcard ||| 2771
+Foo Fighters ||| 1933
+New Found Glory ||| 1808
+The National ||| 1495
+Motion City Soundtrack ||| 1334
+Coldplay ||| 1245
+Death Cab for Cutie ||| 1139
+Third Eye Blind ||| 1099
+Green Day ||| 953
+Radiohead ||| 890
+Anberlin ||| 838
+Paramore ||| 780
++44 ||| 741
+The Cure ||| 723
+Rise Against ||| 698
+All Time Low ||| 677
+Valencia ||| 657
+Angels & Airwaves ||| 648
+Incubus ||| 641
+John Mayer ||| 631
+The 1975 ||| 606
+The Wonder Years ||| 588
+Brand New ||| 586
+Red House Painters ||| 584
+MAE ||| 535
+The Juliana Theory ||| 524
+Our Lady Peace ||| 509
+Linkin Park ||| 491
+Sum 41 ||| 491
+Fall Out Boy ||| 392
+Transit ||| 386
+The Beatles ||| 383
+Arcade Fire ||| 376
+The Offspring ||| 376
+Weezer ||| 365
+Bloc Party ||| 359
+Oasis ||| 356
+The All-American Rejects ||| 352
+Something Corporate ||| 337
+M83 ||| 335
+Thrice ||| 332
+Snow Patrol ||| 323
+Kanye West ||| 311
+Relient K ||| 310
+Taking Back Sunday ||| 305
+Boys Like Girls ||| 299
+Three Days Grace ||| 293
+Alkaline Trio ||| 282
+## playcount: 42083

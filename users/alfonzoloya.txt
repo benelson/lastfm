@@ -1,0 +1,51 @@
+Queen ||| 16089
+Avril Lavigne ||| 11275
+Van Halen ||| 10257
+Bon Jovi ||| 8550
+Kiss ||| 8518
+Mötley Crüe ||| 7870
+Iron Maiden ||| 6302
+Aerosmith ||| 6142
+Judas Priest ||| 5982
+The Beatles ||| 5564
+John Williams ||| 5528
+Metallica ||| 5437
+AC/DC ||| 5178
+Ramones ||| 5104
+Guns N' Roses ||| 5058
+La Ley ||| 4523
+The Pretty Reckless ||| 4343
+Megadeth ||| 3861
+London Symphony Orchestra ||| 3804
+Lana Del Rey ||| 3247
+The Cranberries ||| 3051
+Slipknot ||| 2953
+Michael Jackson ||| 2918
+Silverchair ||| 2897
+Eric Clapton ||| 2868
+Scorpions ||| 2801
+Caifanes ||| 2636
+Black Sabbath ||| 2474
+Nirvana ||| 2427
+Ozzy Osbourne ||| 2417
+Garbage ||| 2216
+Sepultura ||| 2157
+Journey ||| 2155
+Weezer ||| 2104
+The Rolling Stones ||| 2085
+Def Leppard ||| 2016
+W.A.S.P. ||| 1932
+U2 ||| 1920
+Slayer ||| 1912
+Stone Temple Pilots ||| 1877
+Avenged Sevenfold ||| 1758
+Foo Fighters ||| 1754
+Evanescence ||| 1742
+Bush ||| 1719
+Heart ||| 1625
+The Offspring ||| 1598
+Christina Aguilera ||| 1588
+White Lion ||| 1576
+Joss Stone ||| 1508
+Red Hot Chili Peppers ||| 1481
+## playcount: 196797

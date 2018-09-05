@@ -1,0 +1,51 @@
+Slow ||| 7
+Iron & Wine ||| 5
+Bonnie 'Prince' Billy ||| 3
+My Morning Jacket ||| 3
+Sun Kil Moon ||| 3
+The Go! Team ||| 3
+The Notwist ||| 3
+Bat for Lashes ||| 2
+Bloc Party ||| 2
+Cat Power ||| 2
+Clap Your Hands Say Yeah ||| 2
+Grandaddy ||| 2
+Led Zeppelin ||| 2
+Metric ||| 2
+Modest Mouse ||| 2
+Mogwai ||| 2
+of Montreal ||| 2
+Radiohead ||| 2
+Songs: Ohia ||| 2
+Sparklehorse ||| 2
+Spoon ||| 2
+The Decemberists ||| 2
+The Fiery Furnaces ||| 2
+The Velvet Underground ||| 2
+Wilco ||| 2
+Will Oldham ||| 2
+Yo La Tengo ||| 2
+Air ||| 1
+Ane Brun ||| 1
+Animal Collective ||| 1
+Antony and the Johnsons ||| 1
+Arcade Fire ||| 1
+Archer Prewitt ||| 1
+Architecture in Helsinki ||| 1
+Beck ||| 1
+Beirut ||| 1
+Billy Talent ||| 1
+Björk ||| 1
+Blur ||| 1
+Broken Social Scene ||| 1
+Buck 65 ||| 1
+Camera Obscura ||| 1
+Cobra Skulls ||| 1
+Colleen ||| 1
+Damien Jurado ||| 1
+Death Cab for Cutie ||| 1
+Delays ||| 1
+Devendra Banhart ||| 1
+Elliott Smith ||| 1
+Fleet Foxes ||| 1
+## playcount: 90

@@ -1,0 +1,51 @@
+Panic! at the Disco ||| 6648
+The Killers ||| 3411
+The Strokes ||| 3081
+The Beatles ||| 2653
+Fall Out Boy ||| 2293
+Fresno ||| 2132
+Radiohead ||| 1975
+Supercombo ||| 1891
+Kanye West ||| 1882
+Weezer ||| 1739
+Los Hermanos ||| 1521
+Arctic Monkeys ||| 1355
+Maroon 5 ||| 1336
+Oasis ||| 1236
+Imagine Dragons ||| 1185
+Daft Punk ||| 1121
+Paramore ||| 1044
+Regina Spektor ||| 991
+Owl City ||| 963
+Lana Del Rey ||| 880
+Gorillaz ||| 834
+Foster the People ||| 816
+Justin Timberlake ||| 792
+Queen ||| 765
+Sufjan Stevens ||| 737
+Caetano Veloso ||| 669
+Jason Mraz ||| 667
+Gotye ||| 651
+Cambriana ||| 639
+Circa Survive ||| 634
+Coldplay ||| 634
+Bruno Mars ||| 632
+Esteban ||| 619
+NX Zero ||| 571
+Two Door Cinema Club ||| 562
+Rihanna ||| 556
+Kings of Leon ||| 536
+My Chemical Romance ||| 510
+The Kooks ||| 490
+Childish Gambino ||| 484
+Tiago Iorc ||| 474
+Capital Cities ||| 467
+Linkin Park ||| 459
+Vanguart ||| 453
+Taylor Swift ||| 448
+One Direction ||| 446
+Red Hot Chili Peppers ||| 439
+Marina & the Diamonds ||| 435
+Of Monsters and Men ||| 431
+Audioslave ||| 414
+## playcount: 56601

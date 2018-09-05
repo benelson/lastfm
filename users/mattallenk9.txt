@@ -1,0 +1,51 @@
+Jack Johnson ||| 782
+Flight of the Conchords ||| 539
+Joshua Radin ||| 353
+Jason Mraz ||| 193
+Ray LaMontagne ||| 165
+Elliott Smith ||| 156
+Gavin DeGraw ||| 149
+Sufjan Stevens ||| 126
+Ingrid Michaelson ||| 117
+Bright Eyes ||| 109
+Brett Dennen ||| 108
+John Mayer ||| 107
+Citizen Cope ||| 102
+Paolo Nutini ||| 102
+Jamie T ||| 101
+Michael Bublé ||| 100
+Newton Faulkner ||| 98
+Coldplay ||| 94
+Beirut ||| 90
+The Maccabees ||| 86
+Bob Marley & The Wailers ||| 82
+Kate Nash ||| 79
+Snow Patrol ||| 77
+Devendra Banhart ||| 76
+Bob Dylan ||| 75
+Feist ||| 75
+Matisyahu ||| 74
+Nina Simone ||| 74
+Iron & Wine ||| 72
+Atmosphere ||| 69
+Johnny Cash ||| 69
+Damien Rice ||| 67
+Dispatch ||| 67
+José González ||| 66
+Moby ||| 65
+Amos Lee ||| 64
+The White Stripes ||| 63
+Alexi Murdoch ||| 62
+CocoRosie ||| 60
+Kings of Leon ||| 60
+Joe Purdy ||| 58
+Bon Iver ||| 55
+Matt Costa ||| 55
+Mr Hudson & The Library ||| 55
+The Kooks ||| 55
+Fountains of Wayne ||| 52
+Nick Drake ||| 51
+Ambulance ||| 50
+Noah and the Whale ||| 49
+James Morrison ||| 48
+## playcount: 5601

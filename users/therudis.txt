@@ -1,0 +1,51 @@
+blink-182 ||| 6753
+Anberlin ||| 5976
+All Time Low ||| 4858
+My Chemical Romance ||| 4427
+The Used ||| 3810
+Prāta Vētra ||| 3320
+Fall Out Boy ||| 2739
+Sum 41 ||| 2684
+Good Charlotte ||| 2276
+Linkin Park ||| 2154
+Angels & Airwaves ||| 2090
+Foo Fighters ||| 2059
+Yellowcard ||| 1919
+Green Day ||| 1742
+AFI ||| 1634
+Simple Plan ||| 1577
+Red Hot Chili Peppers ||| 1555
+New Found Glory ||| 1482
+Kids in Glass Houses ||| 1462
+Mayday Parade ||| 1440
+Pierce The Veil ||| 1379
+Avril Lavigne ||| 1370
+Rise Against ||| 1320
+The Pretty Reckless ||| 1310
+Jimmy Eat World ||| 1293
+The All-American Rejects ||| 1282
+This Providence ||| 1257
+Paramore ||| 1253
+Panic! at the Disco ||| 1220
+Placebo ||| 1187
+The xx ||| 1178
+Taking Back Sunday ||| 1155
+PVRIS ||| 1104
+30 Seconds to Mars ||| 1077
+Arctic Monkeys ||| 1077
+Brand New ||| 1071
+Three Days Grace ||| 1069
+Avenged Sevenfold ||| 1065
+Biffy Clyro ||| 1060
+Enter Shikari ||| 1059
+Hollywood Undead ||| 1054
+Imagine Dragons ||| 1026
+Detlef ||| 1021
+Bon Jovi ||| 1019
+The Hobos ||| 1015
+OneRepublic ||| 948
+Ludo ||| 935
+Escape the Fate ||| 934
+FM Static ||| 919
+Double Faced Eels ||| 903
+## playcount: 89517

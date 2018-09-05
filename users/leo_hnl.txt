@@ -1,0 +1,51 @@
+Avril Lavigne ||| 10283
+Ariana Grande ||| 5041
+Taylor Swift ||| 4787
+Demi Lovato ||| 4564
+One Direction ||| 3689
+Katy Perry ||| 3384
+Lorde ||| 3001
+Lana Del Rey ||| 2770
+Miley Cyrus ||| 2349
+Lady Gaga ||| 2251
+Ed Sheeran ||| 1857
+Rihanna ||| 1762
+Selena Gomez ||| 1428
+Beyoncé ||| 1324
+Britney Spears ||| 1081
+Adele ||| 1050
+Melanie Martinez ||| 961
+Mumford & Sons ||| 889
+Marília Mendonça ||| 852
+Sia ||| 842
+Paramore ||| 721
+Nick Jonas ||| 697
+Aurora ||| 648
+Dua Lipa ||| 615
+Imagine Dragons ||| 607
+Fifth Harmony ||| 589
+Foo Fighters ||| 562
+Jessie J ||| 561
+Coldplay ||| 552
+Justin Bieber ||| 524
+Zedd ||| 515
+Cícero ||| 496
+Nicki Minaj ||| 464
+Tove Lo ||| 448
+Zayn ||| 446
+30 Seconds to Mars ||| 441
+Sam Smith ||| 439
+Troye Sivan ||| 423
+Meghan Trainor ||| 417
+Anitta ||| 391
+The Pretty Reckless ||| 388
+The Lumineers ||| 377
+Jão ||| 372
+Major Lazer ||| 365
+Carly Rae Jepsen ||| 357
+Shakira ||| 357
+Maroon 5 ||| 339
+Arctic Monkeys ||| 330
+Ellie Goulding ||| 328
+A Great Big World ||| 305
+## playcount: 68239

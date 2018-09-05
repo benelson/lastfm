@@ -1,0 +1,51 @@
+Mike Peralta ||| 232
+The Killers ||| 58
+Radiohead ||| 49
+Maroon 5 ||| 44
+Arcade Fire ||| 42
+Red Hot Chili Peppers ||| 40
+The White Stripes ||| 39
+Jimmy Eat World ||| 37
+Snow Patrol ||| 37
+Coldplay ||| 35
+The Smashing Pumpkins ||| 35
+Hole ||| 34
+Interpol ||| 34
+James Blunt ||| 31
+Jet ||| 31
+John Mayer ||| 31
+Oasis ||| 31
+Kendrick Lamar ||| 28
+Nirvana ||| 28
+The Lumineers ||| 28
+Foo Fighters ||| 27
+The Beatles ||| 26
+Sufjan Stevens ||| 14
+Death Grips ||| 13
+Taylor Swift ||| 13
+Led Zeppelin ||| 10
+Neutral Milk Hotel ||| 10
+Nicki Minaj ||| 10
+Run the Jewels ||| 10
+Vince Staples ||| 10
+Gorillaz ||| 9
+Jamie xx ||| 9
+Miguel ||| 9
+Panda Bear ||| 9
+Fall Out Boy ||| 8
+Mark Ronson ||| 8
+Purity Ring ||| 8
+Tame Impala ||| 8
+Drake ||| 7
+Father John Misty ||| 7
+Madonna ||| 7
+Sia ||| 7
+Ariel Pink ||| 6
+My Bloody Valentine ||| 6
+A$AP Rocky ||| 5
+Björk ||| 5
+CHVRCHES ||| 5
+Earl Sweatshirt ||| 5
+Fleetwood Mac ||| 5
+Florence %2B The Machine ||| 5
+## playcount: 1205

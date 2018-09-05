@@ -1,0 +1,51 @@
+Iron Maiden ||| 1554
+Amon Amarth ||| 958
+Metallica ||| 803
+Moonspell ||| 753
+Megadeth ||| 744
+Kreator ||| 711
+Children of Bodom ||| 564
+Arch Enemy ||| 409
+Dream Theater ||| 397
+Sabaton ||| 367
+Led Zeppelin ||| 300
+Slayer ||| 294
+Iced Earth ||| 280
+Vader ||| 276
+Pearl Jam ||| 271
+Motörhead ||| 259
+Ghost ||| 219
+Korpiklaani ||| 213
+AC/DC ||| 207
+Queens of the Stone Age ||| 206
+Ensiferum ||| 201
+Revolution Within ||| 201
+Tara Perdida ||| 199
+Opeth ||| 197
+Eluveitie ||| 196
+Nirvana ||| 186
+Velvet Revolver ||| 179
+Dimmu Borgir ||| 177
+Scorpions ||| 174
+Pink Floyd ||| 171
+Immortal ||| 168
+Gwydion ||| 159
+Alice Cooper ||| 150
+Judas Priest ||| 147
+Behemoth ||| 145
+Pantera ||| 134
+Cannibal Corpse ||| 129
+Them Crooked Vultures ||| 128
+Dark Tranquillity ||| 127
+Obituary ||| 124
+Machine Head ||| 121
+Chrome Division ||| 119
+Cradle of Filth ||| 119
+Slash ||| 118
+Joe Satriani ||| 115
+Manowar ||| 111
+Nightwish ||| 108
+Amorphis ||| 106
+Anthrax ||| 104
+Rammstein ||| 104
+## playcount: 14202

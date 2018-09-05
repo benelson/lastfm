@@ -1,0 +1,51 @@
+Madonna ||| 11355
+Jack Johnson ||| 3298
+John Mayer ||| 2928
+Britney Spears ||| 2885
+Tori Amos ||| 2834
+Michael Jackson ||| 2523
+The Beatles ||| 2244
+Mariah Carey ||| 2052
+Kanye West ||| 1909
+U2 ||| 1836
+Robbie Williams ||| 1721
+P!nk ||| 1459
+Radiohead ||| 1444
+Kelly Clarkson ||| 1398
+Green Day ||| 1344
+Christina Aguilera ||| 1245
+Coldplay ||| 1208
+Rihanna ||| 1205
+Kylie Minogue ||| 1157
+Bon Jovi ||| 1150
+Jennifer Lopez ||| 1141
+Keane ||| 1141
+Katy Perry ||| 1135
+Janet Jackson ||| 1117
+Avril Lavigne ||| 1073
+Linkin Park ||| 1069
+Chris Brown ||| 1029
+Maroon 5 ||| 1025
+Taylor Swift ||| 1001
+Enrique Iglesias ||| 995
+Beyoncé ||| 959
+Backstreet Boys ||| 934
+Jewel ||| 917
+Justin Bieber ||| 911
+John Lennon ||| 885
+George Michael ||| 884
+Sarah McLachlan ||| 871
+Eminem ||| 868
+Brad Paisley ||| 860
+Lifehouse ||| 854
+Oasis ||| 841
+Daft Punk ||| 802
+Matchbox Twenty ||| 798
+Whitney Houston ||| 795
+Infinite ||| 794
+Paul McCartney ||| 784
+Aerosmith ||| 777
+3 Doors Down ||| 775
+Lady Gaga ||| 774
+Ke$ha ||| 767
+## playcount: 74771

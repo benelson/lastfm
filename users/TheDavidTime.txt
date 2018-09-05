@@ -1,0 +1,51 @@
+Coldplay ||| 116
+Adele ||| 96
+Café Tacvba ||| 77
+Audioslave ||| 67
+Zoé ||| 61
+Three Days Grace ||| 59
+Creed ||| 52
+Skillet ||| 42
+Los Prisioneros ||| 39
+Enanitos Verdes ||| 30
+Paramore ||| 28
+Maná ||| 26
+Jaguares ||| 25
+Simple Plan ||| 25
+Bob Acri ||| 21
+Creedence Clearwater Revival ||| 17
+Beto Cuevas ||| 13
+Caifanes ||| 13
+Inspector ||| 13
+Julieta Venegas ||| 13
+The Killers ||| 13
+Cafe Tacuba y Enanitos Verdes ||| 12
+Panteón Rococó ||| 12
+Stratovarius ||| 10
+Bob Marley ||| 8
+EarlyRise ||| 8
+The Doors ||| 8
+La Castañeda ||| 7
+Aerosmith ||| 6
+Cuca ||| 6
+Especimen ||| 6
+Garbage ||| 6
+Hombres G ||| 6
+System of a Down ||| 6
+Rescate ||| 5
+The Clash ||| 5
+DragonForce ||| 4
+Red Hot Chili Peppers ||| 4
+The Nuri ||| 4
+Vilma Palma E Vampiros ||| 4
+Maná y Juan Luis Guerra ||| 3
+My Girl Friday ||| 3
+Oasis ||| 3
+Cady Groves ||| 2
+Dildo ||| 2
+Evanescence ||| 2
+Every Avenue ||| 2
+Evolove ||| 2
+Foo Fighters ||| 2
+Go Radio ||| 2
+## playcount: 996

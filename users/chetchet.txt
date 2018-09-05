@@ -1,0 +1,51 @@
+Janet Jackson ||| 12504
+Brandy ||| 12452
+Robyn ||| 12331
+Mariah Carey ||| 11802
+Tinashe ||| 10347
+JoJo ||| 10173
+Mila J ||| 7366
+Ella Fitzgerald ||| 5225
+Jhené Aiko ||| 4879
+Kehlani ||| 4590
+Mabel ||| 4276
+Tiara Thomas ||| 4211
+Dawn Richard ||| 4196
+Kacey Musgraves ||| 4175
+Thundercat ||| 3959
+Ciara ||| 3685
+Toni Braxton ||| 3590
+Justine Skye ||| 3541
+Dua Lipa ||| 3495
+Ariana Grande ||| 3368
+Victoria Monet ||| 3253
+Snoh Aalegra ||| 3208
+SZA ||| 2927
+Azealia Banks ||| 2897
+Kali Uchis ||| 2892
+NSTASIA ||| 2829
+Teyana Taylor ||| 2815
+Sofi De la Torre ||| 2794
+Miranda Lambert ||| 2646
+Hayley Kiyoko ||| 2638
+M.O ||| 2553
+Tayla Parx ||| 2518
+Rihanna ||| 2499
+Ji Nilsson ||| 2408
+Sufjan Stevens ||| 2338
+Bridget Kelly ||| 2261
+Sky Ferreira ||| 2229
+India Shawn ||| 2227
+Cassie ||| 2156
+Marlene ||| 2144
+Chloe x Halle ||| 2127
+Sevyn Streeter ||| 2102
+Allie X ||| 2059
+Britney Spears ||| 2051
+Fifth Harmony ||| 1981
+Spice Girls ||| 1963
+Beyoncé ||| 1961
+Charli XCX ||| 1953
+Taylor Swift ||| 1919
+Kelela ||| 1915
+## playcount: 202428

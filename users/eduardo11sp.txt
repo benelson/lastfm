@@ -1,0 +1,51 @@
+Rihanna ||| 7893
+Coldplay ||| 4456
+Imagine Dragons ||| 4039
+Christina Aguilera ||| 3079
+Alanis Morissette ||| 2886
+Lady Gaga ||| 2498
+Paramore ||| 2404
+The Wanted ||| 2282
+Britney Spears ||| 2036
+P!nk ||| 1773
+Beyoncé ||| 1721
+Neon Trees ||| 1701
+Ke$ha ||| 1577
+The Neighbourhood ||| 1519
+Black Eyed Peas ||| 1381
+Maroon 5 ||| 1378
+Linkin Park ||| 1377
+Katy Perry ||| 1279
+Jessie J ||| 1195
+Adele ||| 1159
+Florence + the Machine ||| 1148
+David Guetta ||| 1114
+Queen ||| 1080
+Macklemore & Ryan Lewis ||| 983
+Justin Timberlake ||| 914
+Little Mix ||| 887
+Arctic Monkeys ||| 870
+Carrie Underwood ||| 831
+The Black Keys ||| 826
+Bruno Mars ||| 779
+Eminem ||| 690
+Fall Out Boy ||| 684
+Icona Pop ||| 680
+Evanescence ||| 653
+Justin Bieber ||| 647
+Pitty ||| 626
+Adam Lambert ||| 618
+Cassadee Pope ||| 616
+Iggy Azalea ||| 608
+Ellie Goulding ||| 563
+Emeli Sandé ||| 551
+Taylor Swift ||| 531
+Shania Twain ||| 512
+Nicki Minaj ||| 511
+ABBA ||| 500
+Ariana Grande ||| 490
+U2 ||| 474
+Cher ||| 468
+The Veronicas ||| 454
+Lady Antebellum ||| 452
+## playcount: 68393

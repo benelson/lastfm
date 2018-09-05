@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 10069
+The Strokes ||| 4235
+Pink Floyd ||| 4189
+Red Hot Chili Peppers ||| 3924
+The Black Keys ||| 3470
+Metallica ||| 2897
+The Beatles ||| 2696
+Los Hermanos ||| 2582
+Led Zeppelin ||| 2145
+Megadeth ||| 1924
+Queens of the Stone Age ||| 1748
+Nirvana ||| 1667
+Iron Maiden ||| 1593
+Franz Ferdinand ||| 1483
+Oasis ||| 1362
+Radiohead ||| 1322
+Tame Impala ||| 1306
+Muse ||| 1245
+Slayer ||| 1183
+The Kooks ||| 1182
+System of a Down ||| 1165
+Banda do Mar ||| 1109
+The White Stripes ||| 1067
+Foo Fighters ||| 1047
+The Killers ||| 1026
+The xx ||| 971
+Angra ||| 919
+Cage the Elephant ||| 918
+Dire Straits ||| 903
+Pearl Jam ||| 894
+Catfish and The Bottlemen ||| 853
+Sepultura ||| 849
+alt-J ||| 835
+Black Sabbath ||| 798
+AC/DC ||| 775
+Queen ||| 737
+Guns N' Roses ||| 712
+Rage Against the Machine ||| 704
+Audioslave ||| 698
+Avenged Sevenfold ||| 640
+Coldplay ||| 588
+Selvagens à Procura de Lei ||| 579
+Far From Alaska ||| 564
+Royal Blood ||| 520
+Two Door Cinema Club ||| 498
+Jack White ||| 489
+Jake Bugg ||| 483
+The Raconteurs ||| 469
+Dream Theater ||| 456
+Jimi Hendrix ||| 452
+## playcount: 74940

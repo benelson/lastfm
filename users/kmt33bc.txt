@@ -1,0 +1,51 @@
+Beach House ||| 1234
+Bon Iver ||| 1198
+Broken Social Scene ||| 1194
+Band of Horses ||| 894
+Rogue Wave ||| 784
+Sufjan Stevens ||| 665
+Metric ||| 656
+The Strokes ||| 653
+Best Coast ||| 631
+Kings of Leon ||| 517
+Dum Dum Girls ||| 500
+The xx ||| 494
+Iron & Wine ||| 474
+Death Cab for Cutie ||| 464
+Andrew Bird ||| 441
+Regina Spektor ||| 391
+Rilo Kiley ||| 366
+Kevin Drew ||| 356
+Albert Hammond, Jr. ||| 354
+Built to Spill ||| 342
+Animal Collective ||| 341
+How to Dress Well ||| 340
+Yeasayer ||| 340
+Fleet Foxes ||| 314
+The Kills ||| 309
+Radiohead ||| 304
+The Shins ||| 299
+Feist ||| 293
+Arcade Fire ||| 292
+Now, Now ||| 292
+Lana Del Rey ||| 267
+M. Ward ||| 263
+The Virgins ||| 259
+The Killers ||| 250
+of Montreal ||| 235
+The Flaming Lips ||| 231
+Matt Pond PA ||| 229
+Coldplay ||| 222
+Craft Spells ||| 221
+Cut Copy ||| 218
+Local Natives ||| 215
+Beck ||| 212
+Phoenix ||| 212
+Lykke Li ||| 211
+Warpaint ||| 209
+Julian Casablancas ||| 207
+Modest Mouse ||| 190
+John Mayer ||| 189
+The Beatles ||| 183
+David Sedaris ||| 168
+## playcount: 20123

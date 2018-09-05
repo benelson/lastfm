@@ -1,0 +1,11 @@
+Metallica ||| 55
+Iced Earth ||| 22
+Ozzy Osbourne ||| 18
+Nirvana ||| 17
+Anthrax ||| 16
+Megadeth ||| 16
+Disturbed ||| 14
+Trivium ||| 13
+Slayer ||| 10
+System of a Down ||| 1
+## playcount: 182

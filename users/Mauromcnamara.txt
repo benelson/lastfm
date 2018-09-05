@@ -1,0 +1,51 @@
+The Beatles ||| 4896
+Oasis ||| 3882
+Pink Floyd ||| 3140
+Nacho Vegas ||| 2920
+Radiohead ||| 2709
+Jorge Drexler ||| 2316
+Jeff Buckley ||| 2101
+Travis ||| 2085
+Silvio Rodríguez ||| 1975
+El Cuarteto De Nos ||| 1956
+Queen ||| 1881
+The Smiths ||| 1871
+Charly García ||| 1839
+Fito Páez ||| 1819
+Depeche Mode ||| 1420
+Manic Street Preachers ||| 1396
+Mando Diao ||| 1391
+Luis Alberto Spinetta ||| 1348
+Damien Rice ||| 1269
+Black Rebel Motorcycle Club ||| 1119
+Embrace ||| 1119
+Gustavo Cerati ||| 1104
+Belle and Sebastian ||| 1058
+The National ||| 1020
+Alejandro Dolina ||| 1004
+Morrissey ||| 963
+The Kinks ||| 959
+Yann Tiersen ||| 949
+Joaquín Sabina ||| 924
+Stereophonics ||| 923
+Richard Hawley ||| 908
+Arctic Monkeys ||| 865
+George Harrison ||| 858
+The Zombies ||| 835
+Sigur Rós ||| 822
+Noel Gallagher's High Flying Birds ||| 815
+Bob Dylan ||| 808
+Max Richter ||| 807
+Nick Cave & The Bad Seeds ||| 807
+Leonard Cohen ||| 751
+Soda Stereo ||| 750
+Muse ||| 737
+Placebo ||| 716
+Yes ||| 715
+Björk ||| 710
+The Cure ||| 696
+Big Star ||| 688
+Paul McCartney ||| 684
+Arcade Fire ||| 676
+David Bowie ||| 673
+## playcount: 68677

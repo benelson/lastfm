@@ -1,0 +1,51 @@
+Bruce Springsteen ||| 169186
+Depeche Mode ||| 10942
+U2 ||| 8727
+Marilyn Manson ||| 5823
+The Clash ||| 5773
+Pearl Jam ||| 5612
+Nine Inch Nails ||| 5472
+Lana Del Rey ||| 5309
+Ryan Adams ||| 5180
+David Bowie ||| 4624
+Queens of the Stone Age ||| 4112
+The Black Keys ||| 3828
+Muse ||| 3794
+Alice in Chains ||| 3429
+Rush ||| 3314
+Metallica ||| 3145
+The Smiths ||| 2963
+Arctic Monkeys ||| 2884
+New Order ||| 2782
+Pink Floyd ||| 2349
+Neil Young ||| 2327
+Kings of Leon ||| 2315
+The Cure ||| 2236
+Led Zeppelin ||| 2031
+Iggy Pop ||| 1972
+Pixies ||| 1775
+Tycho ||| 1761
+Mastodon ||| 1747
+Elvis Presley ||| 1624
+The Police ||| 1521
+The Smashing Pumpkins ||| 1487
+Joy Division ||| 1443
+A Perfect Circle ||| 1399
+Tame Impala ||| 1376
+Stone Temple Pilots ||| 1368
+System of a Down ||| 1325
+The War on Drugs ||| 1293
+Arcade Fire ||| 1290
+R.E.M. ||| 1257
+The New Division ||| 1239
+30 Seconds to Mars ||| 1230
+Morrissey ||| 1183
+INXS ||| 1163
+Simple Minds ||| 1157
+a-ha ||| 1128
+Dido ||| 1115
+Dire Straits ||| 1095
+Bryan Ferry ||| 1044
+Foo Fighters ||| 1010
+Beach House ||| 999
+## playcount: 303158

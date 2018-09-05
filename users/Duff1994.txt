@@ -1,0 +1,51 @@
+The Beatles ||| 1713
+Metallica ||| 1487
+Guns N' Roses ||| 1431
+Queen ||| 576
+Bon Jovi ||| 535
+[unknown] ||| 522
+Megadeth ||| 448
+Scorpions ||| 435
+Aerosmith ||| 431
+Mr. Big ||| 418
+Bob Dylan ||| 385
+AC/DC ||| 359
+Pink Floyd ||| 348
+Jeff Buckley ||| 337
+Pearl Jam ||| 335
+Janis Joplin ||| 300
+Kiss ||| 292
+Cinderella ||| 289
+Motörhead ||| 284
+Skid Row ||| 275
+Whitesnake ||| 270
+Rod Stewart ||| 264
+Tracy Chapman ||| 255
+The Rolling Stones ||| 249
+Nirvana ||| 246
+Iron Maiden ||| 245
+Jimi Hendrix ||| 216
+Eric Clapton ||| 213
+Dokken ||| 212
+Black Sabbath ||| 193
+Ozzy Osbourne ||| 192
+Alice in Chains ||| 183
+Van Halen ||| 180
+Teoman ||| 178
+Testament ||| 176
+Savatage ||| 175
+Avenged Sevenfold ||| 172
+Izzy Stradlin ||| 171
+Katatonia ||| 166
+Chuck Berry ||| 164
+Goo Goo Dolls ||| 163
+Theory of a Deadman ||| 163
+Led Zeppelin ||| 159
+Dark Tranquillity ||| 154
+Mötley Crüe ||| 154
+Black Label Society ||| 152
+Dire Straits ||| 149
+Yavuz Çetin ||| 147
+Lacuna Coil ||| 146
+Almora ||| 145
+## playcount: 16852

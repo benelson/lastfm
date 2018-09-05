@@ -1,0 +1,51 @@
+ABBA ||| 7216
+Kylie Minogue ||| 3745
+Olivia Newton-John ||| 3135
+Madonna ||| 2930
+Roxette ||| 1668
+Whitney Houston ||| 1475
+Carpenters ||| 1388
+P!nk ||| 1259
+Michael Jackson ||| 1252
+Bucks Fizz ||| 1149
+Backstreet Boys ||| 1114
+George Michael ||| 1092
+Céline Dion ||| 1022
+Elton John ||| 965
+Mariah Carey ||| 957
+Icehouse ||| 954
+Tina Arena ||| 883
+Agnetha Fältskog ||| 881
+Bee Gees ||| 869
+Westlife ||| 867
+Taylor Dayne ||| 838
+Cher ||| 817
+Spice Girls ||| 790
+Cyndi Lauper ||| 730
+Lionel Richie ||| 725
+Robbie Williams ||| 716
+Culture Club ||| 704
+Gloria Estefan ||| 645
+Lady Gaga ||| 620
+Alison Moyet ||| 618
+Scissor Sisters ||| 612
+The Corrs ||| 597
+Air Supply ||| 591
+Eurythmics ||| 591
+Pet Shop Boys ||| 575
+John Farnham ||| 549
+Kelly Clarkson ||| 548
+Britney Spears ||| 527
+Billy Joel ||| 524
+Wham! ||| 521
+Phil Collins ||| 513
+Simply Red ||| 508
+Tina Turner ||| 478
+Jessica Mauboy ||| 476
+Savage Garden ||| 476
+Delta Goodrem ||| 469
+Janet Jackson ||| 469
+Christina Aguilera ||| 462
+Bryan Adams ||| 459
+Def Leppard ||| 441
+## playcount: 52410

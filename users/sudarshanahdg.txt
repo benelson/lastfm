@@ -1,0 +1,51 @@
+Van der Graaf Generator ||| 24
+Gentle Giant ||| 21
+Emerson, Lake & Palmer ||| 20
+Rush ||| 16
+Camel ||| 15
+Genesis ||| 15
+Yes ||| 15
+Jethro Tull ||| 13
+Marillion ||| 12
+Rick Wakeman ||| 11
+Black Sabbath ||| 10
+Caravan ||| 10
+Deep Purple ||| 10
+Jon Anderson ||| 10
+Premiata Forneria Marconi ||| 10
+Supertramp ||| 10
+Dream Theater ||| 9
+Kansas ||| 9
+Liquid Tension Experiment ||| 9
+Renaissance ||| 9
+Focus ||| 8
+Steve Hackett ||| 8
+The Flower Kings ||| 8
+Jordan Rudess ||| 7
+Megadeth ||| 7
+Spock's Beard ||| 7
+Barclay James Harvest ||| 6
+Frank Zappa ||| 6
+MD.45 ||| 6
+Peter Gabriel ||| 6
+The Alan Parsons Project ||| 6
+The Rolling Stones ||| 6
+Triumvirat ||| 6
+Anathema ||| 5
+Anekdoten ||| 5
+Cream ||| 5
+Eloy ||| 5
+Symphony X ||| 5
+The Gathering ||| 5
+The Who ||| 5
+Uriah Heep ||| 5
+Wishbone Ash ||| 5
+Brain Heart Infusion ||| 4
+Brand X ||| 4
+Fish ||| 4
+Gryphon ||| 4
+Guns N' Roses ||| 4
+Iced Earth ||| 4
+Loma Prieta ||| 4
+Nektar ||| 4
+## playcount: 422

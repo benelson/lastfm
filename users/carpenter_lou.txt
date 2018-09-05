@@ -1,0 +1,51 @@
+Emperor ||| 1531
+Arcturus ||| 723
+Korn ||| 605
+Immortal ||| 591
+Ihsahn ||| 382
+Cannibal Corpse ||| 364
+Opeth ||| 358
+Primus ||| 344
+Faith No More ||| 326
+Strapping Young Lad ||| 293
+Dimmu Borgir ||| 291
+Front Line Assembly ||| 257
+Deftones ||| 255
+Fear Factory ||| 248
+Incubus ||| 240
+Fantômas ||| 232
+Pantera ||| 195
+blink-182 ||| 175
+The Voodoo Organist ||| 175
+Infected Mushroom ||| 165
+Cradle of Filth ||| 155
+Morbid Angel ||| 150
+Dog Fashion Disco ||| 147
+Black Sabbath ||| 146
+Rage Against the Machine ||| 143
+Burzum ||| 142
+Foetus ||| 122
+Slayer ||| 115
+Muse ||| 111
+Samael ||| 109
+Katatonia ||| 100
+Limp Bizkit ||| 98
+Tool ||| 94
+Secret Chiefs 3 ||| 83
+Sepultura ||| 81
+The Presets ||| 80
+Megadriver ||| 79
+Snoop Dogg ||| 79
+Radiohead ||| 77
+Meshuggah ||| 75
+Aphex Twin ||| 74
+The Smashing Pumpkins ||| 70
+Slipknot ||| 68
+Queens of the Stone Age ||| 67
+Ice Cube ||| 65
+Ocean Machine ||| 65
+Mr. Bungle ||| 60
+Tomahawk ||| 60
+The Devin Townsend Band ||| 59
+Buckethead ||| 56
+## playcount: 10580

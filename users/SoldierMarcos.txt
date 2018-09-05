@@ -1,0 +1,51 @@
+Metallica ||| 19060
+Opeth ||| 13771
+Misfits ||| 7513
+Pink Floyd ||| 6594
+Sodom ||| 6463
+Slayer ||| 4650
+Motörhead ||| 4631
+Carcass ||| 4504
+Amon Amarth ||| 4162
+Alcest ||| 3569
+Megadeth ||| 3015
+Dream Theater ||| 2916
+Mastodon ||| 2867
+Katatonia ||| 2130
+Rush ||| 1962
+Kreator ||| 1856
+Johnny Cash ||| 1668
+Death ||| 1665
+Bathory ||| 1628
+Danzig ||| 1578
+King Diamond ||| 1526
+Anathema ||| 1503
+Iron Maiden ||| 1473
+Tankard ||| 1364
+Linkin Park ||| 1353
+Municipal Waste ||| 1294
+Gojira ||| 1204
+Pantera ||| 1114
+Agalloch ||| 1026
+Matanza ||| 956
+Destruction ||| 946
+Omnium Gatherum ||| 912
+Blackfield ||| 880
+Ghost ||| 874
+Enslaved ||| 865
+Black Sabbath ||| 856
+Overkill ||| 809
+D.F.C. ||| 794
+Zumbis do Espaço ||| 783
+Ozzy Osbourne ||| 781
+Porcupine Tree ||| 768
+HammerFall ||| 765
+Exodus ||| 763
+Cannibal Corpse ||| 729
+Alestorm ||| 713
+Battalion ||| 705
+U2 ||| 696
+Mercyful Fate ||| 669
+Venom ||| 632
+Lynyrd Skynyrd ||| 622
+## playcount: 124577

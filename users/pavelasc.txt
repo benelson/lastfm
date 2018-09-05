@@ -1,0 +1,51 @@
+David Bowie ||| 6082
+The Beatles ||| 4036
+Wilco ||| 2845
+Talking Heads ||| 2679
+Pedro Aznar ||| 2358
+Beck ||| 2105
+Andrew Bird ||| 2018
+Sufjan Stevens ||| 1706
+Bill Callahan ||| 1517
+Novos Baianos ||| 1505
+Yo La Tengo ||| 1494
+Nick Drake ||| 1357
+Matorral ||| 1321
+Pixies ||| 1298
+Bob Dylan ||| 1255
+Leo Quinteros ||| 1184
+David Byrne ||| 1158
+The Velvet Underground ||| 1122
+LCD Soundsystem ||| 1098
+Radiohead ||| 1043
+TV on the Radio ||| 1039
+Pink Floyd ||| 1010
+José González ||| 1004
+Caetano Veloso ||| 936
+Arcade Fire ||| 927
+Soda Stereo ||| 902
+Nina Simone ||| 887
+Kevin Johansen ||| 825
+Pulp ||| 782
+Chico Buarque ||| 781
+Beastie Boys ||| 779
+Paolo Pandolfo ||| 751
+The Clash ||| 737
+The Bad Plus ||| 722
+The Doors ||| 718
+John Lennon ||| 710
+Johnny Cash ||| 668
+The Jam ||| 644
+Aimee Mann ||| 640
+Lou Reed ||| 616
+Maria Bethânia ||| 616
+Jeff Buckley ||| 597
+Louis Prima ||| 569
+Junip ||| 567
+Joy Division ||| 564
+Brad Mehldau ||| 563
+Portishead ||| 548
+David Byrne & St. Vincent ||| 539
+The Flaming Lips ||| 539
+Fiona Apple ||| 537
+## playcount: 60898

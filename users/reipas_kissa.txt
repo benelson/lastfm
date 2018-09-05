@@ -1,0 +1,51 @@
+Kent ||| 912
+Róisín Murphy ||| 737
+Moloko ||| 447
+Foo Fighters ||| 365
+The Killers ||| 353
+Depeche Mode ||| 333
+Muse ||| 300
+Röyksopp ||| 241
+Kosheen ||| 228
+Goldfrapp ||| 213
+Daft Punk ||| 206
+Feist ||| 202
+Massive Attack ||| 181
+Coldplay ||| 174
+The Prodigy ||| 162
+Benny Benassi ||| 149
+Faithless ||| 144
+Frou Frou ||| 135
+Giant Robot ||| 120
+Faith No More ||| 117
+Husky Rescue ||| 116
+Moby ||| 115
+Frank Sinatra ||| 113
+Morcheeba ||| 107
+Mew ||| 105
+The Chemical Brothers ||| 103
+Imogen Heap ||| 101
+Björk ||| 98
+The Cardigans ||| 92
+Eric Prydz ||| 87
+Rage Against the Machine ||| 78
+The Ark ||| 72
+Emilíana Torrini ||| 69
+Kemopetrol ||| 67
+Madonna ||| 64
+Nuspirit Helsinki ||| 62
+Tiësto ||| 62
+Justin Timberlake ||| 60
+Kings of Leon ||| 52
+Duffy ||| 50
+Koop ||| 50
+Jamie Cullum ||| 46
+Air ||| 44
+Nine Inch Nails ||| 44
+Regina ||| 43
+Portishead ||| 41
+Alice in Chains ||| 40
+Guano Apes ||| 40
+Nina Simone ||| 40
+PMMP ||| 40
+## playcount: 7820

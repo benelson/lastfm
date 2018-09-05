@@ -1,0 +1,51 @@
+Nine Inch Nails ||| 4878
+Radiohead ||| 4064
+Led Zeppelin ||| 3244
+Marilyn Manson ||| 2745
+Pixies ||| 2471
+Megadeth ||| 2062
+Muse ||| 1789
+System of a Down ||| 1718
+Metallica ||| 1635
+Deftones ||| 1565
+Kiss ||| 1504
+Red Hot Chili Peppers ||| 1473
+Lamb of God ||| 1429
+Black Sabbath ||| 1411
+David Bowie ||| 1291
+Tegan and Sara ||| 1096
+Pantera ||| 1091
+The Strokes ||| 898
+Ghost ||| 890
+Guns N' Roses ||| 827
+Coheed and Cambria ||| 789
+La Roux ||| 744
+Dio ||| 683
+Avenged Sevenfold ||| 679
+Coldplay ||| 667
+Korn ||| 666
+Tool ||| 651
+Placebo ||| 628
+Queen ||| 579
+Björk ||| 572
+Nirvana ||| 568
+The Doors ||| 525
+Rage Against the Machine ||| 517
+Pink Floyd ||| 512
+Slipknot ||| 505
+Bruce Springsteen ||| 501
+How to Destroy Angels ||| 486
+Audioslave ||| 476
+Alec Empire ||| 473
+Rainbow ||| 462
+Lykke Li ||| 453
+Ozzy Osbourne ||| 445
+Green Day ||| 414
+Queens of the Stone Age ||| 379
+The Cure ||| 374
+The Killers ||| 335
+Soundgarden ||| 334
+Bring Me the Horizon ||| 307
+Limp Bizkit ||| 306
+Primus ||| 297
+## playcount: 53408

@@ -1,0 +1,51 @@
+Korn ||| 935
+System of a Down ||| 735
+A Perfect Circle ||| 608
+Tool ||| 584
+Alice in Chains ||| 511
+Nirvana ||| 478
+Ghost ||| 432
+Tenacious D ||| 375
+Tristania ||| 367
+Iron Maiden ||| 293
+Devin Townsend Project ||| 268
+In Flames ||| 263
+Blind Guardian ||| 249
+Opeth ||| 227
+R.E.M. ||| 203
+Amon Amarth ||| 198
+David Bowie ||| 193
+Ayreon ||| 191
+Radiohead ||| 170
+Katatonia ||| 168
+Gojira ||| 157
+Motörhead ||| 152
+כוורת ||| 148
+Cruachan ||| 145
+The Cranberries ||| 145
+Crash Test Dummies ||| 134
+The Smiths ||| 131
+Alcest ||| 126
+Korpiklaani ||| 126
+Celesty ||| 118
+Animals as Leaders ||| 113
+Pearl Jam ||| 113
+Led Zeppelin ||| 112
+Enter Shikari ||| 107
+Finntroll ||| 106
+King Crimson ||| 105
+Pantera ||| 105
+Dream Theater ||| 101
+Queen ||| 90
+Red Hot Chili Peppers ||| 89
+The Doors ||| 84
+Rage Against the Machine ||| 81
+Queens of the Stone Age ||| 74
+The Black Keys ||| 74
+Epica ||| 73
+Tame Impala ||| 73
+Bloodbath ||| 71
+Arjen Anthony Lucassen ||| 70
+Serj Tankian ||| 68
+Children of Bodom ||| 67
+## playcount: 10606

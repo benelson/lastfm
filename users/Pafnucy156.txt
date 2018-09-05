@@ -1,0 +1,51 @@
+The Beatles ||| 1791
+The Kinks ||| 863
+The Velvet Underground ||| 583
+Depeche Mode ||| 461
+Iron Maiden ||| 426
+Gorillaz ||| 328
+Jefferson Airplane ||| 326
+Moby ||| 322
+Tears for Fears ||| 317
+Iggy Pop ||| 314
+Lou Reed ||| 303
+The Moody Blues ||| 299
+The Doors ||| 298
+Ten Years After ||| 268
+Coldplay ||| 265
+Elvis Presley ||| 265
+Bloc Party ||| 263
+The Killers ||| 254
+R.E.M. ||| 243
+The Strokes ||| 214
+Rodriguez ||| 212
+The Who ||| 200
+Pulp ||| 198
+Dire Straits ||| 180
+Red Hot Chili Peppers ||| 176
+Judas Priest ||| 154
+The Spencer Davis Group ||| 138
+Electric Light Orchestra ||| 134
+The Yardbirds ||| 130
+Jon Lajoie ||| 129
+Fatboy Slim ||| 127
+Modest Mouse ||| 124
+Eric Clapton ||| 121
+Myslovitz ||| 120
+Kasabian ||| 118
+The Rolling Stones ||| 117
+Ian Brown ||| 110
+Backstreet Boys ||| 108
+The Mamas & the Papas ||| 105
+Smokie ||| 104
+Boston ||| 101
+Nico ||| 101
+The Black Keys ||| 98
+John Lennon ||| 97
+The Bravery ||| 96
+Cut Copy ||| 94
+System of a Down ||| 94
+AC/DC ||| 93
+George Harrison ||| 91
+The Stone Roses ||| 91
+## playcount: 12164

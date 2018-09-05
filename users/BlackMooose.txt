@@ -1,0 +1,20 @@
+Muse ||| 111
+Rise Against ||| 34
+Arctic Monkeys ||| 22
+30 Seconds to Mars ||| 18
+Billy Talent ||| 18
+The Strokes ||| 11
+Green Day ||| 9
+AC/DC ||| 8
+Foo Fighters ||| 6
+Bring Me the Horizon ||| 5
+Foster the People ||| 5
+Kasabian ||| 5
+Coldplay ||| 4
+My Chemical Romance ||| 4
+Iron Maiden ||| 2
+Nirvana ||| 2
+Two Door Cinema Club ||| 2
+Fall Out Boy ||| 1
+Panic! at the Disco ||| 1
+## playcount: 268

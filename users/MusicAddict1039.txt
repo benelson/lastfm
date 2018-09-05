@@ -1,0 +1,51 @@
+David Cook ||| 12835
+blink-182 ||| 3795
+Green Day ||| 3613
+Three Days Grace ||| 2559
+Fall Out Boy ||| 2210
+Maroon 5 ||| 2210
+The Weeknd ||| 1982
+30 Seconds to Mars ||| 1654
+Paramore ||| 1177
+Red Hot Chili Peppers ||| 984
+Hinder ||| 699
+Panic! at the Disco ||| 659
+Mayday Parade ||| 573
+Taking Back Sunday ||| 573
+Shinedown ||| 546
+Yellowcard ||| 544
+My Chemical Romance ||| 480
+Kings of Leon ||| 461
+Papa Roach ||| 458
+Young the Giant ||| 428
+Michael Johns ||| 398
+Avenged Sevenfold ||| 392
+Nickelback ||| 339
+Angels & Airwaves ||| 315
+Cute Is What We Aim For ||| 313
+Boys Like Girls ||| 304
+Simple Plan ||| 271
+Crash Kings ||| 262
+Nightmare Of You ||| 242
+Stone Temple Pilots ||| 242
+The Fray ||| 220
++44 ||| 197
+Dierks Bentley ||| 195
+Buckcherry ||| 192
+One Direction ||| 188
+Drake ||| 185
+Katy Perry ||| 180
+Theory of a Deadman ||| 176
+AFI ||| 166
+Incubus ||| 163
+Aiden ||| 160
+John Mayer ||| 160
+Muse ||| 158
+Foo Fighters ||| 153
+Rise Against ||| 151
+David Archuleta ||| 143
+Cavo ||| 132
+Seether ||| 130
+Lady Gaga ||| 129
+Rihanna ||| 129
+## playcount: 44825

@@ -1,0 +1,51 @@
+Katy Perry ||| 5636
+Ariana Grande ||| 4544
+Taylor Swift ||| 2703
+Britney Spears ||| 2144
+Lady Gaga ||| 2004
+Selena Gomez ||| 1858
+Carly Rae Jepsen ||| 1469
+Rihanna ||| 1392
+Charli XCX ||| 1246
+Lily Allen ||| 1105
+Marina & the Diamonds ||| 1090
+Lana Del Rey ||| 1037
+Glee Cast ||| 987
+Miley Cyrus ||| 955
+Beyoncé ||| 941
+One Direction ||| 919
+Demi Lovato ||| 730
+Lorde ||| 724
+Nicki Minaj ||| 706
+Ke$ha ||| 704
+Iggy Azalea ||| 697
+Tove Lo ||| 582
+Meghan Trainor ||| 545
+Selena Gomez & the Scene ||| 541
+Bridgit Mendler ||| 480
+Azealia Banks ||| 410
+Little Mix ||| 394
+Anitta ||| 391
+5 Seconds of Summer ||| 347
+Icona Pop ||| 330
+The Pussycat Dolls ||| 315
+Camila Cabello ||| 313
+Olly Murs ||| 313
+Karmin ||| 309
+Fifth Harmony ||| 288
+Austin Mahone ||| 266
+Dua Lipa ||| 258
+Jessie J ||| 250
+Pabllo Vittar ||| 247
+Melanie Martinez ||| 224
+Bonnie McKee ||| 217
+Maroon 5 ||| 206
+Justin Bieber ||| 203
+RuPaul ||| 196
+Nick Jonas ||| 193
+Sia ||| 193
+Robyn ||| 183
+Avril Lavigne ||| 174
+Kelly Clarkson ||| 174
+Sara Bareilles ||| 172
+## playcount: 42305

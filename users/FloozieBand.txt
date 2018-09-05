@@ -1,0 +1,51 @@
+Foo Fighters ||| 35
+Floozie ||| 15
+CKY ||| 11
+The Black Keys ||| 10
+Franz Ferdinand ||| 9
+Arctic Monkeys ||| 8
+Jack White ||| 8
+Jet ||| 8
+Kings of Leon ||| 7
+Queens of the Stone Age ||| 7
+The Strokes ||| 7
+Them Crooked Vultures ||| 7
+Wolfmother ||| 7
+Yeah Yeah Yeahs ||| 7
+Brendan Benson ||| 6
+Cold War Kids ||| 6
+The Bravery ||| 6
+The Greenhornes ||| 6
+The Killers ||| 6
+Black Rebel Motorcycle Club ||| 5
+Coldplay ||| 5
+Kasabian ||| 5
+Louis XIV ||| 5
+The Fratellis ||| 5
+The Kills ||| 5
+Weezer ||| 5
+Audioslave ||| 4
+Bloc Party ||| 4
+Creed ||| 4
+Incubus ||| 4
+Kaiser Chiefs ||| 4
+Nickelback ||| 4
+Nirvana ||| 4
+Pearl Jam ||| 4
+Red Hot Chili Peppers ||| 4
+Snow Patrol ||| 4
+Soundgarden ||| 4
+Staind ||| 4
+The Last Shadow Puppets ||| 4
+The Vines ||| 4
+We Are Scientists ||| 4
+White Lies ||| 4
+Cage the Elephant ||| 3
+Dirty Pretty Things ||| 3
+Eagles of Death Metal ||| 3
+Interpol ||| 3
+Keane ||| 3
+Rage Against the Machine ||| 3
+Razorlight ||| 3
+Stone Temple Pilots ||| 3
+## playcount: 299

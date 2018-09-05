@@ -1,0 +1,51 @@
+blink-182 ||| 1767
+Rise Against ||| 1550
+Foo Fighters ||| 1545
+Jupiter Jones ||| 1416
+Beatsteaks ||| 1343
+Oasis ||| 1312
+Jimmy Eat World ||| 1169
+Pothead ||| 1151
+Kyle Dixon ||| 1133
+The Hellacopters ||| 1017
+Die Ärzte ||| 990
+NOFX ||| 915
+Metallica ||| 879
+Bosse ||| 841
+The Offspring ||| 833
+Kings of Leon ||| 832
+Kettcar ||| 815
+Me First and the Gimme Gimmes ||| 786
+Deftones ||| 776
+Green Day ||| 764
+K.I.Z. ||| 758
+Disco Ensemble ||| 729
+Muse ||| 706
+Hans Zimmer ||| 693
+Die Fantastischen Vier ||| 574
+Mikroboy ||| 566
+Middle Class Rut ||| 549
+Millencolin ||| 528
+The Subways ||| 515
+Kraftklub ||| 511
+The xx ||| 511
+Norah Jones ||| 489
+Mogwai ||| 471
+College ||| 464
+Rage Against the Machine ||| 464
+Incubus ||| 463
+Manu Chao ||| 462
+Arctic Monkeys ||| 446
+Shantel ||| 441
+Florence + the Machine ||| 436
+Yann Tiersen ||| 435
+Led Zeppelin ||| 431
+Pink Floyd ||| 428
+Pearl Jam ||| 425
+Jack Johnson ||| 423
+Ska-P ||| 420
+Panteón Rococó ||| 415
+Herbert Grönemeyer ||| 410
+Clueso ||| 406
+David Arnold ||| 403
+## playcount: 36806

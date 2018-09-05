@@ -1,0 +1,51 @@
+Muse ||| 450
+Korn ||| 432
+The Strokes ||| 268
+Foo Fighters ||| 254
+Ghost ||| 125
+Two Door Cinema Club ||| 117
+The Vines ||| 87
+Kasabian ||| 75
+Slipknot ||| 71
+Florence + the Machine ||| 63
+Cage the Elephant ||| 58
+Coldplay ||| 49
+Escape the Fate ||| 41
+Interpol ||| 37
+Sleeping with Sirens ||| 33
+The Smiths ||| 29
+Ramones ||| 25
+Pearl Jam ||| 24
+Red Hot Chili Peppers ||| 23
+Bring Me the Horizon ||| 22
+Arctic Monkeys ||| 20
+David Bowie ||| 20
+The Libertines ||| 20
+The Vaccines ||| 20
+Albert Hammond, Jr. ||| 19
+Foster the People ||| 17
+Radiohead ||| 16
+Pierce The Veil ||| 15
+Babyshambles ||| 13
+Foals ||| 13
+311 ||| 12
+Stereophonics ||| 12
+Green Day ||| 11
+Nirvana ||| 11
+We Are Scientists ||| 11
+Imagine Dragons ||| 9
+Dirty Pretty Things ||| 8
+No Te Va Gustar ||| 8
+Tame Impala ||| 8
+The Beatles ||| 8
+The Black Keys ||| 8
+Beady Eye ||| 7
+Queen ||| 7
+Drowners ||| 6
+Evanescence ||| 6
+Jack White ||| 5
+Morrissey ||| 5
+Rob Zombie ||| 5
+The Velvet Underground ||| 5
+Twenty One Pilots ||| 5
+## playcount: 2613

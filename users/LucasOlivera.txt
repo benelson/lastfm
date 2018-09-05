@@ -1,0 +1,51 @@
+CPM 22 ||| 7720
+Pearl Jam ||| 2161
+Dead Fish ||| 1761
+Radiohead ||| 1415
+Band of Horses ||| 1324
+Arcade Fire ||| 1048
+Arctic Monkeys ||| 894
+Vivendo do Ócio ||| 876
+Laura Marling ||| 787
+Millencolin ||| 761
+Dinosaur Jr. ||| 708
+Two Door Cinema Club ||| 689
+Legião Urbana ||| 631
+The Killers ||| 565
+Nando Reis ||| 542
+The Strokes ||| 513
+MGMT ||| 503
+Criolo ||| 498
+Los Hermanos ||| 468
+Crystal Castles ||| 467
+Cazuza ||| 417
+The Beatles ||| 404
+Beirut ||| 340
+Chico Buarque ||| 319
+The Temper Trap ||| 292
+Eddie Vedder ||| 285
+The Raconteurs ||| 275
+The Smiths ||| 251
+The Cardigans ||| 243
+Vanguart ||| 241
+Racionais Mc's ||| 229
+Of Monsters and Men ||| 217
+Fugazi ||| 200
+American Football ||| 189
+Daft Punk ||| 173
+Apanhador Só ||| 172
+Titãs ||| 169
+Foals ||| 167
+Little Joy ||| 161
+Mukeka di Rato ||| 157
+The Black Keys ||| 156
+Stone Gossard ||| 145
+Tame Impala ||| 141
+João Gilberto ||| 131
+Led Zeppelin ||| 131
+Cage the Elephant ||| 130
+Weezer ||| 127
+R.E.M. ||| 126
+The Cure ||| 124
+Left Lane Cruiser ||| 123
+## playcount: 30566

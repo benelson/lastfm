@@ -1,0 +1,51 @@
+Nirvana ||| 843
+Foo Fighters ||| 366
+30 Seconds to Mars ||| 360
+AC/DC ||| 339
+System of a Down ||| 339
+Lana Del Rey ||| 316
+Linkin Park ||| 175
+The Doors ||| 154
+Guns N' Roses ||| 113
+Soundgarden ||| 108
+Wham! ||| 94
+Maroon 5 ||| 92
+All Time Low ||| 91
+Metallica ||| 89
+Slayer ||| 86
+Red Hot Chili Peppers ||| 70
+Coldplay ||| 52
+Muse ||| 51
+Bryan Adams ||| 41
+U2 ||| 41
+Led Zeppelin ||| 39
+Aerosmith ||| 38
+Deep Purple ||| 37
+The Rolling Stones ||| 37
+Kings of Leon ||| 35
+Mariah Carey ||| 35
+Band of Horses ||| 33
+The Beatles ||| 33
+Hey ||| 31
+Band Aid ||| 29
+Chris Rea ||| 28
+Kasabian ||| 28
+The Cuts ||| 27
+Shakin' Stevens ||| 26
+The Cranberries ||| 26
+Ewelina Lisowska ||| 24
+Muchy ||| 24
+Three Dog Night ||| 24
+Pearl Jam ||| 23
+Lenny Kravitz ||| 22
+Myslovitz ||| 22
+Imagine Dragons ||| 20
+Papa Roach ||| 19
+Queen ||| 19
+The Police ||| 19
+The Pretty Reckless ||| 19
+Ocean ||| 18
+The Who ||| 18
+Adele ||| 17
+Bon Jovi ||| 17
+## playcount: 4607

@@ -1,0 +1,51 @@
+Elvis Presley ||| 154
+Nat King Cole ||| 103
+Diana Krall ||| 70
+Norah Jones ||| 44
+Los Panchos ||| 43
+Best Of ||| 29
+Estrella Morente ||| 27
+Niña Pastori ||| 23
+Maria Dolores Pradera ||| 21
+Ella Fitzgerald ||| 17
+The Everly Brothers ||| 16
+Dean Martin ||| 14
+Leonard Cohen ||| 14
+Brenda Lee ||| 12
+Brian Hyland ||| 11
+Johnny Cash ||| 11
+Connie Francis ||| 10
+María Dolores Pradera ||| 10
+Dionne Warwick ||| 9
+Lágrimas Negras ||| 9
+The Drifters ||| 9
+Neil Sedaka ||| 8
+Frank Sinatra ||| 7
+Simon & Garfunkel ||| 7
+The Beatles ||| 7
+Engelbert Humperdinck ||| 6
+Nina Simone ||| 6
+The Platters ||| 6
+Diana Navarro ||| 5
+Eva Cassidy ||| 5
+Harry Belafonte ||| 5
+Omara Portuondo ||| 5
+Sarah Vaughan ||| 5
+Bob Dylan ||| 4
+Bobby Vee ||| 4
+Bonnie Tyler ||| 4
+Ibrahim Ferrer ||| 4
+Niño Josele y Javier Limón ||| 4
+Rolando Laserie ||| 4
+Roy Orbison ||| 4
+The Ronettes ||| 4
+Al Green ||| 3
+Alfredo Kraus ||| 3
+Ben E. King ||| 3
+Beny More ||| 3
+Blossom Dearie ||| 3
+Cesar Portillo De La Cruz ||| 3
+Chet Baker ||| 3
+Ella Fitzgerald & Louis Armstrong ||| 3
+Enya ||| 3
+## playcount: 787

@@ -1,0 +1,51 @@
+Counting Crows ||| 7614
+Eels ||| 7044
+Queen ||| 6048
+Glen Hansard ||| 2447
+The Frames ||| 2304
+K's Choice ||| 2138
+Maria Mena ||| 1903
+Semisonic ||| 1659
+Janne Schra ||| 1604
+Lene Marlin ||| 1287
+Foo Fighters ||| 1181
+Acda en de Munnik ||| 1141
+Schradinova ||| 1117
+Herman van Veen ||| 1090
+Live ||| 1059
+Beirut ||| 1028
+Katzenjammer ||| 980
+Damien Rice ||| 930
+Fratsen ||| 919
+Belle and Sebastian ||| 880
+Eddie Vedder ||| 878
+José González ||| 874
+Mumford & Sons ||| 870
+Cocoon ||| 866
+Michael Jackson ||| 849
+Blind Melon ||| 847
+Daniël Lohues ||| 846
+Die Toten Hosen ||| 843
+David Bowie ||| 823
+Radical Face ||| 815
+The Who ||| 812
+Johnny Cash ||| 803
+Pearl Jam ||| 799
+The Beatles ||| 791
+Die Prinzen ||| 752
+Paolo Nutini ||| 752
+Wise Guys ||| 737
+Noah and the Whale ||| 721
+Alanis Morissette ||| 713
+Manic Street Preachers ||| 684
+Xavier Rudd ||| 683
+Pater Moeskroen ||| 663
+R.E.M. ||| 659
+I Blame Coco ||| 658
+Regina Spektor ||| 650
+MGMT ||| 639
+Janne Schra & Robin Nolan Trio ||| 621
+Bon Jovi ||| 609
+Heather Nova ||| 609
+Green Day ||| 607
+## playcount: 66846

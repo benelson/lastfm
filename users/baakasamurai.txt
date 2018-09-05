@@ -1,0 +1,51 @@
+Engenheiros Do Hawaii ||| 9017
+Radiohead ||| 5845
+Pink Floyd ||| 4849
+Bob Dylan ||| 4608
+David Bowie ||| 3175
+Nando Reis ||| 3152
+The Doors ||| 2892
+Pearl Jam ||| 2770
+The Smiths ||| 2762
+The Cure ||| 2358
+Os Paralamas Do Sucesso ||| 2221
+Caetano Veloso ||| 2186
+Raul Seixas ||| 2178
+Biquini Cavadão ||| 2092
+Iron Maiden ||| 2019
+The Rolling Stones ||| 1940
+Apanhador Só ||| 1740
+Humberto Gessinger ||| 1654
+Lynyrd Skynyrd ||| 1646
+Neil Young ||| 1565
+The Beatles ||| 1561
+O Teatro Mágico ||| 1427
+Móveis Coloniais de Acaju ||| 1409
+The Wallflowers ||| 1389
+Rage Against the Machine ||| 1332
+Creedence Clearwater Revival ||| 1315
+Alice Cooper ||| 1307
+Buffalo Springfield ||| 1251
+Belchior ||| 1219
+Legião Urbana ||| 1212
+Titãs ||| 1164
+The Who ||| 999
+Nenhum de Nós ||| 994
+Ira! ||| 964
+Eddie Vedder ||| 926
+Los Hermanos ||| 895
+Cachorro Grande ||| 889
+Johnny Cash ||| 810
+Jimi Hendrix ||| 776
+Vivendo do Ócio ||| 763
+Capital Inicial ||| 716
+Nirvana ||| 711
+A Banda Mais Bonita da Cidade ||| 698
+Isbells ||| 695
+Ramones ||| 680
+The Mamas & the Papas ||| 658
+The Strokes ||| 638
+Led Zeppelin ||| 610
+Suricato ||| 610
+Ozzy Osbourne ||| 577
+## playcount: 89864

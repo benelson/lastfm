@@ -1,0 +1,51 @@
+Tool ||| 1807
+Alice in Chains ||| 1690
+Nirvana ||| 1176
+Pantera ||| 1144
+Red Hot Chili Peppers ||| 1077
+Pearl Jam ||| 992
+Iron Maiden ||| 956
+Soundgarden ||| 953
+Pink Floyd ||| 796
+Neil Young ||| 781
+The Doors ||| 643
+Queens of the Stone Age ||| 624
+Black Sabbath ||| 598
+Opeth ||| 592
+Radiohead ||| 576
+Blind Melon ||| 566
+Metallica ||| 551
+Misfits ||| 538
+The Beatles ||| 499
+Stone Temple Pilots ||| 492
+Screaming Trees ||| 483
+Guns N' Roses ||| 453
+Slayer ||| 443
+Death ||| 432
+John Frusciante ||| 401
+Foo Fighters ||| 383
+Mark Lanegan ||| 354
+Ramones ||| 348
+Kiss ||| 344
+Weezer ||| 336
+Rage Against the Machine ||| 323
+The Tragically Hip ||| 322
+Neil Young & Crazy Horse ||| 305
+Children of Bodom ||| 304
+Justin Timberlake ||| 302
+Borknagar ||| 298
+Motörhead ||| 297
+Van Halen ||| 272
+Mad Season ||| 262
+Steve Miller Band ||| 245
+Heart ||| 239
+Led Zeppelin ||| 237
+Dream Theater ||| 235
+Jethro Tull ||| 227
+Hole ||| 226
+Desert Sessions ||| 222
+Ween ||| 214
+The Rolling Stones ||| 213
+Kanye West ||| 212
+Megadeth ||| 208
+## playcount: 26191

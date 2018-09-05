@@ -1,0 +1,51 @@
+The Beatles ||| 163
+Depeche Mode ||| 49
+The Animals ||| 49
+Aerosmith ||| 47
+Incubus ||| 40
+Pink Floyd ||| 37
+The Rolling Stones ||| 37
+Radiohead ||| 30
+Thrice ||| 22
+Arctic Monkeys ||| 21
+The Smashing Pumpkins ||| 21
+Queen ||| 20
+The All-American Rejects ||| 18
+The Doors ||| 17
+Fall Out Boy ||| 16
+R.E.M. ||| 16
+Bloc Party ||| 15
+Green Day ||| 15
+Sevendust ||| 14
+The Verve ||| 14
+Led Zeppelin ||| 13
+Muse ||| 13
+The Strokes ||| 13
+Tool ||| 13
+Finger Eleven ||| 12
+Pearl Jam ||| 11
+Cat Power ||| 10
+Death Cab for Cutie ||| 10
+Matthew Good ||| 10
+Red Hot Chili Peppers ||| 10
+Foo Fighters ||| 9
+Jeff Buckley ||| 9
+Nine Inch Nails ||| 9
+Placebo ||| 9
+Wolfmother ||| 9
+A Perfect Circle ||| 8
+Captain Oats ||| 8
+Lenny Kravitz ||| 8
+Nirvana ||| 8
+Boards of Canada ||| 7
+Donnie Darko ||| 7
+John Lennon ||| 7
+Supertramp ||| 7
+Cocteau Twins ||| 6
+dEUS ||| 6
+Matchbox Twenty ||| 6
+Panic! at the Disco ||| 6
+Paramore ||| 6
+The Cure ||| 6
+The Killers ||| 6
+## playcount: 923

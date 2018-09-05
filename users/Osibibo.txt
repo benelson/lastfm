@@ -1,0 +1,51 @@
+[unknown] ||| 59
+The Doors ||| 27
+The Paragons ||| 26
+The Who ||| 25
+Eric Clapton ||| 24
+Desmond Dekker ||| 23
+Jimi Hendrix ||| 23
+Justin Hinds & The Dominoes ||| 23
+The Ethiopians ||| 23
+The Pioneers ||| 23
+The Rolling Stones ||| 23
+Toots and The Maytals ||| 23
+Creedence Clearwater Revival ||| 21
+Delilah ||| 21
+Derrick Harriott ||| 20
+The Melodians ||| 20
+Bob Marley ||| 19
+Alton Ellis ||| 17
+Clancy Eccles ||| 17
+Derrick Morgan ||| 17
+Desmond Dekker & The Aces ||| 17
+Don Drummond ||| 17
+Muddy Waters ||| 17
+The Selecter ||| 17
+The Maytals ||| 16
+Black Sabbath ||| 15
+Prince Buster ||| 15
+The Andrews Sisters ||| 15
+The Skatalites ||| 15
+The Yardbirds ||| 15
+Deep Purple ||| 14
+Dennis Alcapone ||| 14
+Jethro Tull ||| 14
+Judge Dread ||| 14
+Marcia Griffiths ||| 14
+Robert Johnson ||| 14
+The Kinks ||| 14
+The Specials ||| 14
+Aerosmith ||| 13
+Los Fabulosos Cadillacs ||| 13
+Lynyrd Skynyrd ||| 13
+Stranger & Patsy ||| 13
+Symarip ||| 13
+The Young Dubliners ||| 13
+AC/DC ||| 12
+Chuck Berry ||| 12
+Cream ||| 12
+Delroy Wilson ||| 12
+Manu Chao ||| 12
+Municipale Balcanica ||| 12
+## playcount: 895

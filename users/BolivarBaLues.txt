@@ -1,0 +1,51 @@
+John Coltrane ||| 8022
+Miles Davis ||| 6431
+Andrew Hill ||| 3868
+Bill Evans ||| 3384
+Thelonious Monk ||| 2347
+The Beatles ||| 1172
+Paul Motian ||| 952
+Charlie Parker ||| 775
+Grateful Dead ||| 740
+Wayne Shorter ||| 663
+Brad Mehldau ||| 597
+Charles Lloyd ||| 545
+Wilco ||| 511
+Charles Mingus ||| 455
+Dave Holland ||| 445
+Bill Evans Trio ||| 412
+Sonny Rollins ||| 403
+The Replacements ||| 350
+Joe Henderson ||| 319
+Duke Ellington ||| 315
+Bobby Hutcherson ||| 309
+Eric Dolphy ||| 308
+The Band ||| 299
+The Rolling Stones ||| 292
+The Beach Boys ||| 287
+Art Blakey & The Jazz Messengers ||| 279
+The Who ||| 251
+Herbie Hancock ||| 225
+The Velvet Underground ||| 225
+Neil Young ||| 222
+Albert Ayler ||| 221
+Art Blakey ||| 214
+McCoy Tyner ||| 212
+Bud Powell ||| 207
+Cannonball Adderley ||| 203
+Bob Dylan ||| 196
+Alice Coltrane ||| 194
+Kitaro ||| 187
+Ornette Coleman ||| 186
+Big Star ||| 173
+Frank Zappa ||| 155
+Horace Silver ||| 150
+Thelonious Monk with John Coltrane ||| 148
+Art Pepper ||| 144
+Nels Cline ||| 144
+The Flaming Lips ||| 141
+Fat Bastard ||| 140
+Freddie Hubbard ||| 138
+Lee Morgan ||| 138
+Jefferson Airplane ||| 135
+## playcount: 38829

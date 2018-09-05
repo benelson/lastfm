@@ -1,0 +1,51 @@
+U2 ||| 4664
+Queen ||| 377
+Coldplay ||| 288
+David Bowie ||| 260
+Pearl Jam ||| 206
+Nirvana ||| 204
+The Rolling Stones ||| 179
+Foo Fighters ||| 149
+Muse ||| 149
+Aerosmith ||| 114
+Bono ||| 113
+Green Day ||| 112
+The Beatles ||| 108
+Legião Urbana ||| 102
+Bruce Springsteen ||| 83
+R.E.M. ||| 80
+Ultraje A Rigor ||| 75
+Bad Religion ||| 74
+Oasis ||| 67
+Iron Maiden ||| 65
+Pink Floyd ||| 61
+Warren Zevon ||| 57
+Charlie Brown JR. ||| 56
+Black Sabbath ||| 55
+The Cure ||| 53
+The Clash ||| 52
+AC/DC ||| 48
+The Killers ||| 47
+Led Zeppelin ||| 36
+Lorde ||| 36
+Mamonas Assassinas ||| 36
+Bob Dylan ||| 34
+The Black Keys ||| 31
+Elvis Presley ||| 30
+Paul McCartney ||| 28
+Damien Rice ||| 26
+Eric Clapton ||| 26
+Tenacious D ||| 26
+Freddie Mercury ||| 25
+Raimundos ||| 24
+The White Stripes ||| 22
+Michael Jackson ||| 20
+Kasabian ||| 19
+a-ha ||| 18
+O.A.R. ||| 18
+ZZ Top ||| 16
+The Police ||| 15
+Van Halen ||| 15
+Audioslave ||| 14
+Gruntruck ||| 11
+## playcount: 8424

@@ -1,0 +1,51 @@
+blink-182 ||| 7592
+Arctic Monkeys ||| 5142
+Fall Out Boy ||| 4856
+My Chemical Romance ||| 3365
+All Time Low ||| 2220
+Alkaline Trio ||| 1814
+Twenty One Pilots ||| 1114
+Ed Sheeran ||| 1042
+Billy Talent ||| 1014
+White Lies ||| 994
+Sum 41 ||| 860
+Kettcar ||| 853
+Neck Deep ||| 803
+Casper ||| 802
+Bring Me the Horizon ||| 780
+Kate Nash ||| 737
+Die Ärzte ||| 731
+Panic! at the Disco ||| 727
+The Killers ||| 711
+Green Day ||| 701
+Taylor Swift ||| 696
+Placebo ||| 629
+Madsen ||| 626
+Linkin Park ||| 620
+Gisbert zu Knyphausen ||| 586
+Example ||| 580
+Waterparks ||| 539
++44 ||| 512
+Coldplay ||| 510
+Real Friends ||| 454
+Muff Potter ||| 440
+The Kooks ||| 422
+Angels & Airwaves ||| 403
+Kraftklub ||| 396
+Die Roten Rosen ||| 386
+Franz Ferdinand ||| 376
+The Wombats ||| 375
+Jimmy Eat World ||| 373
+Kings of Leon ||| 365
+Adele ||| 363
+System of a Down ||| 359
+Bloc Party ||| 356
+Die Toten Hosen ||| 354
+Beatsteaks ||| 342
+Ellie Goulding ||| 339
+Macklemore & Ryan Lewis ||| 323
+Clueso ||| 317
+Good Charlotte ||| 301
+Sportfreunde Stiller ||| 293
+Biffy Clyro ||| 284
+## playcount: 49777

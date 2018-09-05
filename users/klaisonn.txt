@@ -1,0 +1,51 @@
+Judas Priest ||| 413
+Slayer ||| 335
+Black Sabbath ||| 326
+Pink Floyd ||| 308
+Death ||| 230
+Led Zeppelin ||| 210
+Metallica ||| 201
+Morbid Angel ||| 192
+The Doors ||| 191
+Megadeth ||| 168
+Black Label Society ||| 163
+Deep Purple ||| 127
+Van Halen ||| 126
+Rush ||| 116
+Venom ||| 112
+Queen ||| 110
+Deicide ||| 108
+Alice in Chains ||| 104
+Sarcófago ||| 96
+Pentagram ||| 90
+Kreator ||| 86
+Quorthon ||| 76
+Sodom ||| 72
+Possessed ||| 71
+Creedence Clearwater Revival ||| 70
+Krisiun ||| 69
+Obituary ||| 68
+Exodus ||| 62
+Pantera ||| 60
+The Rolling Stones ||| 57
+Mercyful Fate ||| 55
+Running Wild ||| 49
+Vio-Lence ||| 42
+Lynyrd Skynyrd ||| 41
+Sepultura ||| 41
+D.R.I. ||| 39
+Iron Maiden ||| 39
+Chaos Synopsis ||| 37
+Napalm Death ||| 36
+Destruction ||| 34
+Opeth ||| 34
+Dio ||| 31
+Hellhammer ||| 30
+MX ||| 28
+ZZ Top ||| 28
+Mötley Crüe ||| 27
+Grave Digger ||| 26
+Saxon ||| 25
+Necrophagist ||| 24
+Bloodbath ||| 23
+## playcount: 5106

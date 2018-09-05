@@ -1,0 +1,51 @@
+Kylie Minogue ||| 45287
+Madonna ||| 15822
+Beyoncé ||| 10235
+Lady Gaga ||| 9658
+Katy Perry ||| 9493
+Christina Aguilera ||| 8814
+Mariah Carey ||| 8479
+Florence + the Machine ||| 7977
+Rihanna ||| 7694
+Shakira ||| 6537
+Lana Del Rey ||| 6409
+Jennifer Lopez ||| 6300
+Sam Sparro ||| 5599
+Thalía ||| 5060
+Ellie Goulding ||| 4328
+Britney Spears ||| 4263
+Dannii Minogue ||| 4139
+Cher ||| 3964
+Whitney Houston ||| 3891
+Paloma Faith ||| 3615
+Taylor Swift ||| 3476
+Nelly Furtado ||| 3322
+Adele ||| 3210
+Avril Lavigne ||| 3089
+Justin Timberlake ||| 3036
+Amy Winehouse ||| 3008
+Bruno Mars ||| 2952
+Alicia Keys ||| 2862
+Maroon 5 ||| 2826
+Sertab Erener ||| 2744
+Carly Rae Jepsen ||| 2648
+Demi Lovato ||| 2586
+Ke$ha ||| 2342
+Will Young ||| 2332
+Gwen Stefani ||| 2293
+Michael Jackson ||| 2186
+Barbra Streisand ||| 2118
+Justin Bieber ||| 2070
+Jessie J ||| 2046
+Sarah Brightman ||| 2004
+Sophie Ellis-Bextor ||| 1995
+Delta Goodrem ||| 1981
+Clare Maguire ||| 1966
+BOBBY NEWBERRY ||| 1959
+Kelly Rowland ||| 1928
+OneRepublic ||| 1925
+Ariana Grande ||| 1919
+Leona Lewis ||| 1911
+Lily Allen ||| 1893
+Melody Gardot ||| 1887
+## playcount: 250078

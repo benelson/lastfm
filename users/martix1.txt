@@ -1,0 +1,51 @@
+Foo Fighters ||| 7468
+Queens of the Stone Age ||| 6496
+Modest Mouse ||| 6062
+The Vines ||| 4992
+Red Hot Chili Peppers ||| 4173
+The Beatles ||| 3915
+The White Stripes ||| 3653
+The Subways ||| 2961
+The Killers ||| 2746
+Arctic Monkeys ||| 2628
+Beatsteaks ||| 2525
+Jet ||| 2390
+August Burns Red ||| 2329
+System of a Down ||| 2108
+Oomph! ||| 1828
+Green Day ||| 1818
+Enter Shikari ||| 1661
+Trivium ||| 1567
+Rammstein ||| 1498
+Supergrass ||| 1419
+Pink Floyd ||| 1353
+The Raconteurs ||| 1340
+The Strokes ||| 1304
+Deftones ||| 1276
+The Smashing Pumpkins ||| 1211
+Jimi Hendrix ||| 1071
+Gorillaz ||| 1062
+Coldplay ||| 1002
+Digitalism ||| 890
+The Von Bondies ||| 883
+Kings of Leon ||| 865
+Switchfoot ||| 851
+Archive ||| 841
+Audioslave ||| 825
+Franz Ferdinand ||| 823
+Megadeth ||| 817
+Finch ||| 803
+Shiny Toy Guns ||| 794
+AC/DC ||| 773
+Prāta Vētra ||| 765
+Placebo ||| 763
+Iron Maiden ||| 757
+Guns N' Roses ||| 746
+Dope ||| 738
+Led Zeppelin ||| 715
+Radiohead ||| 676
+The John Butler Trio ||| 671
+Pendulum ||| 659
+Nirvana ||| 655
+The Verve ||| 638
+## playcount: 90804

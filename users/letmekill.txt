@@ -1,0 +1,51 @@
+AC/DC ||| 6703
+Muse ||| 6243
+Metallica ||| 4329
+The xx ||| 3188
+Queens of the Stone Age ||| 2940
+Black Drawing Chalks ||| 2770
+System of a Down ||| 2196
+Skid Row ||| 2184
+Porcupine Tree ||| 2149
+Crucified Barbara ||| 2122
+Rammstein ||| 1997
+Slayer ||| 1960
+The Killers ||| 1897
+Matanza ||| 1798
+Audioslave ||| 1690
+Pantera ||| 1648
+Marilyn Manson ||| 1517
+Snow Patrol ||| 1487
+Alice in Chains ||| 1427
+Megadeth ||| 1339
+Van Halen ||| 1338
+Nirvana ||| 1310
+Korpiklaani ||| 1305
+The Kooks ||| 1239
+Scorpions ||| 1219
+HorrorPops ||| 1123
+Nebula ||| 1118
+Incubus ||| 1075
+Desert Sessions ||| 1073
+Interpol ||| 1073
+Clutch ||| 1051
+Hans Zimmer ||| 933
+Violent Soho ||| 922
+The White Stripes ||| 837
+Kiss ||| 800
+Foo Fighters ||| 777
+Red Hot Chili Peppers ||| 771
+Arctic Monkeys ||| 752
+The Strokes ||| 748
+The Atomic Bitchwax ||| 704
+Black Label Society ||| 661
+White Lion ||| 660
+Nazareth ||| 658
+The Pretty Reckless ||| 657
+The Black Keys ||| 644
+John Frusciante ||| 641
+Pearl Jam ||| 631
+Guns N' Roses ||| 609
+Hysterica ||| 606
+Johnny Cash ||| 542
+## playcount: 78061

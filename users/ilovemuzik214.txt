@@ -1,0 +1,51 @@
+The Beatles ||| 10827
+Eminem ||| 5900
+Tyler, the Creator ||| 2821
+Madvillain ||| 2542
+Green Day ||| 2367
+Kanye West ||| 2307
+The Smashing Pumpkins ||| 2200
+Frank Ocean ||| 2191
+Pink Floyd ||| 2169
+Led Zeppelin ||| 2125
+Elvis Presley ||| 1652
+50 Cent ||| 1612
+U2 ||| 1457
+Fleetwood Mac ||| 1419
+The Rolling Stones ||| 1347
+Norah Jones ||| 1171
+Bob Dylan ||| 1158
+Red Hot Chili Peppers ||| 1113
+Kendrick Lamar ||| 1108
+Metallica ||| 1057
+OutKast ||| 989
+Jay-Z ||| 969
+Def Leppard ||| 913
+Van Halen ||| 827
+[unknown] ||| 771
+The Doors ||| 768
+Radiohead ||| 757
+The Beach Boys ||| 752
+2Pac ||| 748
+Dr. Dre ||| 747
+Michael Jackson ||| 714
+Nas ||| 706
+Drake ||| 693
+George Harrison ||| 660
+Nelly ||| 602
+R.E.M. ||| 539
+Omi ||| 502
+Bee Gees ||| 501
+OFWGKTA ||| 499
+Disclosure ||| 498
+Stone Temple Pilots ||| 484
+Bob Marley & The Wailers ||| 483
+Paul McCartney & Wings ||| 479
+John Lennon ||| 476
+Destroyer ||| 459
+The Clash ||| 458
+Kid Rock ||| 416
+Dire Straits ||| 412
+The Notorious B.I.G. ||| 402
+Christina Aguilera ||| 398
+## playcount: 67165

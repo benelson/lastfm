@@ -1,0 +1,51 @@
+Death ||| 3096
+Bathory ||| 1098
+Evergrey ||| 690
+Summoning ||| 439
+Black Sabbath ||| 426
+Venom ||| 392
+Sabaton ||| 389
+Pentagram ||| 368
+Satyricon ||| 361
+Testament ||| 348
+Judas Priest ||| 299
+Gojira ||| 283
+Annihilator ||| 253
+Cangaço ||| 252
+Sodom ||| 217
+Machine Head ||| 215
+Nuclear Assault ||| 207
+Sepultura ||| 206
+Kreator ||| 192
+Behemoth ||| 190
+Johnny Cash ||| 187
+Death Angel ||| 186
+Coroner ||| 184
+Meshuggah ||| 182
+Onslaught ||| 179
+Candlemass ||| 174
+Slayer ||| 174
+Megadeth ||| 165
+Samael ||| 160
+Dream Theater ||| 159
+Possessed ||| 147
+HammerFall ||| 138
+Obituary ||| 137
+Jethro Tull ||| 135
+Anthrax ||| 134
+Empyrium ||| 133
+Emyn Muil ||| 118
+Opeth ||| 117
+Sarcófago ||| 116
+Morbid Angel ||| 110
+Ratos De Porão ||| 106
+Tame Impala ||| 105
+Modern Talking ||| 104
+Pyotr Ilyich Tchaikovsky ||| 103
+Gangrena Gasosa ||| 101
+Velho ||| 100
+Isengard ||| 97
+Cynic ||| 90
+Unleashed ||| 89
+Exodus ||| 86
+## playcount: 13937

@@ -1,0 +1,51 @@
+Kent ||| 20810
+Porcupine Tree ||| 12788
+Suede ||| 10635
+No-Man ||| 9452
+Polar ||| 7741
+Radiohead ||| 7627
+Pink Floyd ||| 6271
+Vast ||| 5354
+Anathema ||| 5066
+The Smashing Pumpkins ||| 4885
+Boards of Canada ||| 4776
+Shearwater ||| 4760
+Mogwai ||| 4024
+The National ||| 3837
+Kings of Convenience ||| 3741
+The Antlers ||| 3688
+Nine Inch Nails ||| 3514
+Black Rebel Motorcycle Club ||| 3386
+Wild Beasts ||| 3332
+Elbow ||| 3297
+dredg ||| 3284
+The Reindeer Section ||| 3261
+Mew ||| 3184
+The Gathering ||| 3057
+Manic Street Preachers ||| 3015
+James ||| 2767
+Thirteen Senses ||| 2713
+Nick Drake ||| 2597
+Bedhead ||| 2491
+Blonde Redhead ||| 2441
+Eskobar ||| 2441
+Interpol ||| 2436
+Travis ||| 2396
+Pulp ||| 2391
+The Brian Jonestown Massacre ||| 2324
+Zoé ||| 2215
+A Perfect Circle ||| 2153
+Richard Hawley ||| 2133
+King Crimson ||| 2113
+Yo La Tengo ||| 2113
+Death Cab for Cutie ||| 2039
+Editors ||| 2030
+The Cure ||| 2004
+Chet Baker ||| 1962
+Tool ||| 1941
+Gazpacho ||| 1882
+Arab Strap ||| 1836
+Brett Anderson ||| 1753
+Silversun Pickups ||| 1752
+Steven Wilson ||| 1751
+## playcount: 199459

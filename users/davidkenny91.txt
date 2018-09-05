@@ -1,0 +1,51 @@
+The Beatles ||| 1710
+Radiohead ||| 1702
+Oasis ||| 994
+U2 ||| 751
+Led Zeppelin ||| 635
+Fleetwood Mac ||| 582
+Coldplay ||| 566
+Foo Fighters ||| 559
+Armin van Buuren ||| 536
+Blur ||| 530
+The Rolling Stones ||| 474
+Queen ||| 399
+David Guetta ||| 361
+Sting ||| 361
+Stereophonics ||| 350
+deadmau5 ||| 331
+Moby ||| 324
+David Bowie ||| 322
+Metallica ||| 318
+blink-182 ||| 302
+Placebo ||| 296
+Ben Howard ||| 292
+AC/DC ||| 289
+Biffy Clyro ||| 287
+Muse ||| 279
+Linkin Park ||| 272
+Kanye West ||| 263
+Avicii ||| 260
+Pink Floyd ||| 253
+Stevie Wonder ||| 244
+The Police ||| 242
+Daft Punk ||| 233
+The Stone Roses ||| 232
+The Who ||| 232
+Queens of the Stone Age ||| 230
+The White Stripes ||| 226
+Gorillaz ||| 225
+The Offspring ||| 223
+Yann Tiersen ||| 223
+Jay-Z ||| 212
+Bob Dylan ||| 207
+Coheed and Cambria ||| 205
+Michael Jackson ||| 201
+Iron Maiden ||| 199
+Red Hot Chili Peppers ||| 196
+Calvin Harris ||| 191
+Fleet Foxes ||| 191
+Bloc Party ||| 184
+R.E.M. ||| 184
+Elton John ||| 175
+## playcount: 19053

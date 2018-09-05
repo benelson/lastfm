@@ -1,0 +1,51 @@
+Incubus ||| 2222
+Porcupine Tree ||| 2143
+dredg ||| 2116
+Red Hot Chili Peppers ||| 1884
+Coldplay ||| 1392
+Amorphis ||| 1250
+Sentenced ||| 1199
+Nightwish ||| 1185
+Clueso ||| 1172
+Poets of the Fall ||| 1137
+Schandmaul ||| 1135
+Emil Bulls ||| 1105
+The John Butler Trio ||| 1088
+Tool ||| 1062
+Jack Johnson ||| 1044
+Metallica ||| 1043
+The Shins ||| 1041
+Pearl Jam ||| 1003
+Chevelle ||| 924
+Mando Diao ||| 914
+Dispatch ||| 876
+U2 ||| 824
+Placebo ||| 801
+Charon ||| 797
+In Extremo ||| 796
+Children of Bodom ||| 791
+Deftones ||| 788
+Nirvana ||| 785
+Eskobar ||| 750
+Foo Fighters ||| 699
+Sonata Arctica ||| 680
+Billy Talent ||| 657
+Queens of the Stone Age ||| 648
+Shinedown ||| 647
+Jimmy Eat World ||| 625
+Joshua Radin ||| 616
+Snow Patrol ||| 595
+Plain White T's ||| 585
+Boards of Canada ||| 582
+Iced Earth ||| 512
+Cold ||| 500
+3 Doors Down ||| 462
+Cargo City ||| 459
+30 Seconds to Mars ||| 455
+In Flames ||| 451
+End of Green ||| 440
+Evanescence ||| 416
+Farin Urlaub ||| 415
+Andy McKee ||| 410
+Bob Marley ||| 388
+## playcount: 44509

@@ -1,0 +1,51 @@
+Type O Negative ||| 23172
+Dinosaur Jr. ||| 15731
+Pixies ||| 10290
+Misfits ||| 8234
+Rage Against the Machine ||| 4419
+Korn ||| 3952
+The Cure ||| 3656
+Pink Floyd ||| 3340
+Sonic Youth ||| 3132
+System of a Down ||| 3095
+The Smiths ||| 2849
+Joy Division ||| 2787
+Blitzkid ||| 2737
+Raimundos ||| 2311
+Dead Fish ||| 2002
+Ramones ||| 1993
+Lifelover ||| 1888
+Slipknot ||| 1888
+Pearl Jam ||| 1848
+Paradise Lost ||| 1784
+Deftones ||| 1714
+Matanza ||| 1659
+Nirvana ||| 1618
+Mudvayne ||| 1518
+Canto dos Malditos na Terra do Nunca ||| 1475
+October Tide ||| 1471
+Sesto Sento ||| 1466
+The Offspring ||| 1363
+Danzig ||| 1280
+Burzum ||| 1264
+Slayer ||| 1205
+Ozzy Osbourne ||| 1113
+The Smashing Pumpkins ||| 1105
+Rise Against ||| 1086
+All That Remains ||| 991
+Gorillaz ||| 990
+Alice in Chains ||| 937
+Wild Nothing ||| 920
+The Doors ||| 874
+Marilyn Manson ||| 851
+Lamb of God ||| 842
+Mobb Deep ||| 826
+Black Sabbath ||| 804
+Motörhead ||| 803
+Carnivore ||| 799
+Nazareth ||| 782
+Iron Maiden ||| 729
+Pavement ||| 721
+Masters Apprentices ||| 684
+Rammstein ||| 672
+## playcount: 133670

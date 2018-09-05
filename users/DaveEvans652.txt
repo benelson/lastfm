@@ -1,0 +1,51 @@
+U2 ||| 472
+Muse ||| 384
+Arcade Fire ||| 379
+The Beatles ||| 376
+Coldplay ||| 351
+Poets of the Fall ||| 334
+ABBA ||| 292
+Placebo ||| 273
+Anathema ||| 272
+Hooverphonic ||| 259
+Simple Minds ||| 259
+Porcupine Tree ||| 238
+Manchester Orchestra ||| 210
+R.E.M. ||| 203
+Steven Wilson ||| 200
+Manic Street Preachers ||| 199
+Electric Light Orchestra ||| 180
+Editors ||| 179
+The War on Drugs ||| 170
+Snow Patrol ||| 165
+Interpol ||| 151
+Bruce Springsteen ||| 141
+David Bowie ||| 137
+Johan ||| 133
+Thirteen Senses ||| 129
+The National ||| 125
+The Slow Show ||| 121
+Kings of Leon ||| 115
+Elbow ||| 114
+Radiohead ||| 113
+Fleetwood Mac ||| 109
+The Rolling Stones ||| 109
+Pink Floyd ||| 105
+Foo Fighters ||| 102
+Belle and Sebastian ||| 101
+The Waterboys ||| 100
+Neil Diamond ||| 98
+Novastar ||| 97
+Pearl Jam ||| 95
+Queen ||| 95
+Tears for Fears ||| 94
+Boudewijn de Groot ||| 87
+Sivert Høyem ||| 87
+The Alan Parsons Project ||| 85
+Rammstein ||| 83
+Linkin Park ||| 82
+Depeche Mode ||| 81
+Dream Theater ||| 80
+Other Lives ||| 80
+Supertramp ||| 80
+## playcount: 8524

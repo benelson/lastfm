@@ -1,0 +1,51 @@
+Christina Aguilera ||| 39900
+Rihanna ||| 18673
+Katy Perry ||| 10894
+Janet Jackson ||| 10803
+Madonna ||| 10749
+Beyoncé ||| 9723
+Ariana Grande ||| 8142
+Lady Gaga ||| 7112
+P!nk ||| 6827
+Mariah Carey ||| 6239
+Jennifer Lopez ||| 6023
+Kelly Clarkson ||| 5224
+Britney Spears ||| 5064
+Demi Lovato ||| 4447
+Kylie Minogue ||| 4295
+Nicki Minaj ||| 4223
+Miley Cyrus ||| 4218
+Ke$ha ||| 4089
+Avril Lavigne ||| 4014
+Shakira ||| 3788
+Taylor Swift ||| 3765
+Ellie Goulding ||| 3029
+Jessie J ||| 2940
+Paramore ||| 2810
+Nelly Furtado ||| 2790
+Gwen Stefani ||| 2577
+Iggy Azalea ||| 2523
+Michael Jackson ||| 2334
+Adele ||| 2250
+Azealia Banks ||| 2211
+Whitney Houston ||| 2163
+Alanis Morissette ||| 1932
+Tinashe ||| 1820
+Black Eyed Peas ||| 1701
+Destiny's Child ||| 1676
+The Pretty Reckless ||| 1651
+Hilary Duff ||| 1648
+M.I.A. ||| 1628
+Ciara ||| 1627
+Missy Elliott ||| 1624
+Selena Gomez ||| 1606
+Marilyn Manson ||| 1563
+Fifth Harmony ||| 1527
+Fergie ||| 1513
+Calvin Harris ||| 1453
+Sia ||| 1349
+Alicia Keys ||| 1237
+Glee Cast ||| 1225
+Coldplay ||| 1199
+Justin Timberlake ||| 1181
+## playcount: 232999

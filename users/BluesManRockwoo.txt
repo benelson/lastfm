@@ -1,0 +1,51 @@
+The Beatles ||| 4663
+Bob Dylan ||| 1743
+Radiohead ||| 1397
+Pavement ||| 1320
+Tom Waits ||| 1299
+J Dilla ||| 1220
+Animal Collective ||| 1048
+The Beach Boys ||| 1043
+My Bloody Valentine ||| 1016
+of Montreal ||| 951
+The Velvet Underground ||| 943
+Yo La Tengo ||| 872
+Beck ||| 829
+Brother Ali ||| 788
+De La Soul ||| 735
+The Microphones ||| 734
+Guided by Voices ||| 728
+Beastie Boys ||| 720
+Neutral Milk Hotel ||| 714
+Dan Deacon ||| 694
+Sonic Youth ||| 686
+Minutemen ||| 645
+Bruce Springsteen ||| 639
+The Rolling Stones ||| 632
+Grateful Dead ||| 613
+Atmosphere ||| 605
+Dinosaur Jr. ||| 578
+The Smashing Pumpkins ||| 561
+Novos Baianos ||| 505
+Randy Newman ||| 504
+The Jimi Hendrix Experience ||| 499
+Frank Sinatra ||| 473
+Jack Johnson ||| 452
+A Tribe Called Quest ||| 442
+Pixies ||| 440
+Weezer ||| 439
+Deerhoof ||| 429
+Nick Drake ||| 429
+John Lennon ||| 428
+Eric Clapton ||| 408
+The Kinks ||| 398
+Simon & Garfunkel ||| 393
+Howlin' Wolf ||| 382
+The Temptations ||| 376
+Van Morrison ||| 368
+Belle and Sebastian ||| 363
+Neil Young ||| 355
+The Byrds ||| 349
+Donovan ||| 342
+Wilco ||| 330
+## playcount: 37520

@@ -1,0 +1,51 @@
+The Beatles ||| 1596
+Bob Dylan ||| 755
+Toto ||| 686
+Porcupine Tree ||| 653
+Dream Theater ||| 625
+Element of Crime ||| 524
+Led Zeppelin ||| 498
+The Jimi Hendrix Experience ||| 474
+Red Hot Chili Peppers ||| 394
+Eric Clapton ||| 372
+Bloc Party ||| 370
+Stevie Ray Vaughan and Double Trouble ||| 365
+Radiohead ||| 358
+The Rolling Stones ||| 336
+Selig ||| 322
+Nine Inch Nails ||| 312
+Foo Fighters ||| 311
+The Doors ||| 292
+Joe Satriani ||| 289
+Björk ||| 264
+Nick Cave & The Bad Seeds ||| 262
+Pink Floyd ||| 256
+Coldplay ||| 255
+Die Fantastischen Vier ||| 226
+Tenacious D ||| 220
+Heinz Strunk ||| 199
+The Police ||| 197
+Dave Matthews Band ||| 186
+Megadeth ||| 185
+Jimi Hendrix ||| 180
+Air ||| 161
+Simon Phillips ||| 156
+Depeche Mode ||| 154
+Jan Delay ||| 152
+Genesis ||| 143
+The Smiths ||| 130
+Arctic Monkeys ||| 125
+Katatonia ||| 125
+Kraftwerk ||| 115
+Blackfield ||| 113
+Oasis ||| 112
+Charlie Winston ||| 105
+Dire Straits ||| 105
+Gary Moore ||| 101
+Jeff Beck ||| 99
+Derek Sherinian ||| 97
+Opeth ||| 97
+Soundgarden ||| 97
+Henrik Freischlader ||| 96
+Prinz Pi ||| 96
+## playcount: 14341

@@ -1,0 +1,51 @@
+Anberlin ||| 2046
+Breaking Benjamin ||| 704
+A Day to Remember ||| 594
+Three Days Grace ||| 327
+Atreyu ||| 299
+Ivoryline ||| 285
+Sick Puppies ||| 261
+The Beatles ||| 248
+System of a Down ||| 240
+Skillet ||| 231
+Rise Against ||| 227
+Paramore ||| 200
+The All-American Rejects ||| 179
+The Red Jumpsuit Apparatus ||| 170
+Audioslave ||| 143
+Foo Fighters ||| 134
+30 Seconds to Mars ||| 133
+A Skylit Drive ||| 122
+Red Hot Chili Peppers ||| 122
+Green Day ||| 114
+Disturbed ||| 109
+Serj Tankian ||| 107
+Mindless Self Indulgence ||| 103
+The Bravery ||| 96
+Incubus ||| 90
+blink-182 ||| 89
+Linkin Park ||| 82
+Buckethead ||| 79
+Trans-Siberian Orchestra ||| 78
+Reel Big Fish ||| 67
+The Devil Wears Prada ||| 60
+Flight of the Conchords ||| 56
+My Chemical Romance ||| 56
+Marilyn Manson ||| 55
+Switchfoot ||| 55
+The Bunny the Bear ||| 54
+Death Cab for Cutie ||| 53
+Jimmy Eat World ||| 52
+Seether ||| 52
+Silversun Pickups ||| 52
+Yellowcard ||| 51
+Coldplay ||| 50
+The Rolling Stones ||| 49
+Close Your Eyes ||| 45
+Valencia ||| 45
+Weezer ||| 45
+Almost Alice ||| 44
+Tenacious D ||| 44
+The Hives ||| 44
+Deaf Pedestrians ||| 43
+## playcount: 8684

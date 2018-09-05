@@ -1,0 +1,51 @@
+Jason Mraz ||| 1113
+Pearl Jam ||| 260
+Justice ||| 256
+Queen ||| 204
+Blue Rodeo ||| 173
+Eric Hutchinson ||| 138
+Porcupine Tree ||| 118
+Metric ||| 113
+Daft Punk ||| 99
+Red Hot Chili Peppers ||| 99
+ZZ Top ||| 93
+K-OS ||| 88
+The Black Crowes ||| 86
+KT Tunstall ||| 85
+Carly Rae Jepsen ||| 83
+Damien Rice ||| 83
+Lynyrd Skynyrd ||| 81
+Electric Light Orchestra ||| 80
+Van Halen ||| 80
+Black Eyed Peas ||| 78
+Collective Soul ||| 75
+MGMT ||| 74
+Kanye West ||| 70
+Michael Franti & Spearhead ||| 70
+Alice Cooper ||| 67
+Elton John ||| 66
+The Beatles ||| 66
+Dire Straits ||| 65
+Boston ||| 64
+Breaking Benjamin ||| 64
+Bon Jovi ||| 63
+John Petrucci ||| 63
+John Mellencamp ||| 58
+Led Zeppelin ||| 57
+Rush ||| 56
+Great White ||| 53
+Nine Inch Nails ||| 52
+Creedence Clearwater Revival ||| 50
+Blue Öyster Cult ||| 45
+Supertramp ||| 44
+Deep Purple ||| 43
+Kings of Leon ||| 43
+Jimmy Page ||| 41
+Foo Fighters ||| 40
+OutKast ||| 40
+Pink Floyd ||| 40
+Audioslave ||| 39
+Dave Matthews Band ||| 38
+Michael Jackson ||| 38
+The Jeff Healey Band ||| 38
+## playcount: 5032

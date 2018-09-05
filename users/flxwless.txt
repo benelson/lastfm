@@ -1,0 +1,51 @@
+Rihanna ||| 3894
+Beyoncé ||| 2620
+Taylor Swift ||| 1875
+Jhené Aiko ||| 1137
+Fifth Harmony ||| 828
+Kendrick Lamar ||| 655
+J. Cole ||| 575
+Drake ||| 553
+Tinashe ||| 507
+Nicki Minaj ||| 487
+Britney Spears ||| 480
+Katy Perry ||| 470
+Ed Sheeran ||| 385
+Aaliyah ||| 363
+Camila Cabello ||| 359
+Ariana Grande ||| 346
+Christina Aguilera ||| 322
+Selena Gomez ||| 301
+Jennifer Lopez ||| 292
+The Game ||| 263
+Selena ||| 253
+Eminem ||| 251
+2Pac ||| 227
+50 Cent ||| 202
+Kanye West ||| 185
+Demi Lovato ||| 172
+Chris Brown ||| 170
+Jay-Z ||| 161
+Destiny's Child ||| 146
+YG ||| 144
+Bruno Mars ||| 131
+Rita Ora ||| 121
+Ciara ||| 109
+Jasmine V ||| 95
+Alicia Keys ||| 94
+T.I. ||| 91
+A$AP Rocky ||| 90
+Snoop Dogg ||| 87
+xxxtentacion ||| 85
+Justin Bieber ||| 82
+Dr. Dre ||| 72
+Childish Gambino ||| 71
+DJ Khaled ||| 71
+Lil' Wayne ||| 71
+Mariah Carey ||| 71
+Big Sean ||| 70
+Shakira ||| 69
+Nick Jonas ||| 68
+The Notorious B.I.G. ||| 68
+Nelly ||| 67
+## playcount: 20306

@@ -1,0 +1,51 @@
+Metallica ||| 359
+Sepultura ||| 198
+Judas Priest ||| 174
+The Beatles ||| 169
+Pink Floyd ||| 161
+Rush ||| 150
+Johann Sebastian Bach ||| 126
+Black Sabbath ||| 122
+Iron Maiden ||| 111
+Led Zeppelin ||| 105
+Ludwig van Beethoven ||| 105
+Queen ||| 95
+Elton John ||| 84
+Heitor Villa-Lobos ||| 82
+Dream Theater ||| 81
+Krisiun ||| 77
+Antonio Vivaldi ||| 75
+Cream ||| 74
+Slayer ||| 72
+Megadeth ||| 69
+The Beach Boys ||| 69
+Deep Purple ||| 66
+Wolfgang Amadeus Mozart ||| 66
+Jimi Hendrix ||| 61
+Motörhead ||| 61
+Nirvana ||| 60
+Misfits ||| 58
+Niccolò Paganini ||| 57
+Stevie Wonder ||| 57
+The Doors ||| 54
+Alice in Chains ||| 53
+Miles Davis ||| 53
+Ramones ||| 53
+Death ||| 51
+The Rolling Stones ||| 51
+Angra ||| 50
+Cavalera Conspiracy ||| 47
+Buddy Guy ||| 46
+Blind Guardian ||| 44
+Obituary ||| 43
+Sir Lord Baltimore ||| 43
+The Jimi Hendrix Experience ||| 43
+Captain Beyond ||| 41
+Genesis ||| 41
+Joe Satriani ||| 41
+Dave Brubeck ||| 40
+Grave Digger ||| 40
+Simon & Garfunkel ||| 40
+Morbid Angel ||| 39
+Black Label Society ||| 38
+## playcount: 3995

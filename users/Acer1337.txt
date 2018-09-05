@@ -1,0 +1,51 @@
+System of a Down ||| 167
+Foo Fighters ||| 159
+Nelly Furtado ||| 145
+Avril Lavigne ||| 143
+Queen ||| 142
+U2 ||| 135
+P!nk ||| 125
+Beyoncé ||| 123
+Coldplay ||| 122
+The Rolling Stones ||| 122
+Kelly Clarkson ||| 119
+Rihanna ||| 119
+Rage Against the Machine ||| 114
+Christina Aguilera ||| 112
+Incubus ||| 110
+Iron Maiden ||| 107
+Queens of the Stone Age ||| 107
+Radiohead ||| 107
+Guns N' Roses ||| 106
+The Killers ||| 106
+3 Doors Down ||| 104
+Natasha Bedingfield ||| 104
+Kings of Leon ||| 100
+Jennifer Lopez ||| 98
+Audioslave ||| 97
+David Bowie ||| 97
+Muse ||| 97
+Hilary Duff ||| 94
+Fergie ||| 91
+Gwen Stefani ||| 91
+Jim Johnston ||| 89
+JoJo ||| 88
+Black Sabbath ||| 87
+Ashlee Simpson ||| 86
+Nirvana ||| 86
+Aerosmith ||| 82
+Bruce Springsteen ||| 82
+Red Hot Chili Peppers ||| 80
+Breaking Benjamin ||| 79
+Lostprophets ||| 79
+Three Days Grace ||| 79
+Fall Out Boy ||| 77
+Natalie Imbruglia ||| 77
+Placebo ||| 77
+Sugababes ||| 77
+Marilyn Manson ||| 76
+Oasis ||| 76
+The Doors ||| 76
+Jimi Hendrix ||| 74
+Evanescence ||| 73
+## playcount: 5063

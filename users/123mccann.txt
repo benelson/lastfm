@@ -1,0 +1,51 @@
+The Beatles ||| 3563
+The Smiths ||| 1628
+Pink Floyd ||| 1565
+The Rolling Stones ||| 1456
+Ian Brown ||| 1420
+Jimi Hendrix ||| 1284
+The Stone Roses ||| 1071
+Oasis ||| 1053
+Arctic Monkeys ||| 1052
+The Jam ||| 1048
+The Beach Boys ||| 1020
+Jack Johnson ||| 886
+Joy Division ||| 773
+The Libertines ||| 750
+The Cribs ||| 697
+David Bowie ||| 644
+The Who ||| 635
+Daft Punk ||| 632
+The Cure ||| 609
+Radiohead ||| 581
+Kasabian ||| 571
+Led Zeppelin ||| 556
+The Kooks ||| 547
+Mac DeMarco ||| 517
+Angus & Julia Stone ||| 515
+Babyshambles ||| 514
+Blur ||| 503
+Bob Dylan ||| 502
+The Kinks ||| 474
+John Lennon ||| 472
+Coldplay ||| 465
+The Clash ||| 465
+Frank Sinatra ||| 452
+Doves ||| 395
+John Frusciante ||| 370
+Morrissey ||| 337
+Bloc Party ||| 328
+Nick Drake ||| 316
+Sex Pistols ||| 313
+The Strokes ||| 313
+Nirvana ||| 303
+The Doors ||| 286
+The xx ||| 286
+Paul McCartney ||| 258
+Foals ||| 253
+Audio Bullys ||| 252
+Syd Barrett ||| 240
+Yann Tiersen ||| 234
+Michael Jackson ||| 228
+Mystery Jets ||| 225
+## playcount: 33857

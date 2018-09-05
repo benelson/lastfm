@@ -1,0 +1,51 @@
+The Smiths ||| 1367
+Led Zeppelin ||| 1082
+Joy Division ||| 1070
+Public Image Ltd. ||| 536
+The Beatles ||| 494
+The Doors ||| 446
+The Stone Roses ||| 429
+The Velvet Underground ||| 337
+Pavement ||| 328
+Buzzcocks ||| 307
+Nick Drake ||| 300
+The Clash ||| 250
+Misfits ||| 194
+Black Sabbath ||| 184
+Pink Floyd ||| 180
+The Who ||| 167
+The Kinks ||| 162
+Bauhaus ||| 149
+Steve Vai ||| 142
+Boston ||| 136
+Creedence Clearwater Revival ||| 134
+Radiohead ||| 132
+New Order ||| 127
+Fugazi ||| 125
+Television ||| 124
+The Rolling Stones ||| 121
+Blue Öyster Cult ||| 120
+Interpol ||| 120
+Sonic Youth ||| 107
+Wire ||| 106
+The Strokes ||| 101
+Sublime ||| 98
+Sex Pistols ||| 92
+Cat Stevens ||| 88
+Depeche Mode ||| 88
+Dead Kennedys ||| 86
+The Specials ||| 86
+Eagles ||| 82
+The Smashing Pumpkins ||| 81
+Black Flag ||| 76
+The Cure ||| 75
+Devo ||| 73
+Nirvana ||| 70
+Metric ||| 68
+Echo & the Bunnymen ||| 63
+R.E.M. ||| 62
+Jane's Addiction ||| 61
+Queen ||| 61
+Social Distortion ||| 60
+Against Me! ||| 58
+## playcount: 11005

@@ -1,0 +1,51 @@
+MGMT ||| 246
+Sam Cooke ||| 246
+Raphaël ||| 217
+Arctic Monkeys ||| 215
+Ladyhawke ||| 213
+Gorillaz ||| 208
+Metric ||| 204
+La Roux ||| 203
+Cœur de Pirate ||| 201
+Florence + the Machine ||| 173
+Justice ||| 149
+The xx ||| 149
+Band of Horses ||| 140
+Interpol ||| 135
+The Ting Tings ||| 135
+Death Cab for Cutie ||| 132
+Foster the People ||| 127
+alt-J ||| 123
+Chew Lips ||| 121
+Criolo ||| 113
+Djavan ||| 108
+Yeah Yeah Yeahs ||| 106
+Scissor Sisters ||| 103
+Camera Obscura ||| 102
+The National ||| 97
+Glee Cast ||| 96
+Kylie Minogue ||| 95
+Marina & the Diamonds ||| 92
+Miike Snow ||| 91
+The Smiths ||| 91
+Radiohead ||| 90
+Ed Sheeran ||| 89
+Lady Gaga ||| 88
+Phoenix ||| 88
+Eurythmics ||| 86
+Two Door Cinema Club ||| 82
+The Killers ||| 80
+Jenny and Johnny ||| 79
+Gossip ||| 74
+O Rappa ||| 74
+The Libertines ||| 74
+The Shins ||| 73
+Klaxons ||| 72
+Hozier ||| 71
+Sam Smith ||| 70
+Madonna ||| 69
+Beyoncé ||| 67
+Chet Faker ||| 67
+Little Boots ||| 67
+Jack Johnson ||| 65
+## playcount: 5956

@@ -1,0 +1,51 @@
+Bob Dylan ||| 3889
+Animal Collective ||| 2065
+The Kinks ||| 1551
+Parquet Courts ||| 1538
+The Beatles ||| 1233
+The Velvet Underground ||| 967
+Clinic ||| 941
+Ludwig van Beethoven ||| 805
+Neil Young ||| 770
+The Brian Jonestown Massacre ||| 724
+The White Stripes ||| 658
+Bonnie 'Prince' Billy ||| 607
+The Rolling Stones ||| 589
+Caetano Veloso ||| 448
+The Doors ||| 427
+Tom Waits ||| 395
+Bright Eyes ||| 371
+M. Ward ||| 335
+Burning Spear ||| 333
+Cannibal Ox ||| 316
+Bob Marley & The Wailers ||| 311
+Silver Jews ||| 311
+Panda Bear ||| 285
+Bill Hicks ||| 268
+The Animals ||| 258
+Pixies ||| 256
+David Bowie ||| 243
+Harry Nilsson ||| 242
+The Magnetic Fields ||| 237
+Neil Young & Crazy Horse ||| 229
+MF DOOM ||| 227
+Daniele Luppi ||| 219
+Misfits ||| 215
+Aesop Rock ||| 209
+Herb Alpert and the Tijuana Brass ||| 203
+Manu Chao ||| 199
+Iggy Pop ||| 197
+Yo La Tengo ||| 187
+Bruce Springsteen ||| 185
+Doug Stanhope ||| 183
+The Band ||| 166
+Miles Davis ||| 161
+Van Morrison ||| 154
+Against Me! ||| 152
+Captain Beefheart & His Magic Band ||| 150
+Man Man ||| 150
+Wolfgang Amadeus Mozart ||| 150
+Steely Dan ||| 146
+Ryan Adams ||| 137
+Nirvana ||| 136
+## playcount: 25128

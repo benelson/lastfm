@@ -1,0 +1,51 @@
+Triumph ||| 2085
+Fates Warning ||| 1805
+Pink Floyd ||| 1748
+Van Halen ||| 1470
+Journey ||| 1445
+Rainbow ||| 1414
+Fleetwood Mac ||| 1078
+Led Zeppelin ||| 1065
+Rush ||| 1021
+Eagles ||| 986
+AC/DC ||| 982
+Black Sabbath ||| 943
+Ratt ||| 936
+Bob Seger ||| 909
+Queensrÿche ||| 898
+Iron Maiden ||| 886
+Foreigner ||| 879
+Yes ||| 840
+The Black Crowes ||| 828
+Deep Purple ||| 778
+Ozzy Osbourne ||| 770
+Lynyrd Skynyrd ||| 747
+Def Leppard ||| 746
+Tom Petty and The Heartbreakers ||| 734
+Mötley Crüe ||| 718
+David Gilmour ||| 717
+The Rolling Stones ||| 707
+Genesis ||| 682
+Riot ||| 677
+Bad Company ||| 655
+Alter Bridge ||| 644
+Three Days Grace ||| 637
+Megadeth ||| 633
+The J. Geils Band ||| 631
+Ted Nugent ||| 620
+Robert Plant ||| 614
+Metallica ||| 607
+Red Hot Chili Peppers ||| 605
+Jackson Browne ||| 591
+Alice Cooper ||| 574
+Alice in Chains ||| 574
+Yngwie Malmsteen ||| 573
+Bryan Adams ||| 562
+Porcupine Tree ||| 558
+Candlebox ||| 547
+Queen ||| 540
+Bob Seger & The Silver Bullet Band ||| 531
+Free ||| 512
+David Bowie ||| 509
+Thin Lizzy ||| 496
+## playcount: 41707

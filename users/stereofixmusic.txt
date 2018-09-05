@@ -1,0 +1,32 @@
+Coldplay ||| 2
+Oasis ||| 2
+Radiohead ||| 2
+Snow Patrol ||| 2
+Stereophonics ||| 2
+The Fray ||| 2
+The Killers ||| 2
+Thirteen Senses ||| 2
+Travis ||| 2
+Arctic Monkeys ||| 1
+Athlete ||| 1
+Blur ||| 1
+Editors ||| 1
+Embrace ||| 1
+Feeder ||| 1
+Foo Fighters ||| 1
+Franz Ferdinand ||| 1
+Kaiser Chiefs ||| 1
+Kasabian ||| 1
+Lifehouse ||| 1
+Muse ||| 1
+OneRepublic ||| 1
+R.E.M. ||| 1
+Richard Ashcroft ||| 1
+Robbie Williams ||| 1
+Starsailor ||| 1
+STEREOFIX ||| 1
+Supergrass ||| 1
+The Kooks ||| 1
+The Verve ||| 1
+U2 ||| 1
+## playcount: 40

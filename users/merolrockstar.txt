@@ -1,0 +1,51 @@
+Foo Fighters ||| 7688
+Enter Shikari ||| 5169
+Arctic Monkeys ||| 3543
+Queens of the Stone Age ||| 2973
+Fito Páez ||| 2840
+Daft Punk ||| 2761
+The Beatles ||| 2728
+Incubus ||| 2671
+Muse ||| 2451
+Enanitos Verdes ||| 2014
+Maxïmo Park ||| 1622
+The Kooks ||| 1414
+Radiohead ||| 1331
+Avenged Sevenfold ||| 1165
+Coldplay ||| 1092
+Stone Temple Pilots ||| 1053
+Ely Guerra ||| 1030
+Bloc Party ||| 1008
+The Fall of Troy ||| 1004
+The Strokes ||| 983
+My Chemical Romance ||| 982
+Santana ||| 962
+Linkin Park ||| 959
+The Killers ||| 940
+Interpol ||| 939
+Klaxons ||| 874
+Yeah Yeah Yeahs ||| 835
+Nirvana ||| 808
+OK Go ||| 771
+The Chemical Brothers ||| 753
+Van Halen ||| 740
+Guns N' Roses ||| 713
+Stereophonics ||| 710
+Weezer ||| 707
+Anamanaguchi ||| 705
+The Clash ||| 705
+Kylie Minogue ||| 702
+Slash ||| 695
+Nine Inch Nails ||| 687
+Maroon 5 ||| 670
+Conjunto Primavera ||| 669
+Deftones ||| 669
+The Who ||| 666
+Kiss ||| 649
+Bang Camaro ||| 648
+Kings of Leon ||| 630
+blink-182 ||| 629
+Wolfmother ||| 622
+Phoenix ||| 611
+Pearl Jam ||| 609
+## playcount: 68799

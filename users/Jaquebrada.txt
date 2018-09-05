@@ -1,0 +1,51 @@
+Rush ||| 1337
+Metallica ||| 859
+Led Zeppelin ||| 844
+In Flames ||| 807
+Nightwish ||| 666
+Death ||| 648
+Ensiferum ||| 630
+Kataklysm ||| 608
+Stratovarius ||| 590
+Summoning ||| 577
+Green Day ||| 567
+Amon Amarth ||| 502
+Arkona ||| 481
+Dropkick Murphys ||| 451
+Creedence Clearwater Revival ||| 445
+Kadavar ||| 419
+Matanza ||| 415
+Blind Guardian ||| 414
+Svartsot ||| 402
+Alestorm ||| 395
+Bass Drum of Death ||| 385
+The White Stripes ||| 371
+Pentagram ||| 368
+Helloween ||| 367
+Tuatha de Danann ||| 367
+Carcass ||| 348
+Sepultura ||| 339
+Black Sabbath ||| 338
+Rhapsody ||| 333
+The Kings of Frog Island ||| 333
+Jethro Tull ||| 330
+Epica ||| 322
+Hole ||| 320
+Flogging Molly ||| 317
+Ramones ||| 317
+Stoned Jesus ||| 317
+Therion ||| 304
+The Offspring ||| 302
+Slayer ||| 292
+Kreator ||| 283
+Megadeth ||| 273
+Blue Öyster Cult ||| 270
+Alice in Chains ||| 269
+Bathory ||| 263
+Uriah Heep ||| 263
+Electric Wizard ||| 257
+Children of Bodom ||| 251
+Sex Pistols ||| 245
+Uncle Acid & the Deadbeats ||| 235
+Limp Bizkit ||| 231
+## playcount: 21267

@@ -1,0 +1,51 @@
+The Rolling Stones ||| 65
+Creedence Clearwater Revival ||| 44
+John Lennon ||| 30
+Van Halen ||| 30
+ZZ Top ||| 29
+Lynyrd Skynyrd ||| 27
+Aerosmith ||| 26
+Fleetwood Mac ||| 24
+Kiss ||| 23
+Deep Purple ||| 21
+Steely Dan ||| 21
+The Who ||| 21
+Queen ||| 19
+Eagles ||| 17
+Elton John ||| 17
+Paul McCartney & Wings ||| 17
+Three Dog Night ||| 17
+Electric Light Orchestra ||| 16
+Eric Clapton ||| 16
+Supertramp ||| 16
+The Kinks ||| 16
+Chicago ||| 14
+David Bowie ||| 14
+The Doors ||| 14
+Black Sabbath ||| 13
+Boston ||| 13
+Cream ||| 13
+Kansas ||| 13
+Rush ||| 13
+Scorpions ||| 13
+AC/DC ||| 12
+Foreigner ||| 12
+Guns N' Roses ||| 12
+Paul McCartney ||| 12
+Crosby, Stills, Nash & Young ||| 11
+Elvis Presley ||| 11
+Jefferson Airplane ||| 11
+REO Speedwagon ||| 11
+The Allman Brothers Band ||| 11
+The Doobie Brothers ||| 11
+George Harrison ||| 10
+Jethro Tull ||| 10
+Molly Hatchet ||| 10
+Neil Young ||| 10
+The Band ||| 10
+Alabama ||| 9
+Bob Seger ||| 9
+Journey ||| 9
+Robert Plant ||| 9
+The Clash ||| 9
+## playcount: 841

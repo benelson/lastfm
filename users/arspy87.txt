@@ -1,0 +1,51 @@
+Jonathan Larson ||| 1194
+Fleetwood Mac ||| 768
+Adam Day ||| 525
+Journey ||| 506
+Def Leppard ||| 372
+Goo Goo Dolls ||| 367
+The Click Five ||| 361
+Bob Seger & The Silver Bullet Band ||| 332
+Jack Johnson ||| 330
+Radiohead ||| 281
+Massive Attack ||| 251
+Enigma ||| 234
+Gorillaz ||| 217
+Garbage ||| 208
+Clannad ||| 200
+Sarah McLachlan ||| 177
+Guster ||| 155
+Mike Oldfield ||| 134
+Eric Clapton ||| 133
+Rob Thomas ||| 109
+Relient K ||| 104
+Black Eyed Peas ||| 103
+Rick Erlien ||| 101
+Spin Doctors ||| 96
+Coheed and Cambria ||| 92
+Stevie Nicks ||| 87
+Treehouse ||| 87
+Coldplay ||| 86
+They Might Be Giants ||| 86
+Third Eye Blind ||| 64
+Chameleon ||| 62
+Howie Day ||| 61
+Bedouin Soundclash ||| 59
+DJ Dado ||| 59
+James Iha ||| 58
+Matchbox Twenty ||| 58
+RJD2 ||| 56
+Microsoft ||| 53
+Savage Garden ||| 53
+Kate Price ||| 51
+Moby ||| 51
+3 Doors Down ||| 47
+Linkin Park ||| 41
+Live ||| 39
+Ottmar Liebert ||| 38
+Simon & Garfunkel ||| 35
+Paolo Nutini ||| 29
+Cassie ||| 27
+Cascada ||| 26
+Fefe Dobson ||| 26
+## playcount: 8689

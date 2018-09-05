@@ -1,0 +1,51 @@
+The Answer ||| 193
+Led Zeppelin ||| 177
+The Presidents of the United States of America ||| 127
+AC/DC ||| 121
+KT Tunstall ||| 110
+ZZ Top ||| 107
+Eric Clapton ||| 100
+Jimi Hendrix ||| 99
+Dread Zeppelin ||| 97
+Thin Lizzy ||| 95
+Lynyrd Skynyrd ||| 94
+Stevie Ray Vaughan and Double Trouble ||| 80
+Wolfmother ||| 75
+Cream ||| 74
+Fleetwood Mac ||| 74
+The Rolling Stones ||| 74
+Creedence Clearwater Revival ||| 72
+Hayseed Dixie ||| 72
+Aerosmith ||| 71
+Deep Purple ||| 69
+Queens of the Stone Age ||| 66
+Eagles ||| 63
+The Jimi Hendrix Experience ||| 60
+The Doors ||| 58
+Van Halen ||| 57
+Guns N' Roses ||| 56
+Joe Satriani ||| 56
+Metallica ||| 56
+Rage Against the Machine ||| 56
+Black Sabbath ||| 55
+Dire Straits ||| 54
+Queen ||| 53
+Bad Company ||| 52
+B.B. King ||| 51
+Gary Moore ||| 51
+Stevie Ray Vaughan ||| 51
+The Blues Brothers ||| 51
+The Beatles ||| 50
+Whitesnake ||| 47
+Ozzy Osbourne ||| 46
+The Animals ||| 46
+Blue Öyster Cult ||| 44
+Van Morrison ||| 44
+Santana ||| 43
+B.B. King & Eric Clapton ||| 42
+Boston ||| 42
+Buddy Guy ||| 42
+Pink Floyd ||| 42
+Steppenwolf ||| 42
+The Allman Brothers Band ||| 41
+## playcount: 3498

@@ -1,0 +1,51 @@
+The Beatles ||| 3906
+David Bowie ||| 1808
+Arctic Monkeys ||| 1496
+Amy Winehouse ||| 1479
+Caetano Veloso ||| 1345
+Radiohead ||| 1314
+Florence + the Machine ||| 1175
+The Strokes ||| 996
+Arcade Fire ||| 848
+The Killers ||| 796
+Franz Ferdinand ||| 783
+Os Mutantes ||| 748
+Lana Del Rey ||| 724
+The Rolling Stones ||| 703
+Led Zeppelin ||| 680
+The Smiths ||| 660
+Muse ||| 637
+Oasis ||| 625
+Björk ||| 600
+Adele ||| 555
+Novos Baianos ||| 552
+P!nk ||| 531
+Otis Redding ||| 530
+Lorde ||| 510
+M.I.A. ||| 503
+No Doubt ||| 491
+Gal Costa ||| 475
+MGMT ||| 462
+Azealia Banks ||| 454
+Marina & the Diamonds ||| 453
+The Last Shadow Puppets ||| 433
+George Harrison ||| 430
+Bob Dylan ||| 422
+The xx ||| 418
+Kanye West ||| 417
+Paul McCartney ||| 400
+Nirvana ||| 354
+Nina Simone ||| 351
+Brandon Flowers ||| 343
+Regina Spektor ||| 342
+Pitty ||| 340
+Laura Marling ||| 334
+Chico Buarque ||| 323
+Coldplay ||| 322
+Drake ||| 312
+PJ Harvey ||| 311
+Lauryn Hill ||| 303
+Cro ||| 298
+The White Stripes ||| 297
+Elis Regina ||| 292
+## playcount: 33881

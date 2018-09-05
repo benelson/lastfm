@@ -1,0 +1,51 @@
+blink-182 ||| 2555
+Metallica ||| 1358
+The Strokes ||| 1244
+Guns N' Roses ||| 1059
+Athena ||| 1035
+Arctic Monkeys ||| 776
+Büyük Ev Ablukada ||| 763
+Ceza ||| 706
+Ezhel ||| 706
+Kasabian ||| 695
+Eminem ||| 676
+Avenged Sevenfold ||| 670
+Slash ||| 628
+Coldplay ||| 612
+Oasis ||| 578
+The Fray ||| 570
+Sum 41 ||| 535
+Kanye West ||| 401
+Pink Floyd ||| 398
+Rage Against the Machine ||| 372
+Imagine Dragons ||| 369
+Muse ||| 369
+Foo Fighters ||| 331
+Stereophonics ||| 318
+The Vaccines ||| 299
+Megadeth ||| 297
+Jet ||| 282
+N.W.A ||| 279
+Blind Melon ||| 265
+Tenacious D ||| 260
+Red Hot Chili Peppers ||| 244
+Iron Maiden ||| 243
+AC/DC ||| 242
+Anıl Piyancı ||| 236
+Man Overboard ||| 227
+The Prodigy ||| 222
+Dream Theater ||| 211
+Dire Straits ||| 210
+Interpol ||| 210
+Led Zeppelin ||| 208
+Royal Blood ||| 208
+Skid Row ||| 206
+Maroon 5 ||| 196
+Simple Plan ||| 179
+Pendulum ||| 165
+Pinhani ||| 164
+Radiohead ||| 164
+Yavuz Çetin ||| 160
+Cake ||| 158
+Deep Purple ||| 154
+## playcount: 23413

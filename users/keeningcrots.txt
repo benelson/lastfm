@@ -1,0 +1,51 @@
+The Beatles ||| 137
+Bob Marley ||| 122
+Steve Earle ||| 115
+Phish ||| 96
+Bob Dylan ||| 89
+Neil Young ||| 82
+The Smiths ||| 80
+Johnny Cash ||| 77
+The White Stripes ||| 77
+Led Zeppelin ||| 75
+The Mountain Goats ||| 75
+Belle and Sebastian ||| 70
+Grateful Dead ||| 62
+Bob Marley & The Wailers ||| 60
+The Upsetters ||| 58
+The Clash ||| 55
+Creedence Clearwater Revival ||| 51
+Bruce Springsteen ||| 49
+The Doors ||| 48
+Corey Smith ||| 45
+Eric Clapton ||| 43
+Nine Inch Nails ||| 43
+Talking Heads ||| 42
+David Bowie ||| 41
+Elton John ||| 40
+Jimi Hendrix ||| 38
+Simon & Garfunkel ||| 38
+The Allman Brothers Band ||| 37
+Queen ||| 36
+Ryan Adams ||| 35
+The Velvet Underground ||| 35
+Buffalo Son ||| 33
+Eagles ||| 33
+Pepe Romero ||| 32
+Cat Stevens ||| 31
+Cream ||| 31
+The Hold Steady ||| 31
+Pearl Jam ||| 30
+Lynyrd Skynyrd ||| 28
+The Rolling Stones ||| 27
+Architecture in Helsinki ||| 26
+Joy Division ||| 26
+Built to Spill ||| 25
+Eels ||| 25
+The Lemonheads ||| 25
+Woody Guthrie ||| 25
+Jamiroquai ||| 24
+Radiohead ||| 24
+Stevie Ray Vaughan ||| 24
+The Black Keys ||| 24
+## playcount: 2475

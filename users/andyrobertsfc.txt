@@ -1,0 +1,51 @@
+New Order ||| 437
+Eddie Izzard ||| 422
+Tears for Fears ||| 382
+Craig Armstrong ||| 329
+Ian Brown ||| 267
+Turin Brakes ||| 224
+Billy Joel ||| 209
+Mark And Lard ||| 207
+Groove Armada ||| 176
+Incognito ||| 172
+Coldplay ||| 156
+Steely Dan ||| 138
+Pet Shop Boys ||| 135
+The Style Council ||| 132
+Daft Punk ||| 131
+The Lightning Seeds ||| 128
+James ||| 127
+J-Walk ||| 120
+Johnny Hates Jazz ||| 119
+The Clash ||| 113
+The Smiths ||| 111
+Big Audio Dynamite ||| 108
+Electronic ||| 104
+The Stone Roses ||| 98
+Duran Duran ||| 93
+The Blow Monkeys ||| 92
+Swing Out Sister ||| 90
+Jamiroquai ||| 89
+Dire Straits ||| 87
+Fleetwood Mac ||| 85
+Depeche Mode ||| 83
+Michael Jackson ||| 83
+Saint Etienne ||| 81
+Touch Sensitive ||| 81
+Bruce Hornsby ||| 76
+Stacy Lattisaw ||| 76
+Hall & Oates ||| 75
+Bent ||| 68
+Genesis ||| 66
+Prince ||| 66
+Simply Red ||| 66
+Joe Smooth ||| 64
+Mr. Scruff ||| 60
+Stereo MC's ||| 58
+Ed Harcourt ||| 57
+The Who ||| 57
+Editors ||| 56
+Hard-Fi ||| 55
+Earth, Wind & Fire ||| 54
+Electric Light Orchestra ||| 54
+## playcount: 6417

@@ -1,0 +1,51 @@
+Korn ||| 2094
+Metallica ||| 2020
+Static-X ||| 1321
+Foo Fighters ||| 1257
+System of a Down ||| 1233
+U2 ||| 1062
+Nirvana ||| 941
+Disturbed ||| 784
+Nickelback ||| 571
+Red Hot Chili Peppers ||| 468
+Placebo ||| 458
+Kabát ||| 444
+Sevendust ||| 413
+Pearl Jam ||| 353
+Lacuna Coil ||| 345
+Soil ||| 299
+Anthrax ||| 264
+Audioslave ||| 239
+Velvet Revolver ||| 219
+Scars on Broadway ||| 211
+Stone Temple Pilots ||| 211
+Seether ||| 191
+Mushroomhead ||| 180
+Muse ||| 177
+The Cranberries ||| 173
+Head ||| 168
+Guano Apes ||| 151
+Rammstein ||| 149
+Godsmack ||| 140
+Radiohead ||| 140
+Alanis Morissette ||| 138
+Ozzy Osbourne ||| 122
+Serj Tankian ||| 119
+Sandra Nasic ||| 108
+The White Stripes ||| 107
+Mastodon ||| 102
+Within Temptation ||| 91
+Alice in Chains ||| 70
+Drowning Pool ||| 67
+Apocalyptica ||| 59
+Soundgarden ||| 57
+Vanessa Carlton ||| 52
+Depeche Mode ||| 49
+Lucie ||| 48
+Jamie Cullum ||| 47
+Slash ||| 42
+The Rolling Stones ||| 42
+Deftones ||| 41
+Mnemic ||| 41
+Bruce Springsteen ||| 37
+## playcount: 18115

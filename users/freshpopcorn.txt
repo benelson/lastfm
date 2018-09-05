@@ -1,0 +1,51 @@
+John Mayer ||| 5320
+Michael Bublé ||| 3655
+Green Day ||| 1255
+Daft Punk ||| 1129
+Justice ||| 1043
+Hedley ||| 968
+Maroon 5 ||| 894
+The Fray ||| 615
+Blue Rodeo ||| 576
+Five for Fighting ||| 555
+MSTRKRFT ||| 527
+Phoenix ||| 519
+Jay Sean ||| 517
+Quiet Company ||| 509
+Jack Johnson ||| 458
+Coldplay ||| 452
+Sara Bareilles ||| 425
+Daughtry ||| 403
+DJ Cam Quartet ||| 357
+John Mayer Trio ||| 325
+Kanye West ||| 325
+Crystal Castles ||| 318
+Queen ||| 316
+Billy Joel ||| 313
+Billy Talent ||| 309
+Eric Clapton ||| 296
+Breakbot ||| 286
+Wolfgang Gartner ||| 270
+Driveblind ||| 264
+Mr. Oizo ||| 247
+Train ||| 245
+Rise Against ||| 237
+OneRepublic ||| 236
+Clay Aiken ||| 226
+Smash ||| 217
+Bruno Mars ||| 208
+Madeon ||| 199
+Sky Sailing ||| 188
+Jim Cuddy ||| 185
+The Killers ||| 177
+The Script ||| 167
+Chris Brown ||| 156
+Akon ||| 137
+U2 ||| 117
+The Postal Service ||| 109
+Pat Monahan ||| 103
+Norah Jones ||| 100
+Daniel Powter ||| 98
+B.o.B ||| 95
+Lady Antebellum ||| 90
+## playcount: 26736

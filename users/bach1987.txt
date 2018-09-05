@@ -1,0 +1,51 @@
+The Beatles ||| 1237
+Foo Fighters ||| 1018
+Green Day ||| 1005
+Bruce Springsteen ||| 906
+The Black Keys ||| 665
+Coldplay ||| 664
+Nine Inch Nails ||| 643
+Beck ||| 568
+Ben Folds ||| 493
+Murder By Death ||| 468
+Queens of the Stone Age ||| 440
+Nirvana ||| 423
+Jimmy Eat World ||| 418
+Incubus ||| 409
+Arctic Monkeys ||| 389
+The Smashing Pumpkins ||| 384
+The White Stripes ||| 372
+Ben Folds Five ||| 338
+Johnny Cash ||| 332
+Metallica ||| 320
+System of a Down ||| 281
+Rush ||| 271
+Cake ||| 269
+The Flaming Lips ||| 263
+Kings of Leon ||| 251
+Soundgarden ||| 249
+Stone Temple Pilots ||| 249
+Alien Ant Farm ||| 239
+Mastodon ||| 236
+R.E.M. ||| 236
+Radiohead ||| 236
+Blur ||| 233
+Deftones ||| 233
+The Hives ||| 233
+Audioslave ||| 229
+Tenacious D ||| 229
+A Perfect Circle ||| 220
+Eagles of Death Metal ||| 220
+The Who ||| 217
+Beastie Boys ||| 215
+Oasis ||| 210
+Tool ||| 210
+Alice in Chains ||| 195
+Kanye West ||| 184
+U2 ||| 184
+Dethklok ||| 175
+Pantera ||| 156
+OutKast ||| 154
+Marilyn Manson ||| 150
+The Dead Weather ||| 150
+## playcount: 18069

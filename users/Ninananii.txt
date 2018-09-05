@@ -1,0 +1,51 @@
+Rick Astley ||| 9849
+Roupa Nova ||| 4568
+Tears for Fears ||| 398
+Phil Collins ||| 369
+Bryan Adams ||| 304
+Kiss ||| 255
+AC/DC ||| 212
+Robbie Williams ||| 198
+Iron Maiden ||| 167
+a-ha ||| 164
+R.E.M. ||| 124
+Genesis ||| 106
+Bon Jovi ||| 97
+Air Supply ||| 91
+Noel Gallagher's High Flying Birds ||| 91
+Pet Shop Boys ||| 91
+[unknown] ||| 90
+Eric Clapton ||| 88
+Chris Isaak ||| 84
+Chicago ||| 76
+Erasure ||| 76
+Duran Duran ||| 73
+Engenheiros Do Hawaii ||| 71
+Crowded House ||| 69
+Angra ||| 65
+The Housemartins ||| 65
+Frejat ||| 63
+Richard Marx ||| 63
+Creedence Clearwater Revival ||| 62
+Aerosmith ||| 61
+Roxette ||| 61
+Michael Bublé ||| 60
+George Michael ||| 59
+The Beatles ||| 59
+Europe ||| 56
+Queen ||| 56
+Bee Gees ||| 55
+The Strokes ||| 54
+Badfinger ||| 52
+Pearl Jam ||| 51
+America ||| 50
+Gino Vannelli ||| 50
+Autograph ||| 48
+Bonnie Tyler ||| 48
+Oasis ||| 46
+Foreigner ||| 43
+Queens of the Stone Age ||| 42
+Wet Wet Wet ||| 41
+ABBA ||| 40
+Billy Idol ||| 40
+## playcount: 19101

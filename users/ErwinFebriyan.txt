@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 39285
+The Beatles ||| 17060
+Pink Floyd ||| 7190
+Oasis ||| 5133
+Led Zeppelin ||| 4827
+Coldplay ||| 4731
+Alex Turner ||| 4235
+Tame Impala ||| 3516
+The Vaccines ||| 3331
+The Kooks ||| 2886
+Kasabian ||| 2601
+Blur ||| 2564
+Sigur Rós ||| 2517
+Noah and the Whale ||| 2515
+Guns N' Roses ||| 2365
+The Who ||| 2301
+Band of Skulls ||| 2297
+The Doors ||| 2272
+Franz Ferdinand ||| 2269
+The Strokes ||| 2239
+Gorillaz ||| 2194
+Radiohead ||| 2176
+A Day to Remember ||| 2162
+Muse ||| 2108
+Joy Division ||| 2033
+The Kinks ||| 1988
+Bring Me the Horizon ||| 1963
+All Time Low ||| 1912
+Black Rebel Motorcycle Club ||| 1903
+Two Door Cinema Club ||| 1858
+The Smiths ||| 1810
+Speaker First ||| 1764
+Jet ||| 1673
+Maroon 5 ||| 1577
+Nirvana ||| 1555
+The Stone Roses ||| 1522
+Mumford & Sons ||| 1486
+Melody's Echo Chamber ||| 1483
+Siouxsie and the Banshees ||| 1439
+Noel Gallagher's High Flying Birds ||| 1435
+Duran Duran ||| 1431
+Jake Bugg ||| 1431
+Snow Patrol ||| 1427
+The Last Shadow Puppets ||| 1397
+The Kills ||| 1386
+Bombay Bicycle Club ||| 1378
+Blood Red Shoes ||| 1374
+New Order ||| 1359
+Wolfmother ||| 1357
+Deep Purple ||| 1352
+## playcount: 166067

@@ -1,0 +1,51 @@
+Judas Priest ||| 6702
+Iron Maiden ||| 3172
+Sentenced ||| 2110
+Gamma Ray ||| 1280
+Queensrÿche ||| 1152
+Saxon ||| 1149
+Symphony X ||| 1140
+Kamelot ||| 1076
+Falconer ||| 1033
+Manowar ||| 963
+Helloween ||| 943
+Uriah Heep ||| 904
+HammerFall ||| 902
+Running Wild ||| 897
+Killswitch Engage ||| 895
+Yngwie Malmsteen ||| 890
+Stratovarius ||| 828
+Accept ||| 820
+Europe ||| 754
+Scorpions ||| 751
+Amorphis ||| 734
+Dream Theater ||| 729
+Mägo de Oz ||| 726
+In Flames ||| 703
+Nocturnal Rites ||| 686
+Savatage ||| 672
+Riot ||| 670
+Candlemass ||| 637
+Deep Purple ||| 629
+Dissection ||| 624
+Rage ||| 624
+Blind Guardian ||| 612
+Halford ||| 597
+Bahal ||| 596
+Queen ||| 587
+Circus Maximus ||| 558
+Domine ||| 550
+Megadeth ||| 536
+Three Days Grace ||| 516
+Evergrey ||| 510
+Nightwish ||| 509
+Avantasia ||| 486
+Epica ||| 481
+Bathory ||| 480
+Angra ||| 479
+Black Sabbath ||| 454
+Mors Principium Est ||| 453
+Pink Floyd ||| 452
+Eluveitie ||| 447
+Edguy ||| 434
+## playcount: 45532

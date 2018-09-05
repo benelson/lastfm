@@ -1,0 +1,51 @@
+blink-182 ||| 2354
+The Beatles ||| 1001
+The xx ||| 938
+Paramore ||| 910
+Soda Stereo ||| 903
+Red Hot Chili Peppers ||| 832
+Vetusta Morla ||| 832
+Daft Punk ||| 794
+Gustavo Cerati ||| 772
+Panda ||| 755
+Kevin Johansen ||| 691
+J Balvin ||| 670
+Foals ||| 658
+Bloc Party ||| 652
+Kraftklub ||| 650
+Green Day ||| 638
+Él mató a un policía motorizado ||| 624
+Estados Alterados ||| 612
+Volätil ||| 593
+Gorillaz ||| 591
+A Day to Remember ||| 578
+La Vida Bohème ||| 575
+Foster the People ||| 565
+Carlos Sadness ||| 563
+Joy Division ||| 551
+Ed Sheeran ||| 548
+Zoé ||| 540
+Jorge Drexler ||| 528
+Incubus ||| 513
+Allison ||| 512
+Fall Out Boy ||| 501
+Pink Floyd ||| 489
+Superlitio ||| 479
+The Offspring ||| 476
+Taking Back Sunday ||| 474
+The Strokes ||| 460
+Twenty One Pilots ||| 452
+Bajo Tierra ||| 449
+Dromedarios Mágicos ||| 446
+Gepe ||| 445
+Major Lazer ||| 439
+Franz Ferdinand ||| 433
+Coldplay ||| 431
+Maxïmo Park ||| 431
+Linkin Park ||| 427
+Panic! at the Disco ||| 427
+Aterciopelados ||| 423
+Molotov ||| 420
+Foo Fighters ||| 412
+Juanes ||| 401
+## playcount: 30858

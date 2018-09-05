@@ -1,0 +1,51 @@
+Britney Spears ||| 40381
+Lady Gaga ||| 14351
+Rihanna ||| 10493
+Glee Cast ||| 9982
+One Direction ||| 7758
+Lana Del Rey ||| 6179
+Christina Aguilera ||| 3390
+Katy Perry ||| 3246
+Beyoncé ||| 3016
+RBD ||| 2647
+Madonna ||| 2342
+Nicole Scherzinger ||| 2331
+Kelly Clarkson ||| 2020
+Kylie Minogue ||| 1801
+Sandy e Junior ||| 1719
+The Pussycat Dolls ||| 1486
+Wanessa ||| 1458
+Rouge ||| 1370
+Mariah Carey ||| 1327
+Adele ||| 1273
+Anahí ||| 1258
+Adam Lambert ||| 1208
+Maroon 5 ||| 1147
+Avril Lavigne ||| 997
+Justin Bieber ||| 966
+Lily Allen ||| 952
+Amy Winehouse ||| 837
+Black Eyed Peas ||| 820
+Eric Saade ||| 816
+Anitta ||| 768
+David Archuleta ||| 730
+McFly ||| 710
+Ariana Grande ||| 705
+Nicki Minaj ||| 631
+Marjorie Estiano ||| 620
+Chay Suede ||| 596
+Miley Cyrus ||| 586
+Taylor Swift ||| 557
+Michael Jackson ||| 555
+Céline Dion ||| 526
+The Pretty Reckless ||| 503
+Ashlee Simpson ||| 483
+P!nk ||| 473
+Havana Brown ||| 454
+Shakira ||| 383
+Marina & the Diamonds ||| 377
+Pixie Lott ||| 377
+Banda UÓ ||| 369
+Bruno Mars ||| 348
+The xx ||| 347
+## playcount: 138669

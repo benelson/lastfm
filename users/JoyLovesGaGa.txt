@@ -1,0 +1,51 @@
+Glee Cast ||| 726
+Foo Fighters ||| 508
+Alter Bridge ||| 424
+Red Hot Chili Peppers ||| 414
+Nickelback ||| 398
+Paramore ||| 352
+Lady Gaga ||| 310
+Jake Bugg ||| 251
+Oasis ||| 231
+Guns N' Roses ||| 209
+Slash ||| 208
+Megadeth ||| 201
+Ed Sheeran ||| 194
+Queen ||| 157
+Arctic Monkeys ||| 146
+Lana Del Rey ||| 135
+The Vaccines ||| 124
+Florence + the Machine ||| 120
+Taylor Swift ||| 115
+Muse ||| 109
+Led Zeppelin ||| 86
+P!nk ||| 69
+The 1975 ||| 61
+Twenty One Pilots ||| 59
+Nirvana ||| 52
+Adele ||| 51
+Halsey ||| 49
+The Killers ||| 44
+Darren Criss ||| 42
+George Ezra ||| 40
+Linkin Park ||| 40
+The Weeknd ||| 40
+Imagine Dragons ||| 39
+Francesco Gabbani ||| 34
+Fun ||| 34
+OneRepublic ||| 33
+John Williams ||| 32
+Levante ||| 32
+Neffa ||| 31
+Beethoven Consort ||| 30
+Coldplay ||| 29
+Pink Floyd ||| 29
+The Neighbourhood ||| 29
+James Bay ||| 28
+Bastille ||| 27
+Daft Punk ||| 25
+Fall Out Boy ||| 25
+Ke$ha ||| 24
+Mumford & Sons ||| 24
+Clementino ||| 23
+## playcount: 6493

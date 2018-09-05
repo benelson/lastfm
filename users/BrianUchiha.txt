@@ -1,0 +1,47 @@
+Slipknot ||| 23485
+Korn ||| 16666
+Metallica ||| 2420
+Slayer ||| 1809
+Iron Maiden ||| 615
+Element Eighty ||| 607
+System of a Down ||| 548
+Dry Kill Logic ||| 447
+Elvenking ||| 390
+All That Remains ||| 386
+Crossfade ||| 309
+Disturbed ||| 287
+Caliban ||| 183
+Bullet for My Valentine ||| 172
+Rise Against ||| 110
+Skillet ||| 95
+DevilDriver ||| 90
+Avenged Sevenfold ||| 78
+Cradle of Filth ||| 77
+Trivium ||| 71
+Atreyu ||| 51
+Lordi ||| 50
+Serj Tankian ||| 46
+Massacration ||| 43
+DragonForce ||| 28
+Megadeth ||| 26
+Dimmu Borgir ||| 23
+AC/DC ||| 19
+Matanza ||| 17
+Rob Zombie ||| 14
+Rage Against the Machine ||| 13
+Silent Civilian ||| 13
+Nightwish ||| 11
+Helloween ||| 8
+Shadows Fall ||| 8
+Bruce Dickinson ||| 5
+Coalest ||| 5
+Marilyn Manson ||| 4
+Kansas ||| 3
+Creed ||| 2
+A Day to Remember ||| 1
+Demon Hunter ||| 1
+Drist ||| 1
+Edguy ||| 1
+Five Finger Death Punch ||| 1
+Stratovarius ||| 1
+## playcount: 49240

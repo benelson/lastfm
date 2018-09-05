@@ -1,0 +1,51 @@
+The Killers ||| 1346
+Travis ||| 892
+Oasis ||| 591
+OK Go ||| 528
+Panic! at the Disco ||| 526
+Two Door Cinema Club ||| 452
+The Smashing Pumpkins ||| 417
+Coldplay ||| 372
+Fall Out Boy ||| 368
+Cage the Elephant ||| 335
+Franz Ferdinand ||| 308
+Arctic Monkeys ||| 280
+The Kooks ||| 264
+Weezer ||| 255
+No Doubt ||| 219
+Muse ||| 215
+Arcade Fire ||| 206
+MGMT ||| 206
+The Beatles ||| 198
+Keane ||| 194
+Tribalistas ||| 194
+Blur ||| 189
+Garbage ||| 187
+Skank ||| 180
+Capital Cities ||| 179
+Blondie ||| 171
+Foster the People ||| 167
+The Smiths ||| 150
+The Black Keys ||| 146
+The Cranberries ||| 143
+KT Tunstall ||| 138
+New Order ||| 136
+Foo Fighters ||| 135
+The Strokes ||| 134
+Titãs ||| 131
+Sheppard ||| 128
+Paramore ||| 127
+Hooverphonic ||| 121
+The Naked and Famous ||| 121
+The Lumineers ||| 119
+Radiohead ||| 117
+Helloween ||| 114
+Klaxons ||| 114
+The xx ||| 114
+Vitamin String Quartet ||| 114
+Snow Patrol ||| 113
+Tame Impala ||| 113
+Simple Plan ||| 112
+Chico Buarque ||| 109
+Joy Division ||| 108
+## playcount: 12296

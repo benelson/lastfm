@@ -1,0 +1,51 @@
+[unknown] ||| 440
+Coldplay ||| 88
+Muse ||| 79
+OneRepublic ||| 79
+Foster the People ||| 75
+Marina & the Diamonds ||| 67
+Awolnation ||| 58
+The Vaccines ||| 55
+Edward Sharpe & The Magnetic Zeros ||| 48
+Woodkid ||| 45
+Birdy ||| 42
+Lana Del Rey ||| 37
+Kid Cudi ||| 34
+Lorde ||| 34
+Frank Ocean ||| 31
+Macklemore & Ryan Lewis ||| 31
+Florence + the Machine ||| 22
+大谷幸 ||| 22
+MS MR ||| 18
+Justice ||| 17
+Chromeo ||| 16
+Hans Zimmer ||| 16
+AC/DC ||| 15
+My Chemical Romance ||| 15
+Maroon 5 ||| 14
+Mumford & Sons ||| 14
+Two Door Cinema Club ||| 14
+Capital Cities ||| 13
+Daft Punk ||| 13
+KC and The Sunshine Band ||| 13
+Queen ||| 13
+Ennio Morricone ||| 12
+Loreena McKennitt ||| 12
+M83 ||| 12
+The xx ||| 12
+Bap Kennedy ||| 11
+Joywave ||| 11
+Owl City ||| 11
+Skip The Use ||| 11
+The Naked and Famous ||| 11
+Walk the Moon ||| 11
+Atlas Genius ||| 10
+Fibes, Oh Fibes! ||| 10
+MGMT ||| 10
+Nick Cave & The Bad Seeds ||| 10
+Pete Townshend ||| 10
+The White Panda ||| 10
+Two Steps from Hell ||| 10
+Bill Withers ||| 9
+Cults ||| 9
+## playcount: 1680

@@ -1,0 +1,51 @@
+Coldplay ||| 4624
+Bruno Mars ||| 2293
+Katy Perry ||| 2056
+Ariana Grande ||| 1775
+Taylor Swift ||| 1447
+Avril Lavigne ||| 1230
+Foster the People ||| 1068
+Adele ||| 980
+Joyce Jonathan ||| 915
+The Beatles ||| 846
+Beyoncé ||| 614
+Anitta ||| 593
+Elton John ||| 562
+Lady Gaga ||| 536
+Sam Smith ||| 499
+Lana Del Rey ||| 498
+a-ha ||| 470
+Bon Jovi ||| 436
+Cícero ||| 422
+Maroon 5 ||| 416
+<Artista Desconhecido> ||| 408
+Florence + the Machine ||| 405
+James Blunt ||| 403
+Justin Bieber ||| 403
+Rihanna ||| 306
+One Direction ||| 294
+Pink Floyd ||| 283
+Paul McCartney ||| 268
+Ed Sheeran ||| 261
+U2 ||| 251
+Queen ||| 248
+The Killers ||| 242
+30 Seconds to Mars ||| 237
+Legião Urbana ||| 231
+Nando Reis ||| 230
+Shawn Mendes ||| 226
+[unknown] ||| 223
+Los Hermanos ||| 220
+Christophe Maé ||| 214
+The Rolling Stones ||| 212
+Imagine Dragons ||| 205
+Pabllo Vittar ||| 204
+Lulu Santos ||| 201
+Gloria Groove ||| 189
+Alicia Keys ||| 183
+DNCE ||| 173
+Coldplay                                                   [JPTC] ||| 163
+Céline Dion ||| 157
+Wesley Safadão ||| 157
+Luan Santana ||| 148
+## playcount: 29625

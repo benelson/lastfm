@@ -1,0 +1,51 @@
+Coldplay ||| 6492
+U2 ||| 3100
+嵐 ||| 1540
+Michael Bublé ||| 1479
+John Mayer ||| 1211
+Jonas Brothers ||| 745
+Harry Connick, Jr. ||| 359
+The Beatles ||| 346
+Duran Duran ||| 342
+Jason Mraz ||| 267
+Maroon 5 ||| 255
+Matchbox Twenty ||| 213
+John Mayer Trio ||| 200
+Fleet Foxes ||| 196
+Stereophonics ||| 196
+Amy Winehouse ||| 194
+Bobby Darin ||| 194
+Hugh Grant ||| 170
+Matt Costa ||| 167
+James Blunt ||| 162
+久石譲 ||| 159
+Snow Patrol ||| 152
+R.E.M. ||| 136
+Michael Jackson ||| 135
+Oasis ||| 133
+High School Musical ||| 125
+Andrew Bird ||| 122
+Jack Johnson ||| 118
+Jack's Mannequin ||| 99
+Eric Clapton ||| 97
+Tyler Hilton ||| 95
+Elvis Presley ||| 91
+Ray LaMontagne ||| 86
+Bee Gees ||| 85
+Mika ||| 85
+Green Day ||| 82
+Metro Station ||| 82
+Roy Orbison ||| 74
+Bruce Springsteen ||| 73
+King Harvest ||| 73
+Susan Boyle ||| 69
+Red Hot Chili Peppers ||| 68
+The Jackson 5 ||| 68
+Dean Martin ||| 64
+Adam Lambert ||| 62
+Michael Jackson & Paul McCartney ||| 62
+Nirvana ||| 59
+Taylor Swift ||| 59
+The Killers ||| 56
+Kanye West ||| 55
+## playcount: 20552

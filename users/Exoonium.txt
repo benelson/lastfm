@@ -1,0 +1,51 @@
+Iron Maiden ||| 3136
+Edguy ||| 2688
+Sonata Arctica ||| 2097
+Metallica ||| 2041
+Takida ||| 1664
+HammerFall ||| 1394
+Bruce Springsteen ||| 1221
+Nordman ||| 1003
+Gyllene Tider ||| 939
+Red Hot Chili Peppers ||| 872
+Hjalle & Heavy ||| 833
+Helloween ||| 825
+Bruce Dickinson ||| 804
+Mimikry ||| 734
+The Offspring ||| 713
+Céline Dion ||| 709
+Blind Guardian ||| 676
+In Flames ||| 645
+Bryan Adams ||| 596
+Creedence Clearwater Revival ||| 571
+U2 ||| 451
+Michelle Branch ||| 448
+Phil Collins ||| 426
+Sunrise Avenue ||| 407
+Nightwish ||| 402
+Cascada ||| 363
+Europe ||| 361
+R.E.M. ||| 348
+Nelly Furtado ||| 257
+Volbeat ||| 244
+The Poodles ||| 239
+Pink ||| 218
+Sahara Hotnights ||| 206
+Groove Coverage ||| 204
+Hanna Pakarinen ||| 202
+AC/DC ||| 198
+The Sounds ||| 187
+All Ends ||| 183
+Hinder ||| 162
+Johnny Cash ||| 131
+Queen ||| 123
+Scorpions ||| 123
+Tenacious D ||| 117
+Roxette ||| 116
+System of a Down ||| 115
+Guns N' Roses ||| 104
+Avantasia ||| 102
+P!nk ||| 101
+Bon Jovi ||| 96
+Tom Petty and The Heartbreakers ||| 93
+## playcount: 30888

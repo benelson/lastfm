@@ -1,0 +1,51 @@
+Angra ||| 3978
+HammerFall ||| 3369
+Blind Guardian ||| 3022
+Iron Maiden ||| 2604
+Helloween ||| 2038
+Scalene ||| 1840
+Dream Theater ||| 1808
+Almah ||| 1749
+Megadeth ||| 1690
+Judas Priest ||| 1490
+Sepultura ||| 1412
+Saxon ||| 1316
+Amon Amarth ||| 1057
+Gojira ||| 911
+Nightwish ||| 890
+Stratovarius ||| 885
+Belchior ||| 866
+Steven Wilson ||| 635
+Queen ||| 626
+Sabaton ||| 624
+Pantera ||| 621
+Bruce Dickinson ||| 612
+Devin Townsend Project ||| 612
+Riverside ||| 609
+Alice in Chains ||| 598
+Metallica ||| 580
+Opeth ||| 572
+Legião Urbana ||| 509
+Adagio ||| 497
+Accept ||| 496
+Kreator ||| 488
+Omnia ||| 487
+Hibria ||| 454
+Alcest ||| 453
+Powerwolf ||| 431
+Edguy ||| 412
+U2 ||| 412
+Velhas Virgens ||| 411
+Black Sabbath ||| 409
+Project46 ||| 406
+Rhapsody ||| 404
+Porcupine Tree ||| 393
+Blackfield ||| 368
+Pearl Jam ||| 367
+Vision Divine ||| 367
+Motörhead ||| 364
+The Weeknd ||| 342
+Rush ||| 339
+Ozzy Osbourne ||| 333
+Royal Blood ||| 327
+## playcount: 46483

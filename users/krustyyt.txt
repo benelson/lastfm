@@ -1,0 +1,30 @@
+Britney Spears ||| 3
+Backstreet Boys ||| 2
+Cher Lloyd ||| 2
+Dido ||| 2
+Ellie Goulding ||| 2
+Leona Lewis ||| 2
+Rihanna ||| 2
+Ace of Base ||| 1
+Beyoncé ||| 1
+Elton John ||| 1
+Gossip ||| 1
+Gwen Stefani ||| 1
+Ke$ha ||| 1
+Kelis ||| 1
+Lady Gaga ||| 1
+Lene Marlin ||| 1
+Lindsay Lohan ||| 1
+Madonna ||| 1
+Mariah Carey ||| 1
+Maroon 5 ||| 1
+Mika ||| 1
+Natasha Bedingfield ||| 1
+Nelly Furtado ||| 1
+Passion Pit ||| 1
+Scissor Sisters ||| 1
+Shakira ||| 1
+Sugababes ||| 1
+The Pussycat Dolls ||| 1
+The Ting Tings ||| 1
+## playcount: 37

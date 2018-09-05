@@ -1,0 +1,51 @@
+Soulfly ||| 640671
+System of a Down ||| 63855
+Fear Factory ||| 40468
+30 Seconds to Mars ||| 33051
+Metallica ||| 19840
+Imagine Dragons ||| 17220
+Guano Apes ||| 16402
+Rammstein ||| 11813
+Celldweller ||| 10140
+Slipknot ||| 10065
+Behemoth ||| 9544
+Otep ||| 9222
+Scars on Broadway ||| 7445
+Cavalera Conspiracy ||| 7251
+Static-X ||| 7162
+As I Lay Dying ||| 6789
+Nirvana ||| 6002
+Limp Bizkit ||| 5891
+Ektomorf ||| 5783
+Korn ||| 5424
+Serj Tankian ||| 5090
+Sepultura ||| 4295
+Mudvayne ||| 4218
+Killswitch Engage ||| 3613
+Apocalyptica ||| 3019
+Linkin Park ||| 2946
+a-ha ||| 2889
+Saltillo ||| 2819
+Clawfinger ||| 2575
+Street Drum Corps ||| 2427
+Trivium ||| 2418
+Depeche Mode ||| 2142
+The Offspring ||| 1936
+Papa Roach ||| 1864
+Him ||| 1770
+Sam ||| 1644
+Marilyn Manson ||| 1409
+Pain ||| 1219
+Divine Heresy ||| 1069
+Evanescence ||| 981
+Dido ||| 958
+Sting ||| 892
+P.O.D. ||| 832
+Slayer ||| 824
+Red Hot Chili Peppers ||| 705
+Queen ||| 672
+Caliban ||| 654
+Stahlmann ||| 650
+Tic Tac Toe ||| 634
+Eminem ||| 601
+## playcount: 991803

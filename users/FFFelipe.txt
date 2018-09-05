@@ -1,0 +1,51 @@
+Metallica ||| 4553
+Slipknot ||| 4463
+Linkin Park ||| 3350
+Stone Sour ||| 2997
+Avenged Sevenfold ||| 2371
+Korn ||| 2167
+System of a Down ||| 1958
+Nine Inch Nails ||| 1647
+Marilyn Manson ||| 1497
+Alice in Chains ||| 1496
+Killswitch Engage ||| 1433
+Green Day ||| 1429
+Rammstein ||| 1406
+Placebo ||| 1386
+Deathstars ||| 1363
+Foo Fighters ||| 1266
+Queens of the Stone Age ||| 1243
+Sepultura ||| 1226
+Trivium ||| 1182
+Aerosmith ||| 1162
+Five Finger Death Punch ||| 1157
+Red Hot Chili Peppers ||| 1112
+Iron Maiden ||| 1109
+Machine Head ||| 1069
+Slayer ||| 1025
+30 Seconds to Mars ||| 1021
+Kings of Leon ||| 1017
+10 Years ||| 1000
+Disturbed ||| 985
+Mastodon ||| 973
+Paramore ||| 936
+Iced Earth ||| 917
+Pantera ||| 906
+Audioslave ||| 896
+Three Days Grace ||| 862
+Deftones ||| 804
+Pearl Jam ||| 804
+The Strokes ||| 799
+Evanescence ||| 797
+Bullet for My Valentine ||| 720
+Alter Bridge ||| 719
+Depeche Mode ||| 708
+Lamb of God ||| 704
+Within Temptation ||| 678
+Eminem ||| 671
+Angra ||| 667
+Megadeth ||| 660
+Bad Religion ||| 639
+The Rolling Stones ||| 615
+Tool ||| 607
+## playcount: 65172

@@ -1,0 +1,51 @@
+Pink Floyd ||| 3866
+The Beatles ||| 3155
+Gentle Giant ||| 3085
+The Doors ||| 1803
+Hawkwind ||| 1677
+Jimi Hendrix ||| 1504
+Black Sabbath ||| 1366
+Donovan ||| 1303
+King Crimson ||| 1301
+Gong ||| 1276
+Motörhead ||| 1163
+The Dandy Warhols ||| 1015
+Pixies ||| 991
+Gryphon ||| 932
+Bob Dylan ||| 909
+Cream ||| 892
+Blur ||| 887
+Oasis ||| 831
+Supergrass ||| 831
+Belle and Sebastian ||| 787
+Buzzcocks ||| 761
+Nirvana ||| 760
+Metallica ||| 747
+Syd Barrett ||| 736
+Orange Alabaster Mushroom ||| 714
+The Chills ||| 658
+The Rolling Stones ||| 621
+Orange Goblin ||| 610
+The Stranglers ||| 606
+David Bowie ||| 603
+The Smashing Pumpkins ||| 567
+Queen ||| 564
+Eric Clapton ||| 532
+Led Zeppelin ||| 525
+Crass ||| 496
+Queens of the Stone Age ||| 480
+Camel ||| 442
+The White Stripes ||| 434
+Franz Ferdinand ||| 432
+Arthur Ahbez ||| 430
+The Libertines ||| 424
+Pentagram ||| 416
+The Velvet Underground ||| 409
+Iggy Pop ||| 392
+Leaf Hound ||| 383
+Ghost Wave ||| 365
+The Who ||| 362
+Bad Religion ||| 355
+Premiata Forneria Marconi ||| 343
+The Offspring ||| 342
+## playcount: 45083

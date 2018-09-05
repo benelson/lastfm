@@ -1,0 +1,51 @@
+Hole ||| 936
+Black Flag ||| 912
+Nirvana ||| 665
+Lydia Lunch ||| 655
+Henry Rollins ||| 541
+The Distillers ||| 530
+Misfits ||| 455
+Sonic Youth ||| 438
+The Beatles ||| 438
+The Birthday Party ||| 424
+Minor Threat ||| 408
+2Pac ||| 377
+Nick Cave & The Bad Seeds ||| 371
+Azealia Banks ||| 352
+Adolescents ||| 338
+Bad Brains ||| 330
+A Tribe Called Quest ||| 324
+Alice in Chains ||| 288
+Circle Jerks ||| 279
+The Clash ||| 275
+X ||| 275
+The Stooges ||| 270
+My Bloody Valentine ||| 259
+Slayer ||| 245
+The Germs ||| 245
+Echo & the Bunnymen ||| 239
+Fugazi ||| 237
+Kyuss ||| 237
+Soundgarden ||| 232
+Lil' Kim ||| 227
+No Doubt ||| 224
+Fear ||| 217
+Ramones ||| 217
+Descendents ||| 211
+Red Hot Chili Peppers ||| 205
+Agent Orange ||| 201
+Queens of the Stone Age ||| 201
+Patti Smith ||| 199
+Manic Street Preachers ||| 193
+Einstürzende Neubauten ||| 187
+Siouxsie and the Banshees ||| 187
+L7 ||| 183
+Babes in Toyland ||| 177
+The Replacements ||| 177
+Discharge ||| 176
+The Rolling Stones ||| 175
+The Velvet Underground ||| 167
+Creedence Clearwater Revival ||| 164
+Adrenalin O.D. ||| 161
+Kendrick Lamar ||| 161
+## playcount: 15585

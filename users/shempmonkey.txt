@@ -1,0 +1,51 @@
+Bob Dylan ||| 1178
+Richard Thompson ||| 868
+The Kinks ||| 847
+Elvis Presley ||| 826
+Neil Young ||| 718
+Mary Lou Lord ||| 641
+The Beach Boys ||| 609
+Johnny Cash ||| 587
+Small Faces ||| 581
+Big Star ||| 552
+The Clash ||| 551
+The Replacements ||| 544
+The Who ||| 534
+Sandy Denny ||| 463
+Yo La Tengo ||| 454
+Sun Ra ||| 451
+Guided by Voices ||| 447
+Roy Harper ||| 436
+Led Zeppelin ||| 422
+George Jones ||| 394
+The Byrds ||| 384
+The Velvet Underground ||| 383
+The Stooges ||| 364
+Ramones ||| 343
+Flamin' Groovies ||| 337
+Miles Davis ||| 335
+Woody Guthrie ||| 322
+The Rolling Stones ||| 317
+Elliott Smith ||| 315
+The Real Kids ||| 314
+Bert Jansch ||| 311
+Alex Chilton ||| 310
+Fairport Convention ||| 305
+Jerry Lee Lewis ||| 286
+Captain Beefheart & His Magic Band ||| 282
+Brian Eno ||| 277
+Steve Earle ||| 275
+Daniel Johnston ||| 273
+David Bowie ||| 272
+Merle Haggard ||| 267
+Gram Parsons ||| 266
+Todd Rundgren ||| 266
+Built to Spill ||| 261
+Chuck Berry ||| 245
+MC5 ||| 242
+The Dictators ||| 241
+The Pogues ||| 237
+Richard & Linda Thompson ||| 227
+James Brown ||| 222
+Lou Reed ||| 220
+## playcount: 20802

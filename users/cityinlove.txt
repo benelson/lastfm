@@ -1,0 +1,51 @@
+John Mayer ||| 181
+Coldplay ||| 124
+Bob Dylan ||| 98
+Sufjan Stevens ||| 98
+Trespassers William ||| 90
+Johnathan Rice ||| 88
+Jewel ||| 79
+Death Cab for Cutie ||| 75
+Counting Crows ||| 63
+Filter ||| 57
+José González ||| 56
+Dane Cook ||| 55
+Foo Fighters ||| 51
+Magnet ||| 51
+Dave Matthews Band ||| 48
+Marilyn Manson ||| 46
+Elton John ||| 44
+Simon & Garfunkel ||| 44
+Iron & Wine ||| 39
+Ryan Adams ||| 38
+Fleetwood Mac ||| 37
+Chris Isaak ||| 35
+Radiohead ||| 35
+Tom Petty and The Heartbreakers ||| 33
+Joni Mitchell ||| 31
+Paul Simon ||| 31
+Bright Eyes ||| 30
+Snow Patrol ||| 28
+The Killers ||| 28
+The Shins ||| 27
+Sinéad O'Connor ||| 26
+Ambulance Ltd ||| 25
+Dashboard Confessional ||| 25
+Insane Clown Posse ||| 25
+Jimmy Eat World ||| 25
+T. Rex ||| 25
+Five for Fighting ||| 24
+Incubus ||| 24
+Keane ||| 24
+Rilo Kiley ||| 24
+Loudon Wainwright III ||| 23
+Jack Johnson ||| 22
+The Cure ||| 22
+Chevelle ||| 21
+John Fogerty ||| 21
+Peter Schilling ||| 20
+The Postal Service ||| 20
+Eagles ||| 19
+James Newton Howard ||| 19
+Jamie Cullum ||| 19
+## playcount: 2193

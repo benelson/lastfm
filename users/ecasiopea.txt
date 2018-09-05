@@ -1,0 +1,51 @@
+Radiohead ||| 1123
+Alex Turner ||| 976
+Oasis ||| 799
+The Beatles ||| 545
+Carla Morrison ||| 521
+Travis ||| 507
+Arcade Fire ||| 414
+Kings of Leon ||| 353
+Nouvelle Vague ||| 349
+Pink Floyd ||| 321
+The Killers ||| 317
+Portishead ||| 315
+Arctic Monkeys ||| 294
+Air ||| 252
+The Libertines ||| 237
+The xx ||| 223
+The Strokes ||| 221
+Franz Ferdinand ||| 218
+Enjambre ||| 206
+Kasabian ||| 200
+Blur ||| 190
+Moby ||| 186
+Pearl Jam ||| 172
+She's A Tease ||| 171
+Zoé ||| 167
+SoKo ||| 164
+Metric ||| 163
+Joy Division ||| 157
+Depeche Mode ||| 154
+The Rolling Stones ||| 154
+Bloc Party ||| 151
+Sigur Rós ||| 151
+Interpol ||| 147
+Stereophonics ||| 145
+Audioslave ||| 142
+The Smashing Pumpkins ||| 141
+Best Coast ||| 137
+The Ting Tings ||| 134
+Vampire Weekend ||| 133
+Amy Winehouse ||| 131
+Soda Stereo ||| 131
+The Smiths ||| 125
+The Chemical Brothers ||| 122
+Red Hot Chili Peppers ||| 116
+Placebo ||| 113
+Kaiser Chiefs ||| 111
+Muse ||| 111
+The Stone Roses ||| 111
+Yann Tiersen ||| 110
+The Rapture ||| 103
+## playcount: 12634

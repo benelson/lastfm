@@ -1,0 +1,51 @@
+Coldplay ||| 5690
+Muse ||| 1988
+OK Go ||| 1730
+Kings of Leon ||| 1460
+Arctic Monkeys ||| 939
+Gorillaz ||| 730
+Snow Patrol ||| 607
+The Prodigy ||| 571
+De Staat ||| 556
+Pendulum ||| 456
+James Morrison ||| 451
+alt-J ||| 439
+Wolfmother ||| 422
+The Naked and Famous ||| 412
+The Killers ||| 402
+Triggerfinger ||| 397
+Mark Ronson ||| 380
+Aqualung ||| 374
+John Mayer ||| 372
+Queens of the Stone Age ||| 368
+The Temper Trap ||| 365
+Tenacious D ||| 357
+Eels ||| 321
+Vampire Weekend ||| 318
+Michael Bublé ||| 313
+Foo Fighters ||| 309
+Racoon ||| 306
+Keane ||| 305
+Nickelback ||| 305
+Tame Impala ||| 296
+Elbow ||| 285
+The Feeling ||| 281
+The Beach Boys ||| 279
+White Lies ||| 278
+Massive Attack ||| 275
+Linkin Park ||| 269
+Chef'Special ||| 255
+Red Hot Chili Peppers ||| 251
+Graffiti6 ||| 244
+Nirvana ||| 239
+The Fray ||| 225
+The Beatles ||| 223
+The Hives ||| 218
+Biffy Clyro ||| 208
+Radiohead ||| 206
+Eagles of Death Metal ||| 202
+Orson ||| 201
+London Grammar ||| 200
+Razorlight ||| 196
+The Script ||| 192
+## playcount: 26666

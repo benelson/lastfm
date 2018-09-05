@@ -1,0 +1,51 @@
+Foo Fighters ||| 3545
+KT Tunstall ||| 1672
+HAIM ||| 730
+Bearbot ||| 451
+Phoenix ||| 415
+Incubus ||| 382
+Blood Red Shoes ||| 366
+Groove Armada ||| 346
+Tribal Seeds ||| 344
+Rush ||| 332
+Daft Punk ||| 318
+Dire Straits ||| 298
+Frank Sinatra ||| 290
+Red Hot Chili Peppers ||| 286
+Simon & Garfunkel ||| 279
+Wu-Tang Clan ||| 268
+Death Cab for Cutie ||| 266
+Beck ||| 258
+Vampire Weekend ||| 258
+Queen ||| 241
+Calvin Harris ||| 238
+Phish ||| 238
+Lykke Li ||| 223
+ZZ Top ||| 219
+Guus Meeuwis ||| 217
+Creedence Clearwater Revival ||| 212
+Sara Bareilles ||| 209
+The Smiths ||| 206
+Janelle Monáe ||| 200
+Them Crooked Vultures ||| 194
+Bear McCreary ||| 192
+Summer Camp ||| 191
+Jeff Wayne ||| 185
+The White Stripes ||| 183
+The xx ||| 172
+Nirvana ||| 169
+The Kooks ||| 167
+Counter Jib ||| 166
+Foreigner ||| 164
+Röyksopp ||| 164
+The Wombats ||| 164
+Tenacious D ||| 163
+Johnny Cash ||| 162
+Edward Sharpe & The Magnetic Zeros ||| 160
+Sleigh Bells ||| 155
+Alela Diane ||| 154
+P.O.S. ||| 152
+Adele ||| 150
+Robyn ||| 149
+Bob Dylan ||| 146
+## playcount: 16809

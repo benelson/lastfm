@@ -1,0 +1,19 @@
+Ramones ||| 88
+Johnny Cash ||| 20
+Social Distortion ||| 20
+Rock Rocket ||| 15
+Iron Maiden ||| 11
+Misfits ||| 8
+The Beatles ||| 5
+Garotos Podres ||| 4
+Wander Wildner ||| 4
+Dead Boys ||| 3
+Ozzy Osbourne ||| 2
+The Offspring ||| 2
+Titãs ||| 2
+X ||| 2
+Black Sabbath ||| 1
+Dead Kennedys ||| 1
+Ratos De Porão ||| 1
+The Clash ||| 1
+## playcount: 190

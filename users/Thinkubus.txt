@@ -1,0 +1,51 @@
+Incubus ||| 746
+Korn ||| 46
+Backstreet Boys ||| 37
+Pendulum ||| 36
+Rage Against the Machine ||| 29
+(hed) Planet Earth ||| 28
+Mindless Self Indulgence ||| 23
+blink-182 ||| 21
+Run-D.M.C. ||| 21
+Alanis Morissette ||| 19
+Kasabian ||| 19
+311 ||| 17
+Machine Head ||| 17
+Nirvana ||| 17
+Barry Louis Polisar ||| 16
+Foo Fighters ||| 15
+Slipknot ||| 15
+Alice in Chains ||| 14
+Red Hot Chili Peppers ||| 14
+Nine Inch Nails ||| 11
+Pearl Jam ||| 10
+Adema ||| 9
+Beck ||| 9
+Manic Street Preachers ||| 9
+The Offspring ||| 9
+Arctic Monkeys ||| 8
+Green Day ||| 8
+Hole ||| 8
+Muse ||| 8
+Symphony X ||| 8
+The Killers ||| 8
+Marilyn Manson ||| 7
+Stone Sour ||| 7
+Counting Crows ||| 6
+Maxïmo Park ||| 6
+Pantera ||| 6
+Portishead ||| 6
+R.E.M. ||| 6
+Chimaira ||| 5
+Coheed and Cambria ||| 5
+David Bowie ||| 5
+Feist ||| 5
+Ice Cube ||| 5
+Jay-Z ||| 5
+Rodrigo y Gabriela ||| 5
+Snoop Dogg ||| 5
+Bush ||| 4
+Danny Elfman ||| 4
+Evanescence ||| 4
+Kate Nash ||| 4
+## playcount: 1355

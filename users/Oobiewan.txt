@@ -1,0 +1,51 @@
+Queen ||| 2264
+Queens of the Stone Age ||| 2097
+Led Zeppelin ||| 1707
+Ryan Adams ||| 1463
+Mark Lanegan ||| 1169
+Pearl Jam ||| 1112
+Fleetwood Mac ||| 1043
+U2 ||| 1022
+Elvis Presley ||| 1007
+Kispál és a Borz ||| 981
+Alice in Chains ||| 929
+Eddie Vedder ||| 917
+Adrian Belew ||| 873
+Chumbawamba ||| 817
+Gary Moore ||| 796
+Pink Floyd ||| 651
+Porcupine Tree ||| 638
+The Beatles ||| 636
+Jacques Loussier Trio ||| 635
+Deep Purple ||| 621
+Paolo Nutini ||| 593
+Al Green ||| 560
+Vasco Rossi ||| 553
+Neil Young ||| 545
+R.E.M. ||| 537
+Nirvana ||| 515
+Shining ||| 515
+ZZ Top ||| 500
+Thin Lizzy ||| 497
+The Rolling Stones ||| 478
+Kimnowak ||| 472
+The Doors ||| 472
+Jeff Beck ||| 469
+David Bowie ||| 465
+Bob Dylan ||| 455
+10,000 Maniacs ||| 452
+Kyuss ||| 448
+My Morning Jacket ||| 441
+Patti Smith ||| 431
+Foo Fighters ||| 425
+Norah Jones ||| 422
+Black Sabbath ||| 406
+James Brown ||| 400
+Mark Knopfler ||| 398
+Jimi Hendrix ||| 389
+Red Hot Chili Peppers ||| 389
+Natalie Merchant ||| 388
+John Mayer ||| 381
+CHVRCHES ||| 363
+Joni Mitchell ||| 348
+## playcount: 35085

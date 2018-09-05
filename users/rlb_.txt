@@ -1,0 +1,51 @@
+Silverchair ||| 5301
+Alter Bridge ||| 5282
+Lifehouse ||| 4301
+Foo Fighters ||| 4223
+Switchfoot ||| 3966
+David Cook ||| 3481
+Adelitas Way ||| 3266
+Pearl Jam ||| 2512
+Daughtry ||| 2333
+3 Doors Down ||| 2273
+Nickelback ||| 2199
+Papa Roach ||| 2018
+Fresno ||| 1812
+Dashboard Confessional ||| 1757
+Creed ||| 1693
+Goo Goo Dolls ||| 1688
+Secondhand Serenade ||| 1629
+blink-182 ||| 1626
+Bon Jovi ||| 1564
+Incubus ||| 1451
+Nirvana ||| 1145
+Stone Sour ||| 1112
+Black Stone Cherry ||| 1063
+Sick Puppies ||| 1043
+Matchbox Twenty ||| 1007
+Oasis ||| 868
+Fuel ||| 867
+Avenged Sevenfold ||| 861
+barreto ||| 846
+Reação Em Cadeia ||| 789
+Vertical Horizon ||| 713
+The Killers ||| 709
+Sum 41 ||| 651
+The Fray ||| 625
+Trapt ||| 566
+Submersed ||| 544
+OneRepublic ||| 541
+NX Zero ||| 539
+Kutless ||| 537
+Muse ||| 522
+The Mayfield Four ||| 483
+12 Stones ||| 426
+Dishwalla ||| 423
+The Red Jumpsuit Apparatus ||| 416
+Millencolin ||| 413
+Rosa de Saron ||| 408
+Coldplay ||| 405
+Placebo ||| 396
+U2 ||| 389
+Bryan Adams ||| 374
+## playcount: 74056

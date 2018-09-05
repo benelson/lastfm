@@ -1,0 +1,15 @@
+30 Seconds to Mars ||| 236
+My Chemical Romance ||| 29
+Paramore ||| 13
+Foo Fighters ||| 11
+Evanescence ||| 9
+Panic! at the Disco ||| 7
+Three Days Grace ||| 7
+Nirvana ||| 3
+Pitty ||| 3
+Britney Spears ||| 2
+Red Hot Chili Peppers ||| 2
+Adele ||| 1
+Leona Lewis ||| 1
+Pânic At The Disco ||| 1
+## playcount: 325

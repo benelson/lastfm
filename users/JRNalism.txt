@@ -1,0 +1,51 @@
+The Vaccines ||| 2764
+The Beatles ||| 2610
+The Courteeners ||| 1586
+Arctic Monkeys ||| 1366
+The Black Keys ||| 1137
+Oasis ||| 1086
+Kasabian ||| 791
+The Killers ||| 763
+Reverend and the Makers ||| 660
+Elton John ||| 615
+Cage the Elephant ||| 525
+The Fratellis ||| 515
+Kings of Leon ||| 425
+Mumford & Sons ||| 414
+Busted ||| 407
+The Drums ||| 401
+Example ||| 379
+The Lonely Island ||| 377
+Miles Kane ||| 335
+Muse ||| 317
+Noah and the Whale ||| 317
+The Cure ||| 302
+Coldplay ||| 296
+Blur ||| 295
+Pulp ||| 293
+The Gaslight Anthem ||| 293
+Bombay Bicycle Club ||| 291
+Snow Patrol ||| 288
+blink-182 ||| 275
+Beady Eye ||| 272
+Frankie & The Heartstrings ||| 264
+Adele ||| 262
+The Zutons ||| 250
+The Kinks ||| 249
+Foo Fighters ||| 245
+The Strokes ||| 243
+Eminem ||| 205
+Noisettes ||| 198
+Rihanna ||| 197
+CeeLo Green ||| 196
+Kaiser Chiefs ||| 193
+The Subways ||| 191
+Jimmy Eat World ||| 187
+The Wombats ||| 187
+Franz Ferdinand ||| 183
+The Pigeon Detectives ||| 183
+alt-J ||| 177
+Radiohead ||| 177
+Alexandra Burke ||| 170
+Feeder ||| 164
+## playcount: 24516

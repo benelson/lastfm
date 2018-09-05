@@ -1,0 +1,51 @@
+Kiss ||| 1647
+Bon Jovi ||| 1523
+Placebo ||| 1174
+Him ||| 1170
+AC/DC ||| 1154
+Gloria ||| 933
+Epica ||| 885
+YUI ||| 764
+a-ha ||| 752
+Radiohead ||| 728
+Rammstein ||| 709
+ギルガメッシュ ||| 677
+the GazettE ||| 612
+Ghost ||| 608
+Stone Sour ||| 595
+Deathstars ||| 585
+The Used ||| 520
+Linkin Park ||| 459
+Nightwish ||| 439
+Legião Urbana ||| 436
+Marilyn Manson ||| 434
+Slipknot ||| 430
+Northern Kings ||| 426
+Matanza ||| 409
+Dimmu Borgir ||| 398
+System of a Down ||| 332
+Amon Amarth ||| 330
+Drowned ||| 323
+The Cure ||| 314
+Ramones ||| 296
+Rancore ||| 281
+Engenheiros Do Hawaii ||| 280
+Cinderella ||| 277
+Avantasia ||| 238
+A Day to Remember ||| 234
+Draconian ||| 232
+Avenged Sevenfold ||| 229
+Air Supply ||| 211
+Def Leppard ||| 211
+Metallica ||| 205
+Sonata Arctica ||| 205
+Breaking Benjamin ||| 195
+Skillet ||| 195
+Evanescence ||| 194
+Korpiklaani ||| 179
+Weezer ||| 179
+Iron Maiden ||| 175
+Lynyrd Skynyrd ||| 174
+Nickelback ||| 174
+Slayer ||| 173
+## playcount: 24303

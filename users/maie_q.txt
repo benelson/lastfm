@@ -1,0 +1,51 @@
+Radiohead ||| 2324
+Metallica ||| 2171
+Scalene ||| 1985
+Fresno ||| 1473
+City and Colour ||| 1349
+Pearl Jam ||| 1293
+Oasis ||| 1194
+Switchfoot ||| 1171
+Esteban ||| 1090
+Arctic Monkeys ||| 1068
+Impending Doom ||| 1035
+AC/DC ||| 932
+Slipknot ||| 880
+Korn ||| 864
+For Today ||| 797
+Thrice ||| 747
+Pink Floyd ||| 738
+Skillet ||| 639
+Ramones ||| 618
+NX Zero ||| 600
+Demon Hunter ||| 567
+Alice in Chains ||| 563
+Betraying the Martyrs ||| 555
+Coldplay ||| 554
+Jon Foreman ||| 554
+Far From Alaska ||| 544
+Los Hermanos ||| 540
+Abril ||| 512
+Supercombo ||| 501
+Interpol ||| 488
+The Calling ||| 486
+Foo Fighters ||| 485
+Snow Patrol ||| 482
+Whitechapel ||| 447
+Lifehouse ||| 444
+Red ||| 435
+Queens of the Stone Age ||| 433
+August Burns Red ||| 419
+Paramore ||| 417
+Slayer ||| 416
+Teddy Geiger ||| 409
+Muse ||| 400
+Killswitch Engage ||| 399
+Nirvana ||| 393
+Silverchair ||| 392
+Stone Sour ||| 378
+The Strokes ||| 375
+Keane ||| 361
+Led Zeppelin ||| 342
+Royal Blood ||| 341
+## playcount: 36600

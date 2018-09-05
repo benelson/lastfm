@@ -1,0 +1,51 @@
+Bob Dylan ||| 1168
+Radiohead ||| 993
+Sigur Rós ||| 786
+Coldplay ||| 732
+Red Hot Chili Peppers ||| 644
+Ryan Adams ||| 638
+John Frusciante ||| 608
+Howard Shore ||| 597
+The Beatles ||| 572
+Pearl Jam ||| 512
+Nick Drake ||| 500
+Michael Giacchino ||| 456
+The Doors ||| 449
+Bright Eyes ||| 440
+The Mars Volta ||| 430
+John Williams ||| 429
+Ennio Morricone ||| 428
+Norah Jones ||| 425
+The Shins ||| 425
+Björk ||| 411
+Gustavo Santaolalla ||| 410
+Snow Patrol ||| 405
+Neil Young ||| 400
+The Cure ||| 392
+Manu Chao ||| 382
+Miles Davis ||| 380
+Babyshambles ||| 368
+Sufjan Stevens ||| 361
+Helge Schneider ||| 341
+Kings of Leon ||| 335
+Bloc Party ||| 315
+David Bowie ||| 294
+Jack Johnson ||| 291
+Led Zeppelin ||| 280
+mewithoutYou ||| 280
+David Julyan ||| 276
+Paul Kalkbrenner ||| 276
+Kings of Convenience ||| 272
+Bob Marley & The Wailers ||| 271
+The Smiths ||| 265
+José González ||| 264
+Aimee Mann ||| 256
+Harry Gregson-Williams ||| 251
+The Thrills ||| 231
+The Jimi Hendrix Experience ||| 229
+Philip Glass ||| 227
+The Veils ||| 225
+Parliament ||| 220
+Arcade Fire ||| 219
+Audioslave ||| 216
+## playcount: 20575

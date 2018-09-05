@@ -1,0 +1,51 @@
+Metallica ||| 2588
+Megadeth ||| 432
+Bullet for My Valentine ||| 285
+Linkin Park ||| 255
+Slayer ||| 245
+Iron Maiden ||| 239
+Avenged Sevenfold ||| 222
+Matanza ||| 221
+Green Day ||| 195
+Sepultura ||| 165
+My Chemical Romance ||| 152
+Misfits ||| 148
+Anthrax ||| 127
+Rage Against the Machine ||| 122
+Sabaton ||| 122
+Cólera ||| 117
+Black Sabbath ||| 112
+Motörhead ||| 108
+Slipknot ||| 103
+Pellek ||| 102
+Ramones ||| 101
+Korn ||| 97
+AC/DC ||| 91
+Faith No More ||| 88
+Testament ||| 85
+Trivium ||| 70
+Stone Sour ||| 69
+Rammstein ||| 67
+Alice in Chains ||| 62
+Ozzy Osbourne ||| 61
+Pantera ||| 60
+Suicidal Tendencies ||| 60
+Nirvana ||| 59
+Mastodon ||| 58
+Maximum the Hormone ||| 54
+Judas Priest ||| 53
+Blind Guardian ||| 52
+Accept ||| 51
+Van Halen ||| 51
+Lamb of God ||| 48
+Raimundos ||| 47
+Black Label Society ||| 45
+Next to None ||| 44
+Heaven Shall Burn ||| 39
+Venom ||| 38
+Iced Earth ||| 37
+Machine Head ||| 37
+Black Veil Brides ||| 36
+Scorpions ||| 35
+Amon Amarth ||| 33
+## playcount: 7788

@@ -1,0 +1,51 @@
+Foo Fighters ||| 633
+Apocalyptica ||| 476
+System of a Down ||| 444
+Jack Johnson ||| 442
+Flogging Molly ||| 432
+Die Toten Hosen ||| 406
+Red Hot Chili Peppers ||| 358
+The Strokes ||| 318
+Madsen ||| 285
+Social Distortion ||| 265
+Nirvana ||| 261
+Audioslave ||| 260
+Limp Bizkit ||| 236
+The Kooks ||| 212
+Billy Talent ||| 205
+Arctic Monkeys ||| 183
+Blumentopf ||| 147
+Gorillaz ||| 140
+Sportfreunde Stiller ||| 129
+Die Fantastischen Vier ||| 115
+Dropkick Murphys ||| 109
+Ramones ||| 108
+Fettes Brot ||| 101
+The Offspring ||| 101
+Bullet for My Valentine ||| 98
+Die Ärzte ||| 95
+Bloodhound Gang ||| 90
+Serj Tankian ||| 89
+Donavon Frankenreiter ||| 79
+Kaiser Chiefs ||| 73
+Kasabian ||| 68
+R.E.M. ||| 64
+Dendemann ||| 61
+Jan Delay ||| 60
+Papa Roach ||| 59
+The Dubliners ||| 56
+Mando Diao ||| 55
+Incubus ||| 52
+Absolute Beginner ||| 50
+Frittenbude ||| 48
+Smash Mouth ||| 48
+The Mahones ||| 48
+Farin Urlaub ||| 47
+Ben Harper ||| 46
+Beginner ||| 44
+Bela B. ||| 42
+The Bloody Irish Boys ||| 41
+Kilians ||| 40
+Moby ||| 40
+Babyshambles ||| 37
+## playcount: 7896

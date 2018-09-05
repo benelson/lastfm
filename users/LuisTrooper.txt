@@ -1,0 +1,51 @@
+The Beatles ||| 4677
+The Rolling Stones ||| 3213
+Deep Purple ||| 2688
+Black Sabbath ||| 1802
+Yes ||| 1774
+Helloween ||| 1766
+The Byrds ||| 1702
+Led Zeppelin ||| 1550
+Uriah Heep ||| 1502
+Whitesnake ||| 1413
+Cream ||| 1216
+The Kinks ||| 1207
+Genesis ||| 1147
+Rush ||| 1132
+Scorpions ||| 1093
+The Who ||| 1083
+Kiss ||| 1045
+Judas Priest ||| 1038
+Slayer ||| 866
+Camel ||| 812
+AC/DC ||| 806
+Iron Maiden ||| 773
+Megadeth ||| 721
+Metallica ||| 712
+Small Faces ||| 679
+UFO ||| 639
+Queen ||| 615
+The Yardbirds ||| 596
+Jethro Tull ||| 577
+Pink Floyd ||| 545
+John Mayall & The Bluesbreakers ||| 534
+Rainbow ||| 534
+Fleetwood Mac ||| 521
+Saxon ||| 502
+The Hollies ||| 501
+Motörhead ||| 500
+Grand Funk Railroad ||| 463
+The Moody Blues ||| 413
+Styx ||| 409
+Dream Theater ||| 399
+Kreator ||| 399
+The Zombies ||| 388
+King Crimson ||| 374
+Gentle Giant ||| 353
+The Allman Brothers Band ||| 348
+The Move ||| 348
+Golden Earring ||| 332
+Manowar ||| 326
+Thin Lizzy ||| 316
+The Jimi Hendrix Experience ||| 315
+## playcount: 47664

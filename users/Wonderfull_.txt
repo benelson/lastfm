@@ -1,0 +1,51 @@
+Britney Spears ||| 1680
+Lady Gaga ||| 1455
+Lana Del Rey ||| 1106
+Taylor Swift ||| 1037
+Rihanna ||| 748
+Adele ||| 688
+30 Seconds to Mars ||| 683
+Mariah Carey ||| 557
+Kelly Clarkson ||| 555
+Katy Perry ||| 554
+Beyoncé ||| 548
+Iggy Azalea ||| 546
+Ariana Grande ||| 507
+Lorde ||| 479
+Christina Aguilera ||| 473
+Sia ||| 458
+Sam Smith ||| 431
+Maroon 5 ||| 415
+The Weeknd ||| 406
+Shakira ||| 399
+P!nk ||| 390
+Ed Sheeran ||| 389
+Demi Lovato ||| 356
+Coldplay ||| 348
+Alter Bridge ||| 339
+Eminem ||| 339
+Carrie Underwood ||| 323
+Jennifer Lopez ||| 309
+Arctic Monkeys ||| 290
+Meghan Trainor ||| 288
+David Guetta ||| 287
+Ellie Goulding ||| 286
+Madonna ||| 271
+Calvin Harris ||| 268
+Ke$ha ||| 267
+Paramore ||| 262
+Fall Out Boy ||| 256
+Alicia Keys ||| 253
+Muse ||| 252
+Linkin Park ||| 251
+Green Day ||| 243
+Imagine Dragons ||| 241
+Amy Winehouse ||| 239
+Fifth Harmony ||| 236
+Nicki Minaj ||| 234
+Bruno Mars ||| 221
+Florence + the Machine ||| 221
+Jessie J ||| 217
+Kylie Minogue ||| 217
+Evanescence ||| 216
+## playcount: 22034

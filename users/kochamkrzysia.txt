@@ -1,0 +1,51 @@
+Ayreon ||| 544
+Grace Slick ||| 515
+Dream Theater ||| 350
+Pink Floyd ||| 265
+Riverside ||| 247
+Transatlantic ||| 245
+Pendragon ||| 232
+God Is An Astronaut ||| 222
+Porcupine Tree ||| 215
+Led Zeppelin ||| 199
+UFO ||| 195
+Haken ||| 191
+Flying Colors ||| 180
+Jethro Tull ||| 170
+Kamelot ||| 152
+OSI ||| 150
+The Cranberries ||| 138
+Electric Light Orchestra ||| 125
+Anathema ||| 112
+Boston ||| 110
+Massive Attack ||| 106
+Gary Moore ||| 101
+Nevermore ||| 101
+Rush ||| 98
+Neal Morse ||| 96
+Jefferson Airplane ||| 89
+Shamrain ||| 89
+Renaissance ||| 88
+Marillion ||| 84
+PJ Harvey ||| 84
+Blackfield ||| 83
+Star One ||| 78
+Eric Clapton ||| 77
+Fleetwood Mac ||| 75
+Pixies ||| 75
+Iron Maiden ||| 74
+Aerosmith ||| 60
+Hell ||| 59
+Janis Joplin ||| 54
+The Animals ||| 50
+The Beatles ||| 49
+The Mamas & the Papas ||| 49
+Avantasia ||| 48
+Katatonia ||| 47
+If These Trees Could Talk ||| 45
+The Doors ||| 43
+Kansas ||| 41
+Roger Waters ||| 39
+Deep Purple ||| 35
+Lacuna Coil ||| 35
+## playcount: 6609

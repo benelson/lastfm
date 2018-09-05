@@ -1,0 +1,51 @@
+Blur ||| 1216
+PJ Harvey ||| 1119
+Black Rebel Motorcycle Club ||| 1029
+The Black Keys ||| 809
+The Beatles ||| 795
+Oasis ||| 747
+The Smashing Pumpkins ||| 723
+Pixies ||| 717
+Radiohead ||| 708
+The Killers ||| 626
+Suede ||| 619
+The Jesus and Mary Chain ||| 607
+Nirvana ||| 603
+Pulp ||| 603
+Mudhoney ||| 593
+Arctic Monkeys ||| 590
+U2 ||| 588
+Nada Surf ||| 582
+Superdrag ||| 557
+The Stone Roses ||| 555
+Foo Fighters ||| 543
+Ringo Deathstarr ||| 543
+Soundgarden ||| 507
+Pavement ||| 494
+Franz Ferdinand ||| 477
+Pearl Jam ||| 469
+Buffalo Tom ||| 449
+Grizzly Bear ||| 442
+Superchunk ||| 437
+Depeche Mode ||| 415
+New Order ||| 409
+Beastie Boys ||| 402
+L7 ||| 400
+The Strokes ||| 400
+Stone Temple Pilots ||| 397
+The Black Angels ||| 392
+Kaiser Chiefs ||| 386
+The Cramps ||| 386
+Screaming Trees ||| 385
+The Verve ||| 383
+Bloc Party ||| 378
+Hole ||| 373
+Jane's Addiction ||| 371
+Interpol ||| 369
+Phoenix ||| 368
+Guided by Voices ||| 359
+Alice in Chains ||| 356
+Weezer ||| 353
+Sonic Youth ||| 347
+The Cure ||| 336
+## playcount: 26712

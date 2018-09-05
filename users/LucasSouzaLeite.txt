@@ -1,0 +1,51 @@
+Coldplay ||| 2556
+John Mayer ||| 2399
+Oasis ||| 1906
+Lenine ||| 1880
+O Teatro Mágico ||| 1846
+Broken Social Scene ||| 1740
+The Beatles ||| 1684
+Dave Matthews Band ||| 1682
+Our Lady Peace ||| 1529
+Jorge Drexler ||| 1418
+Soda Stereo ||| 1241
+Foo Fighters ||| 1239
+Caetano Veloso ||| 1230
+Gilberto Gil ||| 1104
+Pearl Jam ||| 1045
+Apanhador Só ||| 982
+Céu ||| 980
+The Kooks ||| 935
+The Cure ||| 918
+Paulinho Moska ||| 851
+Paramore ||| 836
+Tom Zé ||| 827
+Young the Giant ||| 786
+Pink Floyd ||| 784
+Milton Nascimento ||| 774
+5 A Seco ||| 715
+Incubus ||| 678
+Tiago Iorc ||| 669
+Clube da Esquina ||| 664
+Engenheiros Do Hawaii ||| 650
+Red Hot Chili Peppers ||| 626
+Chico Science & Nação Zumbi ||| 611
+Mumford & Sons ||| 608
+The Script ||| 583
+Legião Urbana ||| 549
+Bloc Party ||| 535
+The Smashing Pumpkins ||| 531
+Jeff Buckley ||| 528
+Catfish and The Bottlemen ||| 523
+Nação Zumbi ||| 512
+Cibelle ||| 511
+Reverie Sound Revue ||| 511
+Blind Melon ||| 507
+Of Monsters and Men ||| 465
+Foals ||| 438
+Feist ||| 417
+Silva ||| 411
+Gustavo Cerati ||| 402
+Cérebro Eletrônico ||| 397
+Eddie Vedder ||| 389
+## playcount: 46602

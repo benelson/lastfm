@@ -1,0 +1,51 @@
+The Beatles ||| 144
+Steely Dan ||| 91
+The Jimi Hendrix Experience ||| 70
+Janis Joplin ||| 61
+Jimmie Vaughan ||| 59
+The Fabulous Thunderbirds ||| 59
+The Rolling Stones ||| 55
+Chris de Burgh ||| 51
+Creedence Clearwater Revival ||| 51
+Billy Joel ||| 50
+Elton John ||| 49
+Stevie Ray Vaughan ||| 49
+Boz Scaggs ||| 48
+Bruce Springsteen ||| 46
+Chuck Berry ||| 46
+Tom Petty and The Heartbreakers ||| 45
+Van Morrison ||| 45
+Little Richard ||| 43
+Pink Floyd ||| 43
+Bob Dylan ||| 41
+Led Zeppelin ||| 39
+Bob Seger ||| 37
+Delbert McClinton ||| 36
+Eric Clapton ||| 36
+Electric Light Orchestra ||| 35
+Loggins & Messina ||| 35
+ZZ Top ||| 35
+Jackson Browne ||| 34
+Chris Rea ||| 33
+Kenny Loggins ||| 33
+The Doobie Brothers ||| 33
+Dan Fogelberg ||| 32
+Bryan Adams ||| 31
+Neil Young ||| 31
+Fleetwood Mac ||| 30
+Peter Gabriel ||| 30
+The Police ||| 30
+Thin Lizzy ||| 30
+Sting ||| 29
+Chicago ||| 28
+Santana ||| 28
+Heart ||| 27
+Styx ||| 27
+Bad Company ||| 26
+Boston ||| 26
+Crosby, Stills, Nash & Young ||| 26
+Phil Collins ||| 25
+The Allman Brothers Band ||| 25
+Atlanta Rhythm Section ||| 24
+Rod Stewart ||| 24
+## playcount: 2061

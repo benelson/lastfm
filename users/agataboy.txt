@@ -1,0 +1,51 @@
+Foo Fighters ||| 727
+City and Colour ||| 722
+The Smashing Pumpkins ||| 718
+Ryan Adams ||| 641
+Michael Jackson ||| 611
+The Devlins ||| 441
+OneRepublic ||| 423
+The Twilight Singers ||| 386
+Queen ||| 367
+Erykah Badu ||| 315
+Goo Goo Dolls ||| 306
+Elliott Smith ||| 280
+Kings of Leon ||| 273
+Bryan Adams ||| 258
+Loquat ||| 252
+Samiam ||| 246
+Radiohead ||| 237
+Michael Bolton ||| 235
+Vincent Gallo ||| 235
+Lenny Kravitz ||| 233
+All About Eve ||| 219
+Sparklehorse ||| 206
+David Bowie ||| 200
+Cocteau Twins ||| 199
+Joe Cocker ||| 195
+Madonna ||| 195
+Robin Guthrie ||| 186
+Bon Iver ||| 180
+Дельфин ||| 178
+James Horner ||| 177
+Silversun Pickups ||| 177
+Alanis Morissette ||| 172
+The Cure ||| 157
+Weezer ||| 156
+Everything But the Girl ||| 154
+Quinze ||| 154
+Tears for Fears ||| 150
+Slash ||| 145
+M83 ||| 138
+Stateless ||| 138
+Incubus ||| 137
+John Frusciante ||| 133
+Norah Jones ||| 133
+Chris Isaak ||| 130
+Bryan Ferry ||| 128
+2Pac ||| 127
+The Cardigans ||| 124
+The Sound ||| 123
+Harry Gregson-Williams ||| 121
+Evenings ||| 117
+## playcount: 12655

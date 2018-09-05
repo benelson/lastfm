@@ -1,0 +1,51 @@
+Beyoncé ||| 42827
+Christina Aguilera ||| 14522
+Rihanna ||| 12372
+Nicki Minaj ||| 11068
+Amy Winehouse ||| 10815
+Arctic Monkeys ||| 10679
+Lana Del Rey ||| 10545
+Jay-Z ||| 10067
+Iggy Azalea ||| 9922
+Ed Sheeran ||| 9851
+Florence + the Machine ||| 9829
+Katy Perry ||| 3349
+Madonna ||| 2630
+Tinashe ||| 1887
+Kanye West ||| 1791
+Shakira ||| 1165
+Kylie Minogue ||| 1140
+Mariah Carey ||| 893
+Britney Spears ||| 873
+Ariana Grande ||| 847
+Eminem ||| 816
+Lady Gaga ||| 793
+Taylor Swift ||| 739
+David Guetta ||| 670
+[unknown] ||| 669
+Anitta ||| 653
+Azealia Banks ||| 623
+Jay-Z & Beyoncé ||| 562
+Fifth Harmony ||| 510
+Jessie J ||| 446
+DJ Tuniziano ||| 443
+Destiny's Child ||| 439
+Lily Allen ||| 407
+Charli XCX ||| 374
+Carly Rose Sonenclar ||| 369
+Pitty ||| 358
+P!nk ||| 335
+Lady GaGa Feat. Beyoncé ||| 320
+Alicia Keys ||| 297
+Justin Bieber ||| 293
+Lorde ||| 284
+Sia ||| 281
+Miley Cyrus ||| 272
+Selena Gomez ||| 259
+Mark Ronson ||| 256
+Matt Helders ||| 256
+Jennifer Lopez ||| 247
+One Direction ||| 241
+Foxes ||| 240
+Meghan Trainor ||| 236
+## playcount: 179760

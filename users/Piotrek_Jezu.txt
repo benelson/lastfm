@@ -1,0 +1,51 @@
+Tool ||| 3256
+Queens of the Stone Age ||| 3011
+Pain of Salvation ||| 2298
+Porcupine Tree ||| 2006
+Slipknot ||| 1883
+Biosphere ||| 1788
+Korn ||| 1600
+Anathema ||| 1344
+Red Hot Chili Peppers ||| 1255
+Tenacious D ||| 1221
+Kyuss ||| 990
+Coma ||| 981
+Massive Attack ||| 942
+Isis ||| 937
+Puscifer ||| 907
+Deftones ||| 898
+A Perfect Circle ||| 891
+Bear McCreary ||| 817
+Gojira ||| 772
+Ayreon ||| 746
+Clint Mansell ||| 729
+System of a Down ||| 714
+Arctic Monkeys ||| 702
+Muse ||| 616
+The Prodigy ||| 612
+Linkin Park ||| 608
+Dead Can Dance ||| 592
+Nirvana ||| 562
+Trivium ||| 558
+Limp Bizkit ||| 554
+Foo Fighters ||| 548
+††† ||| 547
+Riverside ||| 516
+Lao Che ||| 515
+Opeth ||| 503
+Behemoth ||| 493
+Marilyn Manson ||| 486
+Archive ||| 484
+As I Lay Dying ||| 483
+Audioslave ||| 480
+Black Sabbath ||| 471
+Carbon Based Lifeforms ||| 464
+The Black Keys ||| 428
+Dream Theater ||| 394
+John Frusciante ||| 382
+Mastodon ||| 372
+Metallica ||| 371
+Nine Inch Nails ||| 367
+Michael Jackson ||| 362
+Jack White ||| 354
+## playcount: 43810

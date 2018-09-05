@@ -1,0 +1,51 @@
+Pink Floyd ||| 333
+Sonata Arctica ||| 278
+Yann Tiersen ||| 226
+Dream Theater ||| 213
+The Beatles ||| 206
+Blackmore's Night ||| 196
+Angra ||| 193
+O Teatro Mágico ||| 186
+Bon Jovi ||| 184
+The Doors ||| 143
+Legião Urbana ||| 132
+Beirut ||| 131
+Chico Buarque ||| 131
+Belle and Sebastian ||| 123
+Os Mutantes ||| 122
+Móveis Coloniais de Acaju ||| 120
+Placebo ||| 114
+Elis Regina ||| 103
+Aerosmith ||| 100
+Jethro Tull ||| 100
+Cat Power ||| 99
+Bob Dylan ||| 94
+Émilie Simon ||| 94
+Whitesnake ||| 93
+Edguy ||| 89
+The Mamas & the Papas ||| 89
+Carla Bruni ||| 84
+Enya ||| 83
+Andre Matos ||| 82
+Novos Baianos ||| 82
+Jeff Buckley ||| 79
+Jamie Cullum ||| 77
+Symphony X ||| 75
+Depeche Mode ||| 72
+Skid Row ||| 71
+Joan Baez ||| 70
+Kiss ||| 69
+Elvis Presley ||| 68
+Backstreet Boys ||| 67
+Nick Drake ||| 66
+Muse ||| 65
+Within Temptation ||| 64
+Suede ||| 59
+Radiohead ||| 58
+Guns N' Roses ||| 55
+Sex Pistols ||| 55
+Shaman ||| 54
+Cruachan ||| 53
+Helloween ||| 53
+John Lennon ||| 53
+## playcount: 5506

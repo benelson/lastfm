@@ -1,0 +1,51 @@
+The Beatles ||| 13587
+Nine Inch Nails ||| 6991
+Pink Floyd ||| 6344
+Nirvana ||| 6158
+Pixies ||| 4009
+Alice in Chains ||| 3740
+The White Stripes ||| 3642
+Sublime ||| 3546
+Blind Melon ||| 3220
+Led Zeppelin ||| 3058
+Brand New ||| 2954
+Red Hot Chili Peppers ||| 2952
+Sonic Youth ||| 2608
+Devendra Banhart ||| 2020
+Bright Eyes ||| 1885
+John Frusciante ||| 1808
+Iron Maiden ||| 1628
+Dinosaur Jr. ||| 1548
+Mudhoney ||| 1490
+Laura Marling ||| 1363
+Nick Drake ||| 1286
+Right Away, Great Captain! ||| 1280
+The Doors ||| 1221
+City and Colour ||| 1183
+Florence + the Machine ||| 1146
+The Who ||| 1127
+Death Cab for Cutie ||| 1110
+Bon Iver ||| 1090
+Queen ||| 1059
+The Rolling Stones ||| 959
+The Black Keys ||| 948
+Radiohead ||| 945
+Citizen Cope ||| 909
+Bob Dylan ||| 878
+Slightly Stoopid ||| 833
+This Will Destroy You ||| 815
+Youth Lagoon ||| 812
+Manchester Orchestra ||| 808
+Cage the Elephant ||| 799
+Grateful Dead ||| 797
+Muse ||| 794
+The Strokes ||| 787
+Tool ||| 765
+Incubus ||| 732
+Beck ||| 714
+Crystal Castles ||| 675
+Say Anything ||| 667
+Gorillaz ||| 666
+The Weepies ||| 660
+Matt & Kim ||| 620
+## playcount: 101636

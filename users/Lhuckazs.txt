@@ -1,0 +1,51 @@
+Cyndi Lauper ||| 4590
+Coldplay ||| 3207
+Lana Del Rey ||| 2956
+Lady Gaga ||| 2579
+Shania Twain ||| 1738
+Madonna ||| 1718
+Adele ||| 1163
+Evanescence ||| 973
+Mariah Carey ||| 935
+The Verve ||| 900
+Muse ||| 838
+Pink Floyd ||| 786
+Queen ||| 779
+U2 ||| 723
+Blur ||| 685
+Kylie Minogue ||| 684
+Katy Perry ||| 654
+Rihanna ||| 553
+Travis ||| 522
+The Doors ||| 504
+P!nk ||| 488
+[unknown] ||| 483
+Céline Dion ||| 462
+Björk ||| 446
+Keane ||| 442
+Roberto Carlos ||| 406
+The Mamas & the Papas ||| 401
+Hurts ||| 363
+Christina Aguilera ||| 347
+Led Zeppelin ||| 329
+Whitney Houston ||| 305
+Amy Winehouse ||| 302
+Michael Jackson ||| 298
+Green Day ||| 297
+Elton John ||| 276
+Maroon 5 ||| 264
+Radiohead ||| 252
+Laura Pausini ||| 246
+Britney Spears ||| 244
+Beyoncé ||| 242
+Black Eyed Peas ||| 232
+The Cure ||| 229
+Shakira ||| 223
+Guns N' Roses ||| 216
+Enya ||| 210
+Miley Cyrus ||| 205
+ABBA ||| 203
+CeeLo Green ||| 198
+Elis Regina ||| 198
+Kelly Clarkson ||| 190
+## playcount: 36484

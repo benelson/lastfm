@@ -1,0 +1,51 @@
+Alice in Chains ||| 3700
+Blind Melon ||| 3406
+Pearl Jam ||| 2342
+Monster Truck ||| 1972
+Nirvana ||| 1620
+Wintersleep ||| 1128
+The Tragically Hip ||| 977
+Guns N' Roses ||| 891
+John Frusciante ||| 873
+Incubus ||| 745
+Jerry Cantrell ||| 734
+AC/DC ||| 723
+Lorde ||| 692
+Alter Bridge ||| 610
+Soundgarden ||| 557
+Andy McKee ||| 535
+Slash ||| 472
+Our Lady Peace ||| 417
+Audioslave ||| 412
+Foo Fighters ||| 381
+Rage Against the Machine ||| 375
+System of a Down ||| 357
+Big Wreck ||| 345
+Airbourne ||| 320
+Travis T. Warren ||| 314
+Tool ||| 306
+Led Zeppelin ||| 280
+The Beatles ||| 265
+Alberta Cross ||| 254
+Eddie Vedder ||| 239
+John Mayer ||| 238
+Alexisonfire ||| 235
+Velvet Revolver ||| 230
+Mad Season ||| 210
+Underoath ||| 203
+Temple of the Dog ||| 194
+Ozzy Osbourne ||| 187
+Metallica ||| 179
+The Black Keys ||| 179
+Unified Theory ||| 152
+Johnny Cash ||| 136
+Linkin Park ||| 127
+Great Big Sea ||| 114
+Red Hot Chili Peppers ||| 102
+Pink Floyd ||| 92
+Ben Harper ||| 91
+blink-182 ||| 88
+The Used ||| 86
+Kary ||| 82
+The Jimi Hendrix Experience ||| 80
+## playcount: 29247

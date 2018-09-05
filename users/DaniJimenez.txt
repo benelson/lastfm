@@ -1,0 +1,51 @@
+The Smiths ||| 38
+The Beatles ||| 31
+Pink Floyd ||| 24
+Cazuza ||| 18
+R.E.M. ||| 16
+Guns N' Roses ||| 12
+The Rolling Stones ||| 12
+U2 ||| 12
+Bob Marley & The Wailers ||| 9
+Paul McCartney ||| 9
+Queen ||| 6
+Creedence Clearwater Revival ||| 5
+The Lovin' Spoonful ||| 5
+John Lennon ||| 4
+Julian Lennon ||| 4
+The Clash ||| 4
+Barão Vermelho ||| 3
+George Harrison ||| 3
+The Cure ||| 3
+The Stone Roses ||| 3
+Badfinger ||| 2
+Blondie ||| 2
+Echo & the Bunnymen ||| 2
+Frank Sinatra ||| 2
+Kaiser Chiefs ||| 2
+Led Zeppelin ||| 2
+New Order ||| 2
+Paul McCartney & Wings ||| 2
+Rush ||| 2
+The Beach Boys ||| 2
+The Kinks ||| 2
+The Libertines ||| 2
+The Who ||| 2
+Toquinho/Gilberto Gil/Jorge Ben ||| 2
+Wings ||| 2
+AC/DC ||| 1
+Antônio Carlos Jobim ||| 1
+Boca Livre ||| 1
+Buffalo Springfield ||| 1
+Cream ||| 1
+Cérebro Eletrônico ||| 1
+Eric Clapton ||| 1
+Franz Ferdinand ||| 1
+Jimi Hendrix ||| 1
+Joy Division ||| 1
+Monaco ||| 1
+Morrissey ||| 1
+Nando Reis ||| 1
+Nirvana ||| 1
+Paul & Linda McCartney ||| 1
+## playcount: 266

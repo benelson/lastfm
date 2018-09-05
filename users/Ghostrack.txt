@@ -1,0 +1,51 @@
+Sparks ||| 44
+Elvis Presley ||| 41
+David Bowie ||| 37
+Placebo ||| 33
+The Cure ||| 29
+Sergio Cammariere ||| 25
+Pink Floyd ||| 23
+Samuele Bersani ||| 23
+Luigi Tenco ||| 22
+Depeche Mode ||| 19
+Nick Drake ||| 19
+Franco Battiato ||| 18
+Guns N' Roses ||| 18
+Moltheni ||| 17
+Air ||| 16
+The Who ||| 16
+Manic Street Preachers ||| 15
+Keane ||| 14
+Kings of Convenience ||| 14
+Klaxons ||| 12
+Lou Reed ||| 12
+Radiohead ||| 12
+Sanseverino ||| 12
+The Smashing Pumpkins ||| 12
+Black Sabbath ||| 11
+Daniele Silvestri ||| 11
+Elio e le Storie Tese ||| 11
+John Lennon ||| 11
+Kiss ||| 11
+Portishead ||| 11
+Yeah Yeah Yeahs ||| 11
+Cat Stevens ||| 10
+John Parish and Polly Jean Harvey ||| 10
+Massive Attack ||| 10
+Sigur Rós ||| 10
+Édith Piaf ||| 10
+Brian Eno ||| 9
+David Gilmour ||| 9
+PJ Harvey ||| 9
+Animal Collective ||| 8
+Brendan Perry ||| 8
+Janis Joplin ||| 8
+Johann Strauss II ||| 8
+The Doors ||| 8
+Tim Buckley ||| 8
+Carpenters ||| 7
+Creedence Clearwater Revival ||| 7
+Dave Gahan ||| 7
+Deep Purple ||| 7
+Jane's Addiction ||| 7
+## playcount: 740

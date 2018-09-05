@@ -1,0 +1,51 @@
+Madonna ||| 17003
+Britney Spears ||| 8245
+Miley Cyrus ||| 2406
+Lady Gaga ||| 2286
+Rihanna ||| 2016
+Ariana Grande ||| 1612
+Kylie Minogue ||| 1591
+Lily Allen ||| 1254
+Katy Perry ||| 1222
+Lorde ||| 1043
+Beyoncé ||| 985
+Anitta ||| 790
+Taylor Swift ||| 774
+Girls Aloud ||| 726
+Björk ||| 686
+Foster the People ||| 636
+Lana Del Rey ||| 535
+Cheryl Cole ||| 466
+Marina & the Diamonds ||| 433
+Azealia Banks ||| 422
+Wanessa ||| 422
+MØ ||| 403
+Shakira ||| 352
+Fergie ||| 333
+Christina Aguilera ||| 327
+Sia ||| 326
+Natalia Kills ||| 311
+Nicki Minaj ||| 294
+Iggy Azalea ||| 293
+Justin Timberlake ||| 282
+Kanye West ||| 259
+Pabllo Vittar ||| 228
+Selena Gomez ||| 224
+天野月子 ||| 212
+Calvin Harris ||| 184
+Fifth Harmony ||| 181
+One Direction ||| 158
+Metallica ||| 157
+Tinashe ||| 156
+Major Lazer ||| 155
+Mariah Carey ||| 152
+Tame Impala ||| 150
+Camila Cabello ||| 135
+Robyn ||| 132
+Justin Bieber ||| 128
+Adele ||| 127
+Ke$ha ||| 122
+La Roux ||| 121
+Tove Lo ||| 121
+Dua Lipa ||| 120
+## playcount: 51696

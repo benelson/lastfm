@@ -1,0 +1,51 @@
+Soda Stereo ||| 1336
+Porcupine Tree ||| 1267
+Foo Fighters ||| 1074
+Incubus ||| 893
+Rammstein ||| 693
+Pearl Jam ||| 689
+Gomez ||| 645
+Queens of the Stone Age ||| 618
+Boards of Canada ||| 595
+Korn ||| 557
+Doves ||| 544
+Nirvana ||| 538
+Metallica ||| 518
+Coldplay ||| 507
+Arctic Monkeys ||| 502
+A Perfect Circle ||| 481
+Interpol ||| 473
+Red Hot Chili Peppers ||| 447
+Stone Temple Pilots ||| 434
+Marilyn Manson ||| 370
+Pink Floyd ||| 324
+System of a Down ||| 276
+The Cure ||| 267
+U2 ||| 258
+Radiohead ||| 252
+Led Zeppelin ||| 247
+Rage Against the Machine ||| 244
+Oasis ||| 223
+Cake ||| 222
+Megadeth ||| 199
+Travis ||| 197
+Eagles of Death Metal ||| 194
+Jamiroquai ||| 186
+Aerosmith ||| 185
+Slipknot ||| 184
+Nine Inch Nails ||| 179
+Divididos ||| 174
+At the Drive-In ||| 168
+Moby ||| 162
+Silverchair ||| 146
+Them Crooked Vultures ||| 144
+Kings of Leon ||| 141
+The Police ||| 132
+The Smashing Pumpkins ||| 131
+The Libertines ||| 121
+Tiësto ||| 115
+Tears for Fears ||| 114
+Alice in Chains ||| 112
+Depeche Mode ||| 106
+Gustavo Cerati ||| 103
+## playcount: 18687

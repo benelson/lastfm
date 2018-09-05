@@ -1,0 +1,51 @@
+HammerFall ||| 1569
+Bathory ||| 533
+Ensiferum ||| 524
+Týr ||| 423
+Hysterica ||| 406
+Dissection ||| 361
+Pantera ||| 256
+Matanza ||| 255
+Korzus ||| 231
+Powerwolf ||| 229
+Epica ||| 215
+Firewind ||| 192
+Helloween ||| 176
+Korpiklaani ||| 169
+Scorpions ||| 163
+Wolfchant ||| 151
+Judas Priest ||| 146
+Sarcófago ||| 146
+Manowar ||| 134
+Angra ||| 133
+Norther ||| 133
+Europe ||| 129
+Running Wild ||| 128
+Comando Nuclear ||| 127
+Ex Deo ||| 127
+Dio ||| 117
+Cans ||| 115
+Iron Maiden ||| 115
+Power From Hell ||| 111
+Motörhead ||| 102
+Sonata Arctica ||| 102
+Viper ||| 102
+Destruction ||| 92
+Ofermod ||| 90
+Alestorm ||| 84
+Isengard ||| 81
+Three Days Grace ||| 80
+Metallica ||| 72
+Rhapsody of Fire ||| 68
+Turisas ||| 68
+Andre Matos ||| 63
+Bon Jovi ||| 63
+Heidevolk ||| 62
+Mamonas Assassinas ||| 61
+Death ||| 59
+Violator ||| 59
+Unanimated ||| 58
+Behemoth ||| 57
+Ozzy Osbourne ||| 56
+Disturbed ||| 55
+## playcount: 9048

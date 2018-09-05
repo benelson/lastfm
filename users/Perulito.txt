@@ -1,0 +1,51 @@
+The Beatles ||| 4368
+Pink Floyd ||| 3438
+Exodus ||| 2007
+Alice in Chains ||| 1928
+Annihilator ||| 1927
+Sólstafir ||| 1772
+Bones ||| 1646
+a-ha ||| 1466
+Yes ||| 1413
+Slayer ||| 1408
+The Doors ||| 1385
+Tame Impala ||| 1210
+Uriah Heep ||| 1204
+Led Zeppelin ||| 1014
+John Lennon ||| 993
+Mike Oldfield ||| 851
+Destruction ||| 771
+Pantera ||| 754
+Rush ||| 742
+Kreator ||| 728
+Black Sabbath ||| 702
+Death ||| 684
+Cannibal Corpse ||| 642
+Judas Priest ||| 640
+Sodom ||| 625
+Kyuss ||| 611
+Bathory ||| 583
+Nuclear Assault ||| 557
+Spiritual Beggars ||| 542
+Morbid Angel ||| 508
+Pentagram ||| 501
+Motörhead ||| 497
+Deep Purple ||| 491
+Megadeth ||| 467
+King Diamond ||| 466
+Camel ||| 458
+Helloween ||| 436
+Mercyful Fate ||| 432
+The Cult ||| 428
+Havok ||| 392
+Sarcófago ||| 391
+Metallica ||| 389
+Overkill ||| 383
+Creedence Clearwater Revival ||| 382
+Depeche Mode ||| 380
+Amon Amarth ||| 368
+The Cure ||| 365
+Jimi Hendrix ||| 364
+Testament ||| 356
+Dire Straits ||| 341
+## playcount: 45406

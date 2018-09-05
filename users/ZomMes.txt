@@ -1,0 +1,51 @@
+Bob Dylan ||| 1034
+Scientist ||| 996
+Burning Spear ||| 562
+Harry Belafonte ||| 448
+The Doors ||| 446
+Chuck Berry ||| 390
+The Rolling Stones ||| 387
+Miles Davis ||| 364
+Baden Powell ||| 323
+Jacques Brel ||| 295
+Various (Blues) ||| 293
+Paolo Conte ||| 289
+Editors ||| 281
+Gregory Isaacs ||| 277
+Antonio Vivaldi ||| 217
+Leonard Cohen ||| 216
+Johann Sebastian Bach ||| 214
+Cypress Hill ||| 193
+Coldplay ||| 187
+Morphine ||| 187
+Desmond Dekker & The Aces ||| 181
+Yann Tiersen ||| 178
+Stevie Ray Vaughan ||| 164
+Johnny Cash ||| 148
+Ry Cooder ||| 142
+Wolfgang Amadeus Mozart ||| 135
+Zenzile ||| 130
+De Jeugd van Tegenwoordig ||| 128
+Stan Getz & João Gilberto ||| 124
+Elmore James ||| 123
+Radiohead ||| 121
+The Shadows ||| 116
+Billie Holiday ||| 112
+Guns N' Roses ||| 110
+Charlie Parker ||| 106
+Jimi Hendrix ||| 105
+Katie Melua ||| 101
+Ahmad Jamal ||| 97
+Antônio Carlos Jobim ||| 97
+John Lee Hooker ||| 95
+Ben Harper ||| 94
+[unknown] ||| 91
+Incubus ||| 90
+Robert Johnson ||| 85
+Rammstein ||| 82
+The Congos ||| 82
+Creedence Clearwater Revival ||| 80
+Daniel Licht ||| 76
+Joy Division ||| 75
+Madrugada ||| 72
+## playcount: 10939

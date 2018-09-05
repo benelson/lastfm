@@ -1,0 +1,51 @@
+AC/DC ||| 2086
+Guns N' Roses ||| 1691
+Eddie Vedder ||| 1593
+Jimi Hendrix ||| 623
+The Answer ||| 603
+Arctic Monkeys ||| 592
+Kiss ||| 581
+Airbourne ||| 510
+The Doors ||| 499
+Led Zeppelin ||| 462
+Audioslave ||| 448
+White Lies ||| 392
+Muse ||| 375
+Velvet Revolver ||| 364
+Aerosmith ||| 360
+Electric Six ||| 305
+Mötley Crüe ||| 305
+Rage Against the Machine ||| 295
+Fiction Plane ||| 294
+Them Crooked Vultures ||| 292
+Whitesnake ||| 290
+Franz Ferdinand ||| 283
+Red Hot Chili Peppers ||| 275
+Queens of the Stone Age ||| 263
+The Rolling Stones ||| 254
+The Hives ||| 243
+Bob Dylan ||| 241
+The Smiths ||| 231
+Lana Del Rey ||| 228
+Mumford & Sons ||| 226
+Black Sabbath ||| 222
+Dio ||| 222
+Moke ||| 219
+Wolfmother ||| 217
+Sam Cooke ||| 215
+De Jeugd van Tegenwoordig ||| 210
+Miles Kane ||| 207
+Neil Young ||| 206
+Cream ||| 200
+Coldplay ||| 185
+Deep Purple ||| 185
+Iron Maiden ||| 183
+Radiohead ||| 179
+Benny Benassi ||| 178
+The Black Keys ||| 176
+David Bowie ||| 173
+Drive Like Maria ||| 172
+Jake Bugg ||| 160
+The Prodigy ||| 158
+The Kooks ||| 153
+## playcount: 19024

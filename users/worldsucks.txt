@@ -1,0 +1,31 @@
+The Beatles ||| 9
+Foo Fighters ||| 7
+Paramore ||| 7
+Lady Gaga ||| 6
+Nirvana ||| 6
+O Rappa ||| 6
+Soundgarden ||| 4
+The Runaways ||| 4
+Charlie Brown JR. ||| 2
+Coldplay ||| 2
+Red Hot Chili Peppers ||| 2
+The Smiths ||| 2
+The Strokes ||| 2
+Alice in Chains ||| 1
+Arctic Monkeys ||| 1
+Audioslave ||| 1
+B.o.B ||| 1
+Christina Perri ||| 1
+David Bowie ||| 1
+George Harrison ||| 1
+Jack White ||| 1
+John Lennon ||| 1
+Lana Del Rey ||| 1
+Muse ||| 1
+Paul McCartney & Wings ||| 1
+Pearl Jam ||| 1
+Runaways ||| 1
+Skank ||| 1
+The Cure ||| 1
+The White Stripes ||| 1
+## playcount: 76

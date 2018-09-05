@@ -1,0 +1,51 @@
+Moby ||| 4017
+Bonobo ||| 3831
+Massive Attack ||| 2869
+Myslovitz ||| 2747
+Björk ||| 2633
+Archive ||| 2582
+Pendulum ||| 2098
+Blur ||| 1996
+Coldplay ||| 1765
+The Prodigy ||| 1734
+The Smashing Pumpkins ||| 1724
+Pure Reason Revolution ||| 1655
+Pearl Jam ||| 1587
+Hybrid ||| 1466
+Placebo ||| 1424
+Radiohead ||| 1372
+High Contrast ||| 1203
+Muse ||| 1188
+Sigur Rós ||| 1143
+Amon Tobin ||| 1084
+Flunk ||| 1022
+The Qemists ||| 939
+Moderat ||| 937
+Chase & Status ||| 933
+Parov Stelar ||| 922
+The White Stripes ||| 887
+Kasabian ||| 876
+Noisia ||| 875
+The Mars Volta ||| 787
+Fatboy Slim ||| 785
+Red Hot Chili Peppers ||| 779
+Pink Floyd ||| 768
+Queens of the Stone Age ||| 753
+The Glitch Mob ||| 743
+Lamb ||| 728
+Netsky ||| 705
+Hooverphonic ||| 693
+The Chemical Brothers ||| 671
+Daft Punk ||| 663
+Gorillaz ||| 648
+Led Zeppelin ||| 619
+Air ||| 612
+Yeah Yeah Yeahs ||| 601
+Linkin Park ||| 586
+José González ||| 584
+Tricky ||| 582
+RJD2 ||| 580
+Portishead ||| 560
+Fisz Emade ||| 553
+System of a Down ||| 544
+## playcount: 62053

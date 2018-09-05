@@ -1,0 +1,51 @@
+Madonna ||| 11064
+Britney Spears ||| 7393
+Kylie Minogue ||| 4637
+Taylor Swift ||| 3828
+Rihanna ||| 3791
+The Wanted ||| 3296
+Katy Perry ||| 3237
+Lady Gaga ||| 3201
+Enrique Iglesias ||| 2647
+Christina Aguilera ||| 2568
+Coldplay ||| 2419
+Avril Lavigne ||| 2293
+Lana Del Rey ||| 2068
+Chris Brown ||| 1945
+Ke$ha ||| 1908
+Mariah Carey ||| 1877
+M. Pokora ||| 1826
+3OH!3 ||| 1817
+Kelly Clarkson ||| 1613
+Beyoncé ||| 1604
+蔡依林 ||| 1578
+Eric Saade ||| 1542
+Imagine Dragons ||| 1348
+Take That ||| 1324
+Glee Cast ||| 1295
+Maroon 5 ||| 1292
+Nicki Minaj ||| 1221
+Luke Bryan ||| 1101
+Enya ||| 1100
+Lifehouse ||| 1088
+Calvin Harris ||| 1070
+Linkin Park ||| 1065
+Carly Rae Jepsen ||| 1054
+Kris Allen ||| 979
+OneRepublic ||| 971
+Jennifer Lopez ||| 959
+Shayne Ward ||| 958
+Sufjan Stevens ||| 932
+Frank Ocean ||| 905
+One Direction ||| 901
+Justin Timberlake ||| 875
+Ariana Grande ||| 850
+James Blunt ||| 824
+Adele ||| 812
+Justin Bieber ||| 796
+Pablo Alborán ||| 789
+Bruce Springsteen ||| 769
+Leona Lewis ||| 759
+Backstreet Boys ||| 739
+Ellie Goulding ||| 737
+## playcount: 95665

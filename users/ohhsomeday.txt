@@ -1,0 +1,51 @@
+The Beatles ||| 7906
+Arctic Monkeys ||| 5329
+Franz Ferdinand ||| 5316
+Oasis ||| 5214
+The Strokes ||| 4846
+Lana Del Rey ||| 4205
+Arcade Fire ||| 3768
+Kasabian ||| 3108
+Cachorro Grande ||| 2624
+Queens of the Stone Age ||| 2468
+Interpol ||| 2365
+Radiohead ||| 1956
+The Last Shadow Puppets ||| 1658
+The Libertines ||| 1540
+Phoenix ||| 1487
+Marina & the Diamonds ||| 1472
+Vampire Weekend ||| 1426
+The Killers ||| 1412
+Miles Kane ||| 1378
+Cage the Elephant ||| 1151
+Muse ||| 1140
+Eagles of Death Metal ||| 998
+Two Door Cinema Club ||| 944
+Noel Gallagher's High Flying Birds ||| 919
+MGMT ||| 912
+Die Antwoord ||| 889
+Mac DeMarco ||| 888
+Foster the People ||| 861
+Vespas Mandarinas ||| 828
+Foo Fighters ||| 818
+FFS ||| 736
+Os Mutantes ||| 734
+Jack White ||| 720
+Beady Eye ||| 697
+Joy Division ||| 678
+The White Stripes ||| 656
+Alex Turner ||| 618
+Lorde ||| 546
+Michael Jackson ||| 543
+Jake Bugg ||| 535
+Thiago Pethit ||| 509
+Twenty One Pilots ||| 508
+Albert Hammond, Jr. ||| 471
+The Rascals ||| 455
+Paul McCartney ||| 436
+Johnny Marr ||| 423
+Little Joy ||| 422
+Julian Casablancas ||| 411
+Nirvana ||| 383
+David Bowie ||| 378
+## playcount: 80685

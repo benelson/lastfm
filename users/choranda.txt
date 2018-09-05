@@ -1,0 +1,51 @@
+Guns N' Roses ||| 4127
+Metallica ||| 3461
+AC/DC ||| 3263
+Megadeth ||| 2923
+Charlie Brown JR. ||| 2627
+Led Zeppelin ||| 2469
+The Beatles ||| 2058
+Johnny Cash ||| 1653
+Motörhead ||| 1554
+Pink Floyd ||| 1522
+Legião Urbana ||| 1434
+Matanza ||| 1398
+The Rolling Stones ||| 1324
+3 Doors Down ||| 1061
+Iron Maiden ||| 1033
+Dio ||| 975
+The Who ||| 908
+SOJA ||| 880
+System of a Down ||| 879
+Ozzy Osbourne ||| 859
+Capital Inicial ||| 782
+AC ||| 781
+Slash ||| 710
+Black Label Society ||| 681
+Black Sabbath ||| 647
+Pantera ||| 641
+Slayer ||| 598
+Alter Bridge ||| 595
+Three Days Grace ||| 561
+Raimundos ||| 535
+Lynyrd Skynyrd ||| 525
+Misfits ||| 516
+Theory of a Deadman ||| 489
+The Killers ||| 481
+Oasis ||| 447
+Creed ||| 431
+Aerosmith ||| 428
+CPM 22 ||| 426
+Nickelback ||| 398
+Nirvana ||| 396
+Red Hot Chili Peppers ||| 381
+Bob Dylan ||| 380
+Linkin Park ||| 368
+Queen ||| 335
+Papa Roach ||| 326
+Creedence Clearwater Revival ||| 315
+Smile Empty Soul ||| 308
+Detonautas Roque Clube ||| 287
+Cazuza ||| 284
+U2 ||| 282
+## playcount: 50742

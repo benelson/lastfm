@@ -1,0 +1,51 @@
+Pink Floyd ||| 5098
+James Blunt ||| 2965
+Céline Dion ||| 1306
+Coldplay ||| 1239
+Dido ||| 825
+Mohsen Namjoo ||| 659
+Bob Dylan ||| 637
+The Beatles ||| 610
+Queen ||| 577
+Linkin Park ||| 395
+Enrique Iglesias ||| 383
+Rihanna ||| 356
+Adele ||| 345
+Evanescence ||| 299
+Bryan Adams ||| 298
+Toni Braxton ||| 283
+Muse ||| 281
+Nickelback ||| 256
+Leonard Cohen ||| 255
+OneRepublic ||| 248
+Gorillaz ||| 244
+Ehsan Khaje Amiri ||| 239
+Siavash Ghomayshi ||| 236
+[unknown] ||| 214
+Elton John ||| 205
+The Ways ||| 190
+Metallica ||| 188
+Katy Perry ||| 187
+Alicia Keys ||| 186
+Nirvana ||| 178
+Homayoon ||| 174
+Vitaa ||| 174
+Bon Jovi ||| 171
+Joan Baez ||| 162
+Gary Moore ||| 148
+30 Seconds to Mars ||| 146
+fun. ||| 146
+U2 ||| 137
+Oasis ||| 134
+Green Day ||| 118
+Eminem ||| 114
+Spice Girls ||| 110
+Cher ||| 104
+Chris de Burgh ||| 102
+Estrella Morente ||| 97
+Staind ||| 95
+Cat Stevens ||| 94
+Within Temptation ||| 93
+Mariah Carey ||| 92
+Garou ||| 91
+## playcount: 21884

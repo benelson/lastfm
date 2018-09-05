@@ -1,0 +1,51 @@
+Mariah Carey ||| 8199
+Jay-Z ||| 3648
+Michael Jackson ||| 3644
+The Notorious B.I.G. ||| 3377
+Beyoncé ||| 3126
+Kanye West ||| 3093
+Janet Jackson ||| 2742
+Faith Evans ||| 2645
+Brandy ||| 2629
+Mary J. Blige ||| 2323
+Nas ||| 1858
+TLC ||| 1780
+2Pac ||| 1759
+Kendrick Lamar ||| 1526
+Rihanna ||| 1457
+Aaliyah ||| 1437
+Toni Braxton ||| 1222
+Prince ||| 1084
+Justin Timberlake ||| 985
+Miguel ||| 962
+Whitney Houston ||| 928
+Madonna ||| 894
+Destiny's Child ||| 849
+Ciara ||| 828
+Lauryn Hill ||| 759
+Drake ||| 751
+Monica ||| 746
+Lady Gaga ||| 722
+Melanie Fiona ||| 709
+J. Cole ||| 677
+Ariana Grande ||| 610
+Kelly Rowland ||| 436
+Nicki Minaj ||| 367
+Frank Ocean ||| 365
+Stevie Wonder ||| 287
+Alicia Keys ||| 284
+Tamar Braxton ||| 272
+Jay-Z & Kanye West ||| 249
+Aretha Franklin ||| 238
+Chaka Khan ||| 236
+Dr. Dre ||| 231
+Chris Brown ||| 225
+YG ||| 224
+Katy Perry ||| 187
+Keyshia Cole ||| 185
+Shakira ||| 185
+Bruno Mars ||| 154
+Usher ||| 145
+Queen ||| 132
+Amel Bent ||| 130
+## playcount: 62501

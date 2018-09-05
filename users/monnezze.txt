@@ -1,0 +1,51 @@
+Europe ||| 4114
+Whitesnake ||| 3413
+Saxon ||| 3380
+Iron Maiden ||| 2973
+Deep Purple ||| 2967
+The Cult ||| 2474
+Led Zeppelin ||| 2463
+Judas Priest ||| 2398
+Gotthard ||| 2250
+Bon Jovi ||| 2116
+UFO ||| 2089
+Helloween ||| 2036
+Joe Bonamassa ||| 1644
+Megadeth ||| 1639
+Running Wild ||| 1524
+Aerosmith ||| 1451
+Def Leppard ||| 1414
+Scorpions ||| 1405
+The Rolling Stones ||| 1367
+Bruce Springsteen ||| 1349
+Dokken ||| 1291
+Black Sabbath ||| 1227
+Mr. Big ||| 1178
+Rival Sons ||| 1150
+Van Halen ||| 1143
+Queensrÿche ||| 1111
+Lynch Mob ||| 1083
+Toto ||| 987
+Zucchero ||| 975
+David Bowie ||| 966
+Motörhead ||| 924
+Peter Frampton ||| 922
+Metallica ||| 920
+Tesla ||| 918
+The Answer ||| 903
+AC/DC ||| 898
+Black Country Communion ||| 844
+Umberto Tozzi ||| 817
+Dio ||| 816
+Kiss ||| 752
+Bryan Adams ||| 711
+Rainbow ||| 700
+The Black Crowes ||| 676
+a-ha ||| 655
+Chickenfoot ||| 598
+The Quireboys ||| 594
+Ozzy Osbourne ||| 570
+Edguy ||| 557
+Mötley Crüe ||| 557
+Kenny Wayne Shepherd Band ||| 542
+## playcount: 70451

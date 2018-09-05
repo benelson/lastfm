@@ -1,0 +1,51 @@
+BUCK-TICK ||| 1915
+Led Zeppelin ||| 1152
+Pink Floyd ||| 1028
+Red Hot Chili Peppers ||| 997
+The Beatles ||| 958
+David Bowie ||| 674
+John Frusciante ||| 635
+Akira Yamaoka ||| 512
+Joy Division ||| 393
+Depeche Mode ||| 380
+Mylène Farmer ||| 343
+The Cure ||| 341
+Simon & Garfunkel ||| 322
+Kyuss ||| 316
+PJ Harvey ||| 308
+Peter Murphy ||| 291
+Johnny Cash ||| 266
+Bob Dylan ||| 254
+Audioslave ||| 238
+Editors ||| 230
+DIR EN GREY ||| 225
+Elvis Presley ||| 210
+Moby ||| 209
+Kana ||| 207
+The Doors ||| 196
+The Killers ||| 159
+Interpol ||| 155
+Nirvana ||| 155
+Roxy Music ||| 121
+Iggy Pop ||| 118
+Jimmy Page ||| 112
+Fu Manchu ||| 110
+久石譲 ||| 108
+Martin L. Gore ||| 106
+Tom Waits ||| 104
+Wolfsheim ||| 94
+Robert Plant & Alison Krauss ||| 93
+The Who ||| 91
+Meat Puppets ||| 84
+Chumbawamba ||| 81
+Brandon Flowers ||| 78
+SOFT BALLET ||| 76
+Yann Tiersen ||| 72
+Robert Plant ||| 70
+The Smiths ||| 70
+Bauhaus ||| 66
+Daft Punk ||| 66
+Portishead ||| 66
+櫻井敦司 ||| 66
+Jefferson Airplane ||| 61
+## playcount: 14982

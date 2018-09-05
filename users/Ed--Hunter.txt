@@ -1,0 +1,51 @@
+The Rolling Stones ||| 5497
+Pink Floyd ||| 3744
+Led Zeppelin ||| 3290
+Deep Purple ||| 3202
+The Beatles ||| 2761
+Rush ||| 2715
+Dream Theater ||| 2454
+AC/DC ||| 2338
+Aerosmith ||| 2300
+Megadeth ||| 2239
+Queen ||| 2142
+Guns N' Roses ||| 2132
+Bob Dylan ||| 2100
+The Black Crowes ||| 2100
+Dr. John ||| 1951
+David Bowie ||| 1913
+Black Sabbath ||| 1888
+Humble Pie ||| 1789
+Gov't Mule ||| 1661
+Joe Cocker ||| 1502
+Tool ||| 1501
+Whitesnake ||| 1501
+Kings of Leon ||| 1474
+Metallica ||| 1408
+Lenny Kravitz ||| 1403
+Iron Maiden ||| 1366
+Symphony X ||| 1328
+The Jimi Hendrix Experience ||| 1324
+Nine Inch Nails ||| 1298
+Yes ||| 1286
+Rival Sons ||| 1278
+Eric Clapton ||| 1215
+Judas Priest ||| 1156
+Rory Gallagher ||| 1156
+Buddy Guy ||| 1153
+Ray Charles ||| 1141
+Motörhead ||| 1133
+Genesis ||| 1125
+Faith No More ||| 1110
+The Doors ||| 1102
+The Black Keys ||| 1073
+The Who ||| 1029
+Tom Waits ||| 1027
+Alice in Chains ||| 967
+Mastodon ||| 963
+Pain of Salvation ||| 954
+Opeth ||| 946
+Joe Satriani ||| 929
+Faces ||| 911
+Audioslave ||| 910
+## playcount: 84885

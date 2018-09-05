@@ -1,0 +1,51 @@
+Pink Floyd ||| 695
+The Beatles ||| 472
+Los Hermanos ||| 317
+Raul Seixas ||| 307
+blink-182 ||| 205
+Foo Fighters ||| 168
+Creedence Clearwater Revival ||| 138
+Led Zeppelin ||| 134
+Raimundos ||| 114
+Nirvana ||| 112
+Aerosmith ||| 98
+Bob Dylan ||| 94
+Faichecleres ||| 94
+AC/DC ||| 81
+Tianastácia ||| 73
+U.D.R. ||| 72
+Black Tide ||| 62
+Elvis Presley ||| 62
+Savatage ||| 62
+Good Charlotte ||| 60
+The Rolling Stones ||| 58
+Roger Waters ||| 53
+Vander Lee ||| 53
+Dire Straits ||| 48
+Engenheiros Do Hawaii ||| 48
+Bob Marley ||| 47
+Incubus ||| 47
+Misfits ||| 44
+The Offspring ||| 40
+Eric Clapton ||| 38
+Oasis ||| 38
+John Lennon ||| 36
+Bon Jovi ||| 35
+Kiss ||| 35
+System of a Down ||| 35
+Janis Joplin ||| 34
+Cássia Eller ||| 32
+Iron Maiden ||| 31
+Motörhead ||| 31
+Queen ||| 31
+Hardneja Sertacore ||| 30
+Secos & Molhados ||| 30
+The Mars Volta ||| 27
+The Runaways ||| 27
+Red Hot Chili Peppers ||| 24
+Bezerra da Silva ||| 23
+Avenged Sevenfold ||| 22
+Cueio Limão ||| 22
+Lynyrd Skynyrd ||| 22
+Dead Fish ||| 21
+## playcount: 4482

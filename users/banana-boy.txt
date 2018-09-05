@@ -1,0 +1,51 @@
+Radiohead ||| 9298
+The Beatles ||| 4324
+Coldplay ||| 3766
+Shpongle ||| 3372
+Pink Floyd ||| 3055
+Red Hot Chili Peppers ||| 2659
+Placebo ||| 2480
+Led Zeppelin ||| 2226
+The Doors ||| 1955
+Queen ||| 1852
+Panda Dub ||| 1780
+Gorillaz ||| 1636
+Infected Mushroom ||| 1600
+Amon Tobin ||| 1487
+System of a Down ||| 1400
+Audioslave ||| 1366
+Jamiroquai ||| 1356
+Kult ||| 1291
+Porcupine Tree ||| 1261
+Bob Marley & The Wailers ||| 1062
+Kazik ||| 938
+Bob Dylan ||| 856
+Moby ||| 841
+Younger Brother ||| 839
+Jefferson Airplane ||| 837
+Pearl Jam ||| 830
+Jacek Kaczmarski ||| 814
+Ott ||| 811
+Wolfgang Amadeus Mozart ||| 810
+Metallica ||| 785
+Nirvana ||| 736
+Bonobo ||| 720
+Blackfield ||| 714
+Entheogenic ||| 712
+Tenacious D ||| 692
+Daft Punk ||| 654
+Mike Patton ||| 627
+Erik Satie ||| 612
+Jimi Hendrix ||| 573
+The White Stripes ||| 559
+The Offspring ||| 553
+Yann Tiersen ||| 537
+Elton John ||| 509
+Beirut ||| 496
+Damien Rice ||| 475
+Jim Morrison ||| 461
+CunninLynguists ||| 447
+David Bowie ||| 447
+Queens of the Stone Age ||| 437
+Black Sabbath ||| 429
+## playcount: 68977

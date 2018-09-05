@@ -1,0 +1,51 @@
+Feeder ||| 100
+Frank Turner ||| 49
+Kaiser Chiefs ||| 46
+The Killers ||| 45
+Kanye West ||| 44
+Gorillaz ||| 41
+Oasis ||| 37
+The Beautiful South ||| 35
+Bob Marley & The Wailers ||| 31
+Franz Ferdinand ||| 31
+Weezer ||| 31
+Bob Marley ||| 30
+Fats Waller ||| 30
+Queen ||| 30
+Blur ||| 29
+Incubus ||| 28
+MGMT ||| 28
+The Offspring ||| 28
+The Who ||| 28
+The Fratellis ||| 26
+Pulp ||| 25
+Babyshambles ||| 24
+Hard-Fi ||| 24
+The Verve ||| 24
+We Are Scientists ||| 23
+Moby ||| 22
+OK Go ||| 22
+The Coral ||| 22
+Amy Winehouse ||| 21
+Faithless ||| 21
+Modest Mouse ||| 21
+The Kinks ||| 21
+Fall Out Boy ||| 19
+Placebo ||| 19
+Muse ||| 17
+The Zutons ||| 17
+Will Smith ||| 17
+The Clash ||| 16
+Timbaland ||| 16
+Green Day ||| 15
+Linkin Park ||| 15
+Republica ||| 15
+The Pigeon Detectives ||| 15
+The Prodigy ||| 15
+The Rolling Stones ||| 15
+Athlete ||| 14
+Foo Fighters ||| 14
+Get Cape. Wear Cape. Fly ||| 14
+Joy Division ||| 14
+Turin Brakes ||| 14
+## playcount: 1298

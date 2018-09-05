@@ -1,0 +1,51 @@
+Iron Maiden ||| 11399
+Megadeth ||| 9213
+Dream Theater ||| 6792
+Gamma Ray ||| 4288
+Helloween ||| 3401
+Guns N' Roses ||| 2617
+Judas Priest ||| 2603
+Red Hot Chili Peppers ||| 2577
+Machine Head ||| 2560
+Iced Earth ||| 2409
+Metallica ||| 2346
+Volbeat ||| 2309
+Mötley Crüe ||| 1655
+Rammstein ||| 1566
+Slash ||| 1391
+Tenacious D ||| 1311
+Slayer ||| 1262
+Fratsen ||| 1239
+The Offspring ||| 1156
+Queens of the Stone Age ||| 1116
+Velvet Revolver ||| 1114
+System of a Down ||| 1096
+Black Sabbath ||| 980
+Them Crooked Vultures ||| 933
+Bruce Dickinson ||| 898
+Wolfmother ||| 883
+Green Day ||| 763
+Uriah Heep ||| 747
+Ome Henk ||| 728
+The Prodigy ||| 714
+blink-182 ||| 544
+Saxon ||| 480
+Alice in Chains ||| 421
+Godsmack ||| 414
+Nirvana ||| 401
+Dublin Death Patrol ||| 333
+Blaze ||| 327
+Lady Gaga ||| 319
+Primus ||| 311
+Hans Teeuwen ||| 305
+Trivium ||| 251
+Demons & Wizards ||| 246
+King Diamond ||| 220
+Blind Guardian ||| 205
+ZZ Top ||| 183
+Pink Floyd ||| 178
+Lauren Harris ||| 160
+Motörhead ||| 159
+Steve Harris ||| 153
+AC/DC ||| 144
+## playcount: 77820

@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 1156
+Pink Floyd ||| 1038
+Black Sabbath ||| 1028
+The Beatles ||| 1025
+Led Zeppelin ||| 740
+The Last Shadow Puppets ||| 634
+Scorpions ||| 619
+The Flaming Lips ||| 609
+The Who ||| 585
+Rush ||| 424
+The Doors ||| 406
+The Clash ||| 333
+Bad Religion ||| 320
+Royal Blood ||| 302
+The Rolling Stones ||| 285
+The Strokes ||| 269
+Blue Öyster Cult ||| 258
+Deep Purple ||| 248
+Descendents ||| 242
+Stone Temple Pilots ||| 242
+Queens of the Stone Age ||| 233
+Queen ||| 204
+Alice in Chains ||| 189
+Ramones ||| 182
+Pearl Jam ||| 180
+Foo Fighters ||| 179
+Tame Impala ||| 176
+Sound Bullet ||| 167
+Supertramp ||| 142
+Red Hot Chili Peppers ||| 128
+Radiohead ||| 119
+Nirvana ||| 98
+Bruno Mars ||| 97
+Fleetwood Mac ||| 90
+Soundgarden ||| 90
+Avenged Sevenfold ||| 88
+Linkin Park ||| 86
+American Football ||| 85
+Bratislava ||| 82
+Vampire Weekend ||| 78
+Jimi Hendrix ||| 71
+Frank Sinatra ||| 69
+Brand New ||| 66
+King Gizzard & The Lizard Wizard ||| 59
+Mac DeMarco ||| 57
+The Murlocs ||| 54
+The National ||| 54
+Los Hermanos ||| 53
+Gorillaz ||| 51
+Chet Baker ||| 47
+## playcount: 14037

@@ -1,0 +1,51 @@
+Elvis Presley ||| 4643
+Arctic Monkeys ||| 3905
+Red Hot Chili Peppers ||| 3460
+The Beatles ||| 3277
+Queen ||| 3138
+AC/DC ||| 3104
+Amy Winehouse ||| 3050
+Gorillaz ||| 2504
+David Bowie ||| 2443
+The Baseballs ||| 2434
+Foster the People ||| 2325
+Oddział Zamknięty ||| 2288
+Buddy Holly ||| 2178
+Jack Johnson ||| 2100
+Chuck Berry ||| 2079
+Vampire Weekend ||| 2061
+Florence + the Machine ||| 1822
+Aerosmith ||| 1784
+Led Zeppelin ||| 1687
+Coldplay ||| 1674
+Farben Lehre ||| 1643
+Billy Joel ||| 1635
+T. Rex ||| 1615
+fun. ||| 1605
+Carla Bruni ||| 1602
+Lykke Li ||| 1579
+Michael Jackson ||| 1519
+Mika ||| 1499
+Bob Marley ||| 1477
+Green Day ||| 1460
+James Morrison ||| 1445
+Janis Joplin ||| 1409
+Goldfrapp ||| 1372
+Zaz ||| 1370
+Sufjan Stevens ||| 1356
+Eels ||| 1343
+Smash Mouth ||| 1313
+Bruno Mars ||| 1293
+John Mayer ||| 1287
+Lana Del Rey ||| 1268
+Creedence Clearwater Revival ||| 1263
+The Who ||| 1223
+Donavon Frankenreiter ||| 1190
+Kings of Leon ||| 1182
+Ed Sheeran ||| 1181
+Ramones ||| 1171
+Eddie Cochran ||| 1169
+Passion Pit ||| 1169
+Kate Nash ||| 1162
+Paloma Faith ||| 1134
+## playcount: 92890

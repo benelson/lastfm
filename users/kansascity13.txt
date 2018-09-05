@@ -1,0 +1,51 @@
+Beck ||| 4600
+Silverchair ||| 1625
+Interpol ||| 1598
+The Strokes ||| 1312
+Cass McCombs ||| 1158
+Foo Fighters ||| 990
+Methyl Ethel ||| 686
+The Beatles ||| 557
+Incubus ||| 536
+Mac DeMarco ||| 480
+Primal Scream ||| 456
+Tame Impala ||| 439
+Pearl Jam ||| 419
+Beach House ||| 417
+Fake Laugh ||| 411
+The Black Keys ||| 366
+Kimbra ||| 358
+The Killers ||| 330
+Smith Westerns ||| 326
+Foster the People ||| 315
+Alvvays ||| 307
+Fleetwood Mac ||| 306
+Soundgarden ||| 306
+Real Estate ||| 269
+Marika Hackman ||| 252
+Nirvana ||| 232
+Ash ||| 230
+The Vaccines ||| 226
+Ulrika Spacek ||| 224
+Howler ||| 218
+Empire of the Sun ||| 211
+Paul McCartney & Wings ||| 205
+Mew ||| 202
+Eugene McGuinness ||| 194
+Unknown Mortal Orchestra ||| 192
+The Last Shadow Puppets ||| 187
+Two Door Cinema Club ||| 186
+Grimes ||| 184
+Sufjan Stevens ||| 184
+Radiohead ||| 179
+Father John Misty ||| 177
+Julian Casablancas ||| 168
+Cocteau Twins ||| 166
+Lana Del Rey ||| 161
+Pavement ||| 160
+Queens of the Stone Age ||| 160
+Sunflower Bean ||| 157
+Fleet Foxes ||| 156
+Major Leagues ||| 156
+George Harrison ||| 149
+## playcount: 23483

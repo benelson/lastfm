@@ -1,0 +1,51 @@
+Madonna ||| 8600
+Taylor Swift ||| 6372
+Beyoncé ||| 5772
+Blur ||| 4764
+Rihanna ||| 4420
+Katy Perry ||| 4405
+Florence + the Machine ||| 3756
+Nicki Minaj ||| 3530
+Rita Lee ||| 3298
+Shakira ||| 3043
+RuPaul ||| 3021
+Ariana Grande ||| 2968
+Janet Jackson ||| 2811
+La Roux ||| 2485
+Whitney Houston ||| 2475
+Selena Gomez ||| 2450
+Ellie Goulding ||| 2311
+Amy Winehouse ||| 2275
+Kylie Minogue ||| 2203
+Kate Bush ||| 2122
+Spice Girls ||| 2094
+Shania Twain ||| 1929
+Lana Del Rey ||| 1875
+Adele ||| 1713
+The Pussycat Dolls ||| 1693
+Alanis Morissette ||| 1690
+Cher ||| 1611
+Ed Sheeran ||| 1545
+Cyndi Lauper ||| 1537
+Christina Aguilera ||| 1534
+Gwen Stefani ||| 1531
+Black Eyed Peas ||| 1504
+The Weeknd ||| 1454
+Janelle Monáe ||| 1448
+Bruno Mars ||| 1402
+Melanie Martinez ||| 1363
+Lily Allen ||| 1356
+Cássia Eller ||| 1352
+Anitta ||| 1343
+Years & Years ||| 1282
+Sade ||| 1207
+Lorde ||| 1187
+Carly Rae Jepsen ||| 1146
+Tame Impala ||| 1093
+Marisa Monte ||| 1086
+Fergie ||| 1063
+Arctic Monkeys ||| 1056
+Ke$ha ||| 1052
+Maria Gadú ||| 999
+Santigold ||| 997
+## playcount: 115223

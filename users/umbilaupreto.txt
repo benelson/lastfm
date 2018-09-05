@@ -1,0 +1,51 @@
+Coldplay ||| 20179
+Rihanna ||| 19121
+Eminem ||| 11855
+Twenty One Pilots ||| 8820
+Kanye West ||| 6112
+Queen ||| 5122
+Sam Smith ||| 4038
+Drake ||| 3842
+Troye Sivan ||| 2954
+Justin Bieber ||| 2847
+Michael Jackson ||| 2791
+The White Stripes ||| 2147
+Calvin Harris ||| 2127
+fun. ||| 1937
+Maroon 5 ||| 1897
+Justin Timberlake ||| 1244
+Miley Cyrus ||| 1142
+Macklemore & Ryan Lewis ||| 1114
+Katy Perry ||| 1106
+Lana Del Rey ||| 1101
+SZA ||| 1068
+Beyoncé ||| 1066
+Lorde ||| 1055
+Zedd ||| 926
+Black Eyed Peas ||| 878
+Kendrick Lamar ||| 873
+Jaden Smith ||| 868
+Azealia Banks ||| 754
+Nicki Minaj ||| 682
+Lady Gaga ||| 635
+Nick Jonas ||| 571
+Bruno Mars ||| 556
+Ariana Grande ||| 471
+Jay-Z ||| 458
+Iggy Azalea ||| 421
+Chloe x Halle ||| 418
+Avril Lavigne ||| 394
+Fergie ||| 394
+Janelle Monáe ||| 393
+Hillsong United ||| 383
+Arctic Monkeys ||| 342
+Florence + the Machine ||| 342
+Taylor Swift ||| 342
+Tyler, the Creator ||| 342
+The Beatles ||| 323
+Demi Lovato ||| 314
+Jay-Z & Kanye West ||| 308
+The Weeknd ||| 287
+Paramore ||| 257
+David Guetta ||| 250
+## playcount: 117867

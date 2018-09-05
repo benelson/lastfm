@@ -1,0 +1,39 @@
+Interpol ||| 42
+The Smashing Pumpkins ||| 11
+Placebo ||| 8
+Sarah McLachlan ||| 8
+Incubus ||| 7
+Regina Spektor ||| 7
+Miranda ||| 5
+Red Hot Chili Peppers ||| 5
+Stone Temple Pilots ||| 5
+Metallica ||| 4
+Billy Idol ||| 3
+CHC ||| 3
+Fobia ||| 3
+Aimee Mann ||| 2
+Catupecu Machu ||| 2
+Deftones ||| 2
+Esto es Eso ||| 2
+Mew ||| 2
+Sigur Rós ||| 2
+The Mars Volta ||| 2
+Air ||| 1
+Electric Six ||| 1
+Faith No More ||| 1
+Feist ||| 1
+Jane's Addiction ||| 1
+Johan ||| 1
+Johnny Cash ||| 1
+Leona Lewis ||| 1
+Nelly Furtado ||| 1
+Orson ||| 1
+Pulp ||| 1
+Sara Bareilles ||| 1
+Semisonic ||| 1
+The Gathering ||| 1
+The Jesus and Mary Chain ||| 1
+Tori Amos ||| 1
+U2 ||| 1
+Yeah Yeah Yeahs ||| 1
+## playcount: 143

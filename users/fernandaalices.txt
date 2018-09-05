@@ -1,0 +1,51 @@
+Lana Del Rey ||| 4263
+Led Zeppelin ||| 4014
+Queens of the Stone Age ||| 3358
+Red Hot Chili Peppers ||| 2781
+The Black Keys ||| 2570
+The White Stripes ||| 2542
+Elliott Smith ||| 2500
+Black Sabbath ||| 2450
+AC/DC ||| 2448
+Kings of Leon ||| 2007
+Alice in Chains ||| 1870
+Black Rebel Motorcycle Club ||| 1814
+Radiohead ||| 1785
+David Bowie ||| 1721
+Kyuss ||| 1502
+Metallica ||| 1466
+Motörhead ||| 1438
+Rihanna ||| 1333
+Nine Inch Nails ||| 1329
+Oasis ||| 1311
+Franz Ferdinand ||| 1225
+Joy Division ||| 1147
+Bad Religion ||| 1145
+The Smiths ||| 1116
+Beyoncé ||| 1062
+Die Antwoord ||| 1009
+The Neighbourhood ||| 993
+Kasabian ||| 926
+Depeche Mode ||| 914
+Pink Floyd ||| 901
+The Doors ||| 885
+Placebo ||| 878
+Fu Manchu ||| 861
+Mac Miller ||| 802
+Aerosmith ||| 786
+Kendrick Lamar ||| 776
+The Killers ||| 756
+Eagles of Death Metal ||| 747
+Pearl Jam ||| 744
+Pixies ||| 731
+Tears for Fears ||| 717
+Amy Winehouse ||| 705
+The Beatles ||| 687
+The Kooks ||| 664
+Britney Spears ||| 649
+Indochine ||| 643
+The Kills ||| 630
+Arctic Monkeys ||| 624
+Creedence Clearwater Revival ||| 616
+Pantera ||| 613
+## playcount: 69454

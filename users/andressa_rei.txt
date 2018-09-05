@@ -1,0 +1,51 @@
+Madeleine Peyroux ||| 22
+Diana Krall ||| 19
+Stacey Kent ||| 19
+Ella Fitzgerald ||| 18
+Jane Monheit ||| 17
+Nina Simone ||| 16
+Norah Jones ||| 16
+Billie Holiday ||| 15
+Amy Winehouse ||| 14
+Nat King Cole ||| 13
+Joss Stone ||| 12
+Dianne Reeves ||| 11
+Cassandra Wilson ||| 10
+Janis Joplin ||| 10
+Sarah Vaughan ||| 10
+Dee Dee Bridgewater ||| 9
+Dinah Washington ||| 9
+Eliades Ochoa ||| 9
+Antônio Carlos Jobim ||| 8
+Compay Segundo ||| 8
+Corinne Bailey Rae ||| 8
+Etta James ||| 8
+Frank Sinatra ||| 8
+Ibrahim Ferrer ||| 8
+Natalie Cole ||| 8
+Peggy Lee ||| 8
+Anita O'Day ||| 7
+Jamie Cullum ||| 7
+Macy Gray ||| 7
+Shakira ||| 7
+Silje Nergaard ||| 7
+Sophie Milman ||| 7
+The Cranberries ||| 7
+The Peter Malick Group ||| 7
+Aretha Franklin ||| 6
+Blossom Dearie ||| 6
+Counting Crows ||| 6
+Lisa Ekdahl ||| 6
+Orishas ||| 6
+Rubén González ||| 6
+Adriana Calcanhotto ||| 5
+Alicia Keys ||| 5
+Bessie Smith ||| 5
+Blur ||| 5
+Carmen McRae ||| 5
+Elefante ||| 5
+Eliane Elias ||| 5
+Ella Baila Sola ||| 5
+Eva Cassidy ||| 5
+Fania All-Stars ||| 5
+## playcount: 455

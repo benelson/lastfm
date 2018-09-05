@@ -1,0 +1,51 @@
+Alter Bridge ||| 854
+Guns N' Roses ||| 747
+Black Label Society ||| 681
+Nirvana ||| 681
+Slash ||| 671
+Metallica ||| 648
+AC/DC ||| 644
+Foo Fighters ||| 627
+Mötley Crüe ||| 606
+Motörhead ||| 583
+Pantera ||| 568
+Extreme ||| 543
+Ramones ||| 535
+Stone Sour ||| 534
+Jimi Hendrix ||| 532
+Slipknot ||| 523
+Queen ||| 501
+Negrita ||| 479
+Black Sabbath ||| 463
+Avenged Sevenfold ||| 455
+Green Day ||| 454
+The Beatles ||| 442
+Korn ||| 439
+Papa Roach ||| 437
+System of a Down ||| 435
+Whitesnake ||| 428
+Steel Panther ||| 402
+Lacuna Coil ||| 398
+Van Halen ||| 398
+Led Zeppelin ||| 393
+Megadeth ||| 389
+Trivium ||| 387
+Rancid ||| 385
+Audioslave ||| 375
+Ozzy Osbourne ||| 372
+Bon Jovi ||| 368
+Aerosmith ||| 360
+Soundgarden ||| 358
+Europe ||| 354
+Kiss ||| 352
+Him ||| 348
+Deep Purple ||| 345
+Bullet for My Valentine ||| 333
+Sum 41 ||| 324
+Scorpions ||| 323
+The Clash ||| 322
+Iron Maiden ||| 316
+The Rolling Stones ||| 312
+Velvet Revolver ||| 310
+Poison ||| 304
+## playcount: 23038

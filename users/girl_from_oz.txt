@@ -1,0 +1,51 @@
+Glee Cast ||| 1525
+Bob Dylan ||| 969
+The Beatles ||| 663
+Bruce Springsteen ||| 647
+Taylor Swift ||| 606
+Elton John ||| 504
+Miley Cyrus ||| 467
+Lady Gaga ||| 465
+Michael Jackson ||| 456
+R.E.M. ||| 450
+David Bowie ||| 440
+Johnny Cash ||| 423
+Avril Lavigne ||| 407
+Manic Street Preachers ||| 385
+Britney Spears ||| 382
+Paul McCartney ||| 379
+Elvis Presley ||| 371
+Demi Lovato ||| 352
+Madonna ||| 347
+Neil Young ||| 340
+Queen ||| 318
+Katy Perry ||| 316
+Diana Vickers ||| 306
+Frank Sinatra ||| 297
+Prince ||| 280
+Eels ||| 276
+Eagles ||| 270
+Fleetwood Mac ||| 266
+Billy Joel ||| 265
+Kelly Clarkson ||| 264
+Chris Isaak ||| 262
+Take That ||| 261
+Leonard Cohen ||| 259
+John Lennon ||| 258
+Morrissey ||| 257
+Kylie Minogue ||| 250
+Roy Orbison ||| 246
+The Beach Boys ||| 241
+Squeeze ||| 240
+Paul Simon ||| 238
+Red Hot Chili Peppers ||| 231
+Willie Nelson ||| 227
+Electric Light Orchestra ||| 224
+The Kinks ||| 224
+a-ha ||| 223
+Bon Jovi ||| 223
+Madness ||| 222
+Neil Diamond ||| 220
+Pixies ||| 219
+Barenaked Ladies ||| 215
+## playcount: 18176

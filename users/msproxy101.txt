@@ -1,0 +1,30 @@
+Foo Fighters ||| 207
+X-Patriate (Alan J. Lipman) ||| 161
+Pearl Jam ||| 30
+David Bowie ||| 22
+R.E.M. ||| 19
+Incubus ||| 17
+Meat Puppets ||| 17
+Nirvana ||| 17
+Tin Machine ||| 17
+U2 ||| 17
+Bryan Ferry ||| 15
+Lou Reed ||| 15
+Red Hot Chili Peppers ||| 15
+Passengers ||| 14
+T. Rex ||| 14
+Queens of the Stone Age ||| 9
+Soulsavers ||| 9
+Weezer ||| 8
+Fuel ||| 7
+Snow Patrol ||| 7
+Soundgarden ||| 7
+Chris Cornell ||| 6
+Goo Goo Dolls ||| 6
+Rage Against the Machine ||| 6
+Audioslave ||| 5
+Velvet Revolver ||| 5
+Stone Temple Pilots ||| 4
+Wilco ||| 4
+Alter Bridge ||| 2
+## playcount: 682

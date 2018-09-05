@@ -1,0 +1,51 @@
+The Beatles ||| 5763
+The Beach Boys ||| 1530
+Herman's Hermits ||| 1063
+The Rolling Stones ||| 965
+Elvis Presley ||| 718
+Queen ||| 649
+ABBA ||| 612
+Harry Nilsson ||| 457
+George Harrison ||| 440
+Paul McCartney ||| 432
+David Bowie ||| 425
+Split Enz ||| 403
+John Lennon ||| 391
+Elton John ||| 374
+The Who ||| 369
+Led Zeppelin ||| 364
+The Hollies ||| 364
+Stevie Wonder ||| 360
+AC/DC ||| 340
+Suzi Quatro ||| 340
+Ringo Starr ||| 317
+The Partridge Family ||| 313
+Pink Floyd ||| 292
+Bob Dylan ||| 290
+Bee Gees ||| 275
+Black Sabbath ||| 266
+Mike Oldfield ||| 265
+Cliff Richard & The Shadows ||| 264
+The Jimi Hendrix Experience ||| 242
+AFL ||| 236
+Billy Joel ||| 229
+Disney ||| 227
+Wings ||| 225
+Deep Purple ||| 219
+Buddy Holly ||| 217
+Björk ||| 206
+Electric Light Orchestra ||| 205
+The Kinks ||| 203
+Skyhooks ||| 185
+Eagles ||| 178
+Frank Sinatra ||| 178
+Kiss ||| 171
+Neil Diamond ||| 167
+Carpenters ||| 165
+Status Quo ||| 159
+Bob Marley ||| 156
+The Supremes ||| 153
+Sweet ||| 152
+T. Rex ||| 149
+The Doors ||| 146
+## playcount: 22809

@@ -1,0 +1,51 @@
+Donna Summer ||| 38501
+Janet Jackson ||| 34903
+Tina Turner ||| 25560
+ABBA ||| 17885
+Cyndi Lauper ||| 17031
+Toni Braxton ||| 13376
+Billie Holiday ||| 12816
+Britney Spears ||| 12508
+Cher ||| 11365
+Mariah Carey ||| 7734
+Ne-Yo ||| 7112
+The Whispers ||| 6013
+Bruno Mars ||| 5367
+The Doors ||| 5219
+Dionne Warwick ||| 5137
+Thalía ||| 5052
+Ciara ||| 4718
+Mónica Naranjo ||| 4583
+Christina Aguilera ||| 4344
+Michael Bublé ||| 4340
+Hall & Oates ||| 4333
+Westlife ||| 4328
+Bananarama ||| 4222
+The O'Jays ||| 4193
+Madonna ||| 4140
+Grace Jones ||| 4062
+Frank Sinatra ||| 3930
+Spice Girls ||| 3895
+Chic ||| 3686
+Diana Ross ||| 3513
+The Killers ||| 3455
+The Temptations ||| 3414
+Shalamar ||| 3287
+Kool & The Gang ||| 3277
+Tavares ||| 3233
+The Drifters ||| 3018
+Gwen Stefani ||| 2778
+Evelyn "Champagne" King ||| 2719
+The Beach Boys ||| 2607
+The Trammps ||| 2601
+Lil' Kim ||| 2500
+Michael Jackson ||| 2494
+David Bowie ||| 2460
+Soda Stereo ||| 2442
+Earth, Wind & Fire ||| 2434
+Brothers Johnson ||| 2408
+Marvin Gaye ||| 2259
+Frida ||| 2252
+Jamiroquai ||| 2187
+Electric Light Orchestra ||| 2152
+## playcount: 337843

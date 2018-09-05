@@ -1,0 +1,51 @@
+Alvin Lee ||| 30771
+Alice Cooper ||| 22518
+Ten Years After ||| 20907
+The Rolling Stones ||| 13170
+Ray Wylie Hubbard ||| 12831
+Rory Gallagher ||| 10429
+AC/DC ||| 7633
+Eric Clapton ||| 7539
+Judas Priest ||| 6982
+Omar & The Howlers ||| 6113
+The Who ||| 5820
+Bob Dylan ||| 5235
+Jimi Hendrix ||| 4641
+Black Sabbath ||| 4403
+Wishbone Ash ||| 4327
+Deep Purple ||| 3874
+Warren Zevon ||| 3648
+Frank Zappa ||| 3614
+Lynyrd Skynyrd ||| 3388
+Spirit ||| 3343
+Led Zeppelin ||| 3198
+Blue Öyster Cult ||| 3100
+Humble Pie ||| 2883
+The Jeff Healey Band ||| 2860
+U2 ||| 2833
+Pink Floyd ||| 2754
+Sammy Hagar ||| 2724
+Rush ||| 2698
+The Kinks ||| 2673
+Nirvana ||| 2662
+Small Faces ||| 2653
+Trampled by Turtles ||| 2651
+The Blackwater Fever ||| 2288
+ZZ Top ||| 2215
+Guns N' Roses ||| 2207
+Stevie Ray Vaughan and Double Trouble ||| 2061
+Kiss ||| 1927
+Bachman-Turner Overdrive ||| 1849
+The White Stripes ||| 1849
+George Thorogood & The Destroyers ||| 1830
+Grateful Dead ||| 1821
+Creedence Clearwater Revival ||| 1759
+Ted Nugent ||| 1737
+Nazareth ||| 1626
+Tom Petty and The Heartbreakers ||| 1613
+Thin Lizzy ||| 1539
+The Doors ||| 1516
+Cracker ||| 1504
+The Fabulous Thunderbirds ||| 1496
+The Allman Brothers Band ||| 1474
+## playcount: 247186

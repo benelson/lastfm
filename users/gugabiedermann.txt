@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 3977
+The Strokes ||| 2574
+Kanye West ||| 1207
+Drake ||| 1045
+The Black Keys ||| 922
+The Beatles ||| 921
+blink-182 ||| 900
+Foster the People ||| 793
+MGMT ||| 777
+Pink Floyd ||| 770
+The Vaccines ||| 708
+Muse ||| 705
+The Kills ||| 668
+Two Door Cinema Club ||| 633
+Adam Green ||| 627
+Mumford & Sons ||| 627
+The Killers ||| 624
+Vampire Weekend ||| 595
+Radiohead ||| 539
+Calvin Harris ||| 532
+Kendrick Lamar ||| 532
+Tame Impala ||| 521
+Skrillex ||| 493
+Aerosmith ||| 489
+Kings of Leon ||| 489
+Franz Ferdinand ||| 449
+The White Stripes ||| 395
+The Kooks ||| 389
+Dr. Dre ||| 372
+Queens of the Stone Age ||| 333
+Disclosure ||| 330
+The Libertines ||| 318
+The Velvet Underground ||| 317
+Criolo ||| 313
+Swedish House Mafia ||| 300
+Foo Fighters ||| 275
+The Smiths ||| 263
+Oasis ||| 257
+U2 ||| 256
+Kid Cudi ||| 254
+The Fratellis ||| 247
+Gogol Bordello ||| 245
+Chance the Rapper ||| 244
+Skank ||| 242
+Phoenix ||| 240
+The xx ||| 240
+Arcade Fire ||| 234
+Daft Punk ||| 231
+Avicii ||| 225
+The Throne ||| 222
+## playcount: 29859

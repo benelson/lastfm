@@ -1,0 +1,51 @@
+Blur ||| 2738
+The Beatles ||| 1275
+Coldplay ||| 1162
+Arctic Monkeys ||| 1118
+Dido ||| 1031
+Oasis ||| 886
+Lana Del Rey ||| 661
+The Killers ||| 639
+The Doors ||| 613
+Suede ||| 537
+Sigur Rós ||| 392
+Caravan Palace ||| 341
+blink-182 ||| 336
+Dire Straits ||| 303
+Elvis Presley ||| 287
+Radiohead ||| 287
+a-ha ||| 281
+Klaxons ||| 257
+The Black Keys ||| 241
+Parov Stelar ||| 227
+Мельница ||| 226
+Pixies ||| 213
+The Rolling Stones ||| 197
+Gorillaz ||| 186
+The Who ||| 184
+Amy Winehouse ||| 180
+Fall Out Boy ||| 177
+Bee Gees ||| 174
+Red Hot Chili Peppers ||| 173
+Buckethead ||| 165
+Enrique Iglesias ||| 164
+Franz Ferdinand ||| 161
+MGMT ||| 152
+Kaiser Chiefs ||| 148
+Daft Punk ||| 147
+Muse ||| 143
+The Last Shadow Puppets ||| 142
+Maroon 5 ||| 124
+Polvo ||| 124
+Kraftwerk ||| 122
+The Good, the Bad & the Queen ||| 122
+Kula Shaker ||| 121
+Lily Allen ||| 120
+Океан Ельзи ||| 120
+Parov Stelar Trio ||| 108
+Awolnation ||| 104
+Metallica ||| 101
+Yann Tiersen ||| 101
+Prāta Vētra ||| 96
+Brainstorm ||| 94
+## playcount: 18001

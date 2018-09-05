@@ -1,0 +1,41 @@
+Kavinsky ||| 10
+Queens of the Stone Age ||| 8
+Gorillaz ||| 6
+Muse ||| 6
+Crystal Castles ||| 5
+Groove Armada ||| 5
+Portishead ||| 5
+Queen ||| 5
+Wu-Tang Clan ||| 5
+Aphex Twin ||| 4
+Daft Punk ||| 4
+Jimi Hendrix ||| 4
+Justice ||| 4
+Kosheen ||| 4
+The Prodigy ||| 4
+Basement Jaxx ||| 3
+Hooverphonic ||| 3
+Jim Morrison ||| 3
+Lamb ||| 3
+Radiohead ||| 3
+UNKLE ||| 3
+Arcade Fire ||| 2
+Cypress Hill ||| 2
+Massive Attack ||| 2
+Moby ||| 2
+The Chemical Brothers ||| 2
+Tricky ||| 2
+Apollo 440 ||| 1
+Beth Gibbons & Rustin Man ||| 1
+Faithless ||| 1
+Foo Fighters ||| 1
+Kraftwerk ||| 1
+Led Zeppelin ||| 1
+Leftfield ||| 1
+Martina Topley-Bird ||| 1
+Pharrell Williams ||| 1
+Pink Floyd ||| 1
+Red Hot Chili Peppers ||| 1
+The Doors ||| 1
+The White Stripes ||| 1
+## playcount: 122

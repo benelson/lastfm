@@ -1,0 +1,51 @@
+Metallica ||| 4154
+Limp Bizkit ||| 1500
+Kendrick Lamar ||| 1301
+Hollywood Undead ||| 1273
+ScHoolboy Q ||| 1233
+Mac Miller ||| 1218
+System of a Down ||| 1122
+Korn ||| 1059
+Charlie Brown JR. ||| 1003
+Sabotage ||| 921
+A$AP Rocky ||| 890
+Foo Fighters ||| 801
+O Rappa ||| 777
+2Pac ||| 730
+The xx ||| 692
+Busta Rhymes ||| 596
+Pantera ||| 564
+Post Malone ||| 544
+Deftones ||| 527
+Godsmack ||| 518
+Exodus ||| 500
+P.O.D. ||| 479
+Wiz Khalifa ||| 438
+Breaking Benjamin ||| 433
+XXYYXX ||| 420
+Black Alien ||| 365
+The Weeknd ||| 351
+Lil Dicky ||| 347
+Red Hot Chili Peppers ||| 346
+Forfun ||| 321
+Eminem ||| 319
+Costa Gold ||| 311
+Sonata Arctica ||| 299
+Lil' Wayne ||| 289
+Oriente ||| 283
+Stone Sour ||| 266
+Engenheiros Do Hawaii ||| 252
+Three Days Grace ||| 250
+Soldiers of Jah Army ||| 245
+Rise Against ||| 233
+<Artista Desconhecido> ||| 232
+Megadeth ||| 224
+Raimundos ||| 223
+Rammstein ||| 220
+Bob Marley & The Wailers ||| 217
+Linkin Park ||| 217
+A$AP Ferg ||| 214
+Jay-Z ||| 207
+Kings of Leon ||| 201
+Haikaiss ||| 192
+## playcount: 30317

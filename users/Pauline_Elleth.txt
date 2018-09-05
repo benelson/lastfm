@@ -1,0 +1,51 @@
+Placebo ||| 10999
+Nightwish ||| 8461
+Anathema ||| 5632
+W.A.S.P. ||| 2793
+Hunter ||| 2363
+In Flames ||| 2233
+Within Temptation ||| 2179
+Crashdïet ||| 1948
+Apocalyptica ||| 1942
+Tiamat ||| 1848
+Blur ||| 1738
+Coldplay ||| 1604
+Tool ||| 1553
+Iron Maiden ||| 1165
+Depeche Mode ||| 1158
+Skid Row ||| 1086
+Arcade Fire ||| 1030
+Mötley Crüe ||| 966
+Sigur Rós ||| 958
+Hans Zimmer ||| 950
+Reckless Love ||| 860
+Florence + the Machine ||| 857
+Katatonia ||| 850
+Moonspell ||| 837
+Eluveitie ||| 783
+DIR EN GREY ||| 779
+Epica ||| 774
+Children of Bodom ||| 744
+Therion ||| 736
+The White Stripes ||| 734
+Rammstein ||| 710
+Him ||| 707
+A Perfect Circle ||| 661
+Metallica ||| 646
+AC/DC ||| 640
+Wardruna ||| 636
+System of a Down ||| 608
+Roxette ||| 594
+Howard Shore ||| 593
+Muse ||| 579
+Gojira ||| 566
+Slayer ||| 538
+Def Leppard ||| 537
+Kiss ||| 535
+Lacrimosa ||| 502
+Bon Jovi ||| 469
+Gorillaz ||| 461
+Oasis ||| 443
+Linkin Park ||| 432
+Guns N' Roses ||| 423
+## playcount: 71840

@@ -1,0 +1,51 @@
+Red Hot Chili Peppers ||| 42
+Tool ||| 42
+A Perfect Circle ||| 37
+Incubus ||| 37
+Rage Against the Machine ||| 33
+John Frusciante ||| 29
+Audioslave ||| 28
+Foo Fighters ||| 28
+ASHES dIVIDE ||| 24
+Jane's Addiction ||| 24
+Weezer ||| 24
+The Offspring ||| 23
+R.E.M. ||| 22
+John Frusciante and Josh Klinghoffer ||| 21
+Nirvana ||| 20
+The Smashing Pumpkins ||| 20
+Bloodhound Gang ||| 19
+Fun Lovin' Criminals ||| 16
+Puscifer ||| 16
+Staind ||| 15
+Faith No More ||| 14
+Primus ||| 14
+Vast ||| 14
+Living Colour ||| 13
+Rishloo ||| 13
+Cake ||| 12
+Muse ||| 12
+Cold ||| 11
+Live ||| 11
+311 ||| 10
+Black Light Burns ||| 10
+Chevelle ||| 10
+dredg ||| 10
+Soundgarden ||| 10
+Ataxia ||| 9
+Coldplay ||| 9
+Deftones ||| 9
+Goo Goo Dolls ||| 9
+Guns N' Roses ||| 9
+Pearl Jam ||| 9
+Radiohead ||| 9
+Riverside ||| 9
+The Killers ||| 9
+The Presidents of the United States of America ||| 9
+Alien Ant Farm ||| 8
+Anathema ||| 8
+Alice in Chains ||| 7
+Blind Melon ||| 7
+Feeder ||| 7
+Garbage ||| 7
+## playcount: 818

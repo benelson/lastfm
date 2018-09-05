@@ -1,0 +1,51 @@
+Katy Perry ||| 193363
+Rihanna ||| 22690
+30 Seconds to Mars ||| 20920
+Glee Cast ||| 16309
+Paramore ||| 14670
+Linkin Park ||| 10986
+Laura Pausini ||| 9911
+All Time Low ||| 8149
+Lana Del Rey ||| 7747
+Simple Plan ||| 7722
+Selena Gomez & the Scene ||| 7092
+Lady Gaga ||| 4767
+Ke$ha ||| 3550
+The Script ||| 2621
+Adele ||| 2614
+Beyoncé ||| 2038
+Taylor Swift ||| 1953
+Sia ||| 1911
+P!nk ||| 1887
+Coldplay ||| 1738
+Jessie J ||| 1728
+Miley Cyrus ||| 1675
+Avril Lavigne ||| 1584
+Maroon 5 ||| 1505
+Nicki Minaj ||| 1486
+Britney Spears ||| 1451
+Eminem ||| 1448
+David Guetta ||| 1427
+Demi Lovato ||| 1394
+Ariana Grande ||| 1376
+Carly Rae Jepsen ||| 1319
+Marina & the Diamonds ||| 1308
+Zayn ||| 1263
+Christina Aguilera ||| 1227
+Ed Sheeran ||| 1176
+Selena Gomez ||| 1157
+Imagine Dragons ||| 1117
+Ellie Goulding ||| 1024
+Bruno Mars ||| 1023
+Tove Lo ||| 1018
+James Blunt ||| 857
+Rita Ora ||| 796
+One Direction ||| 790
+Madonna ||| 787
+Yghor Wally ||| 770
+Jake Bugg ||| 755
+Black Eyed Peas ||| 699
+Calvin Harris ||| 678
+The Weeknd ||| 668
+Florence + the Machine ||| 566
+## playcount: 376710

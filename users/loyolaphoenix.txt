@@ -1,0 +1,51 @@
+Spoon ||| 285
+Pavement ||| 280
+Andrew Bird ||| 234
+Radiohead ||| 207
+Beirut ||| 190
+Belle and Sebastian ||| 160
+David Bowie ||| 156
+Jens Lekman ||| 147
+The Kinks ||| 147
+T. Rex ||| 146
+José González ||| 143
+Neko Case ||| 141
+DeVotchKa ||| 135
+Califone ||| 133
+Yo La Tengo ||| 129
+The Books ||| 128
+Brian Eno ||| 120
+Caribou ||| 120
+Devendra Banhart ||| 120
+Talking Heads ||| 116
+Stevie Wonder ||| 107
+The Beatles ||| 104
+Van Morrison ||| 104
+Mirah ||| 99
+Wilco ||| 97
+Destroyer ||| 96
+Deerhoof ||| 93
+Fleetwood Mac ||| 91
+Elton John ||| 90
+The Mountain Goats ||| 90
+Elvis Costello ||| 82
+Buena Vista Social Club ||| 79
+Stars ||| 79
+Sunset Rubdown ||| 79
+The Moody Blues ||| 79
+Yeasayer ||| 78
+Iron & Wine ||| 77
+Steely Dan ||| 77
+The Velvet Underground ||| 77
+Feist ||| 76
+Four Tet ||| 75
+Peter Bjorn and John ||| 75
+Broken Social Scene Presents Kevin Drew ||| 73
+De La Soul ||| 71
+St. Vincent ||| 69
+Kings of Convenience ||| 66
+John Cale ||| 64
+Shuggie Otis ||| 60
+Sigur Rós ||| 59
+Bon Iver ||| 58
+## playcount: 5661

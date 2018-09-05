@@ -1,0 +1,51 @@
+Rush ||| 2421
+Motörhead ||| 1077
+Muse ||| 700
+Eric Clapton ||| 682
+Blind Guardian ||| 549
+Pink Floyd ||| 469
+Stratovarius ||| 453
+Judas Priest ||| 375
+Testament ||| 370
+Megadeth ||| 351
+Angra ||| 331
+Helloween ||| 320
+Iron Maiden ||| 304
+Slayer ||| 288
+Claustrofobia ||| 276
+The xx ||| 271
+Chico Buarque ||| 270
+Bathory ||| 250
+Marillion ||| 221
+Gamma Ray ||| 206
+Bob Marley & The Wailers ||| 200
+Tuatha de Danann ||| 199
+Yes ||| 191
+Black Label Society ||| 188
+Engenheiros Do Hawaii ||| 188
+Running Wild ||| 186
+Venom ||| 186
+Avantasia ||| 181
+Cake ||| 179
+Kreator ||| 174
+Saxon ||| 174
+Van Morrison ||| 174
+Wishbone Ash ||| 174
+Radiohead ||| 172
+Arkona ||| 169
+Porcupine Tree ||| 164
+Doro ||| 163
+Marina & the Diamonds ||| 158
+Lynyrd Skynyrd ||| 155
+Children of Bodom ||| 150
+Death ||| 148
+Black Sabbath ||| 143
+AC/DC ||| 142
+Exodus ||| 140
+Korzus ||| 139
+Tankard ||| 137
+Mercyful Fate ||| 135
+Thin Lizzy ||| 135
+Misfits ||| 132
+Paradise Lost ||| 132
+## playcount: 15092

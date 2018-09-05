@@ -1,0 +1,51 @@
+Alice in Chains ||| 11213
+Pearl Jam ||| 11111
+Mastodon ||| 6419
+Deftones ||| 6250
+Black Sabbath ||| 5000
+Led Zeppelin ||| 4843
+Soundgarden ||| 4265
+Radiohead ||| 3746
+Nirvana ||| 3331
+Megadeth ||| 3085
+Motörhead ||| 3073
+Metallica ||| 2955
+Black Label Society ||| 2780
+Bad Religion ||| 2559
+Queens of the Stone Age ||| 2525
+Red Fang ||| 2243
+Tool ||| 1949
+Slayer ||| 1903
+System of a Down ||| 1661
+Pink Floyd ||| 1625
+Pantera ||| 1606
+Stone Temple Pilots ||| 1524
+AC/DC ||| 1462
+Godsmack ||| 1452
+Eddie Vedder ||| 1409
+Down ||| 1322
+Baroness ||| 1311
+Iron Maiden ||| 1272
+Faith No More ||| 1212
+Red Hot Chili Peppers ||| 1202
+Rage Against the Machine ||| 1143
+Silverchair ||| 1142
+Testament ||| 1098
+Days of the New ||| 1000
+The Offspring ||| 975
+Kyuss ||| 939
+Screaming Trees ||| 878
+Mad Season ||| 874
+Jerry Cantrell ||| 854
+Helmet ||| 842
+Muse ||| 800
+Seether ||| 737
+Slipknot ||| 731
+Kylesa ||| 728
+The Strokes ||| 670
+Arctic Monkeys ||| 633
+Alcest ||| 628
+Electric Wizard ||| 627
+The White Buffalo ||| 623
+The Sword ||| 619
+## playcount: 112849

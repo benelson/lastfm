@@ -1,0 +1,51 @@
+Pink Floyd ||| 4697
+The Beatles ||| 3143
+Queen ||| 2783
+MGMT ||| 1757
+Hole ||| 1356
+Raul Seixas ||| 1142
+Led Zeppelin ||| 1032
+Faith No More ||| 1025
+of Montreal ||| 972
+AC/DC ||| 743
+Motörhead ||| 665
+Johnny Cash ||| 612
+Iron Maiden ||| 451
+The Smiths ||| 413
+Amy Winehouse ||| 412
+Black Sabbath ||| 405
+Pixies ||| 374
+The White Stripes ||| 368
+Mr. Bungle ||| 365
+Elvis Presley ||| 319
+Ramones ||| 305
+Janis Joplin ||| 304
+The Flaming Lips ||| 294
+The Who ||| 290
+The Smashing Pumpkins ||| 268
+Paul McCartney ||| 254
+Bob Dylan ||| 243
+Kiss ||| 234
+The Residents ||| 228
+Foo Fighters ||| 221
+Red Hot Chili Peppers ||| 219
+The Rolling Stones ||| 218
+The Breeders ||| 202
+Mac DeMarco ||| 201
+Sonic Youth ||| 198
+Tenacious D ||| 169
+John Lennon ||| 163
+Frank Zappa ||| 155
+Ramin Djawadi ||| 148
+Lana Del Rey ||| 145
+The Doors ||| 145
+Los Hermanos ||| 144
+Jimi Hendrix ||| 135
+Grimes ||| 132
+David Bowie ||| 128
+Metallica ||| 126
+Tame Impala ||| 121
+Pantera ||| 117
+Roger Waters ||| 115
+Ludwig van Beethoven ||| 110
+## playcount: 28766

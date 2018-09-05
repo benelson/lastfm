@@ -1,0 +1,51 @@
+The Doors ||| 17465
+Joy Division ||| 8123
+Pink Floyd ||| 5101
+Jeff Beck ||| 3639
+Tom Waits ||| 3565
+The Who ||| 3113
+The Byrds ||| 2502
+The Beatles ||| 2151
+Grateful Dead ||| 2105
+Stevie Ray Vaughan ||| 1443
+The Velvet Underground ||| 1379
+Jefferson Airplane ||| 1077
+The Yardbirds ||| 899
+The Cure ||| 875
+Eric Clapton ||| 829
+U2 ||| 724
+Black Sabbath ||| 675
+Jimi Hendrix ||| 548
+Bob Dylan ||| 427
+Калинов Мост ||| 387
+Nirvana ||| 373
+New Order ||| 348
+David Bowie ||| 330
+Placebo ||| 318
+Uriah Heep ||| 309
+Пикник ||| 270
+Scorpions ||| 265
+J.J. Cale ||| 258
+ДДТ ||| 255
+Iggy Pop ||| 254
+Гражданская оборона ||| 240
+Albert King ||| 236
+The Stooges ||| 201
+Radiohead ||| 199
+Aerosmith ||| 196
+The Incredible String Band ||| 168
+The Flying Burrito Brothers ||| 165
+Moby Grape ||| 163
+Billy Fury ||| 160
+Сплин ||| 159
+Nautilus Pompilius ||| 155
+The Clash ||| 155
+Последние Танки В Париже ||| 149
+Love ||| 144
+Агата Кристи ||| 141
+Blue Öyster Cult ||| 134
+Country Joe McDonald ||| 125
+Syd Barrett ||| 120
+Би-2 ||| 117
+Крематорий ||| 117
+## playcount: 63251

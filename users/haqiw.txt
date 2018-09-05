@@ -1,0 +1,51 @@
+Coldplay ||| 1101
+Radiohead ||| 917
+Arctic Monkeys ||| 759
+blink-182 ||| 540
+MGMT ||| 540
+Bombay Bicycle Club ||| 510
+The Beatles ||| 487
+Oasis ||| 457
+Maroon 5 ||| 448
+The Killers ||| 384
+Foster the People ||| 371
+Paramore ||| 365
+Tame Impala ||| 339
+The Cranberries ||| 335
+Vampire Weekend ||| 286
+The Lonely Island ||| 278
+Phoenix ||| 257
+Pink Floyd ||| 248
+Rocket Rockers ||| 229
+Bon Iver ||| 224
+Death Cab for Cutie ||| 211
+Florence + the Machine ||| 204
+Katchafire ||| 201
+Mac Miller ||| 189
+CHVRCHES ||| 187
+Arcade Fire ||| 186
+The Temper Trap ||| 168
+Mumford & Sons ||| 164
+Payung Teduh ||| 160
+Queen ||| 160
+The Fratellis ||| 158
+Kings of Leon ||| 150
+Lana Del Rey ||| 147
+The Kooks ||| 143
+Two Door Cinema Club ||| 142
+The Smiths ||| 137
+Vance Joy ||| 136
+Belle and Sebastian ||| 131
+The Script ||| 129
+Black Eyed Peas ||| 126
+The xx ||| 124
+Beastie Boys ||| 123
+Your Demise ||| 123
+Tom Odell ||| 122
+Jack Johnson ||| 119
+Kendrick Lamar ||| 118
+Lorde ||| 117
+The Strokes ||| 117
+Passion Pit ||| 114
+Bob Marley ||| 113
+## playcount: 13494

@@ -1,0 +1,51 @@
+Maroon 5 ||| 123
+Rihanna ||| 66
+Imagine Dragons ||| 65
+Taylor Swift ||| 58
+The Script ||| 52
+Flo Rida ||| 48
+Adele ||| 43
+Coldplay ||| 42
+One Direction ||| 42
+Ellie Goulding ||| 39
+Akon ||| 30
+Carly Rae Jepsen ||| 29
+David Guetta ||| 29
+Swedish House Mafia ||| 29
+Katy Perry ||| 28
+fun. ||| 26
+Bruno Mars ||| 24
+Asaf Avidan & The Mojos ||| 23
+Lana Del Rey ||| 23
+Macklemore ||| 23
+Psy ||| 23
+Fun ||| 22
+Christina Perri ||| 21
+Eminem ||| 21
+Lenka ||| 21
+M83 ||| 21
+Nicki Minaj ||| 21
+Gotye ||| 18
+will.i.am ||| 18
+OneRepublic ||| 17
+Yeah Yeah Yeahs ||| 17
+fun. (feat. Janelle Monáe) ||| 16
+Passenger ||| 16
+Avicii ||| 15
+Chris Brown ||| 15
+Daniel Kim ||| 15
+Kid Cudi ||| 15
+Walk Off the Earth ||| 14
+Empire of the Sun ||| 13
+Matisyahu ||| 12
+Neon Trees ||| 12
+Oasis ||| 12
+Robin Thicke ||| 12
+Train ||| 12
+A.R. Rahman ||| 11
+Miley Cyrus ||| 11
+Alex Clare ||| 10
+Demi Lovato ||| 10
+Justin Timberlake ||| 10
+Lorde ||| 10
+## playcount: 1303

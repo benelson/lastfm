@@ -1,0 +1,51 @@
+The Beatles ||| 10944
+Pink Floyd ||| 4499
+Paul McCartney ||| 2892
+Eskiz ||| 2481
+John Frusciante ||| 2371
+God Is An Astronaut ||| 2124
+Red Hot Chili Peppers ||| 1964
+Arctic Monkeys ||| 1927
+John Lennon ||| 1919
+Kings of Convenience ||| 1674
+Led Zeppelin ||| 1658
+Supertramp ||| 1418
+Dire Straits ||| 1352
+George Harrison ||| 1292
+Fleet Foxes ||| 1279
+Portishead ||| 1208
+Grizzly Bear ||| 1183
+Doves ||| 1175
+Balmorhea ||| 1014
+Black Rebel Motorcycle Club ||| 963
+Queens of the Stone Age ||| 910
+The Doors ||| 907
+David Gilmour ||| 905
+The Who ||| 886
+Bob Dylan ||| 877
+The Raconteurs ||| 861
+Help! The Captain Threw Up ||| 835
+Beirut ||| 834
+Bonobo ||| 810
+The Zombies ||| 799
+Bon Iver ||| 773
+Jeff Buckley ||| 755
+Queen ||| 727
+Iron & Wine ||| 712
+Yüzyüzeyken Konuşuruz ||| 620
+Ten Years After ||| 590
+The Rolling Stones ||| 579
+Eagles ||| 573
+Muse ||| 571
+Radiohead ||| 571
+Do Make Say Think ||| 569
+Richard Wright ||| 559
+Oasis ||| 554
+Eric Clapton ||| 531
+The Last Shadow Puppets ||| 511
+J.J. Cale ||| 506
+The White Stripes ||| 504
+Massive Attack ||| 490
+Jimi Hendrix ||| 485
+Morcheeba ||| 465
+## playcount: 65606

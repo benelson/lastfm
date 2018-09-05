@@ -1,0 +1,51 @@
+Britney Spears ||| 8897
+Mariah Carey ||| 4564
+Cheryl Cole ||| 2135
+P!nk ||| 1950
+Melanie C ||| 1906
+Ke$ha ||| 1631
+Christina Aguilera ||| 1423
+Shakira ||| 1294
+Avril Lavigne ||| 1273
+Jessica Simpson ||| 1220
+Janet Jackson ||| 1155
+Beyoncé ||| 1093
+Madonna ||| 1072
+Spice Girls ||| 812
+Lady Gaga ||| 760
+Girlicious ||| 712
+Mandy Moore ||| 573
+Rihanna ||| 521
+Sara Bareilles ||| 487
+Kylie Minogue ||| 447
+The Pretty Reckless ||| 428
+Katy Perry ||| 427
+Kelly Clarkson ||| 397
+Destiny's Child ||| 378
+Natasha Bedingfield ||| 378
+Samantha Ronson ||| 352
+Katharine McPhee ||| 344
+Leona Lewis ||| 335
+Michelle Branch ||| 335
+Amy Winehouse ||| 319
+Leighton Meester ||| 318
+Vanessa Hudgens ||| 299
+Jordin Sparks ||| 294
+Lisa Loeb ||| 293
+The Pussycat Dolls ||| 292
+Demi Lovato ||| 287
+Alanis Morissette ||| 279
+Nicole Scherzinger ||| 256
+Robyn ||| 245
+Whitney Houston ||| 239
+Lindsay Lohan ||| 204
+Ashley Tisdale ||| 200
+Selena Gomez ||| 182
+Paris Hilton ||| 178
+Tyra Banks ||| 171
+Jennifer Lopez ||| 168
+Lily Allen ||| 153
+Hilary Duff ||| 152
+Nicola Roberts ||| 150
+Aerosmith ||| 146
+## playcount: 42124

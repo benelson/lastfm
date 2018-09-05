@@ -1,0 +1,51 @@
+Kings of Leon ||| 8830
+Arctic Monkeys ||| 6629
+The Black Keys ||| 4442
+The Killers ||| 4367
+Los Hermanos ||| 4343
+Anberlin ||| 4165
+Foo Fighters ||| 4088
+The Strokes ||| 3954
+Muse ||| 3693
+Coldplay ||| 3613
+Radiohead ||| 3255
+Jack White ||| 2386
+Queens of the Stone Age ||| 2295
+Copeland ||| 1862
+Cícero ||| 1810
+Franz Ferdinand ||| 1745
+U2 ||| 1731
+Criolo ||| 1576
+The Kills ||| 1469
+Rodrigo Amarante ||| 1464
+Alabama Shakes ||| 1447
+Vivendo do Ócio ||| 1375
+Cage the Elephant ||| 1209
+Red Hot Chili Peppers ||| 1198
+Amy Winehouse ||| 1163
+Maglore ||| 1132
+Arcade Fire ||| 1126
+Jeff Buckley ||| 1075
+The White Stripes ||| 1048
+Little Joy ||| 1010
+Tame Impala ||| 985
+The National ||| 949
+30 Seconds to Mars ||| 878
+Mumford & Sons ||| 871
+Caetano Veloso ||| 801
+Jorge Ben ||| 798
+The Smiths ||| 785
+Oasis ||| 761
+The Kooks ||| 758
+The Beatles ||| 721
+Frank Ocean ||| 714
+B.B. King ||| 684
+Don L ||| 682
+Bon Iver ||| 677
+Emicida ||| 670
+The xx ||| 624
+Alex Turner ||| 620
+Fresno ||| 591
+Royal Blood ||| 591
+Bob Dylan ||| 588
+## playcount: 94248

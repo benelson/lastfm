@@ -1,0 +1,51 @@
+Coldplay ||| 4309
+U2 ||| 2758
+The Killers ||| 2667
+The Beatles ||| 2405
+The Kooks ||| 2032
+Pearl Jam ||| 2020
+Michael Bublé ||| 1997
+John Mayer ||| 1718
+Justin Timberlake ||| 1582
+Foo Fighters ||| 1538
+The Strokes ||| 1277
+Kings of Leon ||| 1173
+Radiohead ||| 1170
+Dżem ||| 1122
+R.E.M. ||| 1077
+Green Day ||| 998
+Audioslave ||| 853
+Oasis ||| 837
+The Fray ||| 827
+Maroon 5 ||| 808
+Franz Ferdinand ||| 784
+Passion Pit ||| 771
+Elvis Presley ||| 766
+Florence + the Machine ||| 743
+The Rolling Stones ||| 709
+Kasabian ||| 696
+Taylor Swift ||| 683
+Jet ||| 653
+Sum 41 ||| 648
+Daft Punk ||| 646
+Goo Goo Dolls ||| 588
+Black Rebel Motorcycle Club ||| 574
+Macklemore & Ryan Lewis ||| 574
+Bob Dylan ||| 572
+The Verve ||| 557
+Jimi Hendrix ||| 542
+Snow Patrol ||| 540
+MGMT ||| 526
+The Black Keys ||| 524
+Imagine Dragons ||| 493
+Sigur Rós ||| 493
+Placebo ||| 477
+The National ||| 470
+José González ||| 469
+Damien Rice ||| 468
+Duffy ||| 448
+Kanye West ||| 446
+The Hives ||| 435
+Bon Jovi ||| 429
+Bruno Mars ||| 412
+## playcount: 50304

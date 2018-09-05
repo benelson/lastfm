@@ -1,0 +1,51 @@
+Aaliyah ||| 5
+Christina Aguilera ||| 5
+Coldplay ||| 5
+Maroon 5 ||| 5
+The Corrs ||| 5
+Black Eyed Peas ||| 4
+Keane ||| 4
+Mariah Carey ||| 4
+Moby ||| 4
+Nat King Cole ||| 4
+Aerosmith ||| 3
+Astor Piazzolla ||| 3
+Beck ||| 3
+Billie Holiday ||| 3
+Britney Spears ||| 3
+Buena Vista Social Club ||| 3
+Eric Clapton ||| 3
+Foo Fighters ||| 3
+Gilberto Gil ||| 3
+Guns N' Roses ||| 3
+James Blunt ||| 3
+Led Zeppelin ||| 3
+Madonna ||| 3
+Mary J. Blige ||| 3
+Milton Banana Trio ||| 3
+Nina Simone ||| 3
+Norah Jones ||| 3
+R.E.M. ||| 3
+Rubén González ||| 3
+Stan Getz ||| 3
+The Pussycat Dolls ||| 3
+U2 ||| 3
+Alanis Morissette ||| 2
+Alicia Keys ||| 2
+Angra ||| 2
+Annie ||| 2
+Arturo Sandoval ||| 2
+Bill Evans ||| 2
+Bloc Party ||| 2
+Blur ||| 2
+Bon Jovi ||| 2
+Brandy ||| 2
+Briskey ||| 2
+Cannonball Adderley ||| 2
+Chet Baker ||| 2
+Chicago ||| 2
+Compay Segundo ||| 2
+Count Basie ||| 2
+Duran Duran ||| 2
+Eagles ||| 2
+## playcount: 147

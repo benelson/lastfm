@@ -1,0 +1,51 @@
+Dr. Dog ||| 4510
+Bob Dylan ||| 2693
+Cotton Jones ||| 1753
+The Beatles ||| 1465
+Neil Young ||| 1382
+The Rolling Stones ||| 1100
+The Growlers ||| 1032
+The Abigails ||| 929
+Black Lips ||| 828
+Townes Van Zandt ||| 826
+The Flying Burrito Brothers ||| 743
+Mac DeMarco ||| 667
+New Riders Of The Purple Sage ||| 587
+The Band ||| 563
+Natural Child ||| 548
+Johnny Cash ||| 538
+Black Sabbath ||| 522
+King Tuff ||| 519
+David Allan Coe ||| 489
+Antigua ||| 465
+Delta Spirit ||| 456
+Against Me! ||| 453
+Mystic Braves ||| 437
+Waylon Jennings ||| 432
+The Dogs D'Amour ||| 414
+Daniel Johnston ||| 406
+David Bowie ||| 405
+Buffalo Springfield ||| 403
+John Lennon ||| 383
+Fruit Bats ||| 380
+The War on Drugs ||| 373
+Van Morrison ||| 372
+Led Zeppelin ||| 371
+The Strange Boys ||| 364
+MGMT ||| 361
+Page France ||| 357
+Misfits ||| 343
+Girls ||| 330
+Rancid ||| 325
+Gram Parsons ||| 318
+The Strokes ||| 316
+Bruce Springsteen ||| 303
+The Beach Boys ||| 298
+The Mountain Goats ||| 297
+Voxtrot ||| 292
+The Flatlanders ||| 280
+Merle Haggard ||| 279
+Teeth ||| 279
+The Booze ||| 275
+Midlake ||| 263
+## playcount: 32724

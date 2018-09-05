@@ -1,0 +1,35 @@
+Innergate ||| 15
+Hangar ||| 4
+Nevermore ||| 4
+Within Temptation ||| 3
+Symphorce ||| 2
+Amon Amarth ||| 1
+Celesty ||| 1
+Confessor ||| 1
+Crimson Blue ||| 1
+Dark Moor ||| 1
+Deep Purple ||| 1
+Dio ||| 1
+Elias Viljanen ||| 1
+Elis ||| 1
+Elvenking ||| 1
+Evanescence ||| 1
+Evergrey ||| 1
+Fates Warning ||| 1
+Gojira ||| 1
+Helloween ||| 1
+Iron Maiden ||| 1
+Korpiklaani ||| 1
+Lamb of God ||| 1
+Leaves' Eyes ||| 1
+Lucifer's Heritage ||| 1
+Manticora ||| 1
+Nemesea ||| 1
+Shadow Gallery ||| 1
+Sirenia ||| 1
+Skyfire ||| 1
+Stratovarius ||| 1
+Textures ||| 1
+Winger ||| 1
+ZZ Top ||| 1
+## playcount: 57

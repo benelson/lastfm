@@ -1,0 +1,51 @@
+The Beatles ||| 600
+Children of Bodom ||| 205
+Metallica ||| 180
+Cannibal Corpse ||| 124
+Korn ||| 116
+Nomadi ||| 105
+Boston ||| 100
+Aerosmith ||| 97
+Bullet for My Valentine ||| 94
+Airbourne ||| 92
+In Flames ||| 92
+Motörhead ||| 92
+Slipknot ||| 90
+Iron Maiden ||| 85
+The Killers ||| 83
+Coldplay ||| 78
+Rage Against the Machine ||| 77
+Cat Stevens ||| 72
+The Hives ||| 68
+The Doors ||| 66
+John Lennon ||| 62
+Avenged Sevenfold ||| 57
+Slayer ||| 57
+Korpiklaani ||| 56
+Incubus ||| 55
+Sonata Arctica ||| 53
+blink-182 ||| 49
+Sepultura ||| 49
+Disturbed ||| 48
+Lamb of God ||| 47
+Ozzy Osbourne ||| 47
+Nirvana ||| 46
+Bob Dylan ||| 44
+Ramones ||| 43
+Escape the Fate ||| 41
+Judas Priest ||| 40
+Alice Cooper ||| 38
+Linkin Park ||| 37
+Rise Against ||| 37
+Oasis ||| 33
+Alien Ant Farm ||| 31
+Black Tide ||| 30
+Dropkick Murphys ||| 30
+Bon Jovi ||| 29
+DevilDriver ||| 29
+Paramore ||| 29
+Wolfmother ||| 29
+The Smashing Pumpkins ||| 28
+Black Label Society ||| 26
+Bob Marley & The Wailers ||| 26
+## playcount: 3742

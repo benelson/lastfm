@@ -1,0 +1,51 @@
+Tool ||| 3165
+System of a Down ||| 1863
+Led Zeppelin ||| 1563
+Queens of the Stone Age ||| 1107
+King Crimson ||| 1051
+The Doors ||| 906
+Deftones ||| 879
+Cream ||| 841
+Mastodon ||| 626
+A Perfect Circle ||| 604
+Tristania ||| 497
+Gentle Giant ||| 482
+Iron Maiden ||| 464
+Radio Moscow ||| 462
+Chico Buarque ||| 452
+Pink Floyd ||| 433
+The Black Keys ||| 430
+The Jimi Hendrix Experience ||| 415
+Black Sabbath ||| 411
+UFO ||| 398
+Jethro Tull ||| 363
+Sirenia ||| 350
+Rush ||| 344
+Korn ||| 331
+AC/DC ||| 315
+Fire on Dawson ||| 271
+Red Hot Chili Peppers ||| 256
+Motörhead ||| 245
+Tame Impala ||| 230
+Genesis ||| 226
+Raul Seixas ||| 226
+Disturbed ||| 212
+Caravan ||| 202
+Gigi D'Agostino ||| 193
+The Beatles ||| 175
+Nightwish ||| 162
+Them Crooked Vultures ||| 162
+Jefferson Airplane ||| 159
+Rage Against the Machine ||| 159
+Slipknot ||| 154
+Metallica ||| 140
+Baroness ||| 134
+Deep Purple ||| 132
+David Bowie ||| 127
+Yes ||| 118
+Judas Priest ||| 117
+The Raconteurs ||| 115
+Antonio Carlos Jobim & Elis Regina ||| 114
+Creedence Clearwater Revival ||| 110
+Daft Punk ||| 110
+## playcount: 23001

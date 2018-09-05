@@ -1,0 +1,51 @@
+Bob Dylan ||| 18916
+Iron Maiden ||| 16328
+In Flames ||| 11804
+Mogwai ||| 9295
+The Clash ||| 8654
+Metallica ||| 5469
+Arctic Monkeys ||| 4598
+Kings of Leon ||| 4288
+Moby ||| 4072
+Rammstein ||| 2795
+The Killers ||| 2532
+Bloc Party ||| 2207
+Green Day ||| 2191
+The Cure ||| 2119
+Johnny Cash ||| 2085
+Radiohead ||| 2034
+blink-182 ||| 1956
+Placebo ||| 1875
+U2 ||| 1788
+Muse ||| 1706
+The Prodigy ||| 1652
+Pendulum ||| 1522
+The Jezabels ||| 1512
+Linkin Park ||| 1455
+God Is An Astronaut ||| 1430
+Sum 41 ||| 1423
+Lao Che ||| 1392
+Skrillex ||| 1376
+The Lonely Island ||| 1267
+The Ting Tings ||| 1249
+Flight of the Conchords ||| 1246
+Paramore ||| 1216
+65daysofstatic ||| 1190
+CHVRCHES ||| 1190
+Manowar ||| 1183
+Lana Del Rey ||| 1176
+Editors ||| 1128
+Warsaw Village Band ||| 1114
+Porcupine Tree ||| 1108
+Richard Cheese ||| 1102
+Papa Roach ||| 1098
+Beastie Boys ||| 1030
+Rage Against the Machine ||| 1027
+David Bowie ||| 1006
+Joy Division ||| 990
+Daft Punk ||| 978
+30 Seconds to Mars ||| 951
+Franz Ferdinand ||| 935
+Kasabian ||| 921
+Blind Guardian ||| 915
+## playcount: 142494

@@ -1,0 +1,51 @@
+Lana Del Rey ||| 2469
+Arctic Monkeys ||| 2198
+Nirvana ||| 2159
+Foo Fighters ||| 1339
+More Than a Thousand ||| 1228
+Mastodon ||| 1138
+Machine Head ||| 1125
+Anathema ||| 1022
+Janis Joplin ||| 1018
+Sia ||| 993
+Ramp ||| 950
+Moonspell ||| 897
+Alice in Chains ||| 845
+Black Sabbath ||| 775
+Katatonia ||| 768
+Radiohead ||| 724
+Florence + the Machine ||| 707
+Eyes Set to Kill ||| 684
+Black Label Society ||| 567
+Pink Floyd ||| 534
+Scars on Broadway ||| 504
+Hole ||| 483
+Lykke Li ||| 479
+System of a Down ||| 473
+Joy Division ||| 462
+Ornatos Violeta ||| 462
+Motörhead ||| 444
+Guns N' Roses ||| 422
+Avenged Sevenfold ||| 393
+Opeth ||| 376
+Incubus ||| 375
+Amy Winehouse ||| 367
+Queens of the Stone Age ||| 355
+The Last Shadow Puppets ||| 346
+Pearl Jam ||| 343
+Shining ||| 328
+The Velvet Underground ||| 326
+Peggy Lee ||| 319
+Tool ||| 317
+Chelsea Wolfe ||| 316
+As I Lay Dying ||| 310
+Agalloch ||| 307
+Burn Halo ||| 300
+The Hives ||| 291
+HAIM ||| 289
+Red Hot Chili Peppers ||| 287
+The Vaccines ||| 287
+Dire Straits ||| 274
+The Doors ||| 274
+Paramore ||| 253
+## playcount: 32902

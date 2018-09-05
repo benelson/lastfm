@@ -1,0 +1,51 @@
+Jack Johnson ||| 972
+The Beatles ||| 629
+James Taylor ||| 532
+Damien Rice ||| 441
+Ratatat ||| 425
+Radiohead ||| 400
+Coldplay ||| 393
+Girl Talk ||| 351
+Red Hot Chili Peppers ||| 344
+Ben Harper ||| 340
+Regina Spektor ||| 337
+Yann Tiersen ||| 336
+Corey Smith ||| 327
+Wilco ||| 300
+Jason Mraz ||| 285
+The Black Keys ||| 283
+Jump, Little Children ||| 268
+Gary Jules ||| 266
+The Fray ||| 261
+Cake ||| 259
+John Mayer ||| 250
+Guster ||| 241
+Norah Jones ||| 226
+M.I.A. ||| 218
+Dave Matthews Band ||| 211
+Ray LaMontagne ||| 209
+The Flaming Lips ||| 209
+John Legend ||| 207
+Jurassic 5 ||| 205
+Joshua Radin ||| 204
+Aesop Rock ||| 197
+Oasis ||| 193
+Jeff Buckley ||| 192
+Craig Armstrong ||| 188
+Slightly Stoopid ||| 188
+Snow Patrol ||| 186
+Jonathan Larson ||| 182
+Sondre Lerche ||| 182
+Levi Smith ||| 170
+Amy Winehouse ||| 167
+Dispatch ||| 164
+Donavon Frankenreiter ||| 162
+The Raconteurs ||| 159
+Matt Nathanson ||| 158
+Tool ||| 156
+Kanye West ||| 152
+Mat Kearney ||| 152
+of Montreal ||| 152
+Sufjan Stevens ||| 151
+O.A.R. ||| 146
+## playcount: 13326

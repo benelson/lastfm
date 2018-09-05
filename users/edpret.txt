@@ -1,0 +1,51 @@
+Nat King Cole ||| 98
+Sam Cooke ||| 71
+Dinah Washington ||| 60
+Patsy Cline ||| 54
+Kay Starr ||| 52
+Doris Day ||| 49
+Bobby Darin ||| 47
+Frank Sinatra ||| 47
+James Hunter ||| 47
+Aretha Franklin ||| 45
+Ella Fitzgerald ||| 44
+Jo Stafford ||| 42
+Elvis Presley ||| 37
+Otis Redding ||| 36
+Connie Francis ||| 35
+Patti Page ||| 34
+Pink Martini ||| 33
+Madeleine Peyroux ||| 32
+Vic Damone ||| 31
+Amy Winehouse ||| 30
+Joss Stone ||| 30
+Ray Charles ||| 30
+Johnny Tillotson ||| 28
+Simply Red ||| 28
+James Morrison ||| 27
+Miss Toni Fisher ||| 27
+The Platters ||| 27
+Etta James ||| 26
+Mary J. Blige ||| 26
+Paul Anka ||| 26
+Sammy Davis, Jr. ||| 26
+Stevie Wonder ||| 26
+Brenda Lee ||| 25
+The Supremes ||| 24
+Helen Shapiro ||| 23
+Solomon Burke ||| 23
+Perry Como ||| 22
+Marvin Gaye ||| 21
+Skeeter Davis ||| 21
+Marc Broussard ||| 20
+Robin Thicke ||| 20
+Ella Fitzgerald & Louis Armstrong ||| 19
+Frank Sinatra & Count Basie ||| 19
+Jerry Vale ||| 19
+Tommy Edwards ||| 19
+Eydie Gorme ||| 18
+Marvin Gaye & Tammi Terrell ||| 18
+Michael Bublé ||| 18
+Sarah Vaughan ||| 18
+The Browns ||| 18
+## playcount: 1616

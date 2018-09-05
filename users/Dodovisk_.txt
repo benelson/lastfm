@@ -1,0 +1,51 @@
+Katy Perry ||| 5225
+Lana Del Rey ||| 3076
+Rihanna ||| 2422
+Britney Spears ||| 2221
+Ariana Grande ||| 2105
+Taylor Swift ||| 1793
+Selena Gomez ||| 1596
+Dua Lipa ||| 1491
+Halsey ||| 1372
+Jennifer Lopez ||| 1369
+The Weeknd ||| 1367
+Christina Aguilera ||| 1304
+Fifth Harmony ||| 1288
+Tove Lo ||| 1259
+Kehlani ||| 1254
+Lady Gaga ||| 1234
+Mariah Carey ||| 1213
+Tinashe ||| 1010
+Imagine Dragons ||| 1005
+Shawn Mendes ||| 974
+Avril Lavigne ||| 933
+Madonna ||| 913
+P!nk ||| 913
+Kylie Minogue ||| 909
+Kanye West ||| 887
+Nicki Minaj ||| 849
+Beyoncé ||| 846
+Demi Lovato ||| 823
+Bebe Rexha ||| 794
+Paloma Faith ||| 767
+Ludmilla ||| 753
+Adele ||| 740
+Lorde ||| 723
+Iggy Azalea ||| 718
+Harry Styles ||| 711
+Melanie Martinez ||| 710
+Cardi B ||| 669
+Fergie ||| 669
+Sam Smith ||| 663
+Drake ||| 637
+Miley Cyrus ||| 632
+Aquilo ||| 576
+Charli XCX ||| 567
+Azealia Banks ||| 562
+Niall Horan ||| 547
+Florence + the Machine ||| 534
+Anitta ||| 494
+Ellie Goulding ||| 479
+Kelly Clarkson ||| 464
+Shakira ||| 432
+## playcount: 55492

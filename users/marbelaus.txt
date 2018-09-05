@@ -1,0 +1,10 @@
+Billy Joel ||| 89
+Eagles ||| 44
+James Taylor ||| 24
+Foreigner ||| 20
+Don Henley ||| 13
+Elton John ||| 13
+Phil Collins ||| 11
+Rod Stewart ||| 11
+John Mellencamp ||| 10
+## playcount: 235

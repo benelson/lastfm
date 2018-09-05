@@ -1,0 +1,51 @@
+The Byrds ||| 81
+The Beatles ||| 74
+Neil Young ||| 48
+Bob Dylan and The Band ||| 45
+Prince ||| 43
+Johnny Winter ||| 41
+Bob Marley & The Wailers ||| 39
+The International Submarine Band ||| 38
+Lightnin' Hopkins ||| 30
+The Strokes ||| 22
+Alice in Chains ||| 21
+Bob Dylan ||| 21
+Cream ||| 20
+David Bowie ||| 19
+Soundgarden ||| 19
+Johnny Cash ||| 17
+Stevie Wonder ||| 16
+The Luxury Liners ||| 16
+John Lennon ||| 15
+Van Halen ||| 15
+Buck Owens ||| 14
+Peter Tosh ||| 14
+Skip James ||| 13
+Tommy Johnson ||| 13
+Led Zeppelin ||| 12
+Pantera ||| 12
+Paul McCartney ||| 11
+The Jackson 5 ||| 11
+Jimi Hendrix ||| 10
+Prince and the New Power Generation ||| 10
+Sam Chatmon ||| 10
+Superjoint Ritual ||| 10
+Buffalo Springfield ||| 9
+The Flying Burrito Brothers ||| 9
+The Rolling Stones ||| 9
+Blind Blake ||| 8
+Stone Temple Pilots ||| 8
+The Kinks ||| 8
+Michael Jackson ||| 7
+Otis Redding ||| 7
+Screaming Trees ||| 7
+The Allman Brothers Band ||| 7
+The Jimi Hendrix Experience ||| 7
+The Velvet Underground ||| 7
+The Who ||| 7
+The Yardbirds ||| 7
+ZZ Top ||| 7
+Jerry Cantrell ||| 6
+Marvin Gaye ||| 6
+New Riders Of The Purple Sage ||| 6
+## playcount: 912

@@ -1,0 +1,51 @@
+System of a Down ||| 6270
+The Smashing Pumpkins ||| 6137
+Radiohead ||| 6004
+Pink Floyd ||| 5036
+Beastie Boys ||| 4979
+Nirvana ||| 4744
+Faith No More ||| 4586
+Deftones ||| 4532
+Queens of the Stone Age ||| 4519
+Nine Inch Nails ||| 4434
+Depeche Mode ||| 4237
+Los Tres ||| 4219
+The Cure ||| 4133
+Metallica ||| 3951
+Queen ||| 3942
+Soundgarden ||| 3936
+Stone Temple Pilots ||| 3730
+Alice in Chains ||| 3671
+The White Stripes ||| 3611
+Korn ||| 3527
+Lucybell ||| 3507
+Marilyn Manson ||| 3438
+The Clash ||| 3399
+R.E.M. ||| 3233
+Björk ||| 3188
+Foo Fighters ||| 3070
+Rage Against the Machine ||| 2990
+Beck ||| 2914
+Pearl Jam ||| 2773
+Weezer ||| 2739
+Pixies ||| 2694
+Interpol ||| 2655
+A Perfect Circle ||| 2467
+Fantômas ||| 2352
+Yeah Yeah Yeahs ||| 2320
+Jamiroquai ||| 2290
+Slipknot ||| 2244
+Oasis ||| 2233
+Tool ||| 2177
+Rammstein ||| 2108
+Led Zeppelin ||| 2037
+Pantera ||| 2004
+Chris Cornell ||| 1972
+Blind Melon ||| 1886
+Muse ||| 1886
+Aerosmith ||| 1795
+Tomahawk ||| 1775
+Mr. Bungle ||| 1708
+Lenny Kravitz ||| 1704
+Ramones ||| 1679
+## playcount: 163435

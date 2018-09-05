@@ -1,0 +1,51 @@
+The Smiths ||| 1756
+The Beatles ||| 1550
+The The ||| 1391
+Joy Division ||| 1291
+New Order ||| 1217
+Pixies ||| 1157
+Cocteau Twins ||| 1075
+Blur ||| 1009
+Steely Dan ||| 886
+The Smashing Pumpkins ||| 871
+Tangerine Dream ||| 836
+Sonic Youth ||| 833
+Mannheim Steamroller ||| 797
+The Kinks ||| 792
+The Flaming Lips ||| 773
+David Bowie ||| 738
+Yo La Tengo ||| 717
+Pink Floyd ||| 708
+Radiohead ||| 667
+The Stone Roses ||| 638
+Boards of Canada ||| 628
+The Beach Boys ||| 588
+Johann Sebastian Bach ||| 584
+Led Zeppelin ||| 570
+Stevie Wonder ||| 565
+Daft Punk ||| 552
+Massive Attack ||| 547
+The Cranberries ||| 529
+The Who ||| 491
+Sufjan Stevens ||| 465
+Soundgarden ||| 464
+XTC ||| 455
+Kraftwerk ||| 453
+Super Furry Animals ||| 451
+The Ventures ||| 450
+The Rolling Stones ||| 448
+The Clash ||| 445
+Stereolab ||| 439
+Yes ||| 437
+Public Enemy ||| 435
+Brian Wilson ||| 433
+Talking Heads ||| 432
+Brian Eno ||| 429
+Jean Michel Jarre ||| 424
+The Strokes ||| 421
+R.E.M. ||| 397
+Jane's Addiction ||| 396
+Metallica ||| 396
+The Shins ||| 395
+Blondie ||| 394
+## playcount: 33815

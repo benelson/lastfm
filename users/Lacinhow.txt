@@ -1,0 +1,51 @@
+The Killers ||| 12734
+Muse ||| 10546
+Arctic Monkeys ||| 8861
+Oasis ||| 4565
+Linkin Park ||| 4176
+Green Day ||| 3805
+Radiohead ||| 3061
+Avenged Sevenfold ||| 2978
+30 Seconds to Mars ||| 2966
+Gorillaz ||| 2643
+Paramore ||| 2235
+The xx ||| 1994
+Foster the People ||| 1945
+The Strokes ||| 1833
+Fresno ||| 1779
+Foo Fighters ||| 1766
+Pink Floyd ||| 1758
+Fall Out Boy ||| 1714
+Bring Me the Horizon ||| 1496
+Daft Punk ||| 1477
+Coldplay ||| 1384
+Franz Ferdinand ||| 1330
+Kasabian ||| 1285
+deadmau5 ||| 1245
+Cut Copy ||| 1240
+Rise Against ||| 1227
+blink-182 ||| 1173
+Metallica ||| 1169
+Panic! at the Disco ||| 1162
+God Is An Astronaut ||| 1117
+Red Hot Chili Peppers ||| 1064
+Noel Gallagher's High Flying Birds ||| 1005
+Minus the Bear ||| 956
+The Fray ||| 954
+NX Zero ||| 935
+The Subways ||| 862
+Two Door Cinema Club ||| 860
+Queens of the Stone Age ||| 832
+My Chemical Romance ||| 781
+Tiësto ||| 764
+Snow Patrol ||| 754
+Oh Wonder ||| 689
+Yellowcard ||| 675
+Kaiser Chiefs ||| 666
+Boys Noize ||| 613
+Twenty One Pilots ||| 593
+Crystal Castles ||| 538
+Disturbed ||| 517
+System of a Down ||| 478
+The Beatles ||| 469
+## playcount: 101669

@@ -1,0 +1,51 @@
+Interpol ||| 6512
+Pixies ||| 2276
+Kings of Leon ||| 1573
+Beach House ||| 1081
+Julian Plenti ||| 963
+Foals ||| 937
+The Strokes ||| 870
+Nirvana ||| 817
+Splashh ||| 696
+Queens of the Stone Age ||| 662
+The Smashing Pumpkins ||| 661
+Bombay Bicycle Club ||| 625
+Bloc Party ||| 606
+Tame Impala ||| 587
+Crystal Castles ||| 545
+Grizzly Bear ||| 511
+Future Islands ||| 500
+The Horrors ||| 498
+The Cribs ||| 493
+RÜFÜS ||| 485
+Mac DeMarco ||| 459
+Jeff Buckley ||| 453
+Foo Fighters ||| 422
+Pearl Jam ||| 416
+Paul Banks ||| 399
+The Presets ||| 376
+Unknown Mortal Orchestra ||| 353
+Alice in Chains ||| 351
+Muse ||| 338
+Placebo ||| 335
+Twin Shadow ||| 333
+Arctic Monkeys ||| 319
+Toy ||| 314
+The Black Keys ||| 301
+John Maus ||| 300
+Kurt Vile ||| 274
+Bush ||| 272
+God Is An Astronaut ||| 272
+Radiohead ||| 271
+Silversun Pickups ||| 263
+Temples ||| 258
+Tom Vek ||| 256
+Arcade Fire ||| 248
+Metronomy ||| 244
+James Blake ||| 241
+The Drums ||| 220
+MGMT ||| 213
+White Lies ||| 211
+Tycho ||| 210
+Phoenix ||| 209
+## playcount: 31029

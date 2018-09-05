@@ -1,0 +1,51 @@
+Red Hot Chili Peppers ||| 10743
+Arctic Monkeys ||| 4912
+Pearl Jam ||| 4242
+John Frusciante ||| 3254
+Linkin Park ||| 3071
+Jamiroquai ||| 2974
+Alice in Chains ||| 2276
+[unknown] ||| 1771
+Tool ||| 1549
+Ed Sheeran ||| 1431
+Foo Fighters ||| 1271
+Maroon 5 ||| 1130
+The Jimi Hendrix Experience ||| 1042
+Korn ||| 948
+Brkovi ||| 944
+Stone Temple Pilots ||| 899
+Gorillaz ||| 898
+Majke ||| 735
+Porcupine Tree ||| 698
+Bob Dylan ||| 680
+Jimi Hendrix ||| 582
+Mad Season ||| 578
+Rage Against the Machine ||| 549
+Incubus ||| 534
+Ekatarina Velika ||| 510
+The Smiths ||| 494
+Bloc Party ||| 493
+Nirvana ||| 467
+Deftones ||| 459
+Creedence Clearwater Revival ||| 436
+Rudimental ||| 375
+S.A.R.S. ||| 363
+Pantera ||| 361
+Led Zeppelin ||| 360
+Kawasaki 3p ||| 344
+Dog Is Dead ||| 327
+Soundgarden ||| 301
+De La Soul ||| 300
+The Mars Volta ||| 272
+Daft Punk ||| 259
+Bob Marley ||| 251
+Pendulum ||| 241
+System of a Down ||| 241
+SOJA ||| 236
+The Offspring ||| 211
+Dubioza Kolektiv ||| 206
+Pink Floyd ||| 204
+Alanis Morissette ||| 187
+Beastie Boys ||| 184
+Oasis ||| 177
+## playcount: 55970

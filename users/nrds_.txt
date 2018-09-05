@@ -1,0 +1,51 @@
+Red Hot Chili Peppers ||| 1024
+Oasis ||| 623
+The Beatles ||| 579
+Tiê ||| 358
+Chico Buarque ||| 345
+Beirut ||| 256
+Paul McCartney ||| 244
+Pink Floyd ||| 218
+Coldplay ||| 217
+Ed Sheeran ||| 179
+Lana Del Rey ||| 160
+Arctic Monkeys ||| 156
+Foo Fighters ||| 156
+Cássia Eller ||| 155
+Taylor Swift ||| 146
+Ringo Starr ||| 139
+John Lennon ||| 127
+Los Hermanos ||| 107
+Florence + the Machine ||| 99
+Mallu Magalhães ||| 96
+Birdy ||| 90
+Rihanna ||| 82
+The Strokes ||| 81
+Bob Dylan ||| 78
+Johnny Cash ||| 78
+The Pretty Reckless ||| 73
+João Gilberto ||| 72
+George Harrison ||| 66
+The Doors ||| 66
+Etta James ||| 63
+Katy Perry ||| 63
+Imagine Dragons ||| 59
+Muse ||| 59
+Michael Bublé ||| 57
+Beyoncé ||| 56
+Marisa Monte ||| 56
+Ramones ||| 56
+Britney Spears ||| 55
+Maroon 5 ||| 52
+Metallica ||| 52
+Snow Patrol ||| 52
+Rita Lee ||| 51
+Colbie Caillat ||| 50
+Ludwig van Beethoven ||| 50
+Incubus ||| 48
+The Black Keys ||| 47
+Caetano Veloso ||| 46
+Led Zeppelin ||| 46
+Miley Cyrus ||| 46
+30 Seconds to Mars ||| 45
+## playcount: 7179

@@ -1,0 +1,51 @@
+Gregorian ||| 8022
+Johnny Cash ||| 7216
+Pink Floyd ||| 6986
+Loreena McKennitt ||| 5627
+Tarja ||| 5411
+Regina Spektor ||| 5285
+The Verve ||| 5228
+Era ||| 4926
+Secret Garden ||| 4618
+Lúnasa ||| 4516
+ABBA ||| 4421
+Christy Moore ||| 4400
+New Order ||| 4206
+Lana Del Rey ||| 3864
+Mika ||| 3684
+Dixie Chicks ||| 3506
+Adele ||| 3318
+Sigur Rós ||| 3028
+Jeremy Soule ||| 2961
+Celtic Woman ||| 2876
+Simon & Garfunkel ||| 2794
+The Mamas & the Papas ||| 2771
+Travis ||| 2370
+M83 ||| 2323
+Depeche Mode ||| 2281
+Sia ||| 1881
+Enya ||| 1842
+KT Tunstall ||| 1839
+Taylor Swift ||| 1804
+Florence + the Machine ||| 1800
+The Jezabels ||| 1635
+Bastille ||| 1457
+Paramore ||| 1315
+Clarice Falcão ||| 1263
+Theophany ||| 1199
+Wye Oak ||| 1111
+Edward Sharpe & The Magnetic Zeros ||| 987
+Gotye ||| 975
+t.A.T.u. ||| 948
+The Doors ||| 935
+fun. ||| 921
+Björk ||| 897
+London Grammar ||| 825
+Demi Lovato ||| 803
+Good Charlotte ||| 803
+Annie Lennox ||| 801
+City and Colour ||| 776
+The Hobbit ||| 744
+Carrie Tree ||| 723
+Shania Twain ||| 685
+## playcount: 135607

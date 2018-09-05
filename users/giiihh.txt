@@ -1,0 +1,51 @@
+Ramones ||| 882
+The Smiths ||| 243
+Legião Urbana ||| 215
+Queen ||| 154
+The Beatles ||| 108
+DragonForce ||| 88
+Angra ||| 84
+Goo Goo Dolls ||| 81
+Bon Jovi ||| 77
+Mamonas Assassinas ||| 67
+Titãs ||| 65
+Edguy ||| 60
+Velhas Virgens ||| 56
+Evanescence ||| 51
+Def Leppard ||| 49
+Raul Seixas ||| 49
+Creed ||| 45
+Roupa Nova ||| 45
+Aerosmith ||| 44
+Capital Inicial ||| 43
+Jota Quest ||| 41
+The Cure ||| 40
+Yeah Yeah Yeahs ||| 40
+Tommy Tutone ||| 39
+Stereophonics ||| 36
+ABBA ||| 35
+Scorpions ||| 35
+Narnia ||| 34
+U2 ||| 34
+Nightwish ||| 33
+AC/DC ||| 32
+Morcheeba ||| 32
+[unknown] ||| 32
+Lynyrd Skynyrd ||| 31
+Puddle of Mudd ||| 31
+Twisted Sister ||| 31
+Cazuza ||| 29
+Snow Patrol ||| 29
+Black Sabbath ||| 28
+Cyndi Lauper ||| 28
+Death Cab for Cutie ||| 28
+Pantera ||| 28
+Papa Roach ||| 28
+Pedra Letícia ||| 28
+Thin Lizzy ||| 27
+Eric Clapton ||| 26
+Oasis ||| 26
+Red Hot Chili Peppers ||| 25
+The Cardigans ||| 25
+The Rolling Stones ||| 25
+## playcount: 3442

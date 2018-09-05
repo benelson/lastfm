@@ -1,0 +1,51 @@
+t.A.T.u. ||| 3621
+Rihanna ||| 3394
+Adele ||| 2465
+Lady Gaga ||| 2067
+Shakira ||| 1244
+Britney Spears ||| 1130
+Katy Perry ||| 1116
+Ke$ha ||| 928
+Black Eyed Peas ||| 775
+Tatu ||| 754
+P!nk ||| 658
+Florence + the Machine ||| 630
+Christina Aguilera ||| 590
+Madonna ||| 577
+Beyoncé ||| 562
+Jennifer Lopez ||| 550
+Lana Del Rey ||| 521
+Timbaland ||| 516
+Marina & the Diamonds ||| 496
+David Guetta ||| 492
+Eminem ||| 398
+Adam Lambert ||| 361
+Cheryl Cole ||| 329
+Maroon 5 ||| 308
+Kerli ||| 305
+Paramore ||| 294
+The Pussycat Dolls ||| 293
+Leona Lewis ||| 278
+Bruno Mars ||| 271
+Evanescence ||| 251
+Nicole Scherzinger ||| 249
+Lena Katina ||| 245
+Avril Lavigne ||| 244
+Julia Volkova ||| 243
+Michael Jackson ||| 241
+Alicia Keys ||| 238
+Flo Rida ||| 235
+Fergie ||| 232
+Nelly Furtado ||| 226
+Nicki Minaj ||| 226
+The Cranberries ||| 225
+Taio Cruz ||| 221
+Jessie J ||| 215
+Sophie Ellis-Bextor ||| 214
+B.o.B ||| 203
+Miley Cyrus ||| 194
+Natasha Bedingfield ||| 190
+Kelly Clarkson ||| 183
+Taylor Swift ||| 171
+Anahí ||| 169
+## playcount: 30538

@@ -1,0 +1,51 @@
+Oasis ||| 8640
+The Beatles ||| 5811
+Radiohead ||| 3968
+Michael Jackson ||| 3388
+Noel Gallagher's High Flying Birds ||| 3022
+The Rolling Stones ||| 2620
+Talking Heads ||| 2340
+Regina Spektor ||| 2109
+Kanye West ||| 2090
+The Smiths ||| 1871
+Aerosmith ||| 1621
+Pink Floyd ||| 1603
+David Bowie ||| 1462
+Bob Dylan ||| 1422
+The Strokes ||| 1409
+Atmosphere ||| 1210
+U2 ||| 1201
+Prince ||| 1189
+The Stone Roses ||| 1131
+Arctic Monkeys ||| 1119
+Beady Eye ||| 1096
+The Smashing Pumpkins ||| 1059
+The Cure ||| 1050
+Elvis Presley ||| 991
+Spoon ||| 986
+LCD Soundsystem ||| 982
+Pixies ||| 935
+Andrew Bird ||| 932
+M.I.A. ||| 918
+Gorillaz ||| 917
+The Stills ||| 899
+Neil Young ||| 893
+Sam Cooke ||| 890
+Interpol ||| 862
+The Clash ||| 833
+The Cranberries ||| 832
+Morrissey ||| 831
+New Order ||| 828
+Arcade Fire ||| 823
+The White Stripes ||| 780
+Pet Shop Boys ||| 772
+Cat Power ||| 769
+R.E.M. ||| 761
+T. Rex ||| 759
+Travis ||| 755
+Nick Drake ||| 735
+Beck ||| 722
+Led Zeppelin ||| 720
+Fleetwood Mac ||| 698
+Amadou & Mariam ||| 695
+## playcount: 74949

@@ -1,0 +1,51 @@
+Tool ||| 214
+Opeth ||| 128
+Ulver ||| 120
+Negură Bunget ||| 84
+Unanimated ||| 78
+Edge of Sanity ||| 76
+Dark Tranquillity ||| 74
+Esoteric ||| 74
+Enslaved ||| 67
+Iron Maiden ||| 63
+Orphaned Land ||| 56
+In Flames ||| 52
+Summoning ||| 50
+Immortal ||| 48
+Dark Age ||| 43
+Akercocke ||| 42
+Immortal Souls ||| 41
+Amon Amarth ||| 40
+Be'lakor ||| 39
+Eluveitie ||| 37
+Insomnium ||| 36
+Led Zeppelin ||| 36
+Metallica ||| 34
+A Perfect Circle ||| 33
+Agalloch ||| 33
+Burzum ||| 33
+Amorphis ||| 32
+Darkthrone ||| 31
+Bathory ||| 30
+Godgory ||| 30
+Dissection ||| 29
+Amaseffer ||| 28
+Dream Theater ||| 28
+Kalmah ||| 28
+Black Sabbath ||| 27
+Slayer ||| 27
+Children of Bodom ||| 25
+Death ||| 25
+Ensiferum ||| 24
+Gates of Ishtar ||| 23
+Ne Obliviscaris ||| 23
+Red Hot Chili Peppers ||| 23
+Hollenthon ||| 22
+Emperor ||| 21
+Falkenbach ||| 21
+Gojira ||| 20
+Rapture ||| 20
+Satyricon ||| 20
+Windir ||| 20
+Yes ||| 20
+## playcount: 2228

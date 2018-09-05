@@ -1,0 +1,51 @@
+Metallica ||| 5347
+Black Sabbath ||| 4527
+Red Hot Chili Peppers ||| 4069
+Iron Maiden ||| 4044
+The Offspring ||| 3350
+Kiss ||| 3118
+Slayer ||| 2975
+Megadeth ||| 2927
+Judas Priest ||| 2667
+The Rolling Stones ||| 2318
+Ozzy Osbourne ||| 2297
+Van Halen ||| 2125
+In Flames ||| 2065
+Nirvana ||| 1853
+The Beatles ||| 1789
+Guns N' Roses ||| 1786
+Sum 41 ||| 1628
+Anthrax ||| 1622
+AC/DC ||| 1549
+Trivium ||| 1484
+Pantera ||| 1357
+Down ||| 1300
+Led Zeppelin ||| 1258
+Pink Floyd ||| 1232
+Marilyn Manson ||| 1214
+The Clash ||| 1166
+Alice in Chains ||| 1076
+Sepultura ||| 1033
+Baroness ||| 1010
+Poison ||| 1009
+The Who ||| 1004
+Acid Drinkers ||| 1002
+Children of Bodom ||| 1001
+Mötley Crüe ||| 968
+Queen ||| 933
+Rise Against ||| 889
+The Doors ||| 877
+Jimi Hendrix ||| 866
+Bon Jovi ||| 856
+Danzig ||| 808
+Eric Clapton ||| 795
+Alice Cooper ||| 774
+The Dreadnoughts ||| 762
+Scorpions ||| 756
+Dire Straits ||| 752
+Aerosmith ||| 747
+Deep Purple ||| 693
+Blind Guardian ||| 662
+Kabanos ||| 650
+Motörhead ||| 638
+## playcount: 81628

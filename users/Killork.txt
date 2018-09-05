@@ -1,0 +1,51 @@
+Madonna ||| 16606
+Lady Gaga ||| 13428
+Britney Spears ||| 9137
+P!nk ||| 5783
+Mariah Carey ||| 5271
+Michael Jackson ||| 3974
+Beyoncé ||| 3691
+Christina Aguilera ||| 3291
+Kanye West ||| 3197
+Miley Cyrus ||| 2718
+Rihanna ||| 2598
+Adele ||| 2547
+Ke$ha ||| 2435
+Lana Del Rey ||| 2194
+Avril Lavigne ||| 2180
+Demi Lovato ||| 2035
+Taylor Swift ||| 2016
+Katy Perry ||| 2000
+Justin Bieber ||| 1807
+Selena Gomez & the Scene ||| 1748
+Glee Cast ||| 1714
+Natalia Kills ||| 1714
+Eminem ||| 1617
+Paramore ||| 1455
+Greyson Chance ||| 1271
+Drake ||| 1110
+Nicki Minaj ||| 1075
+Kylie Minogue ||| 1056
+Coldplay ||| 1007
+Backstreet Boys ||| 832
+Ariana Grande ||| 798
+Florence + the Machine ||| 770
+Cassadee Pope ||| 764
+Cascada ||| 754
+Lorde ||| 721
+Whitney Houston ||| 715
+Shania Twain ||| 701
+Jay-Z & Kanye West ||| 695
+Frank Ocean ||| 670
+Kendrick Lamar ||| 651
+Justin Timberlake ||| 623
+Ed Sheeran ||| 603
+Carrie Underwood ||| 602
+Ellie Goulding ||| 598
+Jesse McCartney ||| 556
+Maroon 5 ||| 525
+Nicola Roberts ||| 515
+Marilyn Monroe ||| 504
+Childish Gambino ||| 488
+Radiohead ||| 480
+## playcount: 114240

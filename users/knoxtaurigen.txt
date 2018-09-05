@@ -1,0 +1,51 @@
+Pink Floyd ||| 4960
+Eric Clapton ||| 3139
+Roxette ||| 2387
+Motörhead ||| 1950
+Loreena McKennitt ||| 1670
+Led Zeppelin ||| 1535
+Deep Purple ||| 1472
+Survivor ||| 1393
+Mr. Big ||| 1388
+Alice Cooper ||| 1156
+Mötley Crüe ||| 1130
+Duran Duran ||| 1123
+Genesis ||| 1062
+Rainbow ||| 1029
+Whitesnake ||| 1026
+Saxon ||| 983
+Dio ||| 975
+Europe ||| 936
+Poets of the Fall ||| 927
+Van Halen ||| 918
+Marillion ||| 910
+Bryan Adams ||| 891
+Black Sabbath ||| 886
+Phil Collins ||| 861
+Foreigner ||| 845
+Bon Jovi ||| 839
+Type O Negative ||| 818
+Lynyrd Skynyrd ||| 788
+Queen ||| 786
+Engenheiros Do Hawaii ||| 782
+Porcupine Tree ||| 779
+Crash Test Dummies ||| 773
+Pearl Jam ||| 773
+Destruction ||| 741
+Guns N' Roses ||| 740
+Rush ||| 739
+Pantera ||| 729
+a-ha ||| 722
+Slayer ||| 720
+Jethro Tull ||| 705
+Joe Lynn Turner ||| 699
+Winger ||| 695
+Grave Digger ||| 661
+Iron Maiden ||| 623
+Journey ||| 617
+Megadeth ||| 602
+Faith No More ||| 598
+Frank Sinatra ||| 563
+Seal ||| 561
+Accept ||| 551
+## playcount: 53156

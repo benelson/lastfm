@@ -1,0 +1,51 @@
+Pink Floyd ||| 6025
+Dream Theater ||| 5690
+Porcupine Tree ||| 3437
+Metallica ||| 2134
+Dire Straits ||| 2117
+Roger Waters ||| 2040
+Gazpacho ||| 2028
+Muse ||| 1874
+Haken ||| 1843
+Phideaux ||| 1819
+In Flames ||| 1726
+Opeth ||| 1689
+Mike Oldfield ||| 1467
+Moon Safari ||| 1412
+The Who ||| 1392
+Coldplay ||| 1332
+The Beatles ||| 1283
+Led Zeppelin ||| 1192
+Queen ||| 1159
+Jethro Tull ||| 1133
+Genesis ||| 1131
+Andrew Bird ||| 1106
+The Killers ||| 1106
+Tool ||| 863
+Agalloch ||| 855
+Iamthemorning ||| 790
+Mark Knopfler ||| 743
+Steven Wilson ||| 742
+Major Parkinson ||| 712
+AC/DC ||| 543
+Supertramp ||| 533
+Oasis ||| 527
+Noel Gallagher's High Flying Birds ||| 501
+Riverside ||| 453
+King Crimson ||| 391
+The Kooks ||| 374
+The Alan Parsons Project ||| 368
+Tuomas Holopainen ||| 367
+Kevin Gilbert ||| 357
+Cat Stevens ||| 355
+Radiohead ||| 349
+Nirvana ||| 347
+Howard Shore ||| 329
+Svenska Akademien ||| 316
+Nemo ||| 312
+Harmonium ||| 302
+White Lies ||| 290
+John Mayer ||| 281
+Sean Filkins ||| 279
+Hjerteslag ||| 274
+## playcount: 58688

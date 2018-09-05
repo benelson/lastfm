@@ -1,0 +1,51 @@
+Katy Perry ||| 4364
+Ariana Grande ||| 3480
+Little Mix ||| 3024
+Madonna ||| 2019
+소녀시대 ||| 1651
+태연 ||| 1507
+Beyoncé ||| 1469
+Britney Spears ||| 1439
+Adele ||| 1083
+Justin Timberlake ||| 1056
+방탄소년단 ||| 988
+Rihanna ||| 798
+Christina Aguilera ||| 756
+Lorde ||| 683
+Red Velvet ||| 646
+Carly Rae Jepsen ||| 625
+Lana Del Rey ||| 623
+Troye Sivan ||| 616
+Coldplay ||| 615
+Kylie Minogue ||| 615
+Demi Lovato ||| 603
+The Weeknd ||| 570
+Anitta ||| 564
+GOT7 ||| 563
+Anahí ||| 507
+Shakira ||| 492
+Miley Cyrus ||| 487
+f(x) ||| 477
+JoJo ||| 446
+Mariah Carey ||| 434
+Girls Aloud ||| 431
+Banks ||| 429
+Dua Lipa ||| 429
+The Saturdays ||| 425
+SHINee ||| 396
+P!nk ||| 384
+Shania Twain ||| 383
+Zara Larsson ||| 374
+Lady Gaga ||| 369
+Selena Gomez ||| 364
+Taylor Swift ||| 352
+Michael Jackson ||| 337
+Avril Lavigne ||| 330
+Kendrick Lamar ||| 328
+MONSTA X ||| 313
+Foxes ||| 311
+The Neighbourhood ||| 306
+Nick Jonas ||| 298
+Sabrina Carpenter ||| 296
+The xx ||| 295
+## playcount: 40350

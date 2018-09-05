@@ -1,0 +1,51 @@
+Iron Maiden ||| 3120
+Soda Stereo ||| 2557
+Mastodon ||| 2387
+Opeth ||| 2307
+The Beatles ||| 2141
+Metallica ||| 1853
+Ghost ||| 1595
+Arcade Fire ||| 1504
+Nine Inch Nails ||| 1400
+Slayer ||| 1384
+LCD Soundsystem ||| 1280
+Daft Punk ||| 1245
+blink-182 ||| 1210
+Radiohead ||| 1116
+The Chemical Brothers ||| 1031
+R.E.M. ||| 1023
+Megadeth ||| 1011
+Dimmu Borgir ||| 968
+Muse ||| 968
+Enslaved ||| 941
+Black Sabbath ||| 916
+Limp Bizkit ||| 897
+Linkin Park ||| 893
+Slipknot ||| 876
+Run the Jewels ||| 873
+Sepultura ||| 855
+Queens of the Stone Age ||| 841
+System of a Down ||| 825
+Coldplay ||| 791
+Behemoth ||| 780
+King Diamond ||| 754
+Kanye West ||| 745
+Tool ||| 726
+Anthrax ||| 704
+Foo Fighters ||| 687
+Kasabian ||| 681
+The Cure ||| 677
+Rush ||| 671
+Six Feet Under ||| 671
+Pig Destroyer ||| 663
+David Bowie ||| 662
+Woods ||| 643
+U2 ||| 635
+Cynic ||| 629
+The Offspring ||| 629
+La Vida Bohème ||| 624
+Porcupine Tree ||| 610
+Zapato 3 ||| 609
+Kylesa ||| 608
+Brujeria ||| 600
+## playcount: 52816

@@ -1,0 +1,51 @@
+Madonna ||| 2461
+Glee Cast ||| 2269
+Britney Spears ||| 1638
+The Beatles ||| 1573
+Rihanna ||| 1192
+Foo Fighters ||| 781
+Nicki Minaj ||| 764
+Forfun ||| 726
+Jeffree Star ||| 702
+blink-182 ||| 666
+Cobra Starship ||| 630
+The Beach Boys ||| 494
+Katy Perry ||| 484
+Beyoncé ||| 482
+Scracho ||| 471
+A Day to Remember ||| 462
+Charlie Brown JR. ||| 456
+Red Hot Chili Peppers ||| 435
+Jeremy Soule ||| 425
+Michael Jackson ||| 421
+Backstreet Boys ||| 402
+Howard Shore ||| 386
+Flo Rida ||| 357
+Ke$ha ||| 347
+David Guetta ||| 333
+Linkin Park ||| 317
+Coldplay ||| 314
+Eminem ||| 311
+Fall Out Boy ||| 284
+Armandinho ||| 269
+3OH!3 ||| 259
+Evanescence ||| 240
+50 Cent ||| 239
+Paramore ||| 235
+T. Mills ||| 235
+Justin Bieber ||| 234
+Robert Johnson ||| 234
+Mariah Carey ||| 233
+Black Eyed Peas ||| 231
+Simple Plan ||| 230
+John Williams ||| 228
+Elvis Presley ||| 227
+Lady Gaga ||| 222
+Mad Staring Eyes ||| 221
+Good Charlotte ||| 213
+Muse ||| 207
+*NSYNC ||| 203
+Marilyn Manson ||| 189
+Westlife ||| 183
+Nickelback ||| 169
+## playcount: 25284

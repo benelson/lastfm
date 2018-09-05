@@ -1,0 +1,46 @@
+Cher ||| 2550
+Lady Gaga ||| 838
+Annie Lennox ||| 298
+ABBA ||| 286
+Elvis Presley ||| 229
+Sia ||| 183
+Maroon 5 ||| 176
+Katy Perry ||| 138
+The Beatles ||| 132
+Céline Dion ||| 125
+Carpenters ||| 117
+Barbra Streisand ||| 98
+Tony Bennett & Lady Gaga ||| 90
+Jennifer Lopez ||| 80
+David Bowie ||| 77
+Taylor Swift ||| 56
+Kylie Minogue ||| 52
+Rod Stewart ||| 52
+Sting ||| 40
+Sonny & Cher ||| 38
+Ingrid Michaelson ||| 28
+Amy Winehouse ||| 26
+Lana Del Rey ||| 25
+Blondie ||| 23
+Dean Martin ||| 18
+Christina Aguilera ||| 16
+Oh Wonder ||| 10
+Fleetwood Mac ||| 9
+Michael Jackson ||| 9
+Édith Piaf ||| 9
+Cyndi Lauper ||| 8
+Eric Clapton ||| 7
+Nina Simone ||| 6
+Tim McGraw ||| 6
+Carole King ||| 4
+Madonna ||| 3
+Poets of the Fall ||| 3
+Cat Power ||| 1
+Cody Simpson ||| 1
+Colbie Caillat ||| 1
+Ed Sheeran ||| 1
+Eurythmics ||| 1
+George Michael ||| 1
+Mika ||| 1
+Wham! ||| 1
+## playcount: 5873

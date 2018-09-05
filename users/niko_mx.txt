@@ -1,0 +1,51 @@
+Perfume ||| 3644
+Jeans ||| 2205
+Lana Del Rey ||| 1281
+Avril Lavigne ||| 1195
+2NE1 ||| 1026
+The Sounds ||| 928
+Motel ||| 815
+Ellie Goulding ||| 777
+Bright Light Bright Light ||| 765
+Shakira ||| 718
+Belanova ||| 685
+Girls Aloud ||| 683
+Crystal Fighters ||| 631
+Chromeo ||| 616
+Franz Ferdinand ||| 550
+Natalia Lafourcade ||| 508
+Frankmusik ||| 492
+The Saturdays ||| 482
+Belle and Sebastian ||| 476
+Sophie Ellis-Bextor ||| 436
+Capital Cities ||| 412
+Two Door Cinema Club ||| 402
+The Young Professionals ||| 373
+Carla Morrison ||| 349
+Annie ||| 343
+Lady Gaga ||| 336
+Darwin Deez ||| 321
+Example ||| 321
+Julieta Venegas ||| 314
+Robyn ||| 314
+The Strokes ||| 297
+Olly Murs ||| 279
+Phoenix ||| 277
+Jack Peñate ||| 276
+Reik ||| 276
+A*Teens ||| 258
+The Magic Numbers ||| 254
+Empire of the Sun ||| 250
+Tahiti 80 ||| 245
+Gloria Trevi ||| 244
+Noah and the Whale ||| 237
+Pogo ||| 237
+Those Dancing Days ||| 232
+Vampire Weekend ||| 220
+Belinda ||| 218
+Maroon 5 ||| 218
+Jesse & Joy ||| 215
+Paulina Rubio ||| 205
+Camila ||| 200
+Passion Pit ||| 200
+## playcount: 27236

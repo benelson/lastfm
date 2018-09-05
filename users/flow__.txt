@@ -1,0 +1,51 @@
+Madonna ||| 17429
+Muse ||| 15088
+Christina Aguilera ||| 10972
+The Killers ||| 7846
+David Bowie ||| 7329
+Arctic Monkeys ||| 3194
+Brandon Flowers ||| 3162
+Rihanna ||| 2420
+Nirvana ||| 2376
+Beyoncé ||| 2212
+Queens of the Stone Age ||| 2210
+Kings of Leon ||| 1987
+Kendrick Lamar ||| 1689
+Pink Floyd ||| 1655
+System of a Down ||| 1516
+Kasabian ||| 1439
+The Vaccines ||| 1435
+Kylie Minogue ||| 1280
+Arcade Fire ||| 1251
+Bombay Bicycle Club ||| 1205
+Tame Impala ||| 1200
+Amy Winehouse ||| 1106
+Janet Jackson ||| 1041
+Green Day ||| 926
+Kanye West ||| 879
+No Doubt ||| 863
+Travis ||| 846
+White Lies ||| 831
+Friendly Fires ||| 827
+The Last Shadow Puppets ||| 818
+Hot Chip ||| 740
+Two Door Cinema Club ||| 729
+Of Monsters and Men ||| 688
+Tyler, the Creator ||| 655
+Kraftwerk ||| 642
+Young the Giant ||| 615
+Metallica ||| 612
+Alanis Morissette ||| 597
+Yeah Yeah Yeahs ||| 591
+Aerosmith ||| 583
+Radiohead ||| 569
+Beck ||| 564
+Criolo ||| 550
+Queen ||| 545
+HAIM ||| 535
+Led Zeppelin ||| 516
+Depeche Mode ||| 503
+Anderson .Paak ||| 472
+New Order ||| 462
+Phoenix ||| 460
+## playcount: 108660

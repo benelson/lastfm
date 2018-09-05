@@ -1,0 +1,51 @@
+Pink Floyd ||| 5644
+Rush ||| 4904
+Uriah Heep ||| 4791
+Led Zeppelin ||| 4789
+Journey ||| 4661
+Yes ||| 4646
+Deep Purple ||| 4640
+Queen ||| 4614
+AC/DC ||| 4578
+Foreigner ||| 4570
+Gary Moore ||| 4526
+Def Leppard ||| 4525
+Whitesnake ||| 4372
+The Alan Parsons Project ||| 4348
+Judas Priest ||| 4344
+The Who ||| 4297
+Black Sabbath ||| 4282
+Dio ||| 4257
+David Bowie ||| 4196
+Helloween ||| 4115
+Scorpions ||| 4092
+Toto ||| 4090
+Rainbow ||| 4066
+The Doors ||| 4053
+Tom Petty and The Heartbreakers ||| 4012
+Thin Lizzy ||| 3984
+Kiss ||| 3963
+Bon Jovi ||| 3928
+Van Halen ||| 3903
+Dire Straits ||| 3902
+Barón Rojo ||| 3849
+Mötley Crüe ||| 3833
+Europe ||| 3819
+Styx ||| 3819
+Megadeth ||| 3787
+Aerosmith ||| 3746
+Accept ||| 3738
+Blue Öyster Cult ||| 3712
+Queensrÿche ||| 3680
+Ozzy Osbourne ||| 3679
+Alice Cooper ||| 3638
+Grand Funk Railroad ||| 3588
+Dokken ||| 3585
+The Police ||| 3541
+Iron Maiden ||| 3520
+Guns N' Roses ||| 3513
+Triumph ||| 3496
+Sting ||| 3492
+The Beatles ||| 3489
+Nazareth ||| 3432
+## playcount: 204048

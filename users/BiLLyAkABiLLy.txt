@@ -1,0 +1,51 @@
+Broilers ||| 2208
+Johnny Cash ||| 1009
+Dropkick Murphys ||| 957
+Rammstein ||| 918
+Mad Sin ||| 913
+Misfits ||| 702
+The Bones ||| 587
+Perkele ||| 553
+Creedence Clearwater Revival ||| 525
+Thee Flanders ||| 468
+Social Distortion ||| 415
+Volbeat ||| 392
+The Generators ||| 387
+AC/DC ||| 380
+Motörhead ||| 332
+Guns N' Roses ||| 312
+Steppenwolf ||| 286
+Ramones ||| 284
+Demented Are Go! ||| 249
+Balzac ||| 238
+Tom Petty ||| 237
+Cock Sparrer ||| 214
+Led Zeppelin ||| 204
+Tiger Army ||| 196
+Blitzkid ||| 188
+The Spookshow ||| 177
+4 Promille ||| 173
+Rose Tattoo ||| 169
+Alice Cooper ||| 154
+Deadline ||| 146
+Deep Purple ||| 114
+Born To Lose ||| 110
+Bettie Ford ||| 109
+Metallica ||| 109
+Kärbholz ||| 106
+Jefferson Airplane ||| 105
+The Meteors ||| 94
+Airbourne ||| 92
+HorrorPops ||| 88
+T. Rex ||| 86
+Jimmy Cliff ||| 82
+Thin Lizzy ||| 82
+Mike Ness ||| 80
+Mr. Review ||| 77
+Oxo 86 ||| 77
+Black Label Society ||| 76
+Danko Jones ||| 69
+Eric Clapton ||| 67
+Black Sabbath ||| 65
+The Clash ||| 63
+## playcount: 15724

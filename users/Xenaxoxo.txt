@@ -1,0 +1,51 @@
+Rihanna ||| 5432
+The Script ||| 4184
+The Fray ||| 3809
+Jason Derülo ||| 2958
+Justin Bieber ||| 1658
+Beyoncé ||| 1403
+Ed Sheeran ||| 1173
+Demi Lovato ||| 1115
+Enrique Iglesias ||| 1027
+Kollegah ||| 1021
+Elif ||| 957
+Medina ||| 939
+Chris Brown ||| 931
+OneRepublic ||| 927
+Lorde ||| 857
+Lady Gaga ||| 854
+Linkin Park ||| 801
+30 Seconds to Mars ||| 774
+Bushido ||| 726
+Joe Jonas ||| 711
+Livingston ||| 706
+Eminem ||| 676
+Emeli Sandé ||| 624
+Taio Cruz ||| 610
+Josef Salvat ||| 565
+James Morrison ||| 563
+Metrickz ||| 545
+Natalia Kills ||| 545
+Loreen ||| 537
+Daughtry ||| 535
+Avril Lavigne ||| 534
+Selena Gomez ||| 527
+Shawn Mendes ||| 520
+Sia ||| 501
+Hurts ||| 487
+Mandy Capristo ||| 469
+Fall Out Boy ||| 462
+Kendrick Lamar ||| 461
+Calvin Harris ||| 446
+Papa Roach ||| 444
+Bastille ||| 442
+Drake ||| 441
+Glee Cast ||| 439
+Taylor Swift ||| 432
+Kris Allen ||| 418
+Snow Patrol ||| 405
+Usher ||| 392
+Alex Clare ||| 388
+A Day to Remember ||| 384
+Lawson ||| 367
+## playcount: 47122

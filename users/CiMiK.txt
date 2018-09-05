@@ -1,0 +1,51 @@
+Bob Dylan ||| 84
+The Smashing Pumpkins ||| 77
+The Animals ||| 42
+Coldplay ||| 39
+The Beatles ||| 30
+Sage Francis ||| 24
+David Bowie ||| 20
+The Flaming Lips ||| 18
+Masters of Reality ||| 15
+Massive Attack ||| 13
+Amon Tobin ||| 12
+Bob Dylan and The Band ||| 9
+Korn ||| 9
+Prince ||| 9
+Queens of the Stone Age ||| 9
+UNKLE ||| 8
+Herbie Hancock ||| 6
+Nine Inch Nails ||| 6
+Scissor Sisters ||| 6
+Screaming Trees ||| 6
+Devo ||| 5
+John Frusciante ||| 5
+Jonathan Coulton ||| 5
+Mai Yamane ||| 5
+Tom Petty ||| 5
+Air ||| 4
+Eels ||| 4
+Led Zeppelin ||| 4
+Motörhead ||| 4
+Radiohead ||| 4
+The Crystal Method ||| 4
+Woody Guthrie ||| 4
+Andrew W.K. ||| 3
+Arcade Fire & David Bowie ||| 3
+Bo Diddley ||| 3
+Fatboy Slim ||| 3
+Florence + the Machine ||| 3
+George Gershwin ||| 3
+Gnarls Barkley ||| 3
+Groove Armada ||| 3
+Johann Sebastian Bach ||| 3
+Ladytron ||| 3
+Lemon Jelly ||| 3
+Louis Armstrong ||| 3
+Muddy Waters ||| 3
+Pyotr Ilyich Tchaikovsky ||| 3
+Roy Orbison ||| 3
+Temple of the Dog ||| 3
+The Chemical Brothers ||| 3
+The Doors ||| 3
+## playcount: 549

@@ -1,0 +1,51 @@
+Rihanna ||| 4022
+Taylor Swift ||| 3732
+Ariana Grande ||| 1983
+Justin Timberlake ||| 1968
+Beyoncé ||| 1839
+Selena Gomez ||| 1617
+Katy Perry ||| 1524
+Marília Mendonça ||| 1440
+Zayn ||| 1209
+The Weeknd ||| 1194
+Kendrick Lamar ||| 1074
+Britney Spears ||| 1023
+Jorge & Mateus ||| 1022
+Anitta ||| 1006
+Maiara & Maraisa ||| 885
+Matheus & Kauan ||| 863
+Cardi B ||| 774
+Lana Del Rey ||| 766
+Mariah Carey ||| 733
+Simone & Simaria ||| 683
+Camila Cabello ||| 678
+Henrique & Juliano ||| 670
+Lady Gaga ||| 611
+Drake ||| 594
+Zé Neto & Cristiano ||| 532
+Wesley Safadão ||| 529
+Bruno Mars ||| 465
+Maroon 5 ||| 463
+Major Lazer ||| 430
+Calvin Harris ||| 429
+Imagine Dragons ||| 416
+Shakira ||| 398
+Miley Cyrus ||| 376
+Shawn Mendes ||| 370
+Clean Bandit ||| 355
+Sia ||| 355
+Madonna ||| 346
+DJ Khaled ||| 325
+Christina Aguilera ||| 320
+Alok ||| 296
+Lucas Lucco ||| 292
+Pabllo Vittar ||| 291
+Marina & the Diamonds ||| 275
+Martin Garrix ||| 267
+Ed Sheeran ||| 255
+Avril Lavigne ||| 252
+Carly Rae Jepsen ||| 252
+Dua Lipa ||| 251
+Little Mix ||| 247
+P!nk ||| 241
+## playcount: 40938

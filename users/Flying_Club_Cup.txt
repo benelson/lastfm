@@ -1,0 +1,51 @@
+Phoenix ||| 1074
+Coldplay ||| 870
+Tegan and Sara ||| 513
+Paté de Fuá ||| 505
+Hans Zimmer ||| 358
+Imagine Dragons ||| 352
+Miami Horror ||| 319
+The Strokes ||| 288
+Mumford & Sons ||| 279
+OneRepublic ||| 276
+Macklemore & Ryan Lewis ||| 238
+Gorillaz ||| 233
+Rammstein ||| 233
+Zomboy ||| 229
+Never Shout Never ||| 226
+P!nk ||| 225
+Sam Smith ||| 225
+Birdy ||| 224
+Paramore ||| 221
+Queen ||| 216
+One Direction ||| 214
+Vampire Weekend ||| 210
+Lights ||| 209
+Muse ||| 207
+Arctic Monkeys ||| 196
+Pink Floyd ||| 193
+Adele ||| 174
+Pegboard Nerds ||| 174
+The Shoes ||| 173
+Bon Jovi ||| 170
+Avicii ||| 167
+MGMT ||| 164
+Robbie Williams ||| 164
+David Guetta ||| 161
+Astro ||| 160
+Gary Moore ||| 151
+Bruno Mars ||| 146
+Justin Hurwitz ||| 145
+Bee Gees ||| 142
+Lana Del Rey ||| 138
+Beirut ||| 136
+Justice ||| 134
+Britney Spears ||| 133
+Zedd ||| 127
+Zoé ||| 127
+Telefunka ||| 126
+Maroon 5 ||| 123
+James Arthur ||| 121
+Radiohead ||| 121
+Calvin Harris ||| 120
+## playcount: 11830

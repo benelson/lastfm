@@ -1,0 +1,51 @@
+U2 ||| 259
+The Cure ||| 235
+Aerosmith ||| 134
+Mötley Crüe ||| 134
+Skid Row ||| 124
+Avenged Sevenfold ||| 115
+Good Charlotte ||| 113
+Trivium ||| 113
+Tokio Hotel ||| 108
+Bon Jovi ||| 101
+Guns N' Roses ||| 99
+Metallica ||| 76
+30 Seconds to Mars ||| 72
+Black Veil Brides ||| 72
+Kiss ||| 69
+Blood on the Dance Floor ||| 61
+Apocalyptica ||| 60
+Papa Roach ||| 54
+Theory of a Deadman ||| 54
+Van Halen ||| 51
+Iron Maiden ||| 50
+Asking Alexandria ||| 43
+blink-182 ||| 38
+摩天楼オペラ ||| 35
+Three Days Grace ||| 33
+Whitesnake ||| 33
+Kings of Leon ||| 32
+Taking Dawn ||| 32
+My Chemical Romance ||| 31
+Def Leppard ||| 29
+Poison ||| 29
+Sug ||| 29
+Atreyu ||| 27
+Destroy Rebuild Until God Shows ||| 27
+Skillet ||| 27
+Versailles ||| 26
+Kansas ||| 25
+Ozzy Osbourne ||| 25
+The Darkness ||| 25
+AC/DC ||| 24
+Green Day ||| 24
+Motionless in White ||| 23
+Zeromancer ||| 21
+Cradle of Filth ||| 20
+Five Finger Death Punch ||| 20
+Hardcore Superstar ||| 20
+The Devil Wears Prada ||| 20
+Get Scared ||| 19
+Tenacious D ||| 19
+We Came As Romans ||| 19
+## playcount: 2929

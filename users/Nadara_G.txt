@@ -1,0 +1,51 @@
+Morcheeba ||| 1165
+Mika ||| 375
+David Bowie ||| 364
+fun. ||| 335
+Stevie Wonder ||| 301
+Maroon 5 ||| 286
+Keane ||| 269
+Coldplay ||| 261
+Faber Drive ||| 235
+Newton Faulkner ||| 219
+Depeche Mode ||| 156
+Red Hot Chili Peppers ||| 156
+Whitney Houston ||| 144
+Thirteen Senses ||| 141
+Hedley ||| 139
+Air Supply ||| 131
+Adele ||| 130
+Daft Punk ||| 123
+Tina Turner ||| 112
+Colton Dixon ||| 101
+Archive ||| 91
+Bonobo ||| 91
+Creedence Clearwater Revival ||| 88
+Elton John ||| 87
+Massive Attack ||| 83
+Zемфира ||| 82
+Scorpions ||| 80
+U2 ||| 79
+Snow Patrol ||| 78
+Phillip Phillips ||| 76
+Blake Shelton ||| 69
+Nightwish ||| 66
+Nirvana ||| 66
+Bruno Mars ||| 61
+Michael Jackson ||| 61
+The Last Shadow Puppets ||| 60
+Sting ||| 59
+Kelly Clarkson ||| 58
+Iris ||| 53
+Green Day ||| 52
+George Michael ||| 50
+Eurythmics ||| 48
+Beyoncé ||| 47
+Jamiroquai ||| 45
+Jefferson Starship ||| 44
+Shakira ||| 44
+Take That ||| 44
+Imagine Dragons ||| 41
+Queen ||| 39
+Three Days Grace ||| 39
+## playcount: 7024

@@ -1,0 +1,51 @@
+Guns N' Roses ||| 1006
+AC/DC ||| 904
+Megadeth ||| 898
+Skid Row ||| 887
+Alice in Chains ||| 738
+Kiss ||| 664
+Aerosmith ||| 662
+Nirvana ||| 570
+Vixen ||| 513
+Oasis ||| 500
+Green Day ||| 422
+Warlock ||| 419
+Van Halen ||| 397
+Alice Cooper ||| 363
+Whitesnake ||| 337
+Noel Gallagher's High Flying Birds ||| 323
+Backstreet Boys ||| 320
+The Rolling Stones ||| 318
+UFO ||| 318
+Foo Fighters ||| 309
+Bon Jovi ||| 303
+Mötley Crüe ||| 265
+CPM 22 ||| 250
+Ramones ||| 249
+The Pretty Reckless ||| 243
+Deep Purple ||| 237
+U2 ||| 228
+Titãs ||| 197
+TNT ||| 179
+Michael Jackson ||| 169
+Pearl Jam ||| 163
+Avenged Sevenfold ||| 161
+Billie Holiday ||| 153
+Black Sabbath ||| 147
+Vespas Mandarinas ||| 127
+Capital Inicial ||| 122
+Thin Lizzy ||| 122
+Amy Winehouse ||| 118
+Led Zeppelin ||| 117
+Paul McCartney ||| 108
+Triumph ||| 104
+The Who ||| 98
+Twisted Sister ||| 84
+The Cult ||| 83
+Unisonic ||| 79
+Creed ||| 71
+The Jimi Hendrix Experience ||| 69
+Franz Ferdinand ||| 64
+Beady Eye ||| 62
+Foreigner ||| 61
+## playcount: 15301

@@ -1,0 +1,51 @@
+Metallica ||| 8103
+Black Sabbath ||| 7252
+Arctic Monkeys ||| 6838
+Queens of the Stone Age ||| 6642
+The Beatles ||| 3930
+Pink Floyd ||| 3073
+Interpol ||| 2826
+Iron Maiden ||| 2690
+Slayer ||| 2661
+Eminem ||| 2609
+Megadeth ||| 2608
+Gojira ||| 2210
+Lamb of God ||| 2189
+Led Zeppelin ||| 2017
+Septicflesh ||| 1859
+Faith No More ||| 1842
+Mastodon ||| 1814
+System of a Down ||| 1773
+Judas Priest ||| 1660
+The Doors ||| 1606
+Lana Del Rey ||| 1512
+Pain of Salvation ||| 1464
+Sepultura ||| 1431
+Alice in Chains ||| 1388
+Rammstein ||| 1357
+Deep Purple ||| 1323
+Kendrick Lamar ||| 1278
+Motörhead ||| 1211
+Pantera ||| 1119
+Radiohead ||| 999
+50 Cent ||| 968
+Kreator ||| 942
+Vader ||| 937
+Arcade Fire ||| 924
+AC/DC ||| 918
+Uriah Heep ||| 913
+Mumford & Sons ||| 812
+2Pac ||| 803
+The Black Keys ||| 798
+UFO ||| 766
+Editors ||| 764
+The Last Shadow Puppets ||| 757
+Dio ||| 754
+Red Hot Chili Peppers ||| 724
+Nas ||| 683
+The National ||| 680
+R.E.M. ||| 677
+Coldplay ||| 670
+The Game ||| 640
+Ozzy Osbourne ||| 636
+## playcount: 95050

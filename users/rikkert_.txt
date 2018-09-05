@@ -1,0 +1,51 @@
+The Verve ||| 30
+Henry Mancini ||| 28
+The Chiffons ||| 15
+Santo & Johnny ||| 13
+New Order ||| 12
+Wild Nothing ||| 12
+Lee Hazlewood ||| 10
+Shelley Fabares ||| 10
+Buffalo Springfield ||| 9
+Allah-Las ||| 8
+Burt Bacharach ||| 8
+La Luz ||| 7
+Frank Sinatra ||| 5
+Françoise Hardy ||| 5
+Joergen Ingmann ||| 5
+Marianne Faithfull ||| 5
+The Smiths ||| 5
+Cal Tjader ||| 4
+Carpenters ||| 4
+Manassas ||| 4
+Nancy Sinatra ||| 4
+Nat King Cole ||| 4
+Talk Talk ||| 4
+The Flying Burrito Brothers ||| 4
+The Monkees ||| 4
+Benny Goodman ||| 3
+Booker T. & the MG's ||| 3
+Django Reinhardt ||| 3
+Elvis Presley ||| 3
+Marvin Gaye & Tammi Terrell ||| 3
+Mazzy Star ||| 3
+Sérgio Mendes ||| 3
+The Byrds ||| 3
+The Waikiki's ||| 3
+Artie Shaw ||| 2
+Benito Di Paula ||| 2
+Billie Holiday ||| 2
+Carole King ||| 2
+Del Shannon ||| 2
+Dusty Springfield ||| 2
+Fleetwood Mac ||| 2
+Harry Nilsson ||| 2
+Herbie Mann ||| 2
+Jackie Mittoo ||| 2
+Norma Tanega ||| 2
+Real Estate ||| 2
+Sonny & Cher ||| 2
+Sun Ra ||| 2
+The Bob Crewe Generation Orchestra ||| 2
+The Crystals ||| 2
+## playcount: 278

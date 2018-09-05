@@ -1,0 +1,51 @@
+Journey ||| 637
+Frank Sinatra ||| 484
+Dire Straits ||| 436
+The Beach Boys ||| 396
+The Doobie Brothers ||| 302
+The Beatles ||| 294
+Chicago ||| 293
+Elvis Presley ||| 267
+Jackson Browne ||| 263
+The Moody Blues ||| 221
+Gordon Lightfoot ||| 210
+Van Morrison ||| 191
+Eddy Arnold ||| 187
+Dean Martin ||| 185
+Bruce Springsteen ||| 177
+George Harrison ||| 171
+Eagles ||| 169
+Neil Young ||| 162
+Blood, Sweat & Tears ||| 153
+Boston ||| 153
+Brian Wilson ||| 151
+Christopher Cross ||| 150
+Bob Seger ||| 149
+Deep Purple ||| 145
+Led Zeppelin ||| 145
+The Allman Brothers Band ||| 143
+Steely Dan ||| 141
+Billy Joel ||| 140
+Natalie Grant ||| 131
+Bee Gees ||| 130
+Simon & Garfunkel ||| 128
+Donald Fagen ||| 126
+Stevie Wonder ||| 125
+America ||| 123
+Grand Funk Railroad ||| 123
+Tony Bennett ||| 120
+Paul McCartney ||| 119
+Creedence Clearwater Revival ||| 117
+Phil Collins ||| 116
+Eric Clapton ||| 109
+Don Henley ||| 107
+Cream ||| 106
+Mark Knopfler ||| 106
+Bread ||| 104
+The Who ||| 97
+Olivia Newton-John ||| 96
+Crosby, Stills & Nash ||| 94
+Steve Perry ||| 94
+Paul Carrack ||| 93
+Diana Krall ||| 86
+## playcount: 8965

@@ -1,0 +1,51 @@
+Jamiroquai ||| 3638
+System of a Down ||| 1471
+John Mayer ||| 421
+Avenged Sevenfold ||| 396
+Marcelo D2 ||| 376
+Iron Maiden ||| 375
+Metallica ||| 332
+B.B. King ||| 245
+Janis Joplin ||| 226
+Jimi Hendrix ||| 178
+Emmerson Nogueira ||| 167
+B.B. King & Eric Clapton ||| 161
+Jack Johnson ||| 150
+Michael Bublé ||| 144
+The Jimi Hendrix Experience ||| 139
+Benny Goodman ||| 127
+Emicida ||| 124
+The Beatles ||| 123
+The Offspring ||| 123
+Jorge Vercillo ||| 115
+Jason Mraz ||| 104
+Guns N' Roses ||| 101
+Foo Fighters ||| 95
+Dire Straits ||| 88
+AC/DC ||| 82
+Queen ||| 75
+Lynyrd Skynyrd ||| 73
+Paramore ||| 71
+Van Halen ||| 71
+Eric Clapton ||| 66
+The Dave Brubeck Quartet ||| 64
+Bob Marley & The Wailers ||| 62
+Daft Punk ||| 62
+Planet Hemp ||| 61
+Coheed and Cambria ||| 59
+Black Label Society ||| 57
+Boston ||| 51
+Ozzy Osbourne ||| 49
+Ponto de Equilíbrio ||| 48
+Eagles ||| 47
+Pearl Jam ||| 44
+Mato Seco ||| 43
+Basshunter ||| 42
+Black Sabbath ||| 36
+Blues Traveler ||| 36
+Motörhead ||| 35
+Joe Satriani ||| 33
+Judas Priest ||| 33
+Creedence Clearwater Revival ||| 32
+Scorpions ||| 32
+## playcount: 10783

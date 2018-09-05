@@ -1,0 +1,51 @@
+Aleksandr Khodchenko ||| 26
+Moby Grape ||| 3
+The Beau Brummels ||| 3
+13th Floor Elevators ||| 2
+Brewer & Shipley ||| 2
+Howlin' Wolf ||| 2
+Johnny Kidd & The Pirates ||| 2
+Paul Revere & The Raiders ||| 2
+Peter & Gordon ||| 2
+Strawberry Alarm Clock ||| 2
+The Blues Magoos ||| 2
+The Creation ||| 2
+The Cryan' Shames ||| 2
+The Easybeats ||| 2
+The Fourmost ||| 2
+The Jimi Hendrix Experience ||| 2
+The Kinks ||| 2
+The Knickerbockers ||| 2
+The New Colony Six ||| 2
+The Rooftop Singers ||| 2
+The Seeds ||| 2
+The Sonics ||| 2
+The Spencer Davis Group ||| 2
+The Youngbloods ||| 2
+Wayne Fontana & The Mindbenders ||| 2
+Amen Corner ||| 1
+Billy J. Kramer & The Dakotas ||| 1
+Buffalo Springfield ||| 1
+Caravan ||| 1
+Chad & Jeremy ||| 1
+Chris Farlowe ||| 1
+Country Joe & The Fish ||| 1
+Cream ||| 1
+Del Shannon ||| 1
+Freddie & The Dreamers ||| 1
+Gary Lewis & The Playboys ||| 1
+generallBand ||| 1
+Gerry & The Pacemakers ||| 1
+Gong ||| 1
+Herman's Hermits ||| 1
+It's A Beautiful Day ||| 1
+Jackie DeShannon ||| 1
+Jethro Tull ||| 1
+Kaleidoscope ||| 1
+Lightnin' Hopkins ||| 1
+Lou Christie ||| 1
+Lou Reed ||| 1
+Manfred Mann ||| 1
+Marmalade ||| 1
+Paul McCartney ||| 1
+## playcount: 101

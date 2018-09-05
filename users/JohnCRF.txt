@@ -1,0 +1,51 @@
+Jack Johnson ||| 6597
+John Mayer ||| 2991
+Pearl Jam ||| 2562
+Mumford & Sons ||| 2138
+The Killers ||| 2091
+Rise Against ||| 1418
+Arctic Monkeys ||| 1417
+Sublime ||| 1406
+Radiohead ||| 1375
+Foster the People ||| 1262
+The Kooks ||| 1212
+Franz Ferdinand ||| 1190
+Portugal. The Man ||| 1176
+Linkin Park ||| 1001
+Coldplay ||| 988
+Engenheiros Do Hawaii ||| 955
+Foo Fighters ||| 941
+Band of Horses ||| 883
+Imagine Dragons ||| 803
+Limp Bizkit ||| 795
+OneRepublic ||| 788
+Muse ||| 722
+Red Hot Chili Peppers ||| 676
+David Bowie ||| 667
+Phillip Phillips ||| 656
+Oasis ||| 622
+Los Hermanos ||| 567
+blink-182 ||| 564
+Rage Against the Machine ||| 559
+Of Monsters and Men ||| 554
+The Shins ||| 511
+The John Butler Trio ||| 503
+The Strokes ||| 483
+The Neighbourhood ||| 410
+The Beatles ||| 317
+M83 ||| 302
+Queen ||| 301
+Cage the Elephant ||| 300
+Calvin Harris ||| 287
+Two Door Cinema Club ||| 264
+John Frusciante ||| 253
+Guns N' Roses ||| 234
+Young the Giant ||| 232
+The 1975 ||| 229
+Sublime with Rome ||| 218
+Skrillex ||| 212
+Creed ||| 211
+Nickelback ||| 206
+The Offspring ||| 203
+Macklemore & Ryan Lewis ||| 192
+## playcount: 45444

@@ -1,0 +1,51 @@
+Pig Destroyer ||| 1432
+King Crimson ||| 1365
+Alice in Chains ||| 1254
+Pearl Jam ||| 1250
+Pain of Salvation ||| 1159
+Nile ||| 1076
+The Mars Volta ||| 1052
+Mastodon ||| 1047
+Bob Dylan ||| 1015
+System of a Down ||| 958
+Down ||| 944
+Pantera ||| 927
+Radiohead ||| 870
+AC/DC ||| 831
+O Rappa ||| 826
+Nasum ||| 820
+Yeah Yeah Yeahs ||| 797
+ZZ Top ||| 795
+Deftones ||| 746
+Arctic Monkeys ||| 740
+Faith No More ||| 734
+Megadeth ||| 726
+Cream ||| 725
+Ratos De Porão ||| 692
+Queens of the Stone Age ||| 683
+Soundgarden ||| 680
+Motörhead ||| 679
+Devin Townsend ||| 645
+Tool ||| 635
+John Coltrane ||| 634
+A Perfect Circle ||| 624
+Raimundos ||| 621
+Racionais Mc's ||| 616
+Muse ||| 614
+Jimi Hendrix ||| 589
+Judas Priest ||| 574
+The Rolling Stones ||| 573
+Opeth ||| 569
+Metallica ||| 563
+Foo Fighters ||| 561
+Pink Floyd ||| 552
+Mercyful Fate ||| 546
+The Who ||| 537
+The Beatles ||| 536
+Slipknot ||| 533
+Nine Inch Nails ||| 529
+Lynyrd Skynyrd ||| 517
+Arcade Fire ||| 479
+Strapping Young Lad ||| 467
+Slayer ||| 466
+## playcount: 37803

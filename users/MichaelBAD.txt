@@ -1,0 +1,51 @@
+Blur ||| 2539
+Iron Maiden ||| 1465
+Metallica ||| 1402
+Michael Jackson ||| 1211
+Green Day ||| 1038
+Nirvana ||| 973
+Pearl Jam ||| 973
+The Beatles ||| 846
+Ice Cube ||| 802
+Yann Tiersen ||| 802
+Deep Purple ||| 759
+Norah Jones ||| 758
+Mogwai ||| 740
+Jay-Z ||| 737
+Daft Punk ||| 711
+Franz Ferdinand ||| 711
+Megadeth ||| 691
+The xx ||| 687
+LL Cool J ||| 665
+Dr. Dre ||| 653
+AC/DC ||| 626
+Public Enemy ||| 621
+Kanye West ||| 603
+Motörhead ||| 600
+Anthrax ||| 581
+DJ Shadow ||| 560
+Eagles ||| 546
+Slayer ||| 538
+Nas ||| 525
+The Notorious B.I.G. ||| 521
+Vampire Weekend ||| 517
+Quadro Nuevo ||| 505
+Wire ||| 469
+Belle and Sebastian ||| 461
+Nickelback ||| 461
+Led Zeppelin ||| 450
+The Doors ||| 449
+Judas Priest ||| 433
+張懸 ||| 432
+Foster the People ||| 428
+Taylor Swift ||| 413
+2Pac ||| 409
+Pink Floyd ||| 408
+Coldplay ||| 407
+Eminem ||| 405
+Oasis ||| 405
+Van Halen ||| 387
+Gary Numan ||| 365
+Joy Division ||| 354
+Gorillaz ||| 348
+## playcount: 33390

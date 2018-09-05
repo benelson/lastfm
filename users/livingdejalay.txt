@@ -1,0 +1,15 @@
+Foo Fighters ||| 373
+Red Hot Chili Peppers ||| 250
+Daft Punk ||| 195
+Tiësto ||| 60
+Adele ||| 52
+Arcade Fire ||| 46
+The Killers ||| 35
+U2 ||| 4
+Lullaby Renditions ||| 3
+Phoenix ||| 3
+Guns N' Roses ||| 1
+Jimi Hendrix ||| 1
+System of a Down ||| 1
+The Polyphonic Spree ||| 1
+## playcount: 1025

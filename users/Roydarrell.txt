@@ -1,0 +1,51 @@
+Pantera ||| 1478
+Megadeth ||| 1252
+Anthrax ||| 1171
+Metallica ||| 1115
+Dream Theater ||| 958
+Testament ||| 915
+Avenged Sevenfold ||| 575
+Slayer ||| 537
+Iron Maiden ||| 487
+Misfits ||| 336
+Black Sabbath ||| 329
+Evanescence ||| 305
+Hellyeah ||| 274
+Motörhead ||| 274
+Bullet for My Valentine ||| 260
+Rata Blanca ||| 250
+The Agonist ||| 194
+Foo Fighters ||| 169
+Him ||| 167
+System of a Down ||| 146
+Nirvana ||| 135
+Guns N' Roses ||| 132
+Velvet Revolver ||| 108
+The Strokes ||| 107
+Jimi Hendrix ||| 94
+As I Lay Dying ||| 90
+Slipknot ||| 85
+Judas Priest ||| 82
+Arch Enemy ||| 79
+Audioslave ||| 75
+Slash's Snakepit ||| 72
+Rammstein ||| 69
+Fresno ||| 63
+Kreator ||| 63
+DevilDriver ||| 57
+Green Day ||| 55
+Three Days Grace ||| 54
+Red Hot Chili Peppers ||| 51
+John Petrucci ||| 48
+blink-182 ||| 45
+Chancho En Piedra ||| 45
+All Shall Perish ||| 43
+Rage Against the Machine ||| 42
+Bring Me the Horizon ||| 41
+Bleeding Through ||| 39
+Carcass ||| 39
+Lenny Kravitz ||| 39
+Paramore ||| 38
+Red ||| 38
+Pinkly Smooth ||| 37
+## playcount: 13157

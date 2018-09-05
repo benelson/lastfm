@@ -1,0 +1,51 @@
+Arctic Monkeys ||| 587
+Metallica ||| 583
+Foo Fighters ||| 390
+The Strokes ||| 367
+The Libertines ||| 323
+Motörhead ||| 278
+Staind ||| 268
+Incubus ||| 265
+Led Zeppelin ||| 251
+Papa Roach ||| 217
+Sum 41 ||| 214
+A Day to Remember ||| 212
+Rise Against ||| 207
+Mastodon ||| 201
+Queens of the Stone Age ||| 191
+Linkin Park ||| 181
+Red Hot Chili Peppers ||| 179
+Slash ||| 163
+Alice in Chains ||| 161
+Stone Temple Pilots ||| 161
+The Black Keys ||| 156
+Oasis ||| 152
+Weezer ||| 151
+The Raconteurs ||| 145
+The Used ||| 139
+The Vines ||| 137
+New Found Glory ||| 133
+Mötley Crüe ||| 132
+Cage the Elephant ||| 127
+Jimmy Eat World ||| 124
+The All-American Rejects ||| 122
+The Killers ||| 119
+Iron Maiden ||| 113
+The White Stripes ||| 113
+Red Fang ||| 106
+Black Tide ||| 102
+Interpol ||| 100
+AC/DC ||| 98
+424 ||| 97
+Deftones ||| 95
+Green Day ||| 95
+The Hives ||| 95
+Blur ||| 92
+Slayer ||| 91
+Foster the People ||| 88
+My Chemical Romance ||| 88
+Seether ||| 87
+The Neighbourhood ||| 79
+Megadeth ||| 76
+Priestess ||| 73
+## playcount: 8724

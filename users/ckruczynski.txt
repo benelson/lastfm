@@ -1,0 +1,51 @@
+Bob Dylan ||| 2304
+Pink Floyd ||| 2302
+The Beatles ||| 1757
+Black Sabbath ||| 966
+Syd Barrett ||| 955
+The Rolling Stones ||| 936
+The Velvet Underground ||| 915
+The Doors ||| 894
+Tom Waits ||| 854
+Led Zeppelin ||| 739
+Om ||| 658
+Amon Düül II ||| 655
+The Zombies ||| 655
+The Flaming Lips ||| 646
+Mono ||| 571
+The Who ||| 560
+Jimi Hendrix ||| 530
+Todd Rundgren ||| 518
+The Smashing Pumpkins ||| 499
+Nirvana ||| 492
+King Crimson ||| 457
+David Bowie ||| 453
+Frank Sinatra ||| 447
+Fantômas ||| 434
+My Bloody Valentine ||| 413
+Boris ||| 391
+Lovage ||| 391
+Strawberry Alarm Clock ||| 362
+Slowdive ||| 350
+The Byrds ||| 339
+AC/DC ||| 327
+Françoise Hardy ||| 324
+The Jesus and Mary Chain ||| 323
+Cream ||| 300
+Johnny Cash ||| 298
+The Brian Jonestown Massacre ||| 293
+Jefferson Airplane ||| 291
+Kaleidoscope ||| 272
+Janis Joplin ||| 267
+Melvins ||| 258
+Nico ||| 245
+Captain Beefheart & His Magic Band ||| 240
+John Lennon ||| 232
+The Kinks ||| 225
+Joy Division ||| 220
+Slayer ||| 205
+Jackie-O Motherfucker ||| 191
+Electric Wizard ||| 189
+Motörhead ||| 183
+The Clash ||| 182
+## playcount: 27508

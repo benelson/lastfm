@@ -1,0 +1,51 @@
+The Beatles ||| 3693
+Steely Dan ||| 3272
+Frank Zappa ||| 3256
+The Rolling Stones ||| 1713
+David Bowie ||| 1297
+The Who ||| 1267
+Neil Young ||| 1228
+Beck ||| 1206
+Talking Heads ||| 1195
+Elvis Costello ||| 887
+Prince ||| 860
+Pink Floyd ||| 853
+Jeff Beck ||| 727
+Bob Dylan ||| 722
+The Kinks ||| 633
+Kraftwerk ||| 576
+Randy Newman ||| 575
+The Beach Boys ||| 566
+Elvis Costello & The Attractions ||| 547
+Brian Wilson ||| 525
+Tom Waits ||| 500
+The Police ||| 491
+Brian Eno ||| 490
+Marc Maron ||| 469
+The Band ||| 444
+Django Reinhardt ||| 438
+Spirit ||| 431
+Richard Cheese ||| 411
+Tenacious D ||| 411
+Miles Davis ||| 374
+James Brown ||| 366
+Kings of Leon ||| 347
+Neil Young & Crazy Horse ||| 341
+Donald Fagen ||| 334
+John Lennon ||| 315
+Henry Moskowitz ||| 300
+Bonzo Dog Doo-Dah Band ||| 296
+Devo ||| 288
+Sly & The Family Stone ||| 287
+Al Green ||| 285
+Stevie Wonder ||| 249
+Gundecha Brothers ||| 247
+The Jimi Hendrix Experience ||| 245
+The Bonzo Dog Band ||| 244
+Todd Rundgren ||| 237
+John Zorn ||| 235
+Meat Puppets ||| 229
+Funkadelic ||| 228
+Crosby, Stills, Nash & Young ||| 227
+Marvin Gaye ||| 225
+## playcount: 35582
